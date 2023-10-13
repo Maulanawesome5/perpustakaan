@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% load static %}
+{% load humanize %} <!-- untuk formatting data agar mudah dibaca manusia -->
+{% block contents %}
+<div class="container">
+    <h1 class="pb-3">Buku pilihan</h1>
+    <div class="row row-cols-3">
+        {% for book in books %}
+        <div class="col pb-2">
+            <div class="card" style="width: 18rem;">
+                <img
+                    src="{% static 'img' %}/{{book.sampul_buku}}"
+                    class="card-img-top"
+                    alt="..."
+                    style="width: 100%;">
+                <div class="card-body">
+                    <h5 class="card-title">{{book.judul_buku}}</h5>
+                    <p>Rp. {{book.harga|intcomma}}</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock contents %}
