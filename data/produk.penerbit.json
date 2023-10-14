@@ -1,0 +1,35 @@
+[
+{
+  "model": "produk.penerbit_buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11T04:48:15.668Z",
+    "updated": "2023-09-11T04:48:15.668Z",
+    "slug": "pt-gramedia-pustaka-utama",
+    "penerbit": "GRAMEDIA",
+    "instansi": "PT Gramedia Pustaka Utama"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11T04:48:50.894Z",
+    "updated": "2023-10-13T23:03:32.561Z",
+    "slug": "penerbit-informatika",
+    "penerbit": "INFORMATIKA",
+    "instansi": "Penerbit Informatika"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-10-13T23:05:50.874Z",
+    "updated": "2023-10-13T23:05:50.874Z",
+    "slug": "pt-elex-media-komputindo",
+    "penerbit": "ELEX MEDIA KOMPUTINDO",
+    "instansi": "PT. Elex Media Komputindo"
+  }
+}
+]

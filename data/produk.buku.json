@@ -1,0 +1,104 @@
+[
+{
+  "model": "produk.buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11T04:55:04.296Z",
+    "updated": "2023-10-13T22:25:44.772Z",
+    "slug": "smart-trader-rich-investor",
+    "judul_buku": "Smart Trader Rich Investor",
+    "penulis": 1,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Smart Trader Rich Investor berisi enam bab yang membahas tentang panduan sukses investasi saham bagi pemula. Pada bab pertama, penulis menjabarkan alasan untuk melakukan investasi, hal-hal penting dari berinvestasi, investasi dengan imbal hasil yang tinggi, dan juga kisah Ellen May, penulis buku ini, dalam investasi. Buku ini mengajarkan pembaca tentang pentingnya investasi. Buku ini direkomendasikan untuk dibaca pemula yang ingin terjun ke dunia investasi saham.\r\n\r\nSinopsis Buku\r\n\r\nBanyak orang menyebut istilah “bermain saham”, padahal sama seperti bisnis lainnya, istilah yang tepat adalah “berbisnis saham”. Layaknya sebuah bisnis, Anda harus bertindak tepat dalam setiap langkah.\r\n\r\nPasar saham adalah instrumen bisnis trading jangka pendek dan investasi jangka panjang yang memberikan potensi keuntungan luar biasa. Sayangnya, banyak orang belum menikmatinya karena takut dan belum mengerti bagaimana memulainya.\r\n\r\nPakar saham Ellen May, yang sukses dengan buku best seller Smart Traders Not Gamblers, menjelaskan setiap langkah yang harus dipilih para pemula yang ingin berbisnis saham.\r\n\r\nBuku ini memaparkan secara mendetail:\r\n• cara memulai trading ataupun berinvestasi saham,\r\n• cara memilih strategi dari trading jangka pendek atau investasi jangka panjang,\r\n• modal yang dibutuhkan dan bagaimana jika hanya punya modal minim,\r\n• kemungkinan memenuhi kebutuhan hidup hanya dengan berbisnis saham,\r\n• cara meminimalkan risiko dan memaksimalkan keuntungan,\r\n• dan berbagai hal penting lain yang diperlukan seorang pemula untuk mulai melangkah berbisnis saham.\r\n\r\nJika Anda ingin memulai berkecimpung dalam dunia saham, buku ini adalah panduan yang tepat untuk menuntun Anda menjadi trader dan investor yang berhasil.",
+    "sampul_buku": "9786020324951_Smart-Trader-Rich-Investor-Cover-Baru.jpg",
+    "thumbnail_sampul": "ID_GPU2017MTH11STRIB_S.jpg",
+    "harga": 97900
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11T04:57:38.396Z",
+    "updated": "2023-10-13T22:24:51.818Z",
+    "slug": "smart-trader-not-gamblers",
+    "judul_buku": "Smart Trader Not Gamblers",
+    "penulis": 1,
+    "penerbit": 1,
+    "tahun": 2018,
+    "deskripsi": "Buku Smart Traders Not Gamblers merupakan karya Ellen May. Ia adalah seorang trader dan investor sukses yang sudah berpengalaman sejak tahun 2007. Ellen survive melewati krisis hebat tahun 2008 bahkan menghasilkan keuntungan besar sejak krisis tersebut. Ellen May dikenal sebagai pakar saham Indonesia.\r\n\r\nSinopsis buku\r\n\r\nOpini masyarakat bahwa trading saham merupakan perjudian terbentuk karena adanya faktor spekulasi yang tinggi, tingkat keberhasilan yang kecil, dan risiko tinggi yang mengikuti keuntungan yang besar. Buku ini ditulis untuk menjawab pertanyaan seperti, “Bagaimana caranya menjadi seorang trader sejati?” Temukan mind map dan kemampuan dasar apa saja yang diperlukan untuk menjadi pemain saham pemula, agar tidak jatuh dalam kerugian.\r\n\r\nBuku ini ditulis oleh Ellen May ditujukan untuk level menengah. Melalui buku ini, Anda akan belajar tentang psikologi trading sehingga keputusan beli jual saham dapat dilakukan dengan benar. Harapannya adalah setelah membaca buku ini, Anda tidak lagi membeli atau menjual saham berdasarkan feeling.\r\n\r\n“Saya sudah membaca ratusan buku trading, dan buku ini adalah salah satu yang terbaik dan sangat saya rekomendasikan. Penulisnya membuat konsep psikologi trading menjadi sederhana dan pembahasan ide-ide baru serta pendekatan yang dipaparkannya dapat menjadi terobosan bagi Anda untuk menjadi seorang GREAT TRADER!” - Soeratman Doerachman (Eyang Ratman), Trader dan investor profesional, Founder mailing list junior-Trader U-C/ub)",
+    "sampul_buku": "9789792274646_Smart-Traders-Not-GamblersCD-Cover-Baru.jpg",
+    "thumbnail_sampul": "ID_STNG2018MTH09STNG.jpg",
+    "harga": 98000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-09-11T05:02:14.024Z",
+    "updated": "2023-10-13T22:28:07.714Z",
+    "slug": "basis-data-edisi-revisi-ketiga",
+    "judul_buku": "Basis Data Edisi Revisi Ketiga",
+    "penulis": 2,
+    "penerbit": 2,
+    "tahun": 2018,
+    "deskripsi": "Buku ini merupakan revisi dalam rangka penyesuaian dengan situasi terkini, setelah sekian tahun lamanya rencana revisi itu tertunda. Revisi ini sekaligus juga terbentuk penggabungan dari 2 buku sebelumnya, yaitu basis data dan sistem basis data.\r\n\r\nBuku ini mencoba memfokuskan pada tiga hal, yaitu: basis data, model data dan bagaimana membuat model data yang baik. Dalam berbagai pembahasan, niscaya kita akan melihat perancangan basis data yang baik juga senantiasa mempertimbangkan prosedur (aturan-aturan) yang berlaku di dalam sistem. Karena itu, pembahasan tentang contoh-contoh aturan yang berlaku di lapangan yang terefleksikan dalam perancangan juga banyak mewarnai isi buku ini. Sejumlah aspek lain yang relevan., seperti DBMS, aplikasi basis data dan perkembangan teknologi terbaru, juga turut dibahas.\r\n\r\nBuku ini memang lebih ditujukan untuk membantu para mahasiswa, apapun program studinya, yang tengah mempelajari mata kuliah basis data yang lebih menekankan pada aspek perancangan basis data. Karena itu, berbagai contoh yang disajikan dalam buku ini juga diambil dari fakta yang dekat dengan dunia kemahasiswaan.\r\n\r\nKendati demikian, buku ini sesungguhnya juga terbuka dan bermanfaat bagi siapa saja yang memerlukan penguasaan pada aspek-aspek dasar ke-basis data-an.",
+    "sampul_buku": "9786026232663_Basis-Data-Ed.jpg",
+    "thumbnail_sampul": "9786026232663_Basis-Data-Ed__w149_hauto.jpg",
+    "harga": 120000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 4,
+  "fields": {
+    "created": "2023-10-13T20:23:28.840Z",
+    "updated": "2023-10-13T22:21:40.307Z",
+    "slug": "machine-learning-tingkat-dasar-dan-lanjut-edisi-2",
+    "judul_buku": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "penulis": 3,
+    "penerbit": 2,
+    "tahun": 2020,
+    "deskripsi": "Lorem ipsum dolor sit amet nuwun sewu",
+    "sampul_buku": "hq3bujta45prdjdcjbgng9.jpg",
+    "thumbnail_sampul": "hq3bujta45prdjdcjbgng9__w149_hauto.jpg",
+    "harga": 144500
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 5,
+  "fields": {
+    "created": "2023-10-13T22:49:07.480Z",
+    "updated": "2023-10-13T22:57:16.071Z",
+    "slug": "analisis-dan-desain-perangkat-lunak",
+    "judul_buku": "Analisis dan Desain Perangkat Lunak",
+    "penulis": 4,
+    "penerbit": 2,
+    "tahun": 2022,
+    "deskripsi": "Pada buku ANALISIS DAN DESAIN PERANGKAT LUNAK ini akan membahas tentang analisis dan desain sistem dengan disertai suatu studi kasus untuk memudahkan dalam pemahaman. Analisis dan desain sistem itu dimulai dengan analisis dan desain basis data, analisis dan desain sistem untuk pemrograman terstruktur dengan menggunakan DFD, dan analisis dan desain sistem untuk pemrograman berorientasi objek dengan menggunakan UML, dan contoh-contoh rich picture untuk rekayasa dengan metode Agile.\r\nSetelah membaca studi kasus tersebut, pembaca diharapkan dapat memahami bagaimana melakukan analisis dan desain sistem untuk pemrograman terstruktur, pemrograman berorientasi objek, maupun metode Agile. Untuk menghasilkan analisis dan desain perangkat lunak yang baik, seorang analis seharusnya memahami konsep pemrograman. Tanpa pemahaman konsep pemrograman yang baik, analis tidak mungkin menghasilkan perancangan perangkat lunak yang baik. Pada buku ini juga dijelaskan mengenai tahapan-tahapan yang harus dilalui dalam rekayasa perangkat lunak serta penjelasan secara umum tentang manajemen proyek perangkat lunak.\r\nBahasan Buku ;\r\n* Analisis Dan Desain Sistem\r\n* Software Development Life Cycle ( SDLC )\r\n* Basis Data\r\n* Rekayasa Perangkat Lunak Untuk Pemrograman Terstruktur\r\n* Pemrograman Berorientasi Objek\r\n* Analisis Data Dan Desain Berorientasi Objek\r\n* Pemodelan Dan UML\r\n* Studi Kasus UML\r\n* Perancangan Pola Berorientasi Objek\r\n* Rekayasa Perangkat Lunak Dengan Metodologi Agile\r\n* Manajemen Proyek Perangkat Lunak\r\nSegera dapatkan buku berjudul ANALISIS DAN DESAIN PERANGKAT LUNAK karya Rosa A.S hanya di toko buku",
+    "sampul_buku": "445a8f3f0a24f6740ce096822c486efc.jpeg",
+    "thumbnail_sampul": "Analisis_Dan_Desain_Perangkat_Lunak__w149_hauto.jpg",
+    "harga": 102000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 6,
+  "fields": {
+    "created": "2023-10-13T23:10:43.983Z",
+    "updated": "2023-10-13T23:47:13.472Z",
+    "slug": "jujutsu-kaisen-11",
+    "judul_buku": "Jujutsu Kaisen 11",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Di antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nJujutsu Kaisen adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Ini telah diserialkan di majalah manga shonen Shueisha Weekly Shonen Jump sejak Maret 2018, dengan bab-babnya dikumpulkan dan diterbitkan dalam 20 volume tankobon per Agustus 2022. Ceritanya mengikuti siswa sekolah menengah Yuji Itadori saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk menghilangkan Kutukan yang kuat bernama Ryomen Sukuna, di mana Yuji menjadi inangnya. Jujutsu Kaisen adalah sekuel dari Sekolah Teknik Kutukan Metropolitan Tokyo Akutami, yang diserialkan di Jump GIGA Shueisha dari April hingga Juli 2017, kemudian dikumpulkan dalam volume tankobon, dengan judul retroaktif sebagai Jujutsu Kaisen 0, pada Desember 2018.\r\n\r\nSinopsis Buku:\r\nPeron bawah tanah Stasiun Shibuya dipenuhi warga sipil dan manusia yang telah dimodifikasi. Dalam situasi mengerikan tanpa jalan keluar, Gojo masih memegang kendali atas para Jurei. Akan tetapi, kuasa untuk menyegel Gojo ada di tangan musuh...!! Sementara itu, ketika Itadori bergegas menuju peron bawah tanah, muncul sekutu yang tak terduga!?",
+    "sampul_buku": "eqabs5dgzrpwkp7trvqajz.jpg",
+    "thumbnail_sampul": "eqabs5dgzrpwkp7trvqajz__w149_hauto.jpg",
+    "harga": 32500
+  }
+}
+]

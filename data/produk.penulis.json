@@ -1,0 +1,62 @@
+[
+{
+  "model": "produk.penulis_buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11T04:43:58.333Z",
+    "updated": "2023-09-11T04:43:58.333Z",
+    "slug": "ellen-may",
+    "nama_penulis": "Ellen May",
+    "nama": "",
+    "tentang_penulis": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11T04:44:33.627Z",
+    "updated": "2023-09-11T04:44:33.627Z",
+    "slug": "fathansyah",
+    "nama_penulis": "Fathansyah",
+    "nama": "",
+    "tentang_penulis": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-09-11T04:45:35.023Z",
+    "updated": "2023-10-13T20:49:35.409Z",
+    "slug": "suyanto",
+    "nama_penulis": "Suyanto",
+    "nama": "Prof. Dr. Suyanto, S.T., M.Sc.",
+    "tentang_penulis": "Lorem ipsum dolor sit amet nuwun sewu"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 4,
+  "fields": {
+    "created": "2023-09-11T04:50:06.170Z",
+    "updated": "2023-09-11T04:50:06.170Z",
+    "slug": "rosa-ariani-sukamto",
+    "nama_penulis": "Rosa Ariani Sukamto",
+    "nama": "",
+    "tentang_penulis": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 5,
+  "fields": {
+    "created": "2023-10-13T23:01:09.067Z",
+    "updated": "2023-10-13T23:01:09.067Z",
+    "slug": "gege-akutami",
+    "nama_penulis": "Gege Akutami",
+    "nama": "Gege Akutami",
+    "tentang_penulis": ""
+  }
+}
+]
