@@ -38,7 +38,7 @@
   "pk": 3,
   "fields": {
     "created": "2023-09-11T05:02:14.024Z",
-    "updated": "2023-10-13T22:28:07.714Z",
+    "updated": "2023-10-22T18:20:38.499Z",
     "slug": "basis-data-edisi-revisi-ketiga",
     "judul_buku": "Basis Data Edisi Revisi Ketiga",
     "penulis": 2,
@@ -55,16 +55,16 @@
   "pk": 4,
   "fields": {
     "created": "2023-10-13T20:23:28.840Z",
-    "updated": "2023-10-13T22:21:40.307Z",
+    "updated": "2023-10-22T19:06:02.067Z",
     "slug": "machine-learning-tingkat-dasar-dan-lanjut-edisi-2",
     "judul_buku": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
     "penulis": 3,
     "penerbit": 2,
     "tahun": 2020,
-    "deskripsi": "Lorem ipsum dolor sit amet nuwun sewu",
+    "deskripsi": "Perusahaan-perusahaan raksasa berbasis IT telah menunjukkan berbagai kesuksesan dalam penggunaan artificial intelligence, khususnya machine learning. Kesuksesan mereka tentu saja tidak instan dalam sekejap. Mereka telah bertahun-tahun membangun sistem itu menggunakan berbagai teknik machine learning, mulai dari tingkat dasar yang simpel, lalu secara terus menerus dikembangkan, hingga saat ini telah menggunakan teknik machine learning tingkat lanjut, khususnya deep learning, yang memberikan performansi tinggi.\r\n\r\nBuku ini memberi Anda gambaran holistik dan simpel mengenai konsep dasar machine learning, teknik-teknik dan metode-metode tingkat dasar dan tingkat lanjut, serta aplikasinya dalam berbagai bidang terkini. Pembahasan dimulai dari konsep dasar paling sederhana hingga yang kompleks dengan gradasi yang lembut. Setiap teknik dan metode dibahas dari ide dasar, motivasi, visualisasi, formulasi matematis, hingga contoh aplikasinya.\r\n\r\nPada setiap teknik learning dibahas sejumlah metode beserta variansinya. Selain itu, buku ini akan memandu Anda memahami beragam masalah, dari yang simpel hingga rumit, dengan berbagai karakteristik berbeda. Dengan demikian, Anda akan terlatih untuk memahami masalah secara benar dan mampu mendesain sistem berbasis machine learning yang akurat untuk masalah yang Anda hadapi.",
     "sampul_buku": "hq3bujta45prdjdcjbgng9.jpg",
     "thumbnail_sampul": "hq3bujta45prdjdcjbgng9__w149_hauto.jpg",
-    "harga": 144500
+    "harga": 170000
   }
 },
 {
@@ -72,16 +72,16 @@
   "pk": 5,
   "fields": {
     "created": "2023-10-13T22:49:07.480Z",
-    "updated": "2023-10-13T22:57:16.071Z",
+    "updated": "2023-10-22T18:19:30.869Z",
     "slug": "analisis-dan-desain-perangkat-lunak",
     "judul_buku": "Analisis dan Desain Perangkat Lunak",
     "penulis": 4,
     "penerbit": 2,
     "tahun": 2022,
-    "deskripsi": "Pada buku ANALISIS DAN DESAIN PERANGKAT LUNAK ini akan membahas tentang analisis dan desain sistem dengan disertai suatu studi kasus untuk memudahkan dalam pemahaman. Analisis dan desain sistem itu dimulai dengan analisis dan desain basis data, analisis dan desain sistem untuk pemrograman terstruktur dengan menggunakan DFD, dan analisis dan desain sistem untuk pemrograman berorientasi objek dengan menggunakan UML, dan contoh-contoh rich picture untuk rekayasa dengan metode Agile.\r\nSetelah membaca studi kasus tersebut, pembaca diharapkan dapat memahami bagaimana melakukan analisis dan desain sistem untuk pemrograman terstruktur, pemrograman berorientasi objek, maupun metode Agile. Untuk menghasilkan analisis dan desain perangkat lunak yang baik, seorang analis seharusnya memahami konsep pemrograman. Tanpa pemahaman konsep pemrograman yang baik, analis tidak mungkin menghasilkan perancangan perangkat lunak yang baik. Pada buku ini juga dijelaskan mengenai tahapan-tahapan yang harus dilalui dalam rekayasa perangkat lunak serta penjelasan secara umum tentang manajemen proyek perangkat lunak.\r\nBahasan Buku ;\r\n* Analisis Dan Desain Sistem\r\n* Software Development Life Cycle ( SDLC )\r\n* Basis Data\r\n* Rekayasa Perangkat Lunak Untuk Pemrograman Terstruktur\r\n* Pemrograman Berorientasi Objek\r\n* Analisis Data Dan Desain Berorientasi Objek\r\n* Pemodelan Dan UML\r\n* Studi Kasus UML\r\n* Perancangan Pola Berorientasi Objek\r\n* Rekayasa Perangkat Lunak Dengan Metodologi Agile\r\n* Manajemen Proyek Perangkat Lunak\r\nSegera dapatkan buku berjudul ANALISIS DAN DESAIN PERANGKAT LUNAK karya Rosa A.S hanya di toko buku",
+    "deskripsi": "Pada buku ANALISIS DAN DESAIN PERANGKAT LUNAK ini akan membahas tentang analisis dan desain sistem dengan disertai suatu studi kasus untuk memudahkan dalam pemahaman. Analisis dan desain sistem itu dimulai dengan analisis dan desain basis data, analisis dan desain sistem untuk pemrograman terstruktur dengan menggunakan DFD, dan analisis dan desain sistem untuk pemrograman berorientasi objek dengan menggunakan UML, dan contoh-contoh rich picture untuk rekayasa dengan metode Agile.\r\n\r\nSetelah membaca studi kasus tersebut, pembaca diharapkan dapat memahami bagaimana melakukan analisis dan desain sistem untuk pemrograman terstruktur, pemrograman berorientasi objek, maupun metode Agile. Untuk menghasilkan analisis dan desain perangkat lunak yang baik, seorang analis seharusnya memahami konsep pemrograman. Tanpa pemahaman konsep pemrograman yang baik, analis tidak mungkin menghasilkan perancangan perangkat lunak yang baik. Pada buku ini juga dijelaskan mengenai tahapan-tahapan yang harus dilalui dalam rekayasa perangkat lunak serta penjelasan secara umum tentang manajemen proyek perangkat lunak.\r\n\r\nBahasan Buku :\r\n* Analisis Dan Desain Sistem\r\n* Software Development Life Cycle ( SDLC )\r\n* Basis Data\r\n* Rekayasa Perangkat Lunak Untuk Pemrograman Terstruktur\r\n* Pemrograman Berorientasi Objek\r\n* Analisis Data Dan Desain Berorientasi Objek\r\n* Pemodelan Dan UML\r\n* Studi Kasus UML\r\n* Perancangan Pola Berorientasi Objek\r\n* Rekayasa Perangkat Lunak Dengan Metodologi Agile\r\n* Manajemen Proyek Perangkat Lunak\r\n\r\nSegera dapatkan buku berjudul ANALISIS DAN DESAIN PERANGKAT LUNAK karya Rosa A.S hanya di toko buku",
     "sampul_buku": "445a8f3f0a24f6740ce096822c486efc.jpeg",
     "thumbnail_sampul": "Analisis_Dan_Desain_Perangkat_Lunak__w149_hauto.jpg",
-    "harga": 102000
+    "harga": 120000
   }
 },
 {
