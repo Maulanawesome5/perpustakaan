@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Buku
+from .models import Buku, Penulis_Buku
 
 # Create your views here.
 def index(request):
@@ -19,3 +19,12 @@ def detail(request, inputSlug):
         'website': 'Perpustakaan'
     }
     return render(request, 'produk/detail.html', context)
+
+# def profilPenulis(request, id):
+#     penulis = Penulis_Buku.objects.get(penulis_id=id)
+#     context = {
+#         'halaman': 'Profil Penulis',
+#         'profiles': penulis,
+#         'website': 'Perpustakaan'
+#     }
+#     return render(request, 'produk/penulis.html', context)
