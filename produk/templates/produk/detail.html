@@ -3,5 +3,30 @@
 {% load humanize %}
 
 {% block contents %}
-<h1>Ini halaman detail buku</h1>
+
+<div class="container">
+    <p><a href="{% url 'produk:index' %}">Kembali</a></p>
+    <div class="row">
+        <div class="col">
+            <img src="{% static 'img' %}/{{books.sampul_buku}}"
+            alt="{{books.sampul_buku}}"
+            style="width: 50%;">
+            <div class="row pt-5">
+                <h3 class="pb-3">Rp. {{books.harga|intcomma}}</h3>
+                <span>
+                    <a href="#" class="btn btn-primary">Tambah Keranjang</a>
+                    <a href="#" class="btn btn-primary">Tambah Wishlist</a>
+                </span>
+            </div>
+        </div>
+        <div class="col" style="padding-left: 0; padding-right: auto;">
+            <h1>{{books.judul_buku}}</h1>
+            <p>Penulis: <a href="#" style="text-decoration: none;">{{books.penulis}}</a></p>
+            <p>Penerbit: <a href="#" style="text-decoration: none;">{{books.penerbit}}</a></p>
+            <p>Tahun: {{books.tahun}}</p>
+            <p style="text-align: justify;">{{books.deskripsi}}</p>
+        </div>
+    </div>
+</div>
+
 {% endblock contents %}
