@@ -2,5 +2,11 @@
 {% load static %}
 
 {% block contents %}
-<h1>Halaman detail penulis buku</h1>
+
+{% for writer in penulis %}
+<h1>{{writer.nama_penulis}}</h1>
+<p>{{writer.nama}}</p>
+<p>{{writer.tentang_penulis}}</p>
+{% endfor %}
+
 {% endblock contents %}
