@@ -9,6 +9,19 @@ def index(request):
         'halaman': 'Produk',
         'website': 'Perpustakaan'
     }
+
+    """
+    # cara akses data dari queryset
+    if request.method == "GET":
+        print("\n")
+        print("Debugging Log")
+        print(buku[0].judul_buku)
+        print(buku[0].harga)
+        print(buku[0].penulis)
+        print(buku[0].penerbit)
+        print("\n")
+    """
+
     return render(request, 'produk/index.html', context)
 
 def detail(request, inputSlug):
@@ -20,11 +33,14 @@ def detail(request, inputSlug):
     }
     return render(request, 'produk/detail.html', context)
 
-# def profilPenulis(request, id):
-#     penulis = Penulis_Buku.objects.get(penulis_id=id)
-#     context = {
-#         'halaman': 'Profil Penulis',
-#         'profiles': penulis,
-#         'website': 'Perpustakaan'
-#     }
-#     return render(request, 'produk/penulis.html', context)
+def profilPenulis(request, id):
+    """
+    Masih gagal diakses
+    """
+    penulis = Penulis_Buku.objects.get(penulis_id=id)
+    context = {
+        'halaman': 'Profil Penulis',
+        'profiles': penulis,
+        'website': 'Perpustakaan'
+    }
+    return render(request, 'produk/penulis.html', context)
