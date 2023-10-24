@@ -55,7 +55,7 @@
   "pk": 4,
   "fields": {
     "created": "2023-10-13T20:23:28.840Z",
-    "updated": "2023-10-22T19:06:02.067Z",
+    "updated": "2023-10-24T13:11:13.521Z",
     "slug": "machine-learning-tingkat-dasar-dan-lanjut-edisi-2",
     "judul_buku": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
     "penulis": 3,
@@ -72,7 +72,7 @@
   "pk": 5,
   "fields": {
     "created": "2023-10-13T22:49:07.480Z",
-    "updated": "2023-10-22T18:19:30.869Z",
+    "updated": "2023-10-22T20:39:30.729Z",
     "slug": "analisis-dan-desain-perangkat-lunak",
     "judul_buku": "Analisis dan Desain Perangkat Lunak",
     "penulis": 4,
@@ -99,6 +99,40 @@
     "sampul_buku": "eqabs5dgzrpwkp7trvqajz.jpg",
     "thumbnail_sampul": "eqabs5dgzrpwkp7trvqajz__w149_hauto.jpg",
     "harga": 32500
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 7,
+  "fields": {
+    "created": "2023-10-24T14:16:43.363Z",
+    "updated": "2023-10-24T14:16:43.363Z",
+    "slug": "data-mining-dan-machine-learning-menggunakan-matlab-dan-python",
+    "judul_buku": "Data Mining Dan Machine Learning Menggunakan Matlab Dan Python",
+    "penulis": 6,
+    "penerbit": 2,
+    "tahun": 2020,
+    "deskripsi": "DATA MINING DAN MACHINE LEARNING MENGGUNAKAN MATLAB DAN PYTHON",
+    "sampul_buku": "9786237131328.jpg",
+    "thumbnail_sampul": "9786237131328.jpg",
+    "harga": 72250
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 8,
+  "fields": {
+    "created": "2023-10-24T14:18:55.472Z",
+    "updated": "2023-10-24T14:18:55.473Z",
+    "slug": "jujutsu-kaisen-06",
+    "judul_buku": "Jujutsu Kaisen 06",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Jujutsu Kaisen adalah manga Jepang yang ditulis dan diilustrasikan sendiri oleh Gege Akutami. Jujutsu Kaisen dirilis pertama kali pada bulan Maret 2018 ini menceritakan tentang siswa sekolah menengah, Yuji Itadori, saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk membunuh Kutukan kuat bernama Ryomen Sukuna, yang menjadikan Yuji sebagai tuan rumah. Karena sifat jahat Sukuna, semua penyihir diharuskan untuk mengusirnya segera–dalam hal ini, termasuk memburu Yuji Itadori. Tapi setelah melihat Yuji mempertahankan kendali atas tubuhnya, guru Megumi–Satoru Gojo membawanya ke Sekolah Tinggi Jujutsu Prefektur Tokyo dengan proposal kepada atasannya: tunda hukuman mati Yuji dan berlatih di bawah Gojo sampai dia menghabiskan semua jari Sukuna sehingga Kutukan bisa hancur total.\r\n\r\nSetelah program pertukaran dengan Akademi Jujutsu Kyoto dimulai. Pihak yang duluan menyingkirkan jurei tingkat 2 di area pertandinganlah yang akan jadi pemenangnya. Todo yang gemar berkelahi segera menyerang pihak Tokyo! Saat Todo dan Itadori saling berhadapan, anak-anak Kyoto yang lain ikut mengepung Itadori dengan niat untuk membunuhnya. Rencana tim Kyoto untuk membunuh Itadori berjalan sesuai harapan dengan memanfaatkan program pertukaran. Di sisi lain, Jurei dan Jusoshi yang dipimpin Mahito menyusup masuk ke tempat berlangsungnya acara. Para guru pun bergegas pergi untuk menyelamatkan murid-murid, tapi mereka terhalang oleh Tobari! Sementara itu, Inumaki dan Fushiguro diserang Jurei tingkat tinggi bernama Hanami. Apakah mereka berhasil keluar dari krisis itu!?\r\n\r\nJudul: Jujutsu Kaisen 06\r\nCerita : Gege Akutami\r\nTebal: 200 Halaman\r\nFormat: Soft Cover\r\nTanggal Terbit: April 2022",
+    "sampul_buku": "Jujutsukaisen_6.jpg",
+    "thumbnail_sampul": "Jujutsukaisen_6.jpg",
+    "harga": 34000
   }
 }
 ]

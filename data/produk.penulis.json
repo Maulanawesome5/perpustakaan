@@ -58,5 +58,17 @@
     "nama": "Gege Akutami",
     "tentang_penulis": ""
   }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 6,
+  "fields": {
+    "created": "2023-10-24T14:14:24.920Z",
+    "updated": "2023-10-24T14:14:24.920Z",
+    "slug": "rahmadya-trias-handayanto",
+    "nama_penulis": "Rahmadya Trias Handayanto",
+    "nama": "Rahmadya Trias Handayanto",
+    "tentang_penulis": "Lorem ipsum dolor sit amet"
+  }
 }
 ]
