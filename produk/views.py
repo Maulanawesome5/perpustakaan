@@ -10,18 +10,6 @@ def index(request):
         'website': 'Perpustakaan'
     }
 
-    """
-    # cara akses data dari queryset
-    if request.method == "GET":
-        print("\n")
-        print("Debugging Log")
-        print(buku[0].judul_buku)
-        print(buku[0].harga)
-        print(buku[0].penulis)
-        print(buku[0].penerbit)
-        print("\n")
-    """
-
     return render(request, 'produk/index.html', context)
 
 def detail(request, inputSlug):
@@ -31,6 +19,19 @@ def detail(request, inputSlug):
         'halaman': 'Detail Buku',
         'website': 'Perpustakaan'
     }
+    if request.method == "GET":
+        print("\n")
+        print(f"""Debugging Mode
+        \rJudul Buku   = {context['books'].judul_buku}
+        \rPK Penulis   = {context['books'].penulis_id}
+        \rPenulis      = {context['books'].penulis}
+        \rURL Penulis  = {context['books'].penulis.slug}
+        \rPK Penerbit  = {context['books'].penerbit_id}
+        \rPenerbit     = {context['books'].penerbit}
+        \rURL Penerbit = {context['books'].penerbit.slug}
+        \rHarga        = {context['books'].harga}
+        \rSlug         = {context['books'].slug}
+    """)
     return render(request, 'produk/detail.html', context)
 
 def penulis(request):
@@ -40,20 +41,4 @@ def penulis(request):
         'halaman': 'Profil Penulis',
         'website': 'Perpustakaan'
     }
-    if request.method == "GET":
-        print("\n")
-        print(penulis_buku)
-        print("\n")
     return render(request, 'produk/penulis.html', context)
-
-# def profilPenulis(request, id):
-#     """
-#     Masih gagal diakses
-#     """
-#     penulis = Penulis_Buku.objects.get(penulis_id=id)
-#     context = {
-#         'halaman': 'Profil Penulis',
-#         'profiles': penulis,
-#         'website': 'Perpustakaan'
-#     }
-#     return render(request, 'produk/penulis.html', context)

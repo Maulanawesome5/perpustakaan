@@ -8,5 +8,4 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('penulis/', views.penulis, name='penulis'),
     path('buku/<slug:inputSlug>/', views.detail, name='detail'),
-    # path('buku/penulis/<int:id>/', views.profilPenulis, name='profil_penulis'),
 ]
