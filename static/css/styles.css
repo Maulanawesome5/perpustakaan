@@ -1,1 +1,9 @@
 /* Untuk pengaturan custom CSS */
+
+/* Gak ngefek jancok */
+.jumbotron {
+    background-image: url("../icon/main-header.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+}
