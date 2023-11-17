@@ -6,6 +6,5 @@ app_name = "produk"
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('penulis/', views.penulis, name='penulis'),
     path('buku/<slug:inputSlug>/', views.detail, name='detail'),
 ]
