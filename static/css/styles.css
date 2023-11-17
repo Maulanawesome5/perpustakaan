@@ -5,5 +5,9 @@
     background-image: url("../icon/main-header.jpg");
     background-position: center;
     background-size: cover;
-    height: 350px;
+    height: 600px;
+}
+#text-header .display-4 {
+    padding-top: 200px;
+    padding-bottom: auto;
 }
