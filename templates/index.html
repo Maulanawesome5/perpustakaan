@@ -2,6 +2,10 @@
 {% load static %}
 {% load humanize %}
 
+{% block jumbotron %}
+    {% include "snippets/jumbotron.html" %}
+{% endblock jumbotron %}
+
 {% block contents %}
 <div class="container">
     <h1 class="pb-3">Buku pilihan</h1>

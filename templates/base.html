@@ -15,7 +15,9 @@
     {% include "snippets/navbar.html" %}
     
     <!-- Jumbotron Section -->
-    {% include "snippets/jumbotron.html" %}
+    {% block jumbotron %}
+    
+    {% endblock jumbotron %}
     
     <div class="container pt-5">
         {% block contents %}
