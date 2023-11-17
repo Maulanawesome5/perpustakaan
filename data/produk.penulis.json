@@ -16,11 +16,11 @@
   "pk": 2,
   "fields": {
     "created": "2023-09-11T04:44:33.627Z",
-    "updated": "2023-10-22T19:03:32.015Z",
+    "updated": "2023-11-17T15:56:27.097Z",
     "slug": "fathansyah",
     "nama_penulis": "Fathansyah",
     "nama": "Fathansyah",
-    "tentang_penulis": ""
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
   }
 },
 {
@@ -52,11 +52,11 @@
   "pk": 5,
   "fields": {
     "created": "2023-10-13T23:01:09.067Z",
-    "updated": "2023-10-13T23:01:09.067Z",
+    "updated": "2023-11-17T15:56:53.802Z",
     "slug": "gege-akutami",
     "nama_penulis": "Gege Akutami",
     "nama": "Gege Akutami",
-    "tentang_penulis": ""
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
   }
 },
 {
@@ -64,11 +64,11 @@
   "pk": 6,
   "fields": {
     "created": "2023-10-24T14:14:24.920Z",
-    "updated": "2023-10-24T14:14:24.920Z",
+    "updated": "2023-11-17T15:57:14.552Z",
     "slug": "rahmadya-trias-handayanto",
     "nama_penulis": "Rahmadya Trias Handayanto",
     "nama": "Rahmadya Trias Handayanto",
-    "tentang_penulis": "Lorem ipsum dolor sit amet"
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna."
   }
 }
 ]
