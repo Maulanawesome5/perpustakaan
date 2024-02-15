@@ -3,8 +3,8 @@
   "model": "produk.penulis_buku",
   "pk": 1,
   "fields": {
-    "created": "2023-09-11 04:43:58.333",
-    "updated": "2023-10-22 18:30:35.798",
+    "created": "2024-02-15T18:22:23.844",
+    "updated": "2024-02-15T18:23:36.244",
     "slug": "ellen-may",
     "nama_penulis": "Ellen May",
     "nama": "Ellen May",
@@ -15,8 +15,8 @@
   "model": "produk.penulis_buku",
   "pk": 2,
   "fields": {
-    "created": "2023-09-11 04:44:33.627",
-    "updated": "2023-11-17 15:56:27.097",
+    "created": "2024-02-15T18:24:12.927",
+    "updated": "2024-02-15T18:52:55.412",
     "slug": "fathansyah",
     "nama_penulis": "Fathansyah",
     "nama": "Fathansyah",
@@ -27,32 +27,32 @@
   "model": "produk.penulis_buku",
   "pk": 3,
   "fields": {
-    "created": "2023-09-11 04:45:35.023",
-    "updated": "2023-10-22 19:02:41.801",
+    "created": "2024-02-15T18:26:05.204",
+    "updated": "2024-02-15T18:26:05.204",
     "slug": "suyanto",
     "nama_penulis": "Suyanto",
     "nama": "Prof. Dr. Suyanto, S.T., M.Sc.",
-    "tentang_penulis": "Lahir di Jombang, Jawa Timur, pada tanggal 03 Desember 1974. Meraih gelar Sarjana Teknik dari Departemen Teknik Informatika STT Telkom (sekarang Telkom University), Bandung, pada tahun 1998. Menjadi dosen di departemen tersebut sejak tahun 1999 untuk mata kuliah Artificial Intelligence, Swarm Intelligence, Evolutionary Computation, Soft Computing, Machine Learning, dan Advance Data Science.\r\n\r\nPada tahun 2006 mendapatkan gelar Master of Science bidang Complex Adaptive System dari Chalmers University of Technology, Goteborg, Swedia. Pada tahun 2016 mendapatkan gelar Doktor di bidang Ilmu Komputer dari Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia. Pada tahun 2021 mendapatkan jabatan akademik Guru Besar bidang Kecerdasan Buatan. Sejak tahun 1999 hingga sekarang aktif melakukan penelitian di bidang Artificial Intelligence, Machine Learning, Big Data Analytics, Indonesian Computational Linguistics, Speech Processing, Data Mining, Evolutionary Computation, Swarm Intelligence, dan Soft Computing.\r\n\r\nTelah menghasilkan sebelas buku teks, di antaranya adalah:\r\n1. Artificial Intelligence: Searching, Reasoning, Planning, dan Learning (2007).\r\n2. Swarm Intelligence: Komputasi Modern untuk Optimasi dan Big Data Mining (2017).\r\n3. Machine Learning: Tingkat Dasar dan Lanjut (2018).\r\n4. Explainable Artificial Intelligence Menggunakan Metode-Metode Berbasis Nearest Neighbors (2022)."
+    "tentang_penulis": "Lahir di Jombang, Jawa Timur, pada tanggal 03 Desember 1974. Meraih gelar Sarjana Teknik dari Departemen Teknik Informatika STT Telkom (sekarang Telkom University), Bandung. pada tahun 1998. Menjadi dosen di departemen tersebut sejak tahun 1999 untuk mata kuliah Artificial Intelligence, Swarm Intelligence, Evolutionary Computation, Soft Computing, Machine Learning, Advanced Machine Learning, dan Advanced Data Science. Pada tahun 2006 mendapatkan gelar Master of Science bidang Complex Adaptive Systems dari Chalmers University of Technology, Göteborg, Swedia. Pada tahun 2016 mendapatkan gelar Doktor di bidang Ilmu Komputer dari Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia. Pada tahun 2021 mendapatkan jabatan akademik Guru Besar bidang Kecerdasan Buatan. Sejak tahun 1999 hingga sekarang aktif melakukan penelitian di bidang Artificial Intelligence, Machine learning, Big Data Analytics, Indonesian Computational Linguistics, Speech Processing, Data Mining, Evolutionary Computation, Swarm Intelligence, dan Soft Computing. Telah menghasilkan sebelas buku teks, di antaranya adalah: Artificial Intelligence: Searching, Reasoning, Planning and Learning, 2007; Swarm Intelligence: Komputasi Modern untuk Optimasi dan Big Data Mining, 2017; Machine Learning: Tingkat Dasar dan Lanjut, 2018; dan Explainable Artificial Intelligence Menggunakan metode metode Berbasis Nearest Neighbors, 2022."
   }
 },
 {
   "model": "produk.penulis_buku",
   "pk": 4,
   "fields": {
-    "created": "2023-09-11 04:50:06.170",
-    "updated": "2023-10-22 18:42:14.540",
+    "created": "2024-02-15T18:27:41.610",
+    "updated": "2024-02-15T18:27:41.610",
     "slug": "rosa-ariani-sukamto",
     "nama_penulis": "Rosa Ariani Sukamto",
     "nama": "Rosa Ariani Sukamto, S.Kom., M.Kom.",
-    "tentang_penulis": "Penulis adalah alumni Teknik Informatika Institut Teknologi Bandung tahun 2005 dan alumni S2 Informatika Institut Teknologi Bandung tahun 2009. Saat ini penulis menjadi dosen serta peneliti di sebuah universitas negeri di Bandung. Penelitian yang dilakukan penulis banyak terfokus pada bidang Computing Education di mana meneliti cara-cara belajar yang baik bagi berbagai karakter manusia dalam memahami komputer khususnya di bidang pemrograman dan rekayasa perangkat lunak.\r\n\r\nTulisan penulis telah disitasi lebih dari 5000 kali selama beberapa tahun terakhir dan beberapa penelitian yang dilakukan penulis telah dipublikasikan secara internasional."
+    "tentang_penulis": "Penulis adalah alumni Teknik Informatika Institut Teknologi Bandung tahun 2005 dan alumni S2 Informatika Institut Teknologi Bandung tahun 2009. Saat ini penulis menjadi dosen serta peneliti di sebuah universitas negeri di Bandung. Penelitian yang dilakukan penulis banyak terfokus pada bidang Computing Education di mana meneliti cara-cara belajar yang baik bagi berbagai karakter manusia dalam memahami komputer khususnya di bidang pemrograman dan rekayasa perangkat lunak.\\r\\n\\r\\nTulisan penulis telah disitasi lebih dari 5000 kali selama beberapa tahun terakhir dan beberapa penelitian yang dilakukan penulis telah dipublikasikan secara internasional."
   }
 },
 {
   "model": "produk.penulis_buku",
   "pk": 5,
   "fields": {
-    "created": "2023-10-13 23:01:09.067",
-    "updated": "2023-11-17 15:56:53.802",
+    "created": "2024-02-15T18:28:09.233",
+    "updated": "2024-02-15T18:53:24.027",
     "slug": "gege-akutami",
     "nama_penulis": "Gege Akutami",
     "nama": "Gege Akutami",
@@ -63,8 +63,8 @@
   "model": "produk.penulis_buku",
   "pk": 6,
   "fields": {
-    "created": "2023-10-24 14:14:24.920",
-    "updated": "2023-11-17 15:57:14.552",
+    "created": "2024-02-15T18:28:42.054",
+    "updated": "2024-02-15T18:53:49.459",
     "slug": "rahmadya-trias-handayanto",
     "nama_penulis": "Rahmadya Trias Handayanto",
     "nama": "Rahmadya Trias Handayanto",
