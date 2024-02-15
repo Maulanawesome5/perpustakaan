@@ -1,0 +1,74 @@
+[
+{
+  "model": "produk.penulis_buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11 04:43:58.333",
+    "updated": "2023-10-22 18:30:35.798",
+    "slug": "ellen-may",
+    "nama_penulis": "Ellen May",
+    "nama": "Ellen May",
+    "tentang_penulis": "Ellen May adalah seorang praktisi pasar saham (trader dan investor) sekaligus entrepreneur. Keberhasilannya dalam dunia trading saham tidak terjadi seketika, tetapi melalui proses panjang yang berawal dari pelajaran berharga yang dia alami saat krisis 2008.\r\n\r\nSeiring berjalannya waktu, dia menyadari bahwa tak sedikit orang yang sebenarnya membutuhkan bimbingan dalam trading dan investasi saham. Karena itu, dia mendedikasikan diri untuk membagi pengetahuan agar masyarakat Indonesia bisa menjadi lebih sejahtera melalui pasar modal.\r\n\r\nEdukasi yang dia sampaikan melalui buku Smart Traders Not Gamblers dan Smart Traders Rich Investor mendapat sambutan luar biasa dari praktisi pasar modal dan investor saham. Kedua buku tersebut hadir dengan gaya bahasa yang mudah dipahami serta pengetahuan praktis yang langsung bisa diterapkan oleh pembaca."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11 04:44:33.627",
+    "updated": "2023-11-17 15:56:27.097",
+    "slug": "fathansyah",
+    "nama_penulis": "Fathansyah",
+    "nama": "Fathansyah",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-09-11 04:45:35.023",
+    "updated": "2023-10-22 19:02:41.801",
+    "slug": "suyanto",
+    "nama_penulis": "Suyanto",
+    "nama": "Prof. Dr. Suyanto, S.T., M.Sc.",
+    "tentang_penulis": "Lahir di Jombang, Jawa Timur, pada tanggal 03 Desember 1974. Meraih gelar Sarjana Teknik dari Departemen Teknik Informatika STT Telkom (sekarang Telkom University), Bandung, pada tahun 1998. Menjadi dosen di departemen tersebut sejak tahun 1999 untuk mata kuliah Artificial Intelligence, Swarm Intelligence, Evolutionary Computation, Soft Computing, Machine Learning, dan Advance Data Science.\r\n\r\nPada tahun 2006 mendapatkan gelar Master of Science bidang Complex Adaptive System dari Chalmers University of Technology, Goteborg, Swedia. Pada tahun 2016 mendapatkan gelar Doktor di bidang Ilmu Komputer dari Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia. Pada tahun 2021 mendapatkan jabatan akademik Guru Besar bidang Kecerdasan Buatan. Sejak tahun 1999 hingga sekarang aktif melakukan penelitian di bidang Artificial Intelligence, Machine Learning, Big Data Analytics, Indonesian Computational Linguistics, Speech Processing, Data Mining, Evolutionary Computation, Swarm Intelligence, dan Soft Computing.\r\n\r\nTelah menghasilkan sebelas buku teks, di antaranya adalah:\r\n1. Artificial Intelligence: Searching, Reasoning, Planning, dan Learning (2007).\r\n2. Swarm Intelligence: Komputasi Modern untuk Optimasi dan Big Data Mining (2017).\r\n3. Machine Learning: Tingkat Dasar dan Lanjut (2018).\r\n4. Explainable Artificial Intelligence Menggunakan Metode-Metode Berbasis Nearest Neighbors (2022)."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 4,
+  "fields": {
+    "created": "2023-09-11 04:50:06.170",
+    "updated": "2023-10-22 18:42:14.540",
+    "slug": "rosa-ariani-sukamto",
+    "nama_penulis": "Rosa Ariani Sukamto",
+    "nama": "Rosa Ariani Sukamto, S.Kom., M.Kom.",
+    "tentang_penulis": "Penulis adalah alumni Teknik Informatika Institut Teknologi Bandung tahun 2005 dan alumni S2 Informatika Institut Teknologi Bandung tahun 2009. Saat ini penulis menjadi dosen serta peneliti di sebuah universitas negeri di Bandung. Penelitian yang dilakukan penulis banyak terfokus pada bidang Computing Education di mana meneliti cara-cara belajar yang baik bagi berbagai karakter manusia dalam memahami komputer khususnya di bidang pemrograman dan rekayasa perangkat lunak.\r\n\r\nTulisan penulis telah disitasi lebih dari 5000 kali selama beberapa tahun terakhir dan beberapa penelitian yang dilakukan penulis telah dipublikasikan secara internasional."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 5,
+  "fields": {
+    "created": "2023-10-13 23:01:09.067",
+    "updated": "2023-11-17 15:56:53.802",
+    "slug": "gege-akutami",
+    "nama_penulis": "Gege Akutami",
+    "nama": "Gege Akutami",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 6,
+  "fields": {
+    "created": "2023-10-24 14:14:24.920",
+    "updated": "2023-11-17 15:57:14.552",
+    "slug": "rahmadya-trias-handayanto",
+    "nama_penulis": "Rahmadya Trias Handayanto",
+    "nama": "Rahmadya Trias Handayanto",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna."
+  }
+}
+]

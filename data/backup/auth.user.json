@@ -1,0 +1,38 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$89JB8WMN3XdreDEqvgU3qZ$VFiR7EvL7JrBQtxHOWWYAfXJ68nD5Pg5nh6R12f2D+Q=",
+    "last_login": "2023-10-13 20:07:52.708",
+    "is_superuser": true,
+    "username": "maulana",
+    "first_name": "Maulana Aji",
+    "last_name": "Wicaksono",
+    "email": "maulanawesome5@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-09-07 04:21:44",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$TVqckbWpB3LPn2wxMDnFTP$ug7C2Jeh0ZNxA+8dr9zyzfTBXvQgAGmLYAvZErZp21Y=",
+    "last_login": "2023-11-17 15:55:10.442",
+    "is_superuser": true,
+    "username": "uzumakiaji",
+    "first_name": "Uzumaki",
+    "last_name": "Aji",
+    "email": "uzumakiaji96@yahoo.co.id",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-22 17:59:56",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

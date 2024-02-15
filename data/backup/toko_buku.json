@@ -1,0 +1,1360 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-09-07 04:24:20.645",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "maulana",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-09-11 04:43:58.335",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Ellen May",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-09-11 04:44:33.628",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Fathansyah",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-09-11 04:45:35.025",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Suyanto",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-09-11 04:48:15.670",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "GRAMEDIA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-09-11 04:48:50.895",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "INFORMATIKA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-09-11 04:50:06.172",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Rosa Ariani Sukamto",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-09-11 04:55:04.299",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "SMART TRADER RICH INVESTOR",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-09-11 04:57:38.401",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "SMART TRADER NOT GAMBLERS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-09-11 05:02:14.039",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "BASIS DATA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-10-13 20:23:28.840",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "MACHINE LEARNING",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-10-13 20:49:35.411",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Suyanto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\", \"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-10-13 22:21:40.310",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\", \"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-10-13 22:22:43.938",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Smart Trader Not Gamblers",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\", \"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-10-13 22:23:21.876",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Smart Trader Rich Investor",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\", \"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-10-13 22:24:51.828",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Smart Trader Not Gamblers",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\", \"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-10-13 22:25:44.782",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Smart Trader Rich Investor",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-10-13 22:27:26.850",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "BASIS DATA",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\", \"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-10-13 22:28:07.717",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Basis Data Edisi Revisi Ketiga",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-10-13 22:49:07.484",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-10-13 22:57:16.074",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Sampul buku\", \"Thumbnail sampul\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-10-13 23:01:09.076",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Gege Akutami",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-10-13 23:03:32.563",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "INFORMATIKA",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Instansi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-10-13 23:05:50.877",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "ELEX MEDIA KOMPUTINDO",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-10-13 23:10:43.986",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Jujutsu Kaisen 11",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-10-13 23:47:13.475",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Jujutsu Kaisen 11",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-10-22 18:02:27.130",
+    "user": 2,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "uzumakiaji",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-10-22 18:17:11.978",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-10-22 18:18:56.372",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-10-22 18:19:30.869",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-10-22 18:20:38.517",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Basis Data Edisi Revisi Ketiga",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-10-22 18:30:35.848",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Ellen May",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\", \"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-10-22 18:39:41.383",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Rosa Ariani Sukamto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\", \"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-10-22 18:41:41.810",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Rosa A. S.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-10-22 18:42:14.575",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Rosa Ariani Sukamto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-10-22 19:02:41.801",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Suyanto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2023-10-22 19:03:32.083",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Fathansyah",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2023-10-22 19:06:02.070",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Harga\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2023-10-22 20:38:07.035",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2023-10-22 20:38:42.648",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2023-10-22 20:39:30.762",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Analisis dan Desain Perangkat Lunak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2023-10-24 13:01:41.209",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2023-10-24 13:11:13.591",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2023-10-24 14:14:24.970",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Rahmadya Trias Handayanto",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2023-10-24 14:16:43.379",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Data Mining Dan Machine Learning Menggunakan Matlab Dan Python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2023-10-24 14:18:55.478",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jujutsu Kaisen 06",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2023-11-17 15:56:27.170",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Fathansyah",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2023-11-17 15:56:53.802",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Gege Akutami",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2023-11-17 15:57:14.552",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Rahmadya Trias Handayanto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add buku",
+    "content_type": 7,
+    "codename": "add_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change buku",
+    "content_type": 7,
+    "codename": "change_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete buku",
+    "content_type": 7,
+    "codename": "delete_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view buku",
+    "content_type": 7,
+    "codename": "view_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add penulis_ buku",
+    "content_type": 8,
+    "codename": "add_penulis_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change penulis_ buku",
+    "content_type": 8,
+    "codename": "change_penulis_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete penulis_ buku",
+    "content_type": 8,
+    "codename": "delete_penulis_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view penulis_ buku",
+    "content_type": 8,
+    "codename": "view_penulis_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add penerbit_ buku",
+    "content_type": 9,
+    "codename": "add_penerbit_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change penerbit_ buku",
+    "content_type": 9,
+    "codename": "change_penerbit_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete penerbit_ buku",
+    "content_type": 9,
+    "codename": "delete_penerbit_buku"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view penerbit_ buku",
+    "content_type": 9,
+    "codename": "view_penerbit_buku"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$89JB8WMN3XdreDEqvgU3qZ$VFiR7EvL7JrBQtxHOWWYAfXJ68nD5Pg5nh6R12f2D+Q=",
+    "last_login": "2023-10-13 20:07:52.708",
+    "is_superuser": true,
+    "username": "maulana",
+    "first_name": "Maulana Aji",
+    "last_name": "Wicaksono",
+    "email": "maulanawesome5@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-09-07 04:21:44",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$TVqckbWpB3LPn2wxMDnFTP$ug7C2Jeh0ZNxA+8dr9zyzfTBXvQgAGmLYAvZErZp21Y=",
+    "last_login": "2023-11-17 15:55:10.442",
+    "is_superuser": true,
+    "username": "uzumakiaji",
+    "first_name": "Uzumaki",
+    "last_name": "Aji",
+    "email": "uzumakiaji96@yahoo.co.id",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-22 17:59:56",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "produk",
+    "model": "buku"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "produk",
+    "model": "penulis_buku"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "produk",
+    "model": "penerbit_buku"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0o20fte8lgn5mbguevz26oebd1anfn6r",
+  "fields": {
+    "session_data": ".eJxVjDsOAjEMBe-SGkWbRIq9lPScIXLsmCygRNpPhbg7rLQFtG9m3ssk2taatqXMaRJzNs6cfrdM_ChtB3KnduuWe1vnKdtdsQdd7LVLeV4O9--g0lK_dYw-kCgrlgABSTFydgQAMozo3QBEykjRM4iqRy_EzikGdmMANO8P9244QA:1qrORs:LJZjB1_rlnnaTyy3s8lxgmbX0X8YG2FsKIpd62IjXZA",
+    "expire_date": "2023-10-27 20:07:52.712"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "12s6asj5zj0hpze1ojd0oufgaozxexai",
+  "fields": {
+    "session_data": ".eJxVjLkOwjAQRP_FNbJ8sD4o6fkGa30sDiBbipMK8e8kUgqoRpr3Zt4s4LrUsI4yhymzC1Ps9NtFTM_SdpAf2O6dp96WeYp8V_hBB7_1XF7Xw_07qDjqtpYovTMAQhA5vWVx2gulPAqLqBVBiWRRRbDJeJOzN4pIakoARGdgny--6TeB:1r41BW:QgVBhHErFY30Lepl4mKPn7d1-x_VhqPJOjkcGC-bX1I",
+    "expire_date": "2023-12-01 15:55:10.509"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cj8pdftbxjk7229mvz6jxv0d52ewau7s",
+  "fields": {
+    "session_data": ".eJxVjLkOwjAQRP_FNbJ8sD4o6fkGa30sDiBbipMK8e8kUgqoRpr3Zt4s4LrUsI4yhymzC1Ps9NtFTM_SdpAf2O6dp96WeYp8V_hBB7_1XF7Xw_07qDjqtpYovTMAQhA5vWVx2gulPAqLqBVBiWRRRbDJeJOzN4pIakoARGdgny--6TeB:1qwvpB:mgpCtz-YMiwIszWC2fdHuE2vXYljT9DkQTLnOJI9sW4",
+    "expire_date": "2023-11-12 02:46:49.463"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "izaw5bmp2plwuk443npnc112vy8i8wv6",
+  "fields": {
+    "session_data": ".eJxVjLkOwjAQRP_FNbJ8sD4o6fkGa30sDiBbipMK8e8kUgqoRpr3Zt4s4LrUsI4yhymzC1Ps9NtFTM_SdpAf2O6dp96WeYp8V_hBB7_1XF7Xw_07qDjqtpYovTMAQhA5vWVx2gulPAqLqBVBiWRRRbDJeJOzN4pIakoARGdgny--6TeB:1quclQ:LZ9vh73aSPCxBDUy1Q8MFM9Dr6Yw3IBaQd_zpTjIDPQ",
+    "expire_date": "2023-11-05 18:01:24.203"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xexwq88hj6xn3aovjjjib2mgnnwqjn61",
+  "fields": {
+    "session_data": ".eJxVjLkOwjAQRP_FNbJ8sD4o6fkGa30sDiBbipMK8e8kUgqoRpr3Zt4s4LrUsI4yhymzC1Ps9NtFTM_SdpAf2O6dp96WeYp8V_hBB7_1XF7Xw_07qDjqtpYovTMAQhA5vWVx2gulPAqLqBVBiWRRRbDJeJOzN4pIakoARGdgny--6TeB:1qvH0Q:NwAHWvmzqwik83Y-75sf11CZsouXLS3Y9P8TFIyYyaI",
+    "expire_date": "2023-11-07 12:59:34.949"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xok5k12i4y6lwumzb60g83e7d2rng57t",
+  "fields": {
+    "session_data": ".eJxVjDsOAjEMBe-SGkWbRIq9lPScIXLsmCygRNpPhbg7rLQFtG9m3ssk2taatqXMaRJzNs6cfrdM_ChtB3KnduuWe1vnKdtdsQdd7LVLeV4O9--g0lK_dYw-kCgrlgABSTFydgQAMozo3QBEykjRM4iqRy_EzikGdmMANO8P9244QA:1qe6YQ:YSbA0wUrfzBNzN0BK8kNYeeR5QAckr-0HL_Nd2U6JFI",
+    "expire_date": "2023-09-21 04:23:42.940"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11 04:43:58.333",
+    "updated": "2023-10-22 18:30:35.798",
+    "slug": "ellen-may",
+    "nama_penulis": "Ellen May",
+    "nama": "Ellen May",
+    "tentang_penulis": "Ellen May adalah seorang praktisi pasar saham (trader dan investor) sekaligus entrepreneur. Keberhasilannya dalam dunia trading saham tidak terjadi seketika, tetapi melalui proses panjang yang berawal dari pelajaran berharga yang dia alami saat krisis 2008.\r\n\r\nSeiring berjalannya waktu, dia menyadari bahwa tak sedikit orang yang sebenarnya membutuhkan bimbingan dalam trading dan investasi saham. Karena itu, dia mendedikasikan diri untuk membagi pengetahuan agar masyarakat Indonesia bisa menjadi lebih sejahtera melalui pasar modal.\r\n\r\nEdukasi yang dia sampaikan melalui buku Smart Traders Not Gamblers dan Smart Traders Rich Investor mendapat sambutan luar biasa dari praktisi pasar modal dan investor saham. Kedua buku tersebut hadir dengan gaya bahasa yang mudah dipahami serta pengetahuan praktis yang langsung bisa diterapkan oleh pembaca."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11 04:44:33.627",
+    "updated": "2023-11-17 15:56:27.097",
+    "slug": "fathansyah",
+    "nama_penulis": "Fathansyah",
+    "nama": "Fathansyah",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-09-11 04:45:35.023",
+    "updated": "2023-10-22 19:02:41.801",
+    "slug": "suyanto",
+    "nama_penulis": "Suyanto",
+    "nama": "Prof. Dr. Suyanto, S.T., M.Sc.",
+    "tentang_penulis": "Lahir di Jombang, Jawa Timur, pada tanggal 03 Desember 1974. Meraih gelar Sarjana Teknik dari Departemen Teknik Informatika STT Telkom (sekarang Telkom University), Bandung, pada tahun 1998. Menjadi dosen di departemen tersebut sejak tahun 1999 untuk mata kuliah Artificial Intelligence, Swarm Intelligence, Evolutionary Computation, Soft Computing, Machine Learning, dan Advance Data Science.\r\n\r\nPada tahun 2006 mendapatkan gelar Master of Science bidang Complex Adaptive System dari Chalmers University of Technology, Goteborg, Swedia. Pada tahun 2016 mendapatkan gelar Doktor di bidang Ilmu Komputer dari Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia. Pada tahun 2021 mendapatkan jabatan akademik Guru Besar bidang Kecerdasan Buatan. Sejak tahun 1999 hingga sekarang aktif melakukan penelitian di bidang Artificial Intelligence, Machine Learning, Big Data Analytics, Indonesian Computational Linguistics, Speech Processing, Data Mining, Evolutionary Computation, Swarm Intelligence, dan Soft Computing.\r\n\r\nTelah menghasilkan sebelas buku teks, di antaranya adalah:\r\n1. Artificial Intelligence: Searching, Reasoning, Planning, dan Learning (2007).\r\n2. Swarm Intelligence: Komputasi Modern untuk Optimasi dan Big Data Mining (2017).\r\n3. Machine Learning: Tingkat Dasar dan Lanjut (2018).\r\n4. Explainable Artificial Intelligence Menggunakan Metode-Metode Berbasis Nearest Neighbors (2022)."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 4,
+  "fields": {
+    "created": "2023-09-11 04:50:06.170",
+    "updated": "2023-10-22 18:42:14.540",
+    "slug": "rosa-ariani-sukamto",
+    "nama_penulis": "Rosa Ariani Sukamto",
+    "nama": "Rosa Ariani Sukamto, S.Kom., M.Kom.",
+    "tentang_penulis": "Penulis adalah alumni Teknik Informatika Institut Teknologi Bandung tahun 2005 dan alumni S2 Informatika Institut Teknologi Bandung tahun 2009. Saat ini penulis menjadi dosen serta peneliti di sebuah universitas negeri di Bandung. Penelitian yang dilakukan penulis banyak terfokus pada bidang Computing Education di mana meneliti cara-cara belajar yang baik bagi berbagai karakter manusia dalam memahami komputer khususnya di bidang pemrograman dan rekayasa perangkat lunak.\r\n\r\nTulisan penulis telah disitasi lebih dari 5000 kali selama beberapa tahun terakhir dan beberapa penelitian yang dilakukan penulis telah dipublikasikan secara internasional."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 5,
+  "fields": {
+    "created": "2023-10-13 23:01:09.067",
+    "updated": "2023-11-17 15:56:53.802",
+    "slug": "gege-akutami",
+    "nama_penulis": "Gege Akutami",
+    "nama": "Gege Akutami",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna.\r\n\r\nIn elit enim, vulputate et sodales eget, lacinia in nisl. Duis vitae enim non sem tincidunt ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet finibus tempor. Nullam quis velit tortor. Cras et dui sed libero aliquam elementum. Proin mauris elit, bibendum non nibh quis, sodales sodales ex. Ut non convallis odio. Nam suscipit faucibus scelerisque. In aliquet aliquam viverra. Donec pretium maximus augue, id dapibus magna tristique scelerisque."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 6,
+  "fields": {
+    "created": "2023-10-24 14:14:24.920",
+    "updated": "2023-11-17 15:57:14.552",
+    "slug": "rahmadya-trias-handayanto",
+    "nama_penulis": "Rahmadya Trias Handayanto",
+    "nama": "Rahmadya Trias Handayanto",
+    "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna."
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11 04:48:15.668",
+    "updated": "2023-09-11 04:48:15.668",
+    "slug": "pt-gramedia-pustaka-utama",
+    "penerbit": "GRAMEDIA",
+    "instansi": "PT Gramedia Pustaka Utama"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11 04:48:50.894",
+    "updated": "2023-10-13 23:03:32.561",
+    "slug": "penerbit-informatika",
+    "penerbit": "INFORMATIKA",
+    "instansi": "Penerbit Informatika"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-10-13 23:05:50.874",
+    "updated": "2023-10-13 23:05:50.874",
+    "slug": "pt-elex-media-komputindo",
+    "penerbit": "ELEX MEDIA KOMPUTINDO",
+    "instansi": "PT. Elex Media Komputindo"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 1,
+  "fields": {
+    "created": "2023-09-11 04:55:04.296",
+    "updated": "2023-10-13 22:25:44.772",
+    "slug": "smart-trader-rich-investor",
+    "judul_buku": "Smart Trader Rich Investor",
+    "penulis": 1,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Smart Trader Rich Investor berisi enam bab yang membahas tentang panduan sukses investasi saham bagi pemula. Pada bab pertama, penulis menjabarkan alasan untuk melakukan investasi, hal-hal penting dari berinvestasi, investasi dengan imbal hasil yang tinggi, dan juga kisah Ellen May, penulis buku ini, dalam investasi. Buku ini mengajarkan pembaca tentang pentingnya investasi. Buku ini direkomendasikan untuk dibaca pemula yang ingin terjun ke dunia investasi saham.\r\n\r\nSinopsis Buku\r\n\r\nBanyak orang menyebut istilah �bermain saham�, padahal sama seperti bisnis lainnya, istilah yang tepat adalah �berbisnis saham�. Layaknya sebuah bisnis, Anda harus bertindak tepat dalam setiap langkah.\r\n\r\nPasar saham adalah instrumen bisnis trading jangka pendek dan investasi jangka panjang yang memberikan potensi keuntungan luar biasa. Sayangnya, banyak orang belum menikmatinya karena takut dan belum mengerti bagaimana memulainya.\r\n\r\nPakar saham Ellen May, yang sukses dengan buku best seller Smart Traders Not Gamblers, menjelaskan setiap langkah yang harus dipilih para pemula yang ingin berbisnis saham.\r\n\r\nBuku ini memaparkan secara mendetail:\r\n� cara memulai trading ataupun berinvestasi saham,\r\n� cara memilih strategi dari trading jangka pendek atau investasi jangka panjang,\r\n� modal yang dibutuhkan dan bagaimana jika hanya punya modal minim,\r\n� kemungkinan memenuhi kebutuhan hidup hanya dengan berbisnis saham,\r\n� cara meminimalkan risiko dan memaksimalkan keuntungan,\r\n� dan berbagai hal penting lain yang diperlukan seorang pemula untuk mulai melangkah berbisnis saham.\r\n\r\nJika Anda ingin memulai berkecimpung dalam dunia saham, buku ini adalah panduan yang tepat untuk menuntun Anda menjadi trader dan investor yang berhasil.",
+    "sampul_buku": "9786020324951_Smart-Trader-Rich-Investor-Cover-Baru.jpg",
+    "thumbnail_sampul": "ID_GPU2017MTH11STRIB_S.jpg",
+    "harga": 97900
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 2,
+  "fields": {
+    "created": "2023-09-11 04:57:38.396",
+    "updated": "2023-10-13 22:24:51.818",
+    "slug": "smart-trader-not-gamblers",
+    "judul_buku": "Smart Trader Not Gamblers",
+    "penulis": 1,
+    "penerbit": 1,
+    "tahun": 2018,
+    "deskripsi": "Buku Smart Traders Not Gamblers merupakan karya Ellen May. Ia adalah seorang trader dan investor sukses yang sudah berpengalaman sejak tahun 2007. Ellen survive melewati krisis hebat tahun 2008 bahkan menghasilkan keuntungan besar sejak krisis tersebut. Ellen May dikenal sebagai pakar saham Indonesia.\r\n\r\nSinopsis buku\r\n\r\nOpini masyarakat bahwa trading saham merupakan perjudian terbentuk karena adanya faktor spekulasi yang tinggi, tingkat keberhasilan yang kecil, dan risiko tinggi yang mengikuti keuntungan yang besar. Buku ini ditulis untuk menjawab pertanyaan seperti, �Bagaimana caranya menjadi seorang trader sejati?� Temukan mind map dan kemampuan dasar apa saja yang diperlukan untuk menjadi pemain saham pemula, agar tidak jatuh dalam kerugian.\r\n\r\nBuku ini ditulis oleh Ellen May ditujukan untuk level menengah. Melalui buku ini, Anda akan belajar tentang psikologi trading sehingga keputusan beli jual saham dapat dilakukan dengan benar. Harapannya adalah setelah membaca buku ini, Anda tidak lagi membeli atau menjual saham berdasarkan feeling.\r\n\r\n�Saya sudah membaca ratusan buku trading, dan buku ini adalah salah satu yang terbaik dan sangat saya rekomendasikan. Penulisnya membuat konsep psikologi trading menjadi sederhana dan pembahasan ide-ide baru serta pendekatan yang dipaparkannya dapat menjadi terobosan bagi Anda untuk menjadi seorang GREAT TRADER!� - Soeratman Doerachman (Eyang Ratman), Trader dan investor profesional, Founder mailing list junior-Trader U-C/ub)",
+    "sampul_buku": "9789792274646_Smart-Traders-Not-GamblersCD-Cover-Baru.jpg",
+    "thumbnail_sampul": "ID_STNG2018MTH09STNG.jpg",
+    "harga": 98000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 3,
+  "fields": {
+    "created": "2023-09-11 05:02:14.024",
+    "updated": "2023-10-22 18:20:38.499",
+    "slug": "basis-data-edisi-revisi-ketiga",
+    "judul_buku": "Basis Data Edisi Revisi Ketiga",
+    "penulis": 2,
+    "penerbit": 2,
+    "tahun": 2018,
+    "deskripsi": "Buku ini merupakan revisi dalam rangka penyesuaian dengan situasi terkini, setelah sekian tahun lamanya rencana revisi itu tertunda. Revisi ini sekaligus juga terbentuk penggabungan dari 2 buku sebelumnya, yaitu basis data dan sistem basis data.\r\n\r\nBuku ini mencoba memfokuskan pada tiga hal, yaitu: basis data, model data dan bagaimana membuat model data yang baik. Dalam berbagai pembahasan, niscaya kita akan melihat perancangan basis data yang baik juga senantiasa mempertimbangkan prosedur (aturan-aturan) yang berlaku di dalam sistem. Karena itu, pembahasan tentang contoh-contoh aturan yang berlaku di lapangan yang terefleksikan dalam perancangan juga banyak mewarnai isi buku ini. Sejumlah aspek lain yang relevan., seperti DBMS, aplikasi basis data dan perkembangan teknologi terbaru, juga turut dibahas.\r\n\r\nBuku ini memang lebih ditujukan untuk membantu para mahasiswa, apapun program studinya, yang tengah mempelajari mata kuliah basis data yang lebih menekankan pada aspek perancangan basis data. Karena itu, berbagai contoh yang disajikan dalam buku ini juga diambil dari fakta yang dekat dengan dunia kemahasiswaan.\r\n\r\nKendati demikian, buku ini sesungguhnya juga terbuka dan bermanfaat bagi siapa saja yang memerlukan penguasaan pada aspek-aspek dasar ke-basis data-an.",
+    "sampul_buku": "9786026232663_Basis-Data-Ed.jpg",
+    "thumbnail_sampul": "9786026232663_Basis-Data-Ed__w149_hauto.jpg",
+    "harga": 120000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 4,
+  "fields": {
+    "created": "2023-10-13 20:23:28.840",
+    "updated": "2023-10-24 13:11:13.521",
+    "slug": "machine-learning-tingkat-dasar-dan-lanjut-edisi-2",
+    "judul_buku": "Machine Learning Tingkat Dasar dan Lanjut Edisi-2",
+    "penulis": 3,
+    "penerbit": 2,
+    "tahun": 2020,
+    "deskripsi": "Perusahaan-perusahaan raksasa berbasis IT telah menunjukkan berbagai kesuksesan dalam penggunaan artificial intelligence, khususnya machine learning. Kesuksesan mereka tentu saja tidak instan dalam sekejap. Mereka telah bertahun-tahun membangun sistem itu menggunakan berbagai teknik machine learning, mulai dari tingkat dasar yang simpel, lalu secara terus menerus dikembangkan, hingga saat ini telah menggunakan teknik machine learning tingkat lanjut, khususnya deep learning, yang memberikan performansi tinggi.\r\n\r\nBuku ini memberi Anda gambaran holistik dan simpel mengenai konsep dasar machine learning, teknik-teknik dan metode-metode tingkat dasar dan tingkat lanjut, serta aplikasinya dalam berbagai bidang terkini. Pembahasan dimulai dari konsep dasar paling sederhana hingga yang kompleks dengan gradasi yang lembut. Setiap teknik dan metode dibahas dari ide dasar, motivasi, visualisasi, formulasi matematis, hingga contoh aplikasinya.\r\n\r\nPada setiap teknik learning dibahas sejumlah metode beserta variansinya. Selain itu, buku ini akan memandu Anda memahami beragam masalah, dari yang simpel hingga rumit, dengan berbagai karakteristik berbeda. Dengan demikian, Anda akan terlatih untuk memahami masalah secara benar dan mampu mendesain sistem berbasis machine learning yang akurat untuk masalah yang Anda hadapi.",
+    "sampul_buku": "hq3bujta45prdjdcjbgng9.jpg",
+    "thumbnail_sampul": "hq3bujta45prdjdcjbgng9__w149_hauto.jpg",
+    "harga": 170000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 5,
+  "fields": {
+    "created": "2023-10-13 22:49:07.480",
+    "updated": "2023-10-22 20:39:30.729",
+    "slug": "analisis-dan-desain-perangkat-lunak",
+    "judul_buku": "Analisis dan Desain Perangkat Lunak",
+    "penulis": 4,
+    "penerbit": 2,
+    "tahun": 2022,
+    "deskripsi": "Pada buku ANALISIS DAN DESAIN PERANGKAT LUNAK ini akan membahas tentang analisis dan desain sistem dengan disertai suatu studi kasus untuk memudahkan dalam pemahaman. Analisis dan desain sistem itu dimulai dengan analisis dan desain basis data, analisis dan desain sistem untuk pemrograman terstruktur dengan menggunakan DFD, dan analisis dan desain sistem untuk pemrograman berorientasi objek dengan menggunakan UML, dan contoh-contoh rich picture untuk rekayasa dengan metode Agile.\r\n\r\nSetelah membaca studi kasus tersebut, pembaca diharapkan dapat memahami bagaimana melakukan analisis dan desain sistem untuk pemrograman terstruktur, pemrograman berorientasi objek, maupun metode Agile. Untuk menghasilkan analisis dan desain perangkat lunak yang baik, seorang analis seharusnya memahami konsep pemrograman. Tanpa pemahaman konsep pemrograman yang baik, analis tidak mungkin menghasilkan perancangan perangkat lunak yang baik. Pada buku ini juga dijelaskan mengenai tahapan-tahapan yang harus dilalui dalam rekayasa perangkat lunak serta penjelasan secara umum tentang manajemen proyek perangkat lunak.\r\n\r\nBahasan Buku :\r\n* Analisis Dan Desain Sistem\r\n* Software Development Life Cycle ( SDLC )\r\n* Basis Data\r\n* Rekayasa Perangkat Lunak Untuk Pemrograman Terstruktur\r\n* Pemrograman Berorientasi Objek\r\n* Analisis Data Dan Desain Berorientasi Objek\r\n* Pemodelan Dan UML\r\n* Studi Kasus UML\r\n* Perancangan Pola Berorientasi Objek\r\n* Rekayasa Perangkat Lunak Dengan Metodologi Agile\r\n* Manajemen Proyek Perangkat Lunak\r\n\r\nSegera dapatkan buku berjudul ANALISIS DAN DESAIN PERANGKAT LUNAK karya Rosa A.S hanya di toko buku",
+    "sampul_buku": "445a8f3f0a24f6740ce096822c486efc.jpeg",
+    "thumbnail_sampul": "Analisis_Dan_Desain_Perangkat_Lunak__w149_hauto.jpg",
+    "harga": 120000
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 6,
+  "fields": {
+    "created": "2023-10-13 23:10:43.983",
+    "updated": "2023-10-13 23:47:13.472",
+    "slug": "jujutsu-kaisen-11",
+    "judul_buku": "Jujutsu Kaisen 11",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Di antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nJujutsu Kaisen adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Ini telah diserialkan di majalah manga shonen Shueisha Weekly Shonen Jump sejak Maret 2018, dengan bab-babnya dikumpulkan dan diterbitkan dalam 20 volume tankobon per Agustus 2022. Ceritanya mengikuti siswa sekolah menengah Yuji Itadori saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk menghilangkan Kutukan yang kuat bernama Ryomen Sukuna, di mana Yuji menjadi inangnya. Jujutsu Kaisen adalah sekuel dari Sekolah Teknik Kutukan Metropolitan Tokyo Akutami, yang diserialkan di Jump GIGA Shueisha dari April hingga Juli 2017, kemudian dikumpulkan dalam volume tankobon, dengan judul retroaktif sebagai Jujutsu Kaisen 0, pada Desember 2018.\r\n\r\nSinopsis Buku:\r\nPeron bawah tanah Stasiun Shibuya dipenuhi warga sipil dan manusia yang telah dimodifikasi. Dalam situasi mengerikan tanpa jalan keluar, Gojo masih memegang kendali atas para Jurei. Akan tetapi, kuasa untuk menyegel Gojo ada di tangan musuh...!! Sementara itu, ketika Itadori bergegas menuju peron bawah tanah, muncul sekutu yang tak terduga!?",
+    "sampul_buku": "eqabs5dgzrpwkp7trvqajz.jpg",
+    "thumbnail_sampul": "eqabs5dgzrpwkp7trvqajz__w149_hauto.jpg",
+    "harga": 32500
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 7,
+  "fields": {
+    "created": "2023-10-24 14:16:43.363",
+    "updated": "2023-10-24 14:16:43.363",
+    "slug": "data-mining-dan-machine-learning-menggunakan-matlab-dan-python",
+    "judul_buku": "Data Mining Dan Machine Learning Menggunakan Matlab Dan Python",
+    "penulis": 6,
+    "penerbit": 2,
+    "tahun": 2020,
+    "deskripsi": "DATA MINING DAN MACHINE LEARNING MENGGUNAKAN MATLAB DAN PYTHON",
+    "sampul_buku": "9786237131328.jpg",
+    "thumbnail_sampul": "9786237131328.jpg",
+    "harga": 72250
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 8,
+  "fields": {
+    "created": "2023-10-24 14:18:55.472",
+    "updated": "2023-10-24 14:18:55.473",
+    "slug": "jujutsu-kaisen-06",
+    "judul_buku": "Jujutsu Kaisen 06",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Jujutsu Kaisen adalah manga Jepang yang ditulis dan diilustrasikan sendiri oleh Gege Akutami. Jujutsu Kaisen dirilis pertama kali pada bulan Maret 2018 ini menceritakan tentang siswa sekolah menengah, Yuji Itadori, saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk membunuh Kutukan kuat bernama Ryomen Sukuna, yang menjadikan Yuji sebagai tuan rumah. Karena sifat jahat Sukuna, semua penyihir diharuskan untuk mengusirnya segera�dalam hal ini, termasuk memburu Yuji Itadori. Tapi setelah melihat Yuji mempertahankan kendali atas tubuhnya, guru Megumi�Satoru Gojo membawanya ke Sekolah Tinggi Jujutsu Prefektur Tokyo dengan proposal kepada atasannya: tunda hukuman mati Yuji dan berlatih di bawah Gojo sampai dia menghabiskan semua jari Sukuna sehingga Kutukan bisa hancur total.\r\n\r\nSetelah program pertukaran dengan Akademi Jujutsu Kyoto dimulai. Pihak yang duluan menyingkirkan jurei tingkat 2 di area pertandinganlah yang akan jadi pemenangnya. Todo yang gemar berkelahi segera menyerang pihak Tokyo! Saat Todo dan Itadori saling berhadapan, anak-anak Kyoto yang lain ikut mengepung Itadori dengan niat untuk membunuhnya. Rencana tim Kyoto untuk membunuh Itadori berjalan sesuai harapan dengan memanfaatkan program pertukaran. Di sisi lain, Jurei dan Jusoshi yang dipimpin Mahito menyusup masuk ke tempat berlangsungnya acara. Para guru pun bergegas pergi untuk menyelamatkan murid-murid, tapi mereka terhalang oleh Tobari! Sementara itu, Inumaki dan Fushiguro diserang Jurei tingkat tinggi bernama Hanami. Apakah mereka berhasil keluar dari krisis itu!?\r\n\r\nJudul: Jujutsu Kaisen 06\r\nCerita : Gege Akutami\r\nTebal: 200 Halaman\r\nFormat: Soft Cover\r\nTanggal Terbit: April 2022",
+    "sampul_buku": "Jujutsukaisen_6.jpg",
+    "thumbnail_sampul": "Jujutsukaisen_6.jpg",
+    "harga": 34000
+  }
+}
+]
