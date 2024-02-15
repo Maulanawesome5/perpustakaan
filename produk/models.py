@@ -52,6 +52,7 @@ class Buku(Abstract_Product):
     sampul_buku = models.CharField(max_length=255, blank=True)
     thumbnail_sampul = models.CharField(max_length=255, blank=True)
     harga = models.IntegerField(blank=True, null=True)
+    stok_barang = models.IntegerField(default=0)
 
     def save(self, *args, **kwargs):
         self.slug = slugify(self.judul_buku)
