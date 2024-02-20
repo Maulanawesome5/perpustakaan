@@ -63,3 +63,20 @@ class Buku(Abstract_Product):
     
     class Meta:
         ordering = ['judul_buku']
+
+
+class Stationery(Abstract_Product):
+    nama_produk = models.CharField(max_length=255)
+    gambar_produk = models.CharField(max_length=255, blank=True)
+    stok_barang = models.IntegerField(default=0)
+    harga = models.IntegerField(default=0)
+
+    def save(self, *args, **kwargs):
+        self.slug = slugify(self.nama_produk)
+        super(Stationery, self).save(*args, **kwargs)
+
+    def __str__(self) -> str:
+        return self.nama_produk
+    
+    class Meta:
+        ordering = ['nama_produk']
