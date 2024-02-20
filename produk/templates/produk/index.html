@@ -3,6 +3,8 @@
 {% load humanize %} <!-- untuk formatting data agar mudah dibaca manusia -->
 {% block contents %}
 <div class="container">
+
+    <!-- Query data buku -->
     <h1 class="pb-3">Buku pilihan</h1>
     <div class="row row-cols-3">
         {% for book in books %}
@@ -25,5 +27,31 @@
         </div>
         {% endfor %}
     </div>
+
+    <br><br>
+
+    <!-- Query data alat tulis -->
+    <h1 class="pb-3">Alat Tulis Sekolah & Kantor</h1>
+    <div class="row row-cols-3">
+        {% for alattulis in stationery %}
+        <div class="col pb-2">
+            <div class="card" style="width: 18rem;">
+                <img
+                    src="{% static 'assets' %}/{{alattulis.gambar_produk}}"
+                    class="card-img-top"
+                    alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{alattulis.nama_produk}}</h5>
+                    <p>Rp. {{alattulis.harga|intcomma}}</p>
+                    <span>
+                        <a href="#" class="btn btn-primary">Lihat detail</a>
+                        <a href="#" class="btn btn-primary">Beli Sekarang</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
 </div>
 {% endblock contents %}

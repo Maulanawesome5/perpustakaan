@@ -1,13 +1,15 @@
 from django.shortcuts import render
-from .models import Buku
+from .models import Buku, Stationery
 
 # Create your views here.
 def index(request):
     buku = Buku.objects.all()
+    stationery = Stationery.objects.all()
     context = {
         'books': buku,
         'halaman': 'Produk',
-        'website': 'Perpustakaan'
+        'stationery': stationery,
+        'website': 'OnlineBookStore',
     }
 
     return render(request, 'produk/index.html', context)
@@ -17,7 +19,7 @@ def detail(request, inputSlug):
     context = {
         'books': buku,
         'halaman': 'Detail Buku',
-        'website': 'Perpustakaan'
+        'website': 'OnlineBookStore'
     }
     if request.method == "GET":
         print("\n")
