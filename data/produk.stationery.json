@@ -1,0 +1,80 @@
+[
+{
+  "model": "produk.stationery",
+  "pk": 1,
+  "fields": {
+    "created": "2024-02-20T15:01:07.655",
+    "updated": "2024-02-20T15:01:35.119",
+    "slug": "ballpoint-faster-c600",
+    "nama_produk": "Ballpoint Faster C600",
+    "gambar_produk": "ballpoint-faster-c600.jpg",
+    "stok_barang": 200,
+    "harga": 21000
+  }
+},
+{
+  "model": "produk.stationery",
+  "pk": 2,
+  "fields": {
+    "created": "2024-02-20T15:01:56.952",
+    "updated": "2024-02-20T15:01:56.952",
+    "slug": "ballpoint-pilot-bpt-p",
+    "nama_produk": "Ballpoint Pilot BPT-P",
+    "gambar_produk": "ballpoint-pilot-bptp.jpg",
+    "stok_barang": 200,
+    "harga": 19800
+  }
+},
+{
+  "model": "produk.stationery",
+  "pk": 3,
+  "fields": {
+    "created": "2024-02-20T15:03:28.230",
+    "updated": "2024-02-20T15:03:28.230",
+    "slug": "isi-staples-max",
+    "nama_produk": "Isi Staples MAX",
+    "gambar_produk": "isi-staples.jpeg",
+    "stok_barang": 100,
+    "harga": 6250
+  }
+},
+{
+  "model": "produk.stationery",
+  "pk": 4,
+  "fields": {
+    "created": "2024-02-20T15:05:02.024",
+    "updated": "2024-02-20T15:05:02.024",
+    "slug": "pencil-2b-faber-castle",
+    "nama_produk": "Pencil 2B Faber Castle",
+    "gambar_produk": "pencil-faber-castle-2b.jpg",
+    "stok_barang": 150,
+    "harga": 31900
+  }
+},
+{
+  "model": "produk.stationery",
+  "pk": 5,
+  "fields": {
+    "created": "2024-02-20T15:06:40.986",
+    "updated": "2024-02-20T15:06:40.986",
+    "slug": "pencil-2b-staedler",
+    "nama_produk": "Pencil 2B STAEDLER",
+    "gambar_produk": "pencil-staedler-2b.jpeg",
+    "stok_barang": 70,
+    "harga": 38000
+  }
+},
+{
+  "model": "produk.stationery",
+  "pk": 6,
+  "fields": {
+    "created": "2024-02-20T15:08:03.814",
+    "updated": "2024-02-20T15:08:03.814",
+    "slug": "stapler-joyko-hd-10",
+    "nama_produk": "Stapler JOYKO HD-10",
+    "gambar_produk": "stapler-joyko.jpg",
+    "stok_barang": 50,
+    "harga": 10400
+  }
+}
+]
