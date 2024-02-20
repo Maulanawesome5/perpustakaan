@@ -2,6 +2,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from produk.models import Buku as data_buku
 from produk.models import Penulis_Buku as data_penulis
+from produk.models import Penerbit_Buku as data_penerbit
 
 
 def index(request):
@@ -9,7 +10,7 @@ def index(request):
     context = {
         'books':buku,
         'halaman':'Beranda',
-        'website':'Perpustakaan'
+        'website':'OnlineBookStore'
     }
     return render(request, 'index.html', context)
 
@@ -18,14 +19,14 @@ def penulis(request):
     context = {
         'daftar_penulis': penulis_buku,
         'halaman': 'Daftar Penulis',
-        'website': 'Perpustakaan'
+        'website': 'OnlineBookStore'
     }
     return render(request, 'penulis.html', context)
 
 def detail_penulis(request, id, inputSlug):
     penulis_buku = data_penulis.objects.get(id=id, slug=inputSlug)
     context = {
-        'website': 'Perpustakaan'
+        'website': 'OnlineBookStore'
     }
     try:
         context['data_penulis'] = penulis_buku
@@ -33,9 +34,24 @@ def detail_penulis(request, id, inputSlug):
         return render(request, 'detail.html', context)
     except:
         return HttpResponse("Disini halaman detail penulis buku ")
-    # context = {
-    #     'data_penulis': penulis_buku,
-    #     'halaman': 'Detail Penulis',
-    #     'website': 'Perpustakaan'
-    # }
-    # return render(request, 'detail.html', context)
+
+def penerbit(request):
+    penerbit_buku = data_penerbit.objects.all()
+    context = {
+        'daftar_penerbit': penerbit_buku,
+        'halaman': 'Daftar Penerbit',
+        'website': 'OnlineBookStore'
+    }
+    return render(request, 'penerbit.html', context)
+
+def detail_penerbit(request, id, inputSlug):
+    penerbit_buku = data_penerbit.objects.get(id=id, slug=inputSlug)
+    context = {
+        'website': 'OnlineBookStore'
+    }
+    try:
+        context['data_penerbit'] = penerbit_buku
+        context['halaman'] = penerbit_buku.penerbit
+        return render(request, 'detail.html', context)
+    except:
+        return HttpResponse("Disini halaman detail penerbit buku.")
