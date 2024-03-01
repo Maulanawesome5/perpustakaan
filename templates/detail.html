@@ -3,6 +3,8 @@
 
 {% block contents %}
 
+{% if data_penulis %}
+<!-- Template halaman detail penulis -->
 <div class="container">
     <p><a href="{% url 'produk:index' %}">Kembali</a></p>
     <div class="row">
@@ -15,5 +17,20 @@
         </div>
     </div>
 </div>
+{% else %}
+<!-- Template halaman detail penerbit -->
+<div class="container">
+    <p><a href="{% url 'produk:index' %}">Kembali</a></p>
+    <div class="row">
+        <div class="col">
+            <img src="{% static 'produk/penerbit' %}/{{data_penerbit.logo_penerbit}}" style="width: 60%;">
+        </div>
+        <div class="col" style="padding-left: 0; padding-right: auto;">
+            <h1>{{data_penerbit.penerbit}}</h1>
+            <p class="text-align-justify">{{data_penerbit.tentang_penerbit | linebreaks}}</p>
+        </div>
+    </div>
+</div>
+{% endif %}
 
 {% endblock contents %}

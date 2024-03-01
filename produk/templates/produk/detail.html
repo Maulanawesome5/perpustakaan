@@ -22,7 +22,7 @@
         <div class="col" style="padding-left: 0; padding-right: auto;">
             <h1>{{books.judul_buku}}</h1>
             <p>Penulis: <a href="{% url 'writer_detail' id=books.penulis_id inputSlug=books.penulis.slug %}" style="text-decoration: none;">{{books.penulis}}</a></p>
-            <p>Penerbit: <a href="#" style="text-decoration: none;">{{books.penerbit}}</a></p>
+            <p>Penerbit: <a href="{% url 'publisher_detail' id=books.penerbit_id inputSlug=books.penerbit.slug %}" style="text-decoration: none;">{{books.penerbit}}</a></p>
             <p>Tahun: {{books.tahun}}</p>
             <p class="text-align-justify">{{books.deskripsi | linebreaks}}</p>
         </div>
