@@ -4,10 +4,12 @@
   "pk": 1,
   "fields": {
     "created": "2024-02-15T18:29:19.421",
-    "updated": "2024-02-15T18:29:19.421",
+    "updated": "2024-03-01T04:29:29.194",
     "slug": "pt-gramedia-pustaka-utama",
     "penerbit": "GRAMEDIA",
-    "instansi": "PT Gramedia Pustaka Utama"
+    "instansi": "PT Gramedia Pustaka Utama",
+    "tentang_penerbit": "Didirikan tahun 1974, Gramedia Pustaka Utama merupakan bagian dari Kompas Gramedia, jaringan media terbesar di Indonesia. Fokus terbitannya kepada 12 bidang utama: Fiksi Dewasa, Fiksi Remaja, Fiksi Anak, Sastra - Literatur, Bisnis Ekonomi, Social Science, Pengembangan Diri, Kamus & Referensi, Boga, serta Busana & Kecantikan.\r\n\r\nSelama lebih dari 40 tahun penerbit Gramedia Pustaka Utama telah menjadi rumah bagi banyak penulis dan buku-buku terbaik di Indonesia. Beberapa nama penulis seperti Ahmad Tohari, Eka Kurniawan, Ahmad Fuadi, Marga T., Alberthiene Endah, Clara Ng., Agustinus Wibowo, Hermawan Kertajaya, Franz Magnis-Suseno, serta penulis internasional seperti Enid Blyton, Paulo Coelho, J.K. Rowling, Agatha Christie, J.R.R. Tolkien, Malcolm Gladwell, Dale Carnegie mempercayakan karyanya untuk selalu diterbitkan melalui Gramedia Pustaka Utama.\r\n\r\nKarya-karya terbitan Gramedia Pustaka Utama juga telah berhasil meraih berbagai penghargaan, baik nasional maupun internasional, di antaranya Kusala Sastra Khatulistiwa, Penghargaan IKAPI, Islamic Book Award, Anugerah Pembaca Indonesia, Gourmand World Cookbook Awards, Liberaturpreis Jerman, World Reader's Award, hingga dinominasikan dalam penghargaan Man Booker International Prize.\r\n\r\nDi samping itu, Gramedia Pustaka Utama juga selalu mendukung berbagai kegiatan pengembangan literasi di Indonesia dan Asia Tenggara, dengan berpartisipasi aktif dalam Ubud Writers & Readers Festival, Makassar International Writers Festival, ASEAN Literary Festival, serta Singapore International Writers Festival.\r\n\r\nSaat ini, dengan lebih dari 30 ribu judul buku yang telah diterbitkan serta jalinan kerjasama dengan lebih dari 200 penerbit asing terkemuka dari AS, Belanda, Jerman, Belgia, Brasil, Denmark, Hong Kong, India, Inggris, Italia, Jepang, Jerman, Kanada, Malaysia, dan Swis, Gramedia Pustaka Utama telah berhasil mengukuhkan posisinya sebagai salah satu penerbit buku terbaik di Indonesia.\r\n\r\nDi masa depan Gramedia Pustaka Utama berkomitmen untuk tetap berusaha menjadi agen pembaruan bagi bangsa: memilih dan memproduksi buku-buku yang berkualitas, yang  memperluas wawasan, memberikan pencerahan, dan merangsang kreativitas berpikir, dengan dukungan teknologi.",
+    "logo_penerbit": "gramedia-pustaka-utama.png"
   }
 },
 {
@@ -15,10 +17,12 @@
   "pk": 2,
   "fields": {
     "created": "2024-02-15T18:29:38.734",
-    "updated": "2024-02-15T18:29:38.734",
+    "updated": "2024-03-01T04:30:15.059",
     "slug": "penerbit-informatika",
     "penerbit": "INFORMATIKA",
-    "instansi": "Penerbit Informatika"
+    "instansi": "Penerbit Informatika",
+    "tentang_penerbit": "Penerbit Informatika\r\nAlamat: Jl. Buah Batu, Malabar, Kec. Lengkong, Kota Bandung, Jawa Barat 40264\r\nTelepon: 0813-2220-1946",
+    "logo_penerbit": "penerbit-Informatika.png"
   }
 },
 {
@@ -26,10 +30,12 @@
   "pk": 3,
   "fields": {
     "created": "2024-02-15T18:30:03.240",
-    "updated": "2024-02-15T18:30:03.240",
+    "updated": "2024-03-01T04:28:32.724",
     "slug": "pt-elex-media-komputindo",
     "penerbit": "ELEX MEDIA KOMPUTINDO",
-    "instansi": "PT. Elex Media Komputindo"
+    "instansi": "PT. Elex Media Komputindo",
+    "tentang_penerbit": "PT Elex Media Komputindo adalah sebuah perusahaan penerbit di Indonesia yang mengkhususkan diri dalam penerbitan buku, komik, majalah, novel, dan media cetak lainnya. Didirikan pada tanggal 15 Januari 1985, Elex Media Komputindo merupakan salah satu anak perusahaan dari Kompas Gramedia Group. Kantor pusatnya berada di Tanah Abang, Jakarta Pusat.\r\n\r\nElex Media Komputindo dikenal sebagai pelopor penerbitan manga di Indonesia, dan sekarang merupakan salah satu penerbit komik terbesar di Indonesia.",
+    "logo_penerbit": "elex_media_komputindo_logo.png"
   }
 }
 ]
