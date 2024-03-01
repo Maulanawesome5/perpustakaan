@@ -31,6 +31,8 @@ class Penulis_Buku(Abstract_Product):
 class Penerbit_Buku(Abstract_Product):
     penerbit = models.CharField(max_length=100)
     instansi = models.CharField(max_length=100)
+    tentang_penerbit = models.TextField(blank=True)
+    logo_penerbit = models.CharField(max_length=100, blank=True)
 
     def save(self, *args, **kwargs):
         self.slug = slugify(self.instansi)
@@ -51,7 +53,7 @@ class Buku(Abstract_Product):
     deskripsi = models.TextField()
     sampul_buku = models.CharField(max_length=255, blank=True)
     thumbnail_sampul = models.CharField(max_length=255, blank=True)
-    harga = models.IntegerField(blank=True, null=True)
+    harga = models.IntegerField(default=0)
     stok_barang = models.IntegerField(default=0)
 
     def save(self, *args, **kwargs):
