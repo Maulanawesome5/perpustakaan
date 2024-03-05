@@ -481,6 +481,370 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-03-05T16:38:41.661",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "J. K. Rowling",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-03-05T16:42:32.826",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Jujutsu Kaisen 0",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2024-03-05T16:42:52.918",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Jujutsu Kaisen 6",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2024-03-05T16:43:18.430",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Jujutsu Kaisen 06",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2024-03-05T16:45:54.804",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Jujutsu Kaisen 1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2024-03-05T16:46:10.827",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Jujutsu Kaisen 01",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2024-03-05T16:47:34.600",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Jujutsu Kaisen 02",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2024-03-05T16:49:38.175",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Harry Potter Dan Batu Bertuah",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2024-03-05T16:51:30.169",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Harry Potter dan Tawanan Azkaban",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2024-03-05T16:53:03.031",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Harry Potter dan Kamar Rahasia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2024-03-05T16:55:57.337",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "J. K. Rowling",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tentang penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2024-03-05T17:09:35.274",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Widodo Budhiarto",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2024-03-05T17:09:59.008",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Widodo Budiharto",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama penulis\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2024-03-05T17:21:21.580",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "ANDI OFFSET",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2024-03-05T17:23:52.628",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Jubilee Enterprise",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2024-03-05T17:39:24.194",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "BIP",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2024-03-05T17:47:31.439",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Tian Topandi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2024-03-05T17:57:01.897",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Robin Sharma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2024-03-05T17:59:11.342",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Harry Potter dan Batu Bertuah",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Judul buku\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2024-03-05T18:00:40.770",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Harry Potter dan Pangeran Berdarah Campuran",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2024-03-05T18:01:45.633",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Harry Potter dan Piala Api",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2024-03-05T18:03:02.929",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Harry Potter dan Orde Phoenix",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2024-03-05T18:04:48.794",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2024-03-05T18:06:49.414",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "Python untuk Analisis dan Visualisasi Data",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2024-03-05T18:08:25.095",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "Anggara Kasih",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2024-03-05T18:10:05.906",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "The Monk Who Sold His Ferrari: Perjalanan Mencari Kebahagiaan Hidup Sejati",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2024-03-05T18:35:14.281",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Jujutsu Kaisen 01",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2024-03-05T18:38:24.246",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Jujutsu Kaisen 01",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Deskripsi\"]}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -845,7 +1209,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$390000$EjuCCLk5Q4r5ibu2uTpyUU$VN5lp6/GPBJf1JCI4/6BiEM0qandLRwzM9sDr7a9b5g=",
-    "last_login": "2024-02-20T14:48:20.064",
+    "last_login": "2024-03-05T16:34:07.846",
     "is_superuser": true,
     "username": "uzumakiaji",
     "first_name": "",
@@ -948,6 +1312,14 @@
 },
 {
   "model": "sessions.session",
+  "pk": "3u6y6z1ghnam5f200omwglqg68m6yw52",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pBhKBRcuvcMhGGKVA0kpV0Z765NutDtf-_9lwhxW0vY-rSEmcVZKHH63Simx1R3wPdYb02mVtdlJrkr8qBdXhtPz8vh_h2U2Mu3Hhm1HgFTQqWMjmDIOUOa2HqIlMAigDVs7YCQ2aiMSg-afPbZjWjF-wO1qTab:1rhRBZ:qj6efi2Na7SXRAtg6Rv_kxOERT49aI1ynSZF5WZqRQw",
+    "expire_date": "2024-03-19T16:34:09.512"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "dzk47oz6wzadp91kblu2mwbtwwy6qz1h",
   "fields": {
     "session_data": ".eJxVjEEOwiAQRe_C2pBhKBRcuvcMhGGKVA0kpV0Z765NutDtf-_9lwhxW0vY-rSEmcVZKHH63Simx1R3wPdYb02mVtdlJrkr8qBdXhtPz8vh_h2U2Mu3Hhm1HgFTQqWMjmDIOUOa2HqIlMAigDVs7YCQ2aiMSg-afPbZjWjF-wO1qTab:1raZjg:jfW4z4LntURAjMEoH1ZFk14-H4Snvwv29iMPjmYo0-g",
@@ -1027,6 +1399,66 @@
   }
 },
 {
+  "model": "produk.penulis_buku",
+  "pk": 7,
+  "fields": {
+    "created": "2024-03-05T16:38:41.495",
+    "updated": "2024-03-05T16:55:57.337",
+    "slug": "j-k-rowling",
+    "nama_penulis": "J. K. Rowling",
+    "nama": "Joanne Rowling",
+    "tentang_penulis": "Joanne Kathleen Rowling, CH, OBE, FRCPE, FRSL (lahir 31 Juli 1965), dikenal dengan nama pena J. K. Rowling, adalah seorang penulis, filantropis, produser film, dan penulis skenario Inggris. Dia adalah penulis seri Harry Potter, yang telah memenangkan banyak penghargaan dan terjual lebih dari 500 juta kopi pada tahun 2018, dan pada 2008 menjadi seri buku anak-anak terlaris dalam sejarah. Buku-buku tersebut menjadi landasan diproduksinya seri film populer. Rowling juga menulis fiksi kriminal dengan nama pena Robert Galbraith.\r\n\r\nLahir di Yate, Gloucestershire, Rowling bekerja sebagai peneliti dan sekretaris dwibahasa untuk Amnesty International pada tahun 1990 ketika ia menyusun ide untuk seri Harry Potter saat berada di dalam kereta yang terlambat dari Manchester ke London. Selama tujuh tahun berikutnya, ia mengalami berbagai peristiwa, seperti kematian ibunya, kelahiran anak pertamanya, perceraian dengan suami pertamanya, dan hidup dalam kemiskinan sampai novel pertamanya, Harry Potter dan Batu Bertuah, diterbitkan pada tahun 1997. Novel tersebut dilanjutkan dengan enam sekuel, yang terakhir dirilis pada tahun 2007. Sejak saat itu, Rowling telah menulis beberapa buku untuk pembaca dewasa, antara lain Perebutan Kursi Kosong (2012), dan dengan nama samaran Robert Galbraith, ia menulis seri fiksi kriminal Cormoran Strike. Pada tahun 2020, buku \"dongeng politik\" karangannya, The Ickabog, dirilis dalam bentuk cerita bersambung secara daring.\r\n\r\nKehidupan Rowling berubah drastis, mulai dari hidup dengan mengandalkan tunjangan pemerintah sampai dinobatkan menjadi penulis miliarder pertama di dunia oleh Forbes. Forbes melaporkan bahwa Rowling kehilangan status miliardernya setelah menyumbangkan sebagian besar penghasilannya untuk amal. Total penghasilan dari penjualan buku-bukunya di Inggris melebihi £238 juta, menjadikannya sebagai penulis buku terlaris yang masih hidup di Inggris. Sunday Times memperkirakan kekayaan Rowling sebesar £820 juta pada tahun 2021, menjadikannya orang terkaya ke-196 di Inggris. Rowling dianugerahi Order of the Companions of Honor (CH) pada Tahun 2017 atas jasanya dalam bidang kesastraan dan filantropi. Ia mendirikan Volant Charitable Trust untuk membantu perempuan, anak-anak dan remaja yang kurang beruntung dan telah mendukung banyak badan amal, termasuk Comic Relief, Gingerbread, sejumlah yayasan sklerosis multipel dan penyakit coronavirus 2019 serta meluncurkan badan amalnya sendiri bernama Lumos.\r\n\r\nMajalah Time menempatkannya di posisi kedua Person of the Year 2007, menghargai inspirasi sosial, moral, dan politik yang ia berikan kepada para penggemarnya. Pada Oktober 2010, ia dinobatkan sebagai \"Perempuan Paling Berpengaruh di Inggris\" oleh The Guardian. Rowling turut menyuarakan pandangannya mengenai politik Inggris, ia khususnya menentang kemerdekaan Skotlandia dan Brexit, dan dikritik terkait hubungannya dengan media. Sejak akhir 2019, Rowling secara terbuka mengungkapkan pendapatnya tentang transgender dan hak-hak asasi mereka. Pandangannya ini dianggap transfobia oleh organisasi pendukung LGBT dan beberapa feminis, tetapi juga mendapat dukungan dari feminis dan tokoh lainnya."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 8,
+  "fields": {
+    "created": "2024-03-05T17:09:35.240",
+    "updated": "2024-03-05T17:09:59.008",
+    "slug": "widodo-budiharto",
+    "nama_penulis": "Widodo Budiharto",
+    "nama": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM.",
+    "tentang_penulis": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM. Lahir di Tanjung Pinang pada tanggal 27 April 1977. Beliau menghabiskan masa kecilnya di Tanjung Pinang sebelum akhirnya memutuskan untuk melanjutkan studinya di Fisika Instrumentasi, Universitas Indonesia pada tahun 1995. Dalam masa studinya, beliau aktif di organisasi kelompok riset jurusan. Di tahun 2002, Prof. Widodo memulai perjalanan karirnya dengan bergabung bersama BINUS University dan pada tahun 2003 beliau meraih gelar Magister Komputer dari STT Benarif Indonesia di bidang Teknik Informatika dan melanjutkan program doktornya di Institut Teknologi Sepuluh Nopember pada tahun 2008. Perjalanan panjang tersebut berhasil mengantarkan Prof. Widodo menjadi seorang Guru Besar dan meraih gelar Profesor di Bidang Ilmu Kecerdasan Buatan pada Agustus 2017 lalu.\r\n\r\nSepanjang perjalanannya, beliau berhasil meraih hibah dan beasiswa ke mancanegara, antara lain dari Erasmus Mundus sebagai penerima scholar di Universite de Bourgogne (Perancis) pada tahun 2008, Peraih Hibah Kompetensi DIKTI 2015-2016, Peraih Hibah Visiting Professor Hosei University (Jepang), Peraih Hibah Ristek Insinas RI 2014, Peraih JASSO Scholarship, Peraih Sandwich PhD (Jepang), Peraih Hibah Summer School on Images and Robotics (Mexico-France) pada tahun 2009, Peraih Hibah Toray Science and Technology Research Grant pada tahun 2014 dan2016, serta pada awal tahun 2017 beliau berhasil menjadi peraih Grant FICEM Erasmus Mundus sebagai Profesor tamu di Universite de Lorraine, NRCS Inria, Prancis 2017.\r\n\r\nDengan segudang ilmu yang dimilikinya akan teknik informatika, beliau menyalurkan ilmu-ilmunya melalui tulisan-tulisan. Hingga saat ini beliau telah menulis 35 buku, puluhan jurnal dan paper internasional terakreditasi dan bereputasi. Tidak hanya menulis, beliau juga berperan sebagai pengajar di School of Computer Science, BINUS University. Berpedoman pada visi BINUS sebagai Universitas yang akan terus berinovasi, hingga saat ini beliau telah memiliki 9 buah produk diantaranya Kursi Roda Berbasis Pikiran “Ratanggalih” dan robot edukasi “BIMAX”. Keinginan besar beliau untuk membantu kaum difable dan meningkatkan kualitas pendidikan di Indonesia membuat beliau selalu mencoba menemukan inovasi terbaru yang kelak berguna bagi nusa dan bangsa."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 9,
+  "fields": {
+    "created": "2024-03-05T17:23:52.611",
+    "updated": "2024-03-05T17:23:52.611",
+    "slug": "jubilee-enterprise",
+    "nama_penulis": "Jubilee Enterprise",
+    "nama": "Jubilee Enterprise",
+    "tentang_penulis": "Sejak 1999, Jubilee Enterprise telah menjadi market leader di industri publishing Indonesia. Buku cetak (Printed Book), yang menjadi produk unggulan kami, sudah banyak dijual di Toko Buku Gramedia seluruh Indonesia, serta telah membantu dan memberi ilmu pengetahuan yang original dan mudah dimengerti bagi semua keluarga, pelajar, dan pengusaha. Bicara tentang kuantitas, hampir 1000 judul buku telah diproduksi (sebagian besar bergenre Teknologi Informasi), sehingga membawa Jubilee Enterprise menjadi perusahaan terbesar di Indonesia untuk kategori industri penerbitan, bahkan untuk kawasan Asia Tenggara. Itu dapat berarti, ratusan ribu eksemplar buku yang ditulis dan diproduksi oleh Jubilee Enterprise telah beredar di masyarakat, tidak hanya di Indonesia namun hingga Malaysia, sehingga mengokohkan Jubilee sebagai salah satu pelaku industri teknologi informasi yang ikut mengembangkan dunia IT di tanah air. Prestasi ini dapat terwujud dengan baik karena kerja sama yang sangat erat dengan berbagai partner utama, seperti PT Elex Media Komputindo dan Kelompok Kompas Gramedia, serta dukungan berbagai pihak lainnya."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 10,
+  "fields": {
+    "created": "2024-03-05T17:47:31.437",
+    "updated": "2024-03-05T17:47:31.437",
+    "slug": "tian-topandi",
+    "nama_penulis": "Tian Topandi",
+    "nama": "Tian Topandi",
+    "tentang_penulis": "Tian Topandi adalah seorang penulis novel dan skenario asal Indonesia. Ia lahir di Ciamis, Jawa Barat, pada tahun 1985. Ia menyelesaikan pendidikan sarjananya di Fakultas Ilmu Komunikasi Universitas Padjadjaran, Bandung.\r\nTopandi mulai menulis novel sejak tahun 2010. Novel pertamanya, berjudul \"Journey\", diterbitkan pada tahun 2016. Novel ini bercerita tentang seorang perempuan muda yang harus berjuang untuk menemukan jati dirinya.\r\nNovel kedua Topandi, berjudul \"Nun Mati\", diterbitkan pada tahun 2022. Novel ini bercerita tentang seorang prajurit TNI yang ditugaskan untuk menumpas pemberontakan Darul Islam di Ciamis. Di tengah perang, ia bertemu dengan seorang perempuan setengah waras yang memiliki kekuatan misterius.\r\nNovel \"Nun Mati\" berhasil memenangkan penghargaan Best Mystery Novel dalam ajang Scarlet Pen Awards 2022."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 11,
+  "fields": {
+    "created": "2024-03-05T17:57:01.882",
+    "updated": "2024-03-05T17:57:01.882",
+    "slug": "robin-sharma",
+    "nama_penulis": "Robin Sharma",
+    "nama": "Robin Sharma",
+    "tentang_penulis": "Robin Sharma adalah seorang penulis Kanada, terkenal karena seri bukunya The Monk Who Sold His Ferrari. Sharma bekerja sebagai pengacara litigasi hingga usia 25 tahun, ketika ia menerbitkan sendiri MegaLiving (1994), sebuah buku tentang manajemen stres dan spiritualitas. Dia awalnya juga menerbitkan sendiri The Monk Who Sold His Ferrari, yang kemudian diambil untuk distribusi yang lebih luas oleh HarperCollins. Sharma telah menerbitkan 12 buku lainnya, dan mendirikan perusahaan pelatihan Sharma Leadership International.\r\n\r\nSharma berasal dari India. Dia memiliki gelar Master di bidang hukum. Awalnya, dia bekerja sebagai pengacara, tapi dia bilang dia tidak bisa menemukan kepuasan atau kedamaian di dalamnya. Sharma memulai karir menulisnya pada usia 25 tahun. Ia dikenal luas karena buku keduanya, The Monk Who Sold His Ferrari. Setelah buku keduanya sukses, dia berhenti dari karirnya sebagai pengacara dan menjadi penulis penuh waktu. Belakangan, ia juga menjadi populer sebagai pembicara publik. Dia berkonsultasi dengan CEO dan pemimpin perusahaan lainnya mengenai pertanyaan tentang motivasi karyawan. Ia juga mengadakan pelatihan untuk perusahaan seperti Nike, Microsoft, IBM, dan FedEx. Organisasi seperti Universitas Yale, Harvard Business School, dan NASA juga memanggilnya untuk memberikan pidato publik."
+  }
+},
+{
   "model": "produk.penerbit_buku",
   "pk": 1,
   "fields": {
@@ -1063,6 +1495,32 @@
     "instansi": "PT. Elex Media Komputindo",
     "tentang_penerbit": "PT Elex Media Komputindo adalah sebuah perusahaan penerbit di Indonesia yang mengkhususkan diri dalam penerbitan buku, komik, majalah, novel, dan media cetak lainnya. Didirikan pada tanggal 15 Januari 1985, Elex Media Komputindo merupakan salah satu anak perusahaan dari Kompas Gramedia Group. Kantor pusatnya berada di Tanah Abang, Jakarta Pusat.\r\n\r\nElex Media Komputindo dikenal sebagai pelopor penerbitan manga di Indonesia, dan sekarang merupakan salah satu penerbit komik terbesar di Indonesia.",
     "logo_penerbit": "elex_media_komputindo_logo.png"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 4,
+  "fields": {
+    "created": "2024-03-05T17:21:21.435",
+    "updated": "2024-03-05T17:21:21.435",
+    "slug": "cv-andi-offset",
+    "penerbit": "ANDI OFFSET",
+    "instansi": "CV. Andi Offset",
+    "tentang_penerbit": "Penerbit Andi merupakan perusahaan yang bergerak di bidang Penerbit dan Percetakan. Perusahaan ini didirikan di Yogyakarta oleh Bapak JH Gondowijoyo pada tanggal 4 Januari 1980. Saat ini kami ada di 22 propinsi di Indonesia, dengan jumlah 30 cabang. Rencana kami akan memperluas pasar di daerah yang belum terjangkau.\r\n\r\nJl. Beo No.38-40, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+    "logo_penerbit": "1662620119.jpeg"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 5,
+  "fields": {
+    "created": "2024-03-05T17:39:23.974",
+    "updated": "2024-03-05T17:39:23.974",
+    "slug": "bhuana-ilmu-populer",
+    "penerbit": "BIP",
+    "instansi": "Bhuana Ilmu Populer",
+    "tentang_penerbit": "Bhuana Ilmu Populer (BIP) yang berdiri pada tanggal 22 September 1992 bergerak di bidang penerbitan. BIP tumbuh menjadi salah satu penerbitan besar di Indonesia yang berada di bawah Kompas Gramedia. Selain menjadi penerbit yang menerbitkan buku untuk dipublikasikan secara luas, BIP juga menjadi co-publishing bagi penulis/institusi yang membutuhkan jasa menulis atau mencetak buku. Presiden Indonesia saat ini, Bapak Joko Widodo, dan mantan presiden Indonesia, Bapak Susilo Bambang Yudhoyono, merupakan salah satu pengguna jasa co- publishing BIP.\r\n\r\nBIP lebih berfokus pada penerbitan buku anak, seperti edukomik, dongeng, picture book, dan buku aktivitas bagi balita dan anak-anak. Namun, BIP juga tidak mengesampingkan buku-buku nonfiksi yang bertema kesehatan, bisnis, kepemimpinan, motivasi, self-help, dan buku penunjang sekolah. Setiap tahun, BIP menerbitkan lebih dari 300 judul buku yang 60%-nya merupakan buku anak. BIP mempunyai imprint yang menerbitkan buku dengan kategori khusus, yaitu Bhuana Sastra untuk novel, Genta untuk buku kristen, dan Qibla untuk buku islam.\r\n\r\nSejak tahun 2004, BIP melebarkan sayap dengan menerbitkan produk geospasial, contohnya atlas dan peta panduan perjalanan. BIP memiliki tim cartographer yang bekerja sama dengan pemerintah atau lembaga swasta untuk memetakan kota-kota besar, seperti Jakarta, Surabaya, dan Bali. Selain itu, BIP juga menyediakan peta perjalanan wisata. Setelah lebih dari 10 tahun menjalankan lini peta ini, sekarang, BIP terkenal sebagai penyedia data geospasial akurat kota besar di Indonesia. Banyaknya permintaan di bidang digital, BIP pun ikut mengembangkan peta digital.\r\n\r\nDengan slogan “Passion for Knowledge”, BIP mendedikasikan diri untuk menerbitkan buku-buku yang membantu orang-orang untuk belajar sendiri. Karena pembaca utamanya adalah anak-anak, BIP dengan serius dan hati-hati dalam menciptakan buku anak berkualitas tinggi. BIP sangat menyadari ada sebuah pertanggungjawaban dalam mendidik generasi muda untuk mempersiapkan mereka membangun masyarakat intelektual yang lebih baik di masa depan.\r\n\r\nPerhatian BIP dalam mendidik generasi muda dengan buku-buku anak berkualitas tinggi melahirkan sebuah program amal yang disebut Books for Friend (BFF). Melalui program ini, BIP mendonasikan Rp100 dari setiap buku terjual untuk menyediakan buku-buku ke tempat baca atau perpustakaan umum kecil di daerah terpencil di Indonesia. BFF membuat BIP dapat menjangkau anak-anak yang tidak mampu membeli buku untuk dibaca. Ini merupakan usaha BIP dalam berbagi pengetahuan terhadap anak yang kurang mampu. BIP percaya setiap anak berhak untuk mendapatkan pengetahuan baik yang kaya maupun yang miskin.\r\n\r\nSebagai sebuah perusahaan yang berada di bawah naungan Kompas Gramedia, BIP mempunyai keistimewaan untuk men-display buku-buku terbitannya di 107 gerai toko buku Gramedia di seluruh Indonesia. Selain di toko buku Gramedia, buku-buku BIP juga tersedia di gerai modern lainnya. Untuk menjangkau semua kalangan, BIP menjual buku digital di Scoop dan Gramediana, yang merupakan toko buku digital terkemuka di Indonesia. Agar tidak ketinggalan tantangan di dunia digital saat ini, BIP selalu berada di garis depan dalam berinovasi dengan menggunakan teknologi digital untuk menciptakan pengalaman membaca yang unik.\r\n\r\nBIP akan terus memperluas pasar dengan membangun kerja sama internasional, salah satunya dengan selalu mengunjungi pameran buku internasional, seperti Frankfurt Book Fair, Bologna Children Books Fair, Seoul Book Fair, London Book Fair, Beijing Book Fair, dan Bucheon International Comic Festival. Beberapa copyright buku anak BIP telah terjual ke Vietnam, Malaysia, dan India. Buku-buku tersebut adalah buku lokal yang ditulis oleh penulis buku anak Indonesia. Kerja sama ini memperkuat identitas BIP sebagai penerbit buku anak terkemuka di Indonesia.",
+    "logo_penerbit": "Logo-BHUANA-ILMU-POPULER-313.jpg"
   }
 },
 {
@@ -1196,7 +1654,7 @@
   "pk": 8,
   "fields": {
     "created": "2023-10-24T14:18:55.472",
-    "updated": "2024-02-15T18:57:00.415",
+    "updated": "2024-03-05T16:43:18.428",
     "slug": "jujutsu-kaisen-06",
     "judul_buku": "Jujutsu Kaisen 06",
     "penulis": 5,
@@ -1206,6 +1664,240 @@
     "sampul_buku": "Jujutsukaisen_6.jpg",
     "thumbnail_sampul": "Jujutsukaisen_6.jpg",
     "harga": 34000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 9,
+  "fields": {
+    "created": "2024-03-05T16:42:32.658",
+    "updated": "2024-03-05T16:42:32.658",
+    "slug": "jujutsu-kaisen-0",
+    "judul_buku": "Jujutsu Kaisen 0",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2017,
+    "deskripsi": "Manga Jujutsu Kaisen yang dibuat oleh komikus bernama Akutami Gege ini bercerita tentang Yuuji adalah seorang jenius di trek dan lapangan. Tapi dia sama sekali tidak tertarik untuk berputar-putar, dia bahagia sebagai seorang clam di Klub Penelitian Ilmu Gaib. Meskipun dia hanya ada di klub untuk iseng, keadaan menjadi serius ketika semangat nyata muncul di sekolah! Hidup akan menjadi sangat aneh di SMA Kota Sugisawa!\r\n\r\nManga ini mengisahkan bocah yang telah terkutuk oleh kutukan yang bernama rika chan. Rika chan adalah kekasih yuta okkotsu namun pada saat 6 tahun yang lalu Rika mengalami kecelakaan yang membuat setengah kepalanya pecah, dan itu tepat di depan kekasih nya yaitu yuta okkotsu, dan semenjak itu rika selalu berada disisi yuta okkotsu dan terus melindungi yuta!\r\n\r\nSinopsis\r\nYuta Okkotsu seorang siswa SMA yang menginginkan hukuman mati untuk dirinya sendiri. Dia menderita karena Rika - roh pendendam yang menghantuinya. Namun, Satoru Gojo, seorang guru di “Akademi Jujutsu” - sekolah para shaman, meyakinkan Okkotsu untuk pindah ke sekolah tersebut. Inilah prekuel dari JUJUTSU KAISEN!!\r\n\r\nYuji Itadori seorang murid SMA dengan kemampuan atletik yang luar biasa. Kesehariannya adalah menjenguk kakeknya yang terbaring di rumah sakit. Suatu hari, segel \"objek terkutuk\" yang berada di sekolahnya terlepas, monster-monster pun mulai bermunculan. Yuji menyusup ke dalam gedung sekolah demi menolong senior di klubnya, akan tetapi...!?",
+    "sampul_buku": "Cover_Depan_Jujutsu_Kaisen_0.jpg",
+    "thumbnail_sampul": "Cover_Depan_Jujutsu_Kaisen_0.jpg",
+    "harga": 40000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 10,
+  "fields": {
+    "created": "2024-03-05T16:45:54.754",
+    "updated": "2024-03-05T18:38:23.164",
+    "slug": "jujutsu-kaisen-01",
+    "judul_buku": "Jujutsu Kaisen 01",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Disclaimer\r\nCerita dalam komik ini mengandung materi yang diperuntukkan untuk pembaca 13 tahun keatas. Tidak dianjurkan untuk dibaca anak-anak di bawah umur 13 tahun.\r\n\r\nJujutsu Kaisen adalah sebuah seri manga shounen asal Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Manga ini dimuat berseri dalam majalah Weekly Shounen Jump terbitan Shueisha sejak Maret 2018, dan telah diterbitkan menjadi dua puluh volume tankobon per Agustus 2022.\r\n\r\nYuuji Itadori adalah seorang siswa SMA dengan atletisitas yang tidak wajar yang tinggal di Sendai bersama kakeknya. Ia sering menghindari Klub Lari karena keengganannya pada bidang atletik, meskipun dia memiliki bakat bawaan untuk olahraga tersebut. Sebaliknya, dia memilih untuk bergabung dengan Klub Penelitian Ilmu Gaib, agar dirinya dapat bersantai dan bergaul dengan para seniornya. Setiap hari, Yuuji meninggalkan sekolah pada pukul 17.00 untuk mengunjungi kakeknya di rumah sakit. Ketika dia mengunjunginya, kakeknya memberikan dua pesan kuat kepada Yuuji, yaitu \"selalu membantu orang\" dan \"mati dikelilingi orang\". Setelah kematian kakeknya, Yuuji menafsirkan pesan-pesan tersebut sebagai satu pernyataan bahwa setiap orang berhak mendapatkan \"kematian yang layak\".\r\n\r\nSinopsis\r\nYuuji Itadori seorang murid SMA dengan kemampuan atletik yang luar biasa. Kesehariannya adalah menjenguk kakeknya yang terbaring di rumah sakit. Suatu hari, segel \"objek terkutuk\" yang berada di sekolahnya terlepas, monster-monster pun mulai bermunculan. Yuji menyusup ke dalam gedung sekolah demi menolong senior di klubnya, akan tetapi...!?",
+    "sampul_buku": "9786230022180_Jujutsukaisen_1.jpg",
+    "thumbnail_sampul": "9786230022180_Jujutsukaisen_1.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 11,
+  "fields": {
+    "created": "2024-03-05T16:47:34.582",
+    "updated": "2024-03-05T16:47:34.582",
+    "slug": "jujutsu-kaisen-02",
+    "judul_buku": "Jujutsu Kaisen 02",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Di antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang. Komik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nKomik Jujutsu Kaisen 2 karya Gege Akutami menjadi salah satu komik yang wajib untuk diikuti. Sebuah kutukan yang menyerupai janin tiba-tiba muncul di lapas anak pria. Itadori dan murid tahun pertama lainnya diutus untuk menyelamatkan orang-orang yang masih berada di lapas tersebut. Akan tetapi, janin yang telah bermetamorfosis menjadi kutukan tingkat tinggi itu melancarkan serangannya sehingga Itadori dkk berada dalam bahaya. Itadori kemudian bertukar dengan Sukuna untuk mengalahkan kutukan tersebut, tapi...!? Yuk, mulai ikuti dan simak serial komik ini dengan konsep pertarungan unik dan epik.",
+    "sampul_buku": "9786230024399_Jujutsukaisen_2.jpg",
+    "thumbnail_sampul": "9786230024399_Jujutsukaisen_2.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 12,
+  "fields": {
+    "created": "2024-03-05T16:49:38.175",
+    "updated": "2024-03-05T17:59:11.299",
+    "slug": "harry-potter-dan-batu-bertuah",
+    "judul_buku": "Harry Potter dan Batu Bertuah",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Seumur hidup, Harry Potter tidak pernah berurusan dengan sihir. Dia tinggal bersama keluarga Dursley yang kejam dan Dudley, putra mereka yang menyebalkan. Kamar Harry cuma lemari sempit di kolong tangga, dan selama sebelas tahun, ulang tahunnya tak pernah dirayakan. Namun, tiba-tiba datang burung hantu membawa surat misterius: surat berisi undangan ke tempat menakjubkan bernama Sekolah Sihir Hogwarts. Dan di sana bukan hanya ada banyak teman, pertandingan olahraga naik sapu terbang, dan sihir dalam segala hal dari pelajaran sampai makanan tapi juga ada takdir luar biasa yang sudah lama menantinya. Jika Harry mampu bertahan hidup.\r\n\r\nHarry Potter, hampir seluruh orang di dunia mengenal tokoh anak laki-laki penyihir ini. Jika kamu adalah salah satu penggemar Harry Potter, buku yang satu ini tentu menarik perhatian kamu. Banyak pelajaran yang bisa di dapat dalam novel ini, keseruan dan humornya pun membuat novel ini semakin unggul. Alur ceritanya sangat menarik dan ada banyak mantra yang menarik juga bagi kamu yang mungkin ingin mencoba melafalkannya seolah-olah kamu adalah salah satu penyihir dari dunia Harry Potter. Novel ini semakin dibuat menarik karena persahabatan antara Harry, Ron dan Hermione yang kuat, terutama di detik-detik kesanggupan mereka untuk menggagalkan rencana besar yang jahat. Cerita novel yang menegangkan, dapat membuat jantung berdebar-debar tetapi tetap dapat menghibur para pembaca dengan sisipan humor didalamnya.",
+    "sampul_buku": "9786020337647_harry-potter-dan-batu-bertuah-cover-baru.jpg",
+    "thumbnail_sampul": "9786020337647_harry-potter-dan-batu-bertuah-cover-baru.jpg",
+    "harga": 102400,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 13,
+  "fields": {
+    "created": "2024-03-05T16:51:30.169",
+    "updated": "2024-03-05T16:51:30.169",
+    "slug": "harry-potter-dan-tawanan-azkaban",
+    "judul_buku": "Harry Potter dan Tawanan Azkaban",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Novel Harry Potter dan Tawanan Azkaban merupakan terjemahan Bahasa Indonesia dari novel Harry Potter and The Prisoner of Azkaban, novel ketiga seri Harry Potter yang ditulis oleh J.K. Rowling. Novel ini mengisahkan tentang Harry yang berusaha menghindari Sirius Black, penyihir jahat yang baru kabur dari penjara Azkaban.\r\n\r\nSirius Black yang kabur dari penjara Azkaban ternyata mengincar Harry dan membuat Kementrian Sihir mengirimkan Dementor dari Azkaban untuk berpatroli di Hogwarts. Saat tahun ketiga Harry bersekolah, ia mendapatkan ancaman maut dan akhirnya ia mengetahui fakta baru tentang masa lalunya. Ia juga bertemu dan bertatap muka dengan pelayan Pangeran Kegelapan yang paling setia.\r\n\r\nSinopsis Buku\r\n\r\nKetika Bus Ksatria membelah kegelapan malam dan berhenti mendadak di hadapan Harry Potter, maka dimulailah tahun ajaran berikutnya di Hogwarts yang jauh dari biasa-biasa saja.\r\n\r\nSirius Black, pembunuh massal dan pengikut Lord Voldemort, kabur dari penjara Azkaban— dan konon dia memburu Harry.\r\n\r\nPada pelajaran Ramalan pertama, Profesor Trelawney melihat terawangan kematian dalam ampas teh anak itu...\r\n\r\nNamun, tak ada yang lebih menakutkan daripada para Dementor, sosok-sosok pengisap jiwa, yang gentayangan di sekeliling sekolah.",
+    "sampul_buku": "9786020342733_harry-potter-dan-tawanan-azkaban-_harry-potter-and-the-prisoner-of-azkaban_-cover-baru.jpg",
+    "thumbnail_sampul": "9786020342733_harry-potter-dan-tawanan-azkaban-_harry-potter-and-the-prisoner-of-azkaban_-cover-baru.jpg",
+    "harga": 136000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 14,
+  "fields": {
+    "created": "2024-03-05T16:53:03.031",
+    "updated": "2024-03-05T16:53:03.031",
+    "slug": "harry-potter-dan-kamar-rahasia",
+    "judul_buku": "Harry Potter dan Kamar Rahasia",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Buku Harry Potter dan Kamar Rahasia merupakan terjemahan Bahasa Indonesia dari buku Harry Potter and the Chamber of Secrets, buku kedua seri Harry Potter yang ditulis oleh J.K. Rowling. Buku ini mengisahkan tentang kepulangan Harry pada liburan musim panas.\r\n\r\nHarry bertemu Dobby, makhluk aneh setengah manusia yang memberitahu Harry untuk tidak kembali ke Hogwarts dengan alasan keselamatan. Namun, Harry menghiraukan saran Dobby dan memutuskan tetap kembali ke Hogwarts. Naasnya, perkataan Dobby berubah menjadi kenyataan. Harry mengalami kejadian aneh di Hogwarts. Ia memutuskan untuk memecahkan teka-teki itu.\r\n\r\nSinopsis Buku\r\n\r\n\"Banyak yang dialami Harry Potter pada libur musim panasnya kali ini, di antaranya: ulang tahun paling payah, aneka peringatan menyeramkan dari peri-rumah bernama Dobby, dan kabur naik mobil terbang dari rumah keluarga Dursley bersama sahabatnya, Ron Weasley!\r\n\r\nSekembalinya di Sekolah Sihir Hogwarts, Harry mendengar berbagai bisikan aneh menggema di koridor-koridor kosong—lalu serangan-serangan pun mulai. Para murid ditemukan dalam keadaan membatu...\r\n\r\nPeringatan mengerikan Dobby seolah jadi kenyataan.\"",
+    "sampul_buku": "9786020339184_harry-potter-dan-kamar-rahasia-cover-baru.jpg",
+    "thumbnail_sampul": "9786020339184_harry-potter-dan-kamar-rahasia-cover-baru.jpg",
+    "harga": 110400,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 15,
+  "fields": {
+    "created": "2024-03-05T18:00:40.753",
+    "updated": "2024-03-05T18:00:40.753",
+    "slug": "harry-potter-dan-pangeran-berdarah-campuran",
+    "judul_buku": "Harry Potter dan Pangeran Berdarah Campuran",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Novel Harry Potter dan pangeran berdarah campuran dirilis pada tanggal 8 Januari 2006 untuk versi bahasa Indonesia, sedang versi bahasa Inggris dirilis pada tanggal 16 Januari 2005 dengan judul Harry Potter and The Half Blood Prince adalah buku keenam dari tujuh novel yang direncanakan mengenai kisah populer karya J. K. Rowling.\r\nKisah ini dilatarbelakangi pada waktu Harry Potter berada pada tahun keenam sekolahnya di Hogwarts. Novel ini mengisahkan masa lalu Lord Voldemort dan persiapan Harry Potter untuk pertarungan terakhir.\r\n\r\nSinopsis\r\nKetika pada suatu malam musim panas Dumbledore tiba di Privet Drive untuk menjemput Harry Potter, tangannya yang memegang tongkat sihir tampak menghitam dan mengerut, namun dia tidak menceritakan penyebabnya. Rahasia dan kecurigaan menyebar di dunia sihir, dan Hogwarts sendiri tidak aman. Harry yakin Malfoy memiliki Tanda Kegelapan: ada Pelahap Maut di antara mereka. Harry akan membutuhkan sihir kuat dan teman-teman sejati saat dia menyelidiki rahasia-rahasia terkelam Voldemort, dan Dumbledore mempersiapkannya untuk menghadapi takdir",
+    "sampul_buku": "9786020377414_Harry-Potter-dan-Pangeran-Berdarah-Campuran-Harry-Potter-and-The-Half-Blood-Prince.jpg",
+    "thumbnail_sampul": "9786020377414_Harry-Potter-dan-Pangeran-Berdarah-Campuran-Harry-Potter-and-The-Half-Blood-Prince.jpg",
+    "harga": 200000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 16,
+  "fields": {
+    "created": "2024-03-05T18:01:45.633",
+    "updated": "2024-03-05T18:01:45.633",
+    "slug": "harry-potter-dan-piala-api",
+    "judul_buku": "Harry Potter dan Piala Api",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Harry Potter dan Piala Api karya J. K. Rowling merupakan rangkaian novel keempat dalam seri Harry Potter. Dalam cerita kali ini Harry dan kawan-kawannya memasuki tahun keempat di sekolah sihir Hogwarts. Harry dikejutkan dengan namanya yang didaftarkan pada Turnamen Triwizard. Novel ini juga telah diadaptasi ke versi film dengan judul Harry Potter and The Goblet of Fire.\r\n\r\nSinopsis buku\r\n\r\nDi Hogwarts, Profesor Dumbledore mengumumkan bahwa Alastor \"Mad-Eye\" Moody menjadi guru Pertahanan Terhadap Ilmu Hitam yang baru. Hogwarts akan menjadi tuan rumah Turnamen Triwizard. Hanya para penyihir berusia tujuh belas tahun ke atas yang boleh ikut—namun Harry tetap berkhayal menjadi juara dalam kompetisi itu.\r\n\r\nLalu pada Halloween, ketika Piala Api melakukan seleksi, Harry kaget saat dirinya terpilih. Dia harus melaksanakan tugas-tugas yang menantang maut, menghadapi naga-naga dan para penyihir Hitam. Tetapi, dengan bantuan para sahabat baiknya, Ron dan Hermione, dia mungkin akan berhasil—dan bertahan hidup.",
+    "sampul_buku": "9786020342726_harry-potter-dan-piala-api-cover-baru.jpg",
+    "thumbnail_sampul": "9786020342726_harry-potter-dan-piala-api-cover-baru.jpg",
+    "harga": 204000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 17,
+  "fields": {
+    "created": "2024-03-05T18:03:02.929",
+    "updated": "2024-03-05T18:03:02.929",
+    "slug": "harry-potter-dan-orde-phoenix",
+    "judul_buku": "Harry Potter dan Orde Phoenix",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Tidak banyak penyihir yang percaya (atau mau percaya) bahwa Voldermort telah kembali, termasuk Kementerian Sihir. Harry dan Dumbledore dianggap menyebar kabar bohong dan dianggap terganggu jiwanya. Meskipun demikian, masih banyak orang yang percaya pada Dumbledore, dan merek inilah yang tergabung dalam Orde Phoenix. Namun, karena situasi belum memungkinkan, mereka bergerak secara diam-diam untuk menghindari kecurigaan dari Kementerian. Mereka menggunakan kediaman Sirius, Grimmauld Place nomor 12 sebagai Markas Besar sehingga Sirius tidak lagi dalam pelarian, tapi tetap bersembunyi karena pihak kementrian masih mencarinya.\r\n\r\nSementara itu, Harry yang diawasi siang-malam (tanpa sepengetahuannya) oleh anggota Orde, semakin sering mengalami sakit pada bekas lukanya. Sekembalinya ke Hogwarts, Harry menghadapi persidangan karena mengeluarkan sihir di dunia Muggle dan emosinya sering tak terkendali. Pada suatu malam ia dikejutkan dengan hadirnya dementor di Privet Drive yang hendak menyerang dirinya dan Dudley. Untunglah ia berhasil menghasilkan patronus untuk melawan mereka. Namun, akibat dari hal ini, dia nyaris diusir oleh pamannya karena dikira menyerang Dudley menghadapi persidangan di Kementerian Sihir dan terancam dikeluarkan dari Hogwarts.\r\n\r\nHarry tidak sendirian: di Grimmauld Place berkumpul orde rahasia untuk melawan kekuatan gelap. Harry harus mengizinkan Profesor Snape mengajarinya cara melindungi diri dari rentetan serangan brutal Voldemort dari benaknya. Namun, serangan-serangan itu makin ganas dan Harry kehabisan waktu. Apakah Harry berhasil melakukan perlindungan diri? Apa yang akan terjadi dengan anggota Orde?",
+    "sampul_buku": "9786020361314_harry-potter_5_harry-potter-dan-orde-phoenix-cover-baru.jpg",
+    "thumbnail_sampul": "9786020361314_harry-potter_5_harry-potter-dan-orde-phoenix-cover-baru.jpg",
+    "harga": 239200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 18,
+  "fields": {
+    "created": "2024-03-05T18:04:48.791",
+    "updated": "2024-03-05T18:04:48.791",
+    "slug": "pemrograman-python-untuk-ilmu-komputer-dan-teknik",
+    "judul_buku": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
+    "penulis": 8,
+    "penerbit": 4,
+    "tahun": 2018,
+    "deskripsi": "Bahasa pemrograman python adalah salah satu jenis yang banyak digunakan saat kamu berkutik dengan data. Namun tidak hanya pada pengolahan data saja, python juga bisa digunakan untuk mengatur infrastruktur sebuah website.\r\n\r\nPython merupakan bahasa pemrograman yang paling populer saat ini terutama untuk scientific computing. Bahasa pemrograman Python sangat dibutuhkan oleh para mahasiswa, software developer, akademisi, dan peneliti di bidang Computer Science, Statistik dan Engineering.\r\n\r\nMenjadi bahasa pemrograman yang sangat populer di kalangan para programmer, python pertama kali dikenalkan kepada publik pada tahun 1991 oleh programmer komputer berkebangsaan Belanda, yakni Guido van Rossum.\r\n\r\nPria yang kini tinggal di California, Amerika Serikat ini pada awalnya menciptakan bahasa pemrograman python karena ingin mengisi waktu luangnya ketika kantor tempat dirinya bekerja harus tutup sementara untuk merayakan liburan natal. Namun, siapa sangka, proyek yang dirinya kerjakan saat itu memberikan dampak besar pada dunia pemrograman hingga saat ini.\r\n\r\nMateri yang diberikan dalam buku ini merupakan materi terkini dan dapat dijadikan pegangan untuk memulai riset di bidang:\r\n- Pemrograman Python\r\n- Computer dan Machine vision\r\n- Kecerdasan Buatan\r\n- information retrieval dan NLP\r\n- speech recognition dan robot vision.",
+    "sampul_buku": "PEMROGRAMAN_PYTHON_UNTUK_ILMU_KOMPUTER_DAN_TEKNIK.jpg",
+    "thumbnail_sampul": "PEMROGRAMAN_PYTHON_UNTUK_ILMU_KOMPUTER_DAN_TEKNIK.jpg",
+    "harga": 49500,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 19,
+  "fields": {
+    "created": "2024-03-05T18:06:49.383",
+    "updated": "2024-03-05T18:06:49.383",
+    "slug": "python-untuk-analisis-dan-visualisasi-data",
+    "judul_buku": "Python untuk Analisis dan Visualisasi Data",
+    "penulis": 9,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Profesi yang berhubungan erat dengan data memiliki prospek masa depan yang cerah. Salah satunya adalah analisis data yang bertugas untuk mengambil data, melakukan pengolahan, dan menganalisis berdasarkan kebutuhan-kebutuhan tertentu. Kemudian, data yang telah dianalisis itu bisa divisualisasikan untuk keperluan presentasi. Apabila profesi analisis data benar-benar Anda minati, maka mulailah membaca buku ini. Dengan menggunakan Python, Anda akan belajar cara menggunakan kode-kode program untuk mengolah data dari berbagai macam sumber, mulai dari list, Series, DataFrame, file CSV, hingga file MS Excel. Pembahasan di dalam buku ini meliputi:\r\n\r\n• Menggunakan Pandas untuk bekerja dengan list, Series, DataFrame, dan file CSV.\r\n• Menggunakan Matplotlib untuk membuat berbagai model chart.\r\n• Menggunakan Plotly untuk membuat berbagai model chart.\r\n• Menggunakan Openpyxl untuk mengintegrasikan data pada file MS Excel dengan Python, termasuk membuat chart.",
+    "sampul_buku": "sevge26s2yhsk37siipsld.jpg",
+    "thumbnail_sampul": "sevge26s2yhsk37siipsld.jpg",
+    "harga": 64000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 20,
+  "fields": {
+    "created": "2024-03-05T18:08:25.095",
+    "updated": "2024-03-05T18:08:25.095",
+    "slug": "anggara-kasih",
+    "judul_buku": "Anggara Kasih",
+    "penulis": 10,
+    "penerbit": 5,
+    "tahun": 2023,
+    "deskripsi": "Aruna merasa dirinya berada di puncak karier ketika baru ditunjuk sebagai branch manager. Namun, satu per satu rekan kerja Aruna menghilang, termasuk branch manager sebelumnya, Pak Arifin. Semua bukti dan tudingan meng-; arah kepada Aruna. Namun, Aruna bersikeras bahwa dia merupakan korban penculikan.\r\n\r\nJemmi meragukan penyebab kematian Pak Arifin yang ganjil, terlebih ketika kuburannya dibongkar dan tengkoraknya diambil oleh orang tidak dikenal. Sebagal polisi. Jemmi bertekad mengungkap kasus yang menimpa teman masa kecilnya sekaligus cinta pertamanya.\r\n\r\nSatu hal yang diyakini Jemmi adalah, semua kematian di sekitar Aruna berkaitan dengan ritual pesugihan Anggara Kasih.\r\n\r\nBukankah seharusnya hamparan kebun teh bisa men datangkan ketenangan jiwa sekali pun tertutup oleh gelap malam? Ataukah daun-daun teh ini jadi ribuan saksi bisu bagaimana jiwa-jiwa yang tenang itu harus meluap karena nafsu manusia\r\n\r\nSelling Point:\r\n1. Merupakan naskah novel dari Gramedia Writing Project.\r\n2. Novel dengan narasi thriller yang kuat, penulisannya pun rapi, dan penyebaran motif setiap tokohnya, memantik untuk terus membaca sampai akhir, dan mempunyai plotwist yang mengejutkan.\r\n3. Penulis aktif di media sosial, novel debutnya, Nun Mati, masuk sebagai nominasi kategori Best Mystery Novel dalam ajang Scarlet Pen Award`s 2023.",
+    "sampul_buku": "ckcwotdfj5z26odakmwgr2.jpg",
+    "thumbnail_sampul": "ckcwotdfj5z26odakmwgr2.jpg",
+    "harga": 79200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 21,
+  "fields": {
+    "created": "2024-03-05T18:10:05.906",
+    "updated": "2024-03-05T18:10:05.906",
+    "slug": "the-monk-who-sold-his-ferrari-perjalanan-mencari-kebahagiaan-hidup-sejati",
+    "judul_buku": "The Monk Who Sold His Ferrari: Perjalanan Mencari Kebahagiaan Hidup Sejati",
+    "penulis": 11,
+    "penerbit": 5,
+    "tahun": 2022,
+    "deskripsi": "Alkisah, seorang pengacara terkenal dan sukses di Amerika mengalami serangan jantung di ruang sidang akibat gaya hidup yang tidak seimbang yang menjadi salah satu fase terpenting dalam hidupnya ketika ia mempertanyakan makna hidupnya. Untuk mencari kebahagiaan dan kesempurnaan, ia bahkan rela menukar semua harta dan kemewahannya dengan kehidupan sederhana yang penuh makna di pegunungan Himalaya. Usahanya tidak sia-sia, tak lama berselang Julian seolah terlahir kembali berkat sebuah rahasia yang mampu memaksimalkan potensi dalam pikiran, tubuh, dan jiwanya dengan luapan semangat perdamaian. Secara cerdas menggabungkan kebijaksanaan spiritual abadi dari Timur dengan prinsip-prinsip terbaru dari Barat, Robin Sharma mampu menunjukkan kepada Anda langkah-langkah menuju kebahagiaan dengan keyakinan, keseimbangan, kelimpahan, dan kegembiraan yang lebih besar. Langkah-langkah tersebut disusun dalam bentuk Tujuh Kebajikan Abadi untuk Pencerahan Hidup, yaitu:\r\n1. Kuasai pikiran Anda\r\n2. Ikuti tujuan Anda\r\n3. Latihan Kaizen\r\n4. Hidup dengan disiplin\r\n5. Hargai waktu Anda\r\n6. Melayani orang lain tanpa mementingkan sendiri\r\n7. Nikmati saat ini mungkin saat ini Anda sudah paham betul siapa diri Anda dan tujuan hidup Anda, tidak ada salahnya meluangkan waktu untuk membaca buku ini guna mendapatkan kebahagian hidup sejati.",
+    "sampul_buku": "Cover_The_Monk_Who_Sold_His_Ferrari.jpg",
+    "thumbnail_sampul": "Cover_The_Monk_Who_Sold_His_Ferrari.jpg",
+    "harga": 100000,
     "stok_barang": 100
   }
 },

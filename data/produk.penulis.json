@@ -70,5 +70,65 @@
     "nama": "Rahmadya Trias Handayanto",
     "tentang_penulis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat varius nibh eu tincidunt. Pellentesque egestas elit ac blandit finibus. Maecenas eget aliquam arcu, vitae convallis arcu. Donec consequat sapien quis neque fermentum finibus. Pellentesque porttitor libero est, id venenatis arcu aliquet eget. Sed nec tellus lacinia, laoreet justo sit amet, faucibus neque. Donec ultricies ligula imperdiet convallis tempor.\r\n\r\nProin scelerisque tellus justo. Proin consequat suscipit dapibus. Donec mi velit, sagittis ac bibendum sed, varius a lacus. Fusce ac facilisis risus, a auctor mauris. Morbi nec ex pulvinar, pellentesque nisl sed, congue massa. Proin pharetra, felis sed dapibus vehicula, turpis purus viverra ipsum, sed iaculis nisi turpis ac sapien. Sed tristique lorem vel laoreet pharetra. Cras nec finibus risus. Sed varius commodo libero, ac pretium odio laoreet non. Nulla malesuada elementum iaculis. Donec mattis mauris nulla, eget rhoncus est interdum non. Proin enim risus, tristique nec turpis nec, facilisis tristique magna."
   }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 7,
+  "fields": {
+    "created": "2024-03-05T16:38:41.495",
+    "updated": "2024-03-05T16:55:57.337",
+    "slug": "j-k-rowling",
+    "nama_penulis": "J. K. Rowling",
+    "nama": "Joanne Rowling",
+    "tentang_penulis": "Joanne Kathleen Rowling, CH, OBE, FRCPE, FRSL (lahir 31 Juli 1965), dikenal dengan nama pena J. K. Rowling, adalah seorang penulis, filantropis, produser film, dan penulis skenario Inggris. Dia adalah penulis seri Harry Potter, yang telah memenangkan banyak penghargaan dan terjual lebih dari 500 juta kopi pada tahun 2018, dan pada 2008 menjadi seri buku anak-anak terlaris dalam sejarah. Buku-buku tersebut menjadi landasan diproduksinya seri film populer. Rowling juga menulis fiksi kriminal dengan nama pena Robert Galbraith.\r\n\r\nLahir di Yate, Gloucestershire, Rowling bekerja sebagai peneliti dan sekretaris dwibahasa untuk Amnesty International pada tahun 1990 ketika ia menyusun ide untuk seri Harry Potter saat berada di dalam kereta yang terlambat dari Manchester ke London. Selama tujuh tahun berikutnya, ia mengalami berbagai peristiwa, seperti kematian ibunya, kelahiran anak pertamanya, perceraian dengan suami pertamanya, dan hidup dalam kemiskinan sampai novel pertamanya, Harry Potter dan Batu Bertuah, diterbitkan pada tahun 1997. Novel tersebut dilanjutkan dengan enam sekuel, yang terakhir dirilis pada tahun 2007. Sejak saat itu, Rowling telah menulis beberapa buku untuk pembaca dewasa, antara lain Perebutan Kursi Kosong (2012), dan dengan nama samaran Robert Galbraith, ia menulis seri fiksi kriminal Cormoran Strike. Pada tahun 2020, buku \"dongeng politik\" karangannya, The Ickabog, dirilis dalam bentuk cerita bersambung secara daring.\r\n\r\nKehidupan Rowling berubah drastis, mulai dari hidup dengan mengandalkan tunjangan pemerintah sampai dinobatkan menjadi penulis miliarder pertama di dunia oleh Forbes. Forbes melaporkan bahwa Rowling kehilangan status miliardernya setelah menyumbangkan sebagian besar penghasilannya untuk amal. Total penghasilan dari penjualan buku-bukunya di Inggris melebihi £238 juta, menjadikannya sebagai penulis buku terlaris yang masih hidup di Inggris. Sunday Times memperkirakan kekayaan Rowling sebesar £820 juta pada tahun 2021, menjadikannya orang terkaya ke-196 di Inggris. Rowling dianugerahi Order of the Companions of Honor (CH) pada Tahun 2017 atas jasanya dalam bidang kesastraan dan filantropi. Ia mendirikan Volant Charitable Trust untuk membantu perempuan, anak-anak dan remaja yang kurang beruntung dan telah mendukung banyak badan amal, termasuk Comic Relief, Gingerbread, sejumlah yayasan sklerosis multipel dan penyakit coronavirus 2019 serta meluncurkan badan amalnya sendiri bernama Lumos.\r\n\r\nMajalah Time menempatkannya di posisi kedua Person of the Year 2007, menghargai inspirasi sosial, moral, dan politik yang ia berikan kepada para penggemarnya. Pada Oktober 2010, ia dinobatkan sebagai \"Perempuan Paling Berpengaruh di Inggris\" oleh The Guardian. Rowling turut menyuarakan pandangannya mengenai politik Inggris, ia khususnya menentang kemerdekaan Skotlandia dan Brexit, dan dikritik terkait hubungannya dengan media. Sejak akhir 2019, Rowling secara terbuka mengungkapkan pendapatnya tentang transgender dan hak-hak asasi mereka. Pandangannya ini dianggap transfobia oleh organisasi pendukung LGBT dan beberapa feminis, tetapi juga mendapat dukungan dari feminis dan tokoh lainnya."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 8,
+  "fields": {
+    "created": "2024-03-05T17:09:35.240",
+    "updated": "2024-03-05T17:09:59.008",
+    "slug": "widodo-budiharto",
+    "nama_penulis": "Widodo Budiharto",
+    "nama": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM.",
+    "tentang_penulis": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM. Lahir di Tanjung Pinang pada tanggal 27 April 1977. Beliau menghabiskan masa kecilnya di Tanjung Pinang sebelum akhirnya memutuskan untuk melanjutkan studinya di Fisika Instrumentasi, Universitas Indonesia pada tahun 1995. Dalam masa studinya, beliau aktif di organisasi kelompok riset jurusan. Di tahun 2002, Prof. Widodo memulai perjalanan karirnya dengan bergabung bersama BINUS University dan pada tahun 2003 beliau meraih gelar Magister Komputer dari STT Benarif Indonesia di bidang Teknik Informatika dan melanjutkan program doktornya di Institut Teknologi Sepuluh Nopember pada tahun 2008. Perjalanan panjang tersebut berhasil mengantarkan Prof. Widodo menjadi seorang Guru Besar dan meraih gelar Profesor di Bidang Ilmu Kecerdasan Buatan pada Agustus 2017 lalu.\r\n\r\nSepanjang perjalanannya, beliau berhasil meraih hibah dan beasiswa ke mancanegara, antara lain dari Erasmus Mundus sebagai penerima scholar di Universite de Bourgogne (Perancis) pada tahun 2008, Peraih Hibah Kompetensi DIKTI 2015-2016, Peraih Hibah Visiting Professor Hosei University (Jepang), Peraih Hibah Ristek Insinas RI 2014, Peraih JASSO Scholarship, Peraih Sandwich PhD (Jepang), Peraih Hibah Summer School on Images and Robotics (Mexico-France) pada tahun 2009, Peraih Hibah Toray Science and Technology Research Grant pada tahun 2014 dan2016, serta pada awal tahun 2017 beliau berhasil menjadi peraih Grant FICEM Erasmus Mundus sebagai Profesor tamu di Universite de Lorraine, NRCS Inria, Prancis 2017.\r\n\r\nDengan segudang ilmu yang dimilikinya akan teknik informatika, beliau menyalurkan ilmu-ilmunya melalui tulisan-tulisan. Hingga saat ini beliau telah menulis 35 buku, puluhan jurnal dan paper internasional terakreditasi dan bereputasi. Tidak hanya menulis, beliau juga berperan sebagai pengajar di School of Computer Science, BINUS University. Berpedoman pada visi BINUS sebagai Universitas yang akan terus berinovasi, hingga saat ini beliau telah memiliki 9 buah produk diantaranya Kursi Roda Berbasis Pikiran “Ratanggalih” dan robot edukasi “BIMAX”. Keinginan besar beliau untuk membantu kaum difable dan meningkatkan kualitas pendidikan di Indonesia membuat beliau selalu mencoba menemukan inovasi terbaru yang kelak berguna bagi nusa dan bangsa."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 9,
+  "fields": {
+    "created": "2024-03-05T17:23:52.611",
+    "updated": "2024-03-05T17:23:52.611",
+    "slug": "jubilee-enterprise",
+    "nama_penulis": "Jubilee Enterprise",
+    "nama": "Jubilee Enterprise",
+    "tentang_penulis": "Sejak 1999, Jubilee Enterprise telah menjadi market leader di industri publishing Indonesia. Buku cetak (Printed Book), yang menjadi produk unggulan kami, sudah banyak dijual di Toko Buku Gramedia seluruh Indonesia, serta telah membantu dan memberi ilmu pengetahuan yang original dan mudah dimengerti bagi semua keluarga, pelajar, dan pengusaha. Bicara tentang kuantitas, hampir 1000 judul buku telah diproduksi (sebagian besar bergenre Teknologi Informasi), sehingga membawa Jubilee Enterprise menjadi perusahaan terbesar di Indonesia untuk kategori industri penerbitan, bahkan untuk kawasan Asia Tenggara. Itu dapat berarti, ratusan ribu eksemplar buku yang ditulis dan diproduksi oleh Jubilee Enterprise telah beredar di masyarakat, tidak hanya di Indonesia namun hingga Malaysia, sehingga mengokohkan Jubilee sebagai salah satu pelaku industri teknologi informasi yang ikut mengembangkan dunia IT di tanah air. Prestasi ini dapat terwujud dengan baik karena kerja sama yang sangat erat dengan berbagai partner utama, seperti PT Elex Media Komputindo dan Kelompok Kompas Gramedia, serta dukungan berbagai pihak lainnya."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 10,
+  "fields": {
+    "created": "2024-03-05T17:47:31.437",
+    "updated": "2024-03-05T17:47:31.437",
+    "slug": "tian-topandi",
+    "nama_penulis": "Tian Topandi",
+    "nama": "Tian Topandi",
+    "tentang_penulis": "Tian Topandi adalah seorang penulis novel dan skenario asal Indonesia. Ia lahir di Ciamis, Jawa Barat, pada tahun 1985. Ia menyelesaikan pendidikan sarjananya di Fakultas Ilmu Komunikasi Universitas Padjadjaran, Bandung.\r\nTopandi mulai menulis novel sejak tahun 2010. Novel pertamanya, berjudul \"Journey\", diterbitkan pada tahun 2016. Novel ini bercerita tentang seorang perempuan muda yang harus berjuang untuk menemukan jati dirinya.\r\nNovel kedua Topandi, berjudul \"Nun Mati\", diterbitkan pada tahun 2022. Novel ini bercerita tentang seorang prajurit TNI yang ditugaskan untuk menumpas pemberontakan Darul Islam di Ciamis. Di tengah perang, ia bertemu dengan seorang perempuan setengah waras yang memiliki kekuatan misterius.\r\nNovel \"Nun Mati\" berhasil memenangkan penghargaan Best Mystery Novel dalam ajang Scarlet Pen Awards 2022."
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 11,
+  "fields": {
+    "created": "2024-03-05T17:57:01.882",
+    "updated": "2024-03-05T17:57:01.882",
+    "slug": "robin-sharma",
+    "nama_penulis": "Robin Sharma",
+    "nama": "Robin Sharma",
+    "tentang_penulis": "Robin Sharma adalah seorang penulis Kanada, terkenal karena seri bukunya The Monk Who Sold His Ferrari. Sharma bekerja sebagai pengacara litigasi hingga usia 25 tahun, ketika ia menerbitkan sendiri MegaLiving (1994), sebuah buku tentang manajemen stres dan spiritualitas. Dia awalnya juga menerbitkan sendiri The Monk Who Sold His Ferrari, yang kemudian diambil untuk distribusi yang lebih luas oleh HarperCollins. Sharma telah menerbitkan 12 buku lainnya, dan mendirikan perusahaan pelatihan Sharma Leadership International.\r\n\r\nSharma berasal dari India. Dia memiliki gelar Master di bidang hukum. Awalnya, dia bekerja sebagai pengacara, tapi dia bilang dia tidak bisa menemukan kepuasan atau kedamaian di dalamnya. Sharma memulai karir menulisnya pada usia 25 tahun. Ia dikenal luas karena buku keduanya, The Monk Who Sold His Ferrari. Setelah buku keduanya sukses, dia berhenti dari karirnya sebagai pengacara dan menjadi penulis penuh waktu. Belakangan, ia juga menjadi populer sebagai pembicara publik. Dia berkonsultasi dengan CEO dan pemimpin perusahaan lainnya mengenai pertanyaan tentang motivasi karyawan. Ia juga mengadakan pelatihan untuk perusahaan seperti Nike, Microsoft, IBM, dan FedEx. Organisasi seperti Universitas Yale, Harvard Business School, dan NASA juga memanggilnya untuk memberikan pidato publik."
+  }
 }
 ]

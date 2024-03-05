@@ -130,7 +130,7 @@
   "pk": 8,
   "fields": {
     "created": "2023-10-24T14:18:55.472",
-    "updated": "2024-02-15T18:57:00.415",
+    "updated": "2024-03-05T16:43:18.428",
     "slug": "jujutsu-kaisen-06",
     "judul_buku": "Jujutsu Kaisen 06",
     "penulis": 5,
@@ -140,6 +140,240 @@
     "sampul_buku": "Jujutsukaisen_6.jpg",
     "thumbnail_sampul": "Jujutsukaisen_6.jpg",
     "harga": 34000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 9,
+  "fields": {
+    "created": "2024-03-05T16:42:32.658",
+    "updated": "2024-03-05T16:42:32.658",
+    "slug": "jujutsu-kaisen-0",
+    "judul_buku": "Jujutsu Kaisen 0",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2017,
+    "deskripsi": "Manga Jujutsu Kaisen yang dibuat oleh komikus bernama Akutami Gege ini bercerita tentang Yuuji adalah seorang jenius di trek dan lapangan. Tapi dia sama sekali tidak tertarik untuk berputar-putar, dia bahagia sebagai seorang clam di Klub Penelitian Ilmu Gaib. Meskipun dia hanya ada di klub untuk iseng, keadaan menjadi serius ketika semangat nyata muncul di sekolah! Hidup akan menjadi sangat aneh di SMA Kota Sugisawa!\r\n\r\nManga ini mengisahkan bocah yang telah terkutuk oleh kutukan yang bernama rika chan. Rika chan adalah kekasih yuta okkotsu namun pada saat 6 tahun yang lalu Rika mengalami kecelakaan yang membuat setengah kepalanya pecah, dan itu tepat di depan kekasih nya yaitu yuta okkotsu, dan semenjak itu rika selalu berada disisi yuta okkotsu dan terus melindungi yuta!\r\n\r\nSinopsis\r\nYuta Okkotsu seorang siswa SMA yang menginginkan hukuman mati untuk dirinya sendiri. Dia menderita karena Rika - roh pendendam yang menghantuinya. Namun, Satoru Gojo, seorang guru di “Akademi Jujutsu” - sekolah para shaman, meyakinkan Okkotsu untuk pindah ke sekolah tersebut. Inilah prekuel dari JUJUTSU KAISEN!!\r\n\r\nYuji Itadori seorang murid SMA dengan kemampuan atletik yang luar biasa. Kesehariannya adalah menjenguk kakeknya yang terbaring di rumah sakit. Suatu hari, segel \"objek terkutuk\" yang berada di sekolahnya terlepas, monster-monster pun mulai bermunculan. Yuji menyusup ke dalam gedung sekolah demi menolong senior di klubnya, akan tetapi...!?",
+    "sampul_buku": "Cover_Depan_Jujutsu_Kaisen_0.jpg",
+    "thumbnail_sampul": "Cover_Depan_Jujutsu_Kaisen_0.jpg",
+    "harga": 40000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 10,
+  "fields": {
+    "created": "2024-03-05T16:45:54.754",
+    "updated": "2024-03-05T18:38:23.164",
+    "slug": "jujutsu-kaisen-01",
+    "judul_buku": "Jujutsu Kaisen 01",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Disclaimer\r\nCerita dalam komik ini mengandung materi yang diperuntukkan untuk pembaca 13 tahun keatas. Tidak dianjurkan untuk dibaca anak-anak di bawah umur 13 tahun.\r\n\r\nJujutsu Kaisen adalah sebuah seri manga shounen asal Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Manga ini dimuat berseri dalam majalah Weekly Shounen Jump terbitan Shueisha sejak Maret 2018, dan telah diterbitkan menjadi dua puluh volume tankobon per Agustus 2022.\r\n\r\nYuuji Itadori adalah seorang siswa SMA dengan atletisitas yang tidak wajar yang tinggal di Sendai bersama kakeknya. Ia sering menghindari Klub Lari karena keengganannya pada bidang atletik, meskipun dia memiliki bakat bawaan untuk olahraga tersebut. Sebaliknya, dia memilih untuk bergabung dengan Klub Penelitian Ilmu Gaib, agar dirinya dapat bersantai dan bergaul dengan para seniornya. Setiap hari, Yuuji meninggalkan sekolah pada pukul 17.00 untuk mengunjungi kakeknya di rumah sakit. Ketika dia mengunjunginya, kakeknya memberikan dua pesan kuat kepada Yuuji, yaitu \"selalu membantu orang\" dan \"mati dikelilingi orang\". Setelah kematian kakeknya, Yuuji menafsirkan pesan-pesan tersebut sebagai satu pernyataan bahwa setiap orang berhak mendapatkan \"kematian yang layak\".\r\n\r\nSinopsis\r\nYuuji Itadori seorang murid SMA dengan kemampuan atletik yang luar biasa. Kesehariannya adalah menjenguk kakeknya yang terbaring di rumah sakit. Suatu hari, segel \"objek terkutuk\" yang berada di sekolahnya terlepas, monster-monster pun mulai bermunculan. Yuji menyusup ke dalam gedung sekolah demi menolong senior di klubnya, akan tetapi...!?",
+    "sampul_buku": "9786230022180_Jujutsukaisen_1.jpg",
+    "thumbnail_sampul": "9786230022180_Jujutsukaisen_1.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 11,
+  "fields": {
+    "created": "2024-03-05T16:47:34.582",
+    "updated": "2024-03-05T16:47:34.582",
+    "slug": "jujutsu-kaisen-02",
+    "judul_buku": "Jujutsu Kaisen 02",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Di antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang. Komik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nKomik Jujutsu Kaisen 2 karya Gege Akutami menjadi salah satu komik yang wajib untuk diikuti. Sebuah kutukan yang menyerupai janin tiba-tiba muncul di lapas anak pria. Itadori dan murid tahun pertama lainnya diutus untuk menyelamatkan orang-orang yang masih berada di lapas tersebut. Akan tetapi, janin yang telah bermetamorfosis menjadi kutukan tingkat tinggi itu melancarkan serangannya sehingga Itadori dkk berada dalam bahaya. Itadori kemudian bertukar dengan Sukuna untuk mengalahkan kutukan tersebut, tapi...!? Yuk, mulai ikuti dan simak serial komik ini dengan konsep pertarungan unik dan epik.",
+    "sampul_buku": "9786230024399_Jujutsukaisen_2.jpg",
+    "thumbnail_sampul": "9786230024399_Jujutsukaisen_2.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 12,
+  "fields": {
+    "created": "2024-03-05T16:49:38.175",
+    "updated": "2024-03-05T17:59:11.299",
+    "slug": "harry-potter-dan-batu-bertuah",
+    "judul_buku": "Harry Potter dan Batu Bertuah",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Seumur hidup, Harry Potter tidak pernah berurusan dengan sihir. Dia tinggal bersama keluarga Dursley yang kejam dan Dudley, putra mereka yang menyebalkan. Kamar Harry cuma lemari sempit di kolong tangga, dan selama sebelas tahun, ulang tahunnya tak pernah dirayakan. Namun, tiba-tiba datang burung hantu membawa surat misterius: surat berisi undangan ke tempat menakjubkan bernama Sekolah Sihir Hogwarts. Dan di sana bukan hanya ada banyak teman, pertandingan olahraga naik sapu terbang, dan sihir dalam segala hal dari pelajaran sampai makanan tapi juga ada takdir luar biasa yang sudah lama menantinya. Jika Harry mampu bertahan hidup.\r\n\r\nHarry Potter, hampir seluruh orang di dunia mengenal tokoh anak laki-laki penyihir ini. Jika kamu adalah salah satu penggemar Harry Potter, buku yang satu ini tentu menarik perhatian kamu. Banyak pelajaran yang bisa di dapat dalam novel ini, keseruan dan humornya pun membuat novel ini semakin unggul. Alur ceritanya sangat menarik dan ada banyak mantra yang menarik juga bagi kamu yang mungkin ingin mencoba melafalkannya seolah-olah kamu adalah salah satu penyihir dari dunia Harry Potter. Novel ini semakin dibuat menarik karena persahabatan antara Harry, Ron dan Hermione yang kuat, terutama di detik-detik kesanggupan mereka untuk menggagalkan rencana besar yang jahat. Cerita novel yang menegangkan, dapat membuat jantung berdebar-debar tetapi tetap dapat menghibur para pembaca dengan sisipan humor didalamnya.",
+    "sampul_buku": "9786020337647_harry-potter-dan-batu-bertuah-cover-baru.jpg",
+    "thumbnail_sampul": "9786020337647_harry-potter-dan-batu-bertuah-cover-baru.jpg",
+    "harga": 102400,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 13,
+  "fields": {
+    "created": "2024-03-05T16:51:30.169",
+    "updated": "2024-03-05T16:51:30.169",
+    "slug": "harry-potter-dan-tawanan-azkaban",
+    "judul_buku": "Harry Potter dan Tawanan Azkaban",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Novel Harry Potter dan Tawanan Azkaban merupakan terjemahan Bahasa Indonesia dari novel Harry Potter and The Prisoner of Azkaban, novel ketiga seri Harry Potter yang ditulis oleh J.K. Rowling. Novel ini mengisahkan tentang Harry yang berusaha menghindari Sirius Black, penyihir jahat yang baru kabur dari penjara Azkaban.\r\n\r\nSirius Black yang kabur dari penjara Azkaban ternyata mengincar Harry dan membuat Kementrian Sihir mengirimkan Dementor dari Azkaban untuk berpatroli di Hogwarts. Saat tahun ketiga Harry bersekolah, ia mendapatkan ancaman maut dan akhirnya ia mengetahui fakta baru tentang masa lalunya. Ia juga bertemu dan bertatap muka dengan pelayan Pangeran Kegelapan yang paling setia.\r\n\r\nSinopsis Buku\r\n\r\nKetika Bus Ksatria membelah kegelapan malam dan berhenti mendadak di hadapan Harry Potter, maka dimulailah tahun ajaran berikutnya di Hogwarts yang jauh dari biasa-biasa saja.\r\n\r\nSirius Black, pembunuh massal dan pengikut Lord Voldemort, kabur dari penjara Azkaban— dan konon dia memburu Harry.\r\n\r\nPada pelajaran Ramalan pertama, Profesor Trelawney melihat terawangan kematian dalam ampas teh anak itu...\r\n\r\nNamun, tak ada yang lebih menakutkan daripada para Dementor, sosok-sosok pengisap jiwa, yang gentayangan di sekeliling sekolah.",
+    "sampul_buku": "9786020342733_harry-potter-dan-tawanan-azkaban-_harry-potter-and-the-prisoner-of-azkaban_-cover-baru.jpg",
+    "thumbnail_sampul": "9786020342733_harry-potter-dan-tawanan-azkaban-_harry-potter-and-the-prisoner-of-azkaban_-cover-baru.jpg",
+    "harga": 136000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 14,
+  "fields": {
+    "created": "2024-03-05T16:53:03.031",
+    "updated": "2024-03-05T16:53:03.031",
+    "slug": "harry-potter-dan-kamar-rahasia",
+    "judul_buku": "Harry Potter dan Kamar Rahasia",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Buku Harry Potter dan Kamar Rahasia merupakan terjemahan Bahasa Indonesia dari buku Harry Potter and the Chamber of Secrets, buku kedua seri Harry Potter yang ditulis oleh J.K. Rowling. Buku ini mengisahkan tentang kepulangan Harry pada liburan musim panas.\r\n\r\nHarry bertemu Dobby, makhluk aneh setengah manusia yang memberitahu Harry untuk tidak kembali ke Hogwarts dengan alasan keselamatan. Namun, Harry menghiraukan saran Dobby dan memutuskan tetap kembali ke Hogwarts. Naasnya, perkataan Dobby berubah menjadi kenyataan. Harry mengalami kejadian aneh di Hogwarts. Ia memutuskan untuk memecahkan teka-teki itu.\r\n\r\nSinopsis Buku\r\n\r\n\"Banyak yang dialami Harry Potter pada libur musim panasnya kali ini, di antaranya: ulang tahun paling payah, aneka peringatan menyeramkan dari peri-rumah bernama Dobby, dan kabur naik mobil terbang dari rumah keluarga Dursley bersama sahabatnya, Ron Weasley!\r\n\r\nSekembalinya di Sekolah Sihir Hogwarts, Harry mendengar berbagai bisikan aneh menggema di koridor-koridor kosong—lalu serangan-serangan pun mulai. Para murid ditemukan dalam keadaan membatu...\r\n\r\nPeringatan mengerikan Dobby seolah jadi kenyataan.\"",
+    "sampul_buku": "9786020339184_harry-potter-dan-kamar-rahasia-cover-baru.jpg",
+    "thumbnail_sampul": "9786020339184_harry-potter-dan-kamar-rahasia-cover-baru.jpg",
+    "harga": 110400,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 15,
+  "fields": {
+    "created": "2024-03-05T18:00:40.753",
+    "updated": "2024-03-05T18:00:40.753",
+    "slug": "harry-potter-dan-pangeran-berdarah-campuran",
+    "judul_buku": "Harry Potter dan Pangeran Berdarah Campuran",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Novel Harry Potter dan pangeran berdarah campuran dirilis pada tanggal 8 Januari 2006 untuk versi bahasa Indonesia, sedang versi bahasa Inggris dirilis pada tanggal 16 Januari 2005 dengan judul Harry Potter and The Half Blood Prince adalah buku keenam dari tujuh novel yang direncanakan mengenai kisah populer karya J. K. Rowling.\r\nKisah ini dilatarbelakangi pada waktu Harry Potter berada pada tahun keenam sekolahnya di Hogwarts. Novel ini mengisahkan masa lalu Lord Voldemort dan persiapan Harry Potter untuk pertarungan terakhir.\r\n\r\nSinopsis\r\nKetika pada suatu malam musim panas Dumbledore tiba di Privet Drive untuk menjemput Harry Potter, tangannya yang memegang tongkat sihir tampak menghitam dan mengerut, namun dia tidak menceritakan penyebabnya. Rahasia dan kecurigaan menyebar di dunia sihir, dan Hogwarts sendiri tidak aman. Harry yakin Malfoy memiliki Tanda Kegelapan: ada Pelahap Maut di antara mereka. Harry akan membutuhkan sihir kuat dan teman-teman sejati saat dia menyelidiki rahasia-rahasia terkelam Voldemort, dan Dumbledore mempersiapkannya untuk menghadapi takdir",
+    "sampul_buku": "9786020377414_Harry-Potter-dan-Pangeran-Berdarah-Campuran-Harry-Potter-and-The-Half-Blood-Prince.jpg",
+    "thumbnail_sampul": "9786020377414_Harry-Potter-dan-Pangeran-Berdarah-Campuran-Harry-Potter-and-The-Half-Blood-Prince.jpg",
+    "harga": 200000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 16,
+  "fields": {
+    "created": "2024-03-05T18:01:45.633",
+    "updated": "2024-03-05T18:01:45.633",
+    "slug": "harry-potter-dan-piala-api",
+    "judul_buku": "Harry Potter dan Piala Api",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Harry Potter dan Piala Api karya J. K. Rowling merupakan rangkaian novel keempat dalam seri Harry Potter. Dalam cerita kali ini Harry dan kawan-kawannya memasuki tahun keempat di sekolah sihir Hogwarts. Harry dikejutkan dengan namanya yang didaftarkan pada Turnamen Triwizard. Novel ini juga telah diadaptasi ke versi film dengan judul Harry Potter and The Goblet of Fire.\r\n\r\nSinopsis buku\r\n\r\nDi Hogwarts, Profesor Dumbledore mengumumkan bahwa Alastor \"Mad-Eye\" Moody menjadi guru Pertahanan Terhadap Ilmu Hitam yang baru. Hogwarts akan menjadi tuan rumah Turnamen Triwizard. Hanya para penyihir berusia tujuh belas tahun ke atas yang boleh ikut—namun Harry tetap berkhayal menjadi juara dalam kompetisi itu.\r\n\r\nLalu pada Halloween, ketika Piala Api melakukan seleksi, Harry kaget saat dirinya terpilih. Dia harus melaksanakan tugas-tugas yang menantang maut, menghadapi naga-naga dan para penyihir Hitam. Tetapi, dengan bantuan para sahabat baiknya, Ron dan Hermione, dia mungkin akan berhasil—dan bertahan hidup.",
+    "sampul_buku": "9786020342726_harry-potter-dan-piala-api-cover-baru.jpg",
+    "thumbnail_sampul": "9786020342726_harry-potter-dan-piala-api-cover-baru.jpg",
+    "harga": 204000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 17,
+  "fields": {
+    "created": "2024-03-05T18:03:02.929",
+    "updated": "2024-03-05T18:03:02.929",
+    "slug": "harry-potter-dan-orde-phoenix",
+    "judul_buku": "Harry Potter dan Orde Phoenix",
+    "penulis": 7,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Tidak banyak penyihir yang percaya (atau mau percaya) bahwa Voldermort telah kembali, termasuk Kementerian Sihir. Harry dan Dumbledore dianggap menyebar kabar bohong dan dianggap terganggu jiwanya. Meskipun demikian, masih banyak orang yang percaya pada Dumbledore, dan merek inilah yang tergabung dalam Orde Phoenix. Namun, karena situasi belum memungkinkan, mereka bergerak secara diam-diam untuk menghindari kecurigaan dari Kementerian. Mereka menggunakan kediaman Sirius, Grimmauld Place nomor 12 sebagai Markas Besar sehingga Sirius tidak lagi dalam pelarian, tapi tetap bersembunyi karena pihak kementrian masih mencarinya.\r\n\r\nSementara itu, Harry yang diawasi siang-malam (tanpa sepengetahuannya) oleh anggota Orde, semakin sering mengalami sakit pada bekas lukanya. Sekembalinya ke Hogwarts, Harry menghadapi persidangan karena mengeluarkan sihir di dunia Muggle dan emosinya sering tak terkendali. Pada suatu malam ia dikejutkan dengan hadirnya dementor di Privet Drive yang hendak menyerang dirinya dan Dudley. Untunglah ia berhasil menghasilkan patronus untuk melawan mereka. Namun, akibat dari hal ini, dia nyaris diusir oleh pamannya karena dikira menyerang Dudley menghadapi persidangan di Kementerian Sihir dan terancam dikeluarkan dari Hogwarts.\r\n\r\nHarry tidak sendirian: di Grimmauld Place berkumpul orde rahasia untuk melawan kekuatan gelap. Harry harus mengizinkan Profesor Snape mengajarinya cara melindungi diri dari rentetan serangan brutal Voldemort dari benaknya. Namun, serangan-serangan itu makin ganas dan Harry kehabisan waktu. Apakah Harry berhasil melakukan perlindungan diri? Apa yang akan terjadi dengan anggota Orde?",
+    "sampul_buku": "9786020361314_harry-potter_5_harry-potter-dan-orde-phoenix-cover-baru.jpg",
+    "thumbnail_sampul": "9786020361314_harry-potter_5_harry-potter-dan-orde-phoenix-cover-baru.jpg",
+    "harga": 239200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 18,
+  "fields": {
+    "created": "2024-03-05T18:04:48.791",
+    "updated": "2024-03-05T18:04:48.791",
+    "slug": "pemrograman-python-untuk-ilmu-komputer-dan-teknik",
+    "judul_buku": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
+    "penulis": 8,
+    "penerbit": 4,
+    "tahun": 2018,
+    "deskripsi": "Bahasa pemrograman python adalah salah satu jenis yang banyak digunakan saat kamu berkutik dengan data. Namun tidak hanya pada pengolahan data saja, python juga bisa digunakan untuk mengatur infrastruktur sebuah website.\r\n\r\nPython merupakan bahasa pemrograman yang paling populer saat ini terutama untuk scientific computing. Bahasa pemrograman Python sangat dibutuhkan oleh para mahasiswa, software developer, akademisi, dan peneliti di bidang Computer Science, Statistik dan Engineering.\r\n\r\nMenjadi bahasa pemrograman yang sangat populer di kalangan para programmer, python pertama kali dikenalkan kepada publik pada tahun 1991 oleh programmer komputer berkebangsaan Belanda, yakni Guido van Rossum.\r\n\r\nPria yang kini tinggal di California, Amerika Serikat ini pada awalnya menciptakan bahasa pemrograman python karena ingin mengisi waktu luangnya ketika kantor tempat dirinya bekerja harus tutup sementara untuk merayakan liburan natal. Namun, siapa sangka, proyek yang dirinya kerjakan saat itu memberikan dampak besar pada dunia pemrograman hingga saat ini.\r\n\r\nMateri yang diberikan dalam buku ini merupakan materi terkini dan dapat dijadikan pegangan untuk memulai riset di bidang:\r\n- Pemrograman Python\r\n- Computer dan Machine vision\r\n- Kecerdasan Buatan\r\n- information retrieval dan NLP\r\n- speech recognition dan robot vision.",
+    "sampul_buku": "PEMROGRAMAN_PYTHON_UNTUK_ILMU_KOMPUTER_DAN_TEKNIK.jpg",
+    "thumbnail_sampul": "PEMROGRAMAN_PYTHON_UNTUK_ILMU_KOMPUTER_DAN_TEKNIK.jpg",
+    "harga": 49500,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 19,
+  "fields": {
+    "created": "2024-03-05T18:06:49.383",
+    "updated": "2024-03-05T18:06:49.383",
+    "slug": "python-untuk-analisis-dan-visualisasi-data",
+    "judul_buku": "Python untuk Analisis dan Visualisasi Data",
+    "penulis": 9,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Profesi yang berhubungan erat dengan data memiliki prospek masa depan yang cerah. Salah satunya adalah analisis data yang bertugas untuk mengambil data, melakukan pengolahan, dan menganalisis berdasarkan kebutuhan-kebutuhan tertentu. Kemudian, data yang telah dianalisis itu bisa divisualisasikan untuk keperluan presentasi. Apabila profesi analisis data benar-benar Anda minati, maka mulailah membaca buku ini. Dengan menggunakan Python, Anda akan belajar cara menggunakan kode-kode program untuk mengolah data dari berbagai macam sumber, mulai dari list, Series, DataFrame, file CSV, hingga file MS Excel. Pembahasan di dalam buku ini meliputi:\r\n\r\n• Menggunakan Pandas untuk bekerja dengan list, Series, DataFrame, dan file CSV.\r\n• Menggunakan Matplotlib untuk membuat berbagai model chart.\r\n• Menggunakan Plotly untuk membuat berbagai model chart.\r\n• Menggunakan Openpyxl untuk mengintegrasikan data pada file MS Excel dengan Python, termasuk membuat chart.",
+    "sampul_buku": "sevge26s2yhsk37siipsld.jpg",
+    "thumbnail_sampul": "sevge26s2yhsk37siipsld.jpg",
+    "harga": 64000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 20,
+  "fields": {
+    "created": "2024-03-05T18:08:25.095",
+    "updated": "2024-03-05T18:08:25.095",
+    "slug": "anggara-kasih",
+    "judul_buku": "Anggara Kasih",
+    "penulis": 10,
+    "penerbit": 5,
+    "tahun": 2023,
+    "deskripsi": "Aruna merasa dirinya berada di puncak karier ketika baru ditunjuk sebagai branch manager. Namun, satu per satu rekan kerja Aruna menghilang, termasuk branch manager sebelumnya, Pak Arifin. Semua bukti dan tudingan meng-; arah kepada Aruna. Namun, Aruna bersikeras bahwa dia merupakan korban penculikan.\r\n\r\nJemmi meragukan penyebab kematian Pak Arifin yang ganjil, terlebih ketika kuburannya dibongkar dan tengkoraknya diambil oleh orang tidak dikenal. Sebagal polisi. Jemmi bertekad mengungkap kasus yang menimpa teman masa kecilnya sekaligus cinta pertamanya.\r\n\r\nSatu hal yang diyakini Jemmi adalah, semua kematian di sekitar Aruna berkaitan dengan ritual pesugihan Anggara Kasih.\r\n\r\nBukankah seharusnya hamparan kebun teh bisa men datangkan ketenangan jiwa sekali pun tertutup oleh gelap malam? Ataukah daun-daun teh ini jadi ribuan saksi bisu bagaimana jiwa-jiwa yang tenang itu harus meluap karena nafsu manusia\r\n\r\nSelling Point:\r\n1. Merupakan naskah novel dari Gramedia Writing Project.\r\n2. Novel dengan narasi thriller yang kuat, penulisannya pun rapi, dan penyebaran motif setiap tokohnya, memantik untuk terus membaca sampai akhir, dan mempunyai plotwist yang mengejutkan.\r\n3. Penulis aktif di media sosial, novel debutnya, Nun Mati, masuk sebagai nominasi kategori Best Mystery Novel dalam ajang Scarlet Pen Award`s 2023.",
+    "sampul_buku": "ckcwotdfj5z26odakmwgr2.jpg",
+    "thumbnail_sampul": "ckcwotdfj5z26odakmwgr2.jpg",
+    "harga": 79200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 21,
+  "fields": {
+    "created": "2024-03-05T18:10:05.906",
+    "updated": "2024-03-05T18:10:05.906",
+    "slug": "the-monk-who-sold-his-ferrari-perjalanan-mencari-kebahagiaan-hidup-sejati",
+    "judul_buku": "The Monk Who Sold His Ferrari: Perjalanan Mencari Kebahagiaan Hidup Sejati",
+    "penulis": 11,
+    "penerbit": 5,
+    "tahun": 2022,
+    "deskripsi": "Alkisah, seorang pengacara terkenal dan sukses di Amerika mengalami serangan jantung di ruang sidang akibat gaya hidup yang tidak seimbang yang menjadi salah satu fase terpenting dalam hidupnya ketika ia mempertanyakan makna hidupnya. Untuk mencari kebahagiaan dan kesempurnaan, ia bahkan rela menukar semua harta dan kemewahannya dengan kehidupan sederhana yang penuh makna di pegunungan Himalaya. Usahanya tidak sia-sia, tak lama berselang Julian seolah terlahir kembali berkat sebuah rahasia yang mampu memaksimalkan potensi dalam pikiran, tubuh, dan jiwanya dengan luapan semangat perdamaian. Secara cerdas menggabungkan kebijaksanaan spiritual abadi dari Timur dengan prinsip-prinsip terbaru dari Barat, Robin Sharma mampu menunjukkan kepada Anda langkah-langkah menuju kebahagiaan dengan keyakinan, keseimbangan, kelimpahan, dan kegembiraan yang lebih besar. Langkah-langkah tersebut disusun dalam bentuk Tujuh Kebajikan Abadi untuk Pencerahan Hidup, yaitu:\r\n1. Kuasai pikiran Anda\r\n2. Ikuti tujuan Anda\r\n3. Latihan Kaizen\r\n4. Hidup dengan disiplin\r\n5. Hargai waktu Anda\r\n6. Melayani orang lain tanpa mementingkan sendiri\r\n7. Nikmati saat ini mungkin saat ini Anda sudah paham betul siapa diri Anda dan tujuan hidup Anda, tidak ada salahnya meluangkan waktu untuk membaca buku ini guna mendapatkan kebahagian hidup sejati.",
+    "sampul_buku": "Cover_The_Monk_Who_Sold_His_Ferrari.jpg",
+    "thumbnail_sampul": "Cover_The_Monk_Who_Sold_His_Ferrari.jpg",
+    "harga": 100000,
     "stok_barang": 100
   }
 }
