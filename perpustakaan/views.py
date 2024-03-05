@@ -46,12 +46,14 @@ def penerbit(request):
 
 def detail_penerbit(request, id, inputSlug):
     penerbit_buku = data_penerbit.objects.get(id=id, slug=inputSlug)
+    buku_terkait = data_buku.objects.filter(penerbit_id=id)
     context = {
         'website': 'OnlineBookStore'
     }
     try:
         context['data_penerbit'] = penerbit_buku
         context['halaman'] = penerbit_buku.penerbit
+        context['related_book'] = buku_terkait
         return render(request, 'detail.html', context)
     except:
         return HttpResponse("Disini halaman detail penerbit buku.")
