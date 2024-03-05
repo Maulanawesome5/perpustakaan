@@ -376,5 +376,113 @@
     "harga": 100000,
     "stok_barang": 100
   }
+},
+{
+  "model": "produk.buku",
+  "pk": 22,
+  "fields": {
+    "created": "2024-03-05T19:04:40.597",
+    "updated": "2024-03-05T20:41:52.942",
+    "slug": "jujutsu-kaisen-12",
+    "judul_buku": "Jujutsu Kaisen 12",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Kemunculan Toji Zenin yang tak terduga, menambah kekacauan “Insiden Shibuya”! Di sisi lain, Nanami yang sedang menuju ke tempat Geto di peron bawah tanah, sangat marah atas luka yang diderita para asisten pengawas. Shaman tingkat 1 yang memasuki medan pertempuran pun semakin bertambah, sementara Itadori bertarung sengit melawan si sulung kusozu, Choso!!\r\n\r\nDi antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nJujutsu Kaisen adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Ini telah diserialkan di majalah manga shounen Shueisha Weekly Shonen Jump sejak Maret 2018, dengan bab-babnya dikumpulkan dan diterbitkan dalam 20 volume tankobon per Agustus 2022. Ceritanya mengikuti siswa sekolah menengah Yuji Itadori saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk menghilangkan Kutukan yang kuat bernama Ryomen Sukuna, di mana Yuji menjadi inangnya. Jujutsu Kaisen adalah sekuel dari Sekolah Teknik Kutukan Metropolitan Tokyo Akutami, yang diserialkan di Jump GIGA Shueisha dari April hingga Juli 2017, kemudian dikumpulkan dalam volume tankobon, dengan judul retroaktif sebagai Jujutsu Kaisen 0, pada Desember 2018.\r\n\r\nSelling Point:\r\nSerial populer di Jepang (dari majalah Shounen Jump, di mana judul-judulnya hampir semua jadi Best Seller di Jepang dan Internasional). Action seru dan cerita epik. Anime-nya tayang (di Jepang) Oktober 2020. Selalu masuk 10 besar Weekly Oricon. Movie-nya pun laris manis di bioskop bukan hanya Jepang, tapi juga Indonesia!! (tayang di bioskop Indonesia 16 maret 2022). Anime season 2-nya juga tayang di 2023!!",
+    "sampul_buku": "efri6damk2qz3tuvwn4car.jpg",
+    "thumbnail_sampul": "efri6damk2qz3tuvwn4car.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 23,
+  "fields": {
+    "created": "2024-03-05T19:07:40.462",
+    "updated": "2024-03-05T20:43:03.226",
+    "slug": "jujutsu-kaisen-13",
+    "judul_buku": "Jujutsu Kaisen 13",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2024,
+    "deskripsi": "Dagon berubah menjadi jurei yang menakutkan! Serangan energi kutukan yang tak ada habisnya pun membanjiri Naobito, Maki, dan Nanami. Di sisi lain, sekelompok jusoshi yang mengabdikan diri pada Geto berusaha untuk mendapatkan kembali tubuh Geto dengan membangkitkan sosok yang paling keji.\r\n\r\nSelling Point:\r\nSerial populer di Jepang (dari majalah Shounen Jump, di mana judul-judulnya hampir semua jadi Best Seller di Jepang dan Internasional). Action seru dan cerita epik. Anime-nya tayang (di Jepang) Oktober 2020. Selalu masuk 10 besar Weekly Oricon. Movie-nya pun laris manis di bioskop bukan hanya Jepang, tapi juga Indonesia (tayang di bioskop Indonesia 16 maret 2022). Anime season 2-nya juga tayang di 2023.\r\n\r\nJujutsu Kaisen adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Gege Akutami. Ini telah diserialkan di majalah manga shounen Shueisha Weekly Shonen Jump sejak Maret 2018, dengan bab-babnya dikumpulkan dan diterbitkan dalam 20 volume tankobon per Agustus 2022. Ceritanya mengikuti siswa sekolah menengah Yuuji Itadori saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk menghilangkan Kutukan yang kuat bernama Ryomen Sukuna, di mana Yuuji menjadi inangnya. Jujutsu Kaisen adalah sekuel dari Sekolah Teknik Kutukan Metropolitan Tokyo Akutami, yang diserialkan di Jump GIGA Shueisha dari April hingga Juli 2017, kemudian dikumpulkan dalam volume tankobon, dengan judul retroaktif sebagai Jujutsu Kaisen 0, pada Desember 2018.\r\n\r\nDi antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.",
+    "sampul_buku": "r7sy78svdmpjcqupgxywu8.jpg",
+    "thumbnail_sampul": "r7sy78svdmpjcqupgxywu8.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 24,
+  "fields": {
+    "created": "2024-03-05T19:10:55.192",
+    "updated": "2024-03-05T19:10:55.192",
+    "slug": "menguasai-adobe-photoshop-cc-2021",
+    "judul_buku": "Menguasai Adobe Photoshop Cc 2021",
+    "penulis": 9,
+    "penerbit": 3,
+    "tahun": 2021,
+    "deskripsi": "Di dunia digital, kita akan menemukan banyak gambar. Gambar-gambar ini tampak menarik perhatian. Apakah Anda tahu bahwa di balik populernya sebuah gambar, ada aplikasi bernama Photoshop yang berperan penting dalam sentuhan gambar tersebut?\r\n\r\nBuku Menguasai Adobe Photoshop CC 2021 akan mengajari Anda cara mengoperasikan perangkat lunak Photoshop versi paling baru. Buku ini dapat diakses oleh siapa saja, baik itu pelajar, mahasiswa, hingga profesional untuk meningkatkan kemampuan sendiri dalam proses pengembangan karir di dunia digital.\r\n\r\nSinopsis Buku\r\n\r\nAnda pernah mendengar orang berbicara tentang Adobe Photoshop, tetapi mungkin Anda bertanya-tanya apa yang sebenarnya dapat Anda lakukan dengan Photoshop? Sebagai permulaan, pahami bahwa Photoshop adalah salah satu aplikasi pengeditan gambar paling kuat di pasaran. Dan dalam hal bekerja dengan foto, hampir tidak ada yang tidak bisa dilakukan dengan Photoshop.\r\n\r\nPhotoshop CC 2021 menjadi perangkat lunak rujukan untuk ilustrator, desainer grafis, fotografer, dan pekerja pencitraan digital. Banyaknya fitur di perangkat lunak Photoshop memungkinkan Anda melakukan banyak hal dengan memainkan piksel dan efek khusus. Salah satu yang menarik dari Photoshop CC 2021 adalah filter khusus yang disebut Neural Filter. Filter ini bekerja di cloud dengan menggunakan kecerdasan buatan yang canggih.",
+    "sampul_buku": "9786230025792_Cov_Menguasai_Adobe_Photoshop_CC_2021.jpg",
+    "thumbnail_sampul": "9786230025792_Cov_Menguasai_Adobe_Photoshop_CC_2021.jpg",
+    "harga": 68000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 25,
+  "fields": {
+    "created": "2024-03-05T19:13:12.960",
+    "updated": "2024-03-05T19:13:12.960",
+    "slug": "belajar-sendiri-adobe-premiere-cc-2019",
+    "judul_buku": "Belajar Sendiri Adobe Premiere CC 2019",
+    "penulis": 9,
+    "penerbit": 3,
+    "tahun": 2019,
+    "deskripsi": "Adobe Premiere Pro merupakan salah satu produk software dari Adobe Creative Suite, tetapi juga bisa dibeli personal. Adobe premiere biasanya digunakan sebagai sebuah program penyunting video berbasis non-linier (non-linear editor / NLE) dari Adobe Systems bagi kalangan profesional, terutama yang suka bereksperimen. Fitur - fitur penting yang terdapat pada aplikasi ini, antara lain Capture (perekam video) Monitor, Trim (alat pemotong klip) Monitor, dan Titler (Pembuat teks judul) Monitor.\r\n\r\nVideographer, kameramen acara resepsi, pernikahan, launching produk, reuni perusahaan, dan bahkan Youtuber, wajib baca buku ini. Adobe Premiere Pro CC 2019 yang dibahas di dalam buku ini merupakan software paling bagus untuk mengedit video. Maka dari itu, pembahasan dasar-dasar video editing seperti mengimpor footage, mengelola clip, mengatur sequence dan timeline, membuat marker, menghadirkan efek-efek khusus, menulis teks, mengontrol audio, dan lain sebagainya, dibahas secara singkat tapi jelas. Bagi Anda yang ingin eksis di Youtube, di akhir buku juga dibahas cara mengekspor video agar bisa diposting di Youtube sekaligus langkah-langkah uploading, mengontrol video, dan banyak lagi. Banyak ilmu yang ditawarkan di buku ini terkait video editing dan Adobe Premiere Pro CC 2019 secara khusus. Jadi, Anda wajib beli meskipun hanya merekam video menggunakan smartphone, DSLR, atau kamera pribadi seadanya. Apalagi jika Anda memiliki ARRI, maka semakin wajib untuk membaca buku ini! (Thinkjubilee.com)",
+    "sampul_buku": "9786020495941_Belajar_Sendi.jpg",
+    "thumbnail_sampul": "9786020495941_Belajar_Sendi.jpg",
+    "harga": 57600,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 26,
+  "fields": {
+    "created": "2024-03-05T19:23:49.324",
+    "updated": "2024-03-05T19:23:49.324",
+    "slug": "trading-saham-dengan-menggunakan-fibonacci-retracement",
+    "judul_buku": "Trading Saham dengan Menggunakan Fibonacci Retracement",
+    "penulis": 12,
+    "penerbit": 3,
+    "tahun": 2016,
+    "deskripsi": "Buku ini adalah buku yang menjelaskan tentang bagaimana seorang trader bisa mengendalikan risiko yang dihadapinya dengan selalu melakukan positioning (posisi beli atau jual) berdasarkan sebuah rencana trading (trading plan). Bagi mereka yang masih dalam level pemula, pengetahuan mengenai support dan resisten merupakan pengetahuan dasar yang harus dipelajari. Dan bagi mereka yang tergolong intermediate dan mahir, penggunaan Fibonacci Retracement sebagai alat untuk memprediksi dan sedikit pemahaman mengenai psikologi trading diharapkan bisa menjadi pelengkap atas ilmu yang sudah dimiliki.\r\nTujuan setiap orang membeli saham pasti sama, yaitu mencari keuntungan. Akan tetapi, untuk seorang trader dan investor, cara pencapaiannya pasti beda. Seorang trader akan menggunakan segala cara selama masih dalam batasan aturan pasar modal. Selain itu, cara-cara yang biasa digunakan seorang trader yang aman (beli jual berdasarakan news). Jangka waktu investasi merupakan perbedaan terbesar antara investasi dan trading. Perbedaan jangka waktu investasi ini nantinya juga akan memunculkan perbedaan lainnya ketika seorang investor melakukan pembelian saham dengan motif untuk melakukan investasi, tentunya ia akan mengharapkan prospek atau bisa juga value perusahaan untuk jangka panjang. Jangka tersebut bisa tiga tahun, lima tahun dan, bahkan lebih dari sepuluh tahun. Buku ini akan menjadi referensi utama bagi Anda yang tengah berkecimpung sebagai pemodal di Bursa Efek Indonesia melalui ”Jalan Trading”.",
+    "sampul_buku": "9786020281629_Trading_Saham_dengan_Menggunakan_Fibonacci_Retracement.jpg",
+    "thumbnail_sampul": "9786020281629_Trading_Saham_dengan_Menggunakan_Fibonacci_Retracement.jpg",
+    "harga": 61440,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 27,
+  "fields": {
+    "created": "2024-03-05T19:43:43.714",
+    "updated": "2024-03-05T19:43:43.714",
+    "slug": "panduan-lengkap-microsoft-excel-di-dunia-kerja",
+    "judul_buku": "Panduan Lengkap Microsoft Excel di Dunia Kerja",
+    "penulis": 13,
+    "penerbit": 6,
+    "tahun": 2023,
+    "deskripsi": "Di era teknologi informasi yang terus berkembang, kemampuan untuk mengolah dan menganalisis data menggunakan Microsoft Excel sangat dibutuhkan di dunia kerja. Buku ini merupakan panduan komprehensif yang dirancang untuk membantu pembaca memahami dan menguasai Microsoft Excel. Pembaca akan mendapatkan pemahaman dasar tentang antarmuka Excel dan fungsionalitas dasar, seperti membuat lembar kerja, mengelola sel, dan mengatur data. Dari sini, pembaca akan diarahkan pada serangkaian konsep yang semakin kompleks, termasuk rumus, fungsi, grafik, serta fitur analisis data yang lebih canggih, seperti IF, LOOKUP, VLOOKUP, dan HLOOKUP.\r\nTerdapat juga latihan-latihan yang sesuai dengan kebutuhan pengolahan data pada berbagai permasalahan. Dengan demikian, pembaca dapat menerapkan praktik terbaik dalam menggunakan Excel. Pembaca akan diajak untuk memahami cara mengoptimalisasi tugas rutin, mengatur data dengan rapi, dan menyajikan informasi secara visual yang mudah dipahami.\r\n\r\nDalam era digital yang semakin berkembang, berbagai perangkat lunak atau aplikasi yang dapat menunjang produktivitas dalam bekerja telah menjadi elemen kunci dalam kehidupan telah kita sehari-hari. Salah satu dari berbagai aplikasi yang telah memainkan peran penting dalam dunia bisnis, pendidikan, dan administrasi adalah Microsoft Excel. Microsoft Excel adalah salah satu perangkat lunak pengolah data dan spreadsheet yang dikembangkan oleh Microsoft. Excel secara khusus dirancang untuk mengelola, mengatur, menganalisis, dan memvisualisasikan data dalam bentuk tabel dan grafik. Dengan kemampuannya yang luar biasa dalam mengolah data, menganalisis informasi, dan membuat visualisasi yang kuat, Excel telah menjadi salah satu program spreadsheet paling berpengaruh dan banyak digunakan di seluruh dunia.",
+    "sampul_buku": "j4qbtzv3pty2g4sdwa4vtb.jpg",
+    "thumbnail_sampul": "j4qbtzv3pty2g4sdwa4vtb.jpg",
+    "harga": 71100,
+    "stok_barang": 30
+  }
 }
 ]
