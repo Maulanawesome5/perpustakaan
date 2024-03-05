@@ -3,11 +3,11 @@
 
 {% block contents %}
 
-<div class="row row-cols-4">
+<div class="row row-cols-5">
     {% for data in daftar_penerbit %}
         <div class="col pb-4">
             <div class="card" style="width: 10rem;">
-                <img src="{% static 'img/penerbit' %}/{{data.logo_penerbit}}" class="card-img-top">
+                <img src="{% static 'produk/penerbit' %}/{{data.logo_penerbit}}" class="card-img-top">
                 <div class="card-body">
                     <h6><a class="text-decoration-none text-black" href="{% url 'publisher_detail' id=data.id inputSlug=data.slug %}">{{data.penerbit}}</a></h6>
                 </div>
