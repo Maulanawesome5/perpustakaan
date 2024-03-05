@@ -16,6 +16,7 @@ class Penulis_Buku(Abstract_Product):
     nama_penulis = models.CharField(max_length=100)
     nama = models.CharField(max_length=100, blank=True)
     tentang_penulis = models.TextField(blank=True)
+    foto_profil = models.CharField(max_length=100, blank=True)
 
     def save(self, *args, **kwargs):
         self.slug = slugify(self.nama_penulis)
