@@ -30,12 +30,12 @@
   "pk": 3,
   "fields": {
     "created": "2024-02-15T18:26:05.204",
-    "updated": "2024-02-15T18:26:05.204",
+    "updated": "2024-03-13T16:07:39.448",
     "slug": "suyanto",
     "nama_penulis": "Suyanto",
     "nama": "Prof. Dr. Suyanto, S.T., M.Sc.",
     "tentang_penulis": "Lahir di Jombang, Jawa Timur, pada tanggal 03 Desember 1974. Meraih gelar Sarjana Teknik dari Departemen Teknik Informatika STT Telkom (sekarang Telkom University), Bandung. pada tahun 1998. Menjadi dosen di departemen tersebut sejak tahun 1999 untuk mata kuliah Artificial Intelligence, Swarm Intelligence, Evolutionary Computation, Soft Computing, Machine Learning, Advanced Machine Learning, dan Advanced Data Science. Pada tahun 2006 mendapatkan gelar Master of Science bidang Complex Adaptive Systems dari Chalmers University of Technology, Göteborg, Swedia. Pada tahun 2016 mendapatkan gelar Doktor di bidang Ilmu Komputer dari Universitas Gadjah Mada (UGM), Yogyakarta, Indonesia. Pada tahun 2021 mendapatkan jabatan akademik Guru Besar bidang Kecerdasan Buatan. Sejak tahun 1999 hingga sekarang aktif melakukan penelitian di bidang Artificial Intelligence, Machine learning, Big Data Analytics, Indonesian Computational Linguistics, Speech Processing, Data Mining, Evolutionary Computation, Swarm Intelligence, dan Soft Computing. Telah menghasilkan sebelas buku teks, di antaranya adalah: Artificial Intelligence: Searching, Reasoning, Planning and Learning, 2007; Swarm Intelligence: Komputasi Modern untuk Optimasi dan Big Data Mining, 2017; Machine Learning: Tingkat Dasar dan Lanjut, 2018; dan Explainable Artificial Intelligence Menggunakan metode metode Berbasis Nearest Neighbors, 2022.",
-    "foto_profil": ""
+    "foto_profil": "prof-dr-suyanto.jpg"
   }
 },
 {
@@ -95,12 +95,12 @@
   "pk": 8,
   "fields": {
     "created": "2024-03-05T17:09:35.240",
-    "updated": "2024-03-05T17:09:59.008",
+    "updated": "2024-03-13T16:03:07.013",
     "slug": "widodo-budiharto",
     "nama_penulis": "Widodo Budiharto",
     "nama": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM.",
     "tentang_penulis": "Prof. Dr. Ir. Widodo Budiharto, S.Si., M.Kom., IPM. Lahir di Tanjung Pinang pada tanggal 27 April 1977. Beliau menghabiskan masa kecilnya di Tanjung Pinang sebelum akhirnya memutuskan untuk melanjutkan studinya di Fisika Instrumentasi, Universitas Indonesia pada tahun 1995. Dalam masa studinya, beliau aktif di organisasi kelompok riset jurusan. Di tahun 2002, Prof. Widodo memulai perjalanan karirnya dengan bergabung bersama BINUS University dan pada tahun 2003 beliau meraih gelar Magister Komputer dari STT Benarif Indonesia di bidang Teknik Informatika dan melanjutkan program doktornya di Institut Teknologi Sepuluh Nopember pada tahun 2008. Perjalanan panjang tersebut berhasil mengantarkan Prof. Widodo menjadi seorang Guru Besar dan meraih gelar Profesor di Bidang Ilmu Kecerdasan Buatan pada Agustus 2017 lalu.\r\n\r\nSepanjang perjalanannya, beliau berhasil meraih hibah dan beasiswa ke mancanegara, antara lain dari Erasmus Mundus sebagai penerima scholar di Universite de Bourgogne (Perancis) pada tahun 2008, Peraih Hibah Kompetensi DIKTI 2015-2016, Peraih Hibah Visiting Professor Hosei University (Jepang), Peraih Hibah Ristek Insinas RI 2014, Peraih JASSO Scholarship, Peraih Sandwich PhD (Jepang), Peraih Hibah Summer School on Images and Robotics (Mexico-France) pada tahun 2009, Peraih Hibah Toray Science and Technology Research Grant pada tahun 2014 dan2016, serta pada awal tahun 2017 beliau berhasil menjadi peraih Grant FICEM Erasmus Mundus sebagai Profesor tamu di Universite de Lorraine, NRCS Inria, Prancis 2017.\r\n\r\nDengan segudang ilmu yang dimilikinya akan teknik informatika, beliau menyalurkan ilmu-ilmunya melalui tulisan-tulisan. Hingga saat ini beliau telah menulis 35 buku, puluhan jurnal dan paper internasional terakreditasi dan bereputasi. Tidak hanya menulis, beliau juga berperan sebagai pengajar di School of Computer Science, BINUS University. Berpedoman pada visi BINUS sebagai Universitas yang akan terus berinovasi, hingga saat ini beliau telah memiliki 9 buah produk diantaranya Kursi Roda Berbasis Pikiran “Ratanggalih” dan robot edukasi “BIMAX”. Keinginan besar beliau untuk membantu kaum difable dan meningkatkan kualitas pendidikan di Indonesia membuat beliau selalu mencoba menemukan inovasi terbaru yang kelak berguna bagi nusa dan bangsa.",
-    "foto_profil": ""
+    "foto_profil": "2-1-480x480.jpg"
   }
 },
 {
@@ -121,10 +121,10 @@
   "pk": 10,
   "fields": {
     "created": "2024-03-05T17:47:31.437",
-    "updated": "2024-03-05T17:47:31.437",
+    "updated": "2024-03-13T16:05:53.054",
     "slug": "tian-topandi",
     "nama_penulis": "Tian Topandi",
-    "nama": "Tian Topandi",
+    "nama": "Tian Setiawati Topandi",
     "tentang_penulis": "Tian Topandi adalah seorang penulis novel dan skenario asal Indonesia. Ia lahir di Ciamis, Jawa Barat, pada tahun 1985. Ia menyelesaikan pendidikan sarjananya di Fakultas Ilmu Komunikasi Universitas Padjadjaran, Bandung.\r\nTopandi mulai menulis novel sejak tahun 2010. Novel pertamanya, berjudul \"Journey\", diterbitkan pada tahun 2016. Novel ini bercerita tentang seorang perempuan muda yang harus berjuang untuk menemukan jati dirinya.\r\nNovel kedua Topandi, berjudul \"Nun Mati\", diterbitkan pada tahun 2022. Novel ini bercerita tentang seorang prajurit TNI yang ditugaskan untuk menumpas pemberontakan Darul Islam di Ciamis. Di tengah perang, ia bertemu dengan seorang perempuan setengah waras yang memiliki kekuatan misterius.\r\nNovel \"Nun Mati\" berhasil memenangkan penghargaan Best Mystery Novel dalam ajang Scarlet Pen Awards 2022.",
     "foto_profil": ""
   }
@@ -166,6 +166,318 @@
     "nama": "Nurul Riyadlahmi",
     "tentang_penulis": "Lorem ipsum dolor sit amet",
     "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 14,
+  "fields": {
+    "created": "2024-03-12T01:05:58.509",
+    "updated": "2024-03-13T16:15:49.086",
+    "slug": "rusdiana",
+    "nama_penulis": "Rusdiana",
+    "nama": "Prof. Dr. H. Ahmad Rusdiana, M.M.",
+    "tentang_penulis": "Prof. Dr. H. Ahmad Rusdiana, MM. merupakan Guru Besar Bidang Ilmu Manajemen Pendidikan yang lahir di Puhun Ciamis, tanggal 21 April 1961, ia merupakan anak pertama dari tujuh bersaudara pasangan Ayahanda Almarhum Sukarta dengan Ibu Junirah. Ahmad Rusdiana menyelesaikan S-1nya di Jurusan Dakwah Fakutas Ushuluddin IAIN Sunan Gunung Djati Bandung tahun 1987, S-2 di Program Studi Magister Manajemen Institut Manajemen Indonesia Jakarta lulus tahun 2002, dan menyelesaikan S-3 Program Pascasarjana Manajemen Pendidikan Universitas Islam Nusantara Bandung, lulus tahun 2012, dengan judul Disertasi “Implentasi Kebijakan WASDALBIN Menuju Akuntabilitas Perguruan Tinggi.” Sesuai dengan moto hidupnya “belajar dan mengabdi”, saat ini ia mengabdi sebagai Dosen Manajemen Pendidikan pada Fak. Tarbiyah dan Keguruan dan Pascasarjana UIN Bandung.",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 15,
+  "fields": {
+    "created": "2024-03-12T01:06:35.697",
+    "updated": "2024-03-12T01:06:35.697",
+    "slug": "moch-irfan",
+    "nama_penulis": "Moch. Irfan",
+    "nama": "Moch. Irfan, S.T., M.Kom.",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 16,
+  "fields": {
+    "created": "2024-03-12T01:06:49.737",
+    "updated": "2024-03-13T16:23:43.404",
+    "slug": "rinaldi-munir",
+    "nama_penulis": "Rinaldi Munir",
+    "nama": "Dr. Ir. Rinaldi Munir, M.T.",
+    "tentang_penulis": "Rinaldi lahir di Padang, Sumatera Barat. Kedua orang tuanya berasal dari Koto Anau, Kabupaten Solok. Ia mengenyam pendidikan di SD Muhammadiyah Sawahan, SMP Negeri 8 Padang, dan SMA Negeri 1 Padang. Pada 1985, ia melanjutkan studi Teknik Informatika di Institut Teknologi Bandung (ITB).\r\n\r\nSaat menjadi mahasiswa, ia aktif menulis di media Berkala ITB. Pada tahun akhir, ia menjadi tenaga pengajar sukarelawan di Karisma Learning Center Salman dan PIKSI ITB. Ia lulus meraih gelar insinyur pada Desember 1991 dan diwisuda pada April 1992. Tugas akhirnya membahas mengenai kriptografi. Segera setelah lulus, ia menjadi tenaga pengajar tetap di almamaternya sejak 1992.\r\n\r\nPada 1996, Rinaldi melanjutkan studi Program Magister Informatika Bidang Khusus Rekayasa Perangkat Lunak di ITB. Tesisnya membahas fraktal dan meraih gelar magister teknik pada 1999. Pada 2010, ia meraih gelar doktor di ITB.\r\n\r\nRinaldi menulis beberapa buku berkaitan dengan bidang ilmu keahliannya. Buku-bukunya yang sudah diterbitkan di antaranya mengenai algoritma dan pemrograman, matematika diskrit, kriptografi, metode numerik, dan pengolahan citra digital\r\n\r\nRinaldi aktif menulis di blog pribadinya sejak 2005. Salah satu tulisannya mengenai \"bapak tua penjual amplop\" menjadi terkenal dan diliput oleh media seperti Trans TV dan Merdeka.com.",
+    "foto_profil": "4x6-Ir_-Rinaldi-Munir-MT.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 17,
+  "fields": {
+    "created": "2024-03-12T01:07:03.828",
+    "updated": "2024-03-12T04:00:50.684",
+    "slug": "aristoteles",
+    "nama_penulis": "Aristoteles",
+    "nama": "Aristoteles",
+    "tentang_penulis": "Aristoteles, adalah seorang filsuf Yunani yang menjadi guru dari Alexander Agung. Ia menjadi murid dari Plato ketika berada di Athena. Aristoteles belajar dari Plato selama 20 tahun, mulai pada umur 17 tahun.\r\n\r\nKelahiran: 384 SM, Stagira, Yunani\r\nMeninggal: 322 SM, Khalkis, Yunani\r\nPendidikan: Akademi Platonik\r\nAnak: Nicomachus, Pythias",
+    "foto_profil": "538px-Aristotle_Altemps_Inv8575.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 18,
+  "fields": {
+    "created": "2024-03-12T01:07:16.904",
+    "updated": "2024-03-13T15:36:15.636",
+    "slug": "morissan",
+    "nama_penulis": "Morissan",
+    "nama": "Morissan, Ph.D.",
+    "tentang_penulis": "Morissan merupakan dosen program studi komunikasi yang memiliki banyak pengalaman di dunia pendidikan diantaranya menerbitkan berbagai buku komunikasi seperti Komunikasi Organisasi, Teori Komunikasi Individu Hingga Masa, dan lain sebagainya.",
+    "foto_profil": "qZFSawhVt1m97C2v10Gy489QD4NtJm2ndf9RMtgU.png"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 20,
+  "fields": {
+    "created": "2024-03-12T01:07:57.633",
+    "updated": "2024-03-13T17:17:27.654",
+    "slug": "john-b-thompson",
+    "nama_penulis": "John B. Thompson",
+    "nama": "John Brookshire Thompson",
+    "tentang_penulis": "John Brookshire Thompson FAcSS adalah seorang sosiolog Inggris. Dia adalah seorang profesor sosiologi di Universitas Cambridge dan rekan dari Jesus College. Thompson memperoleh gelar pertamanya dalam bidang filsafat, sosiologi dan antropologi sosial di Universitas Keele pada tahun 1975. Gelar PhD diperolehnya dari Universitas Cambridge pada tahun 1979.\r\n\r\nThompson telah mempelajari pengaruh media dalam pembentukan masyarakat modern, subjek yang menjadi fokusnya sebagai salah satu dari sedikit ahli teori sosial. Salah satu tema utama karyanya adalah peran media dalam transformasi ruang dan waktu dalam kehidupan sosial, serta penciptaan bentuk tindakan dan interaksi baru di luar kerangka temporal dan spasial. Dipengaruhi kuat oleh hermeneutika, ia mempelajari komunikasi dan kegunaannya, dan menghubungkannya erat dengan konteks sosial. Konsep kunci lainnya adalah transformasi visibilitas, media dan tradisi, serta identitas dan proyek simbolik.\r\n\r\nBukunya Ideology and Modern Culture merupakan studi tentang apa yang terkandung dalam teori ideologi dalam masyarakat modern. William Outhwaite dari Universitas Sussex menjulukinya sebagai \"sebuah karya terobosan yang tidak diragukan lagi akan menjadi salah satu teks fundamental dalam teori ideologi.\" Esai Thompson \"Visibilitas Baru\" digunakan sebagai dasar studi media di Universitas Rhodes, sedangkan buku besarnya Skandal Politik: Kekuasaan dan Visibilitas di Era Media digambarkan oleh Amy Binder dari Universitas Clemson sebagai \"luar biasa\". Karyanya menonjol karena pengakuannya akan pentingnya sifat dan perkembangan komunikasi massa.",
+    "foto_profil": "migrated_Thompson__John_0.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 22,
+  "fields": {
+    "created": "2024-03-12T01:08:20.010",
+    "updated": "2024-03-12T01:08:20.010",
+    "slug": "arif-zulkifli",
+    "nama_penulis": "Arif Zulkifli",
+    "nama": "Arif Zulkifli",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 23,
+  "fields": {
+    "created": "2024-03-12T01:08:57.749",
+    "updated": "2024-03-12T01:08:57.749",
+    "slug": "muhaimin",
+    "nama_penulis": "Muhaimin",
+    "nama": "Dr. Muhaimin, M.Pd.",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 24,
+  "fields": {
+    "created": "2024-03-12T01:09:12.601",
+    "updated": "2024-03-12T04:01:53.393",
+    "slug": "naomi-wolf",
+    "nama_penulis": "Naomi Wolf",
+    "nama": "Naomi Rebekah Wolf",
+    "tentang_penulis": "Naomi Rebekah Wolf (lahir 12 November 1962) adalah seorang penulis dan jurnalis Amerika Serikat. Setelah menerbitkan buku perdananya Mitos Kecantikan (1991), ia menjadi pembicara utama dari apa yang disebut sebagai arus ketiga gerakan feminis. Para feminis seperti Gloria Steinem dan Betty Friedan memuji karya tersebut; sementara yang lainnya, seperti Camille Paglia, mengkritiknya. Pada 1990an, ia menjadi penasehat politik untuk kampanye presidensial Bill Clinton dan Al Gore. Buku-buku berikutnya meliputi buku berpenjualan terbaik The End of America pada 2007 dan Vagina: A New Biography.",
+    "foto_profil": "540px-Naomi_wolf_2012.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 25,
+  "fields": {
+    "created": "2024-03-12T01:09:24.101",
+    "updated": "2024-03-13T16:12:14.165",
+    "slug": "soe-hok-gie",
+    "nama_penulis": "Soe Hok Gie",
+    "nama": "Drs. Soe Hok Gie",
+    "tentang_penulis": "Drs. Soe Hok Gie (17 Desember 1942 – 16 Desember 1969) adalah seorang aktivis keturunan Tionghoa-Indonesia yang menentang kediktatoran berturut-turut dari Presiden Soekarno dan Soeharto. Ia adalah mahasiswa Fakultas Sastra Universitas Indonesia Jurusan Sejarah tahun 1962–1969.\r\n\r\nSoe merupakan seorang etnis Tionghoa yang menganut Katolik Roma. Leluhurnya berasal dari provinsi Hainan, Republik Rakyat Tiongkok. Ayahnya bernama Soe Lie Piet alias Salam Sutrawan. Ia anak keempat dari lima bersaudara di keluarganya; kakaknya Arief Budiman, seorang sosiolog dan dosen di Universitas Kristen Satya Wacana, juga cukup kritis dan vokal dalam politik Indonesia.\r\n\r\nSetelah menghabiskan tahun-tahun terakhirnya di SMA Kolese Kanisius, Soe kuliah di Universitas Indonesia dari tahun 1962 sampai 1969; setelah menyelesaikan studi di universitas, ia menjadi dosen di almamaternya sampai kematiannya. Ia selama kurun waktu sebagai mahasiswa menjadi pembangkang aktif, memprotes Presiden Sukarno dan PKI. Soe adalah seorang penulis yang produktif, dengan berbagai artikel yang dipublikasikan di koran-koran seperti Kompas, Harian Kami, Sinar Harapan, Mahasiswa Indonesia, dan Indonesia Raya. Setelah Riri Riza merilis film berjudul Gie pada tahun 2005, artikel-artikelnya disusun oleh Stanley dan Aris Santoso yang diterbitkan dengan judul Zaman Peralihan oleh penerbit GagasMedia.\r\n\r\nSebagai seorang pendukung hidup yang dekat dengan alam, Soe seperti dikutip Walt Whitman dalam buku hariannya: \"Sekarang aku melihat rahasia pembuatan orang terbaik itu adalah untuk tumbuh di udara terbuka dan untuk makan dan tidur dengan bumi.\" Pada tahun 1965, Soe membantu mendirikan Mapala UI, organisasi lingkungan di kalangan mahasiswa. Dia menikmati kegiatan pendakian, dan meninggal karena menghirup gas beracun saat mendaki gunung berapi Semeru sehari sebelum ulang tahun ke 27. Dia meninggal bersama rekannya, Idhan Dhanvantari Lubis. Dia dimakamkan di tempat yang sekarang menjadi Museum Taman Prasasti di Jakarta Pusat.",
+    "foto_profil": "2938628275.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 26,
+  "fields": {
+    "created": "2024-03-12T01:09:35.000",
+    "updated": "2024-03-12T01:09:35.000",
+    "slug": "pramoedya-ananta-toer",
+    "nama_penulis": "Pramoedya Ananta Toer",
+    "nama": "Pramoedya Ananta Toer",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 27,
+  "fields": {
+    "created": "2024-03-12T01:10:03.211",
+    "updated": "2024-03-12T03:32:19.630",
+    "slug": "ahmad-bahtiar",
+    "nama_penulis": "Ahmad Bahtiar",
+    "nama": "Dr. Ahmad Bahtiar, M.Hum.",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 28,
+  "fields": {
+    "created": "2024-03-12T01:10:17.543",
+    "updated": "2024-03-12T01:10:17.543",
+    "slug": "fatimah",
+    "nama_penulis": "Fatimah",
+    "nama": "Fatimah, M.Pd.",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 29,
+  "fields": {
+    "created": "2024-03-12T01:10:48.157",
+    "updated": "2024-03-13T15:10:43.858",
+    "slug": "hatamar-rasyid",
+    "nama_penulis": "Hatamar Rasyid",
+    "nama": "Prof. Dr. Hatamar Rasyid, M.A.",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 30,
+  "fields": {
+    "created": "2024-03-12T01:11:06.931",
+    "updated": "2024-03-13T17:11:38.490",
+    "slug": "greg-barton",
+    "nama_penulis": "Greg Barton",
+    "nama": "Prof. Greg Barton",
+    "tentang_penulis": "Greg adalah Profesor Politik Global Islam di Alfred Deakin Institute for Citizenship and Globalization Deakin University, Melbourne, Australia. Greg sering datang ke Indonesia dan mengamati tentang Indonesia, sehingga ia pernah menulis buku biografi mantan Presiden Abdurahman Wahid alias Gus Dur. Bahkan bukunya menjadi  best seller itu memberikan pandangan yang menarik atas Pilpres 2024.",
+    "foto_profil": "ZXvDiKHK_400x400.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 31,
+  "fields": {
+    "created": "2024-03-12T01:11:19.209",
+    "updated": "2024-03-12T04:02:23.084",
+    "slug": "bertrand-russell",
+    "nama_penulis": "Bertrand Russell",
+    "nama": "Bertrand Arthur William Russell, 3rd Earl Russell, OM",
+    "tentang_penulis": "Bertrand Arthur William Russell, 3rd Earl Russell, OM adalah seorang filsuf dan ahli matematika ternama Britania Raya. Dia menulis banyak sekali buku dan brosur tentang berbagai masalah, antara lain filsafat, moral, pendidikan, sejarah, agama dan politik.\r\n\r\nBertrand Russell terlahir sebagai cucu Lord John Russell, Perdana Menteri Britania Raya pada masa Ratu Victoria. Setelah meninggalnya ibu (pada tahun 1874) dan ayahnya (1876), Russell dan abangnya diasuh oleh kedua kakek-neneknya. Setelah meninggalnya John Russell pada tahun 1878, Russell kecil dibesarkan sepenuhnya oleh neneknya, Lady Russell. Bertrand Russell dididik secara privat di rumahnya, sebelum menempuh pendidikan di Trinity College, Universitas Cambridge. Di sana dia meraih gelar di bidang matematika dan ilmu-ilmu moral. Russell terpilih menjadi anggota Royal Society pada tahun 1908.\r\n\r\nKarier Russell di Trinity College terhenti pada tahun 1916 karena aktivitas antiperangnya, yang menyebabkan dia dihukum dan didenda. Russell dipecat dari Trinity College sebagai buntut hukumannya itu. Dua tahun kemudian dia kembali dihukum, kali ini dipenjara selama enam bulan. Semasa dipenjara, Russell menulis buku Introduction to Mathematical Philosophy. Dia baru kembali ke Trinity pada tahun 1944.\r\n\r\nRussell dianugerahi Order of Merit pada tahun 1949, dan menerima hadiah Nobel Sastra pada tahun 1950. Selama dasawarsa 1950-an dan 1960-an dia menjadi inspirasi kaum muda karena aktivitas antiperang dan antinuklirnya. Bersama-sama dengan Albert Einstein, dia mengumumkan Manifesto Russell-Einstein pada tahun 1955, yang menghimbau pembatasan senjata nuklir. Dia juga merupakan pengatur utama Konferensi Pugwash I, yang mengumpulkan para ilmuwan yang prihatin terhadap penyebaran senjata nuklir. Pada tahun 1961, dia kembali dipenjara akibat demonstrasi antinuklir, dan dihukum penjara selama dua bulan. Namun, banding hukumannya ini kemudian diperingan menjadi satu minggu di rumah sakit penjara. Dia tetap menjadi figur publik sampai saat wafatnya pada tahun 1970.",
+    "foto_profil": "571px-Bertrand_Russell_1949.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 32,
+  "fields": {
+    "created": "2024-03-12T01:11:33.871",
+    "updated": "2024-03-12T04:00:16.764",
+    "slug": "adolf-hitler",
+    "nama_penulis": "Adolf Hitler",
+    "nama": "Adolf Hitler",
+    "tentang_penulis": "Adolf Hitler adalah seorang politisi Jerman dan ketua Partai Nazi kelahiran Austria. Ia menjabat sebagai Kanselir Jerman sejak 1933 sampai 1945 dan diktator Jerman Nazi mulai tahun 1934 sampai 1945. Hitler menjadi tokoh utama Jerman Nazi, Perang Dunia II di Eropa, dan Holocaust.\r\n\r\nKelahiran: 20 April 1889, Braunau am Inn, Austria\r\nMeninggal: 30 April 1945, Fuhrerbunker\r\nSaudara kandung: Paula Hitler, Otto Hitler, Edmund Hitler, Gustav Hitler, Ida Hitler, Angela Hitler, Alois Hitler, Jr.\r\nPasangan: Eva Braun (m. 1945–1945)\r\nOrang tua: Alois Hitler, Klara Hitler",
+    "foto_profil": "Hitler_portrait_crop.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 33,
+  "fields": {
+    "created": "2024-03-12T01:11:53.688",
+    "updated": "2024-03-12T05:40:52.181",
+    "slug": "yusuf-qardhawi",
+    "nama_penulis": "Yusuf Qardhawi",
+    "nama": "Syekh Prof. Dr. Yusuf al-Qaradawi",
+    "tentang_penulis": "Syekh Prof. Dr. Yusuf al-Qaradawi (9 September 1926 – 26 September 2022) adalah seorang ulama Islam Mesir yang tinggal di Doha, Qatar, dan ketua Persatuan Ulama Muslim Internasional. Ia mendapat pengaruh termasuk dari Ibnu Taimiyah, Ibnu Qayyim, Sayyid Rasyid Ridha, Hassan al-Banna, Abul Hasan Ali Hasani Nadwi, Abul A'la Maududi dan Naeem Siddiqui. Ia terkenal karena programnya asy-Syari'ah wa al-Hayah (\"Syariah dan Kehidupan\"), disiarkan di Al Jazeera, yang diperkirakan memiliki pemirsa 40–60 juta di seluruh dunia. Ia juga dikenal karena IslamOnline, sebuah situs web yang ia bantu dirikan pada tahun 1997 dan di mana ia menjabat sebagai kepala ulama agama.\r\n\r\nAl-Qaradhawi telah menerbitkan lebih dari 120 buku, termasuk Halal dan Haram dalam Islam, Fiqh al-Zakat (Hukum Fiqh tentang Zakat) dan Islam: Peradaban Masa Depan. Dia juga telah menerima delapan penghargaan internasional atas kontribusinya pada keilmuan Islam, dan dianggap sebagai salah satu cendekiawan Islam paling berpengaruh yang hidup saat ini. Al-Qaradhawi telah lama memiliki peran penting dalam kepemimpinan intelektual Ikhwanul Muslimin, sebuah organisasi politik Mesir, meskipun ia telah berulang kali menyatakan bahwa ia tidak lagi menjadi anggota dan dua kali (pada tahun 1976 dan 2004) berubah tawaran turun untuk peran resmi dalam organisasi.\r\n\r\nAl-Qaradhawi kadang-kadang digambarkan sebagai \"Islamis moderat\". Beberapa pandangannya, seperti memaafkan pemboman bunuh diri Palestina terhadap Israel, telah menimbulkan reaksi dari pemerintah di Barat: dia ditolak visa masuk ke Inggris pada tahun 2008, dan dilarang memasuki Prancis di 2012.",
+    "foto_profil": "Qardawi.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 34,
+  "fields": {
+    "created": "2024-03-12T01:12:15.020",
+    "updated": "2024-03-12T04:14:04.718",
+    "slug": "muhammad-hasyim-asyari",
+    "nama_penulis": "Muhammad Hasyim Asy'ari",
+    "nama": "KH. Muhammad Hasyim Asy'ari",
+    "tentang_penulis": "K.H. Muhammad Hasyim Asy'ari atau yang lebih dikenal dengan nama K.H. Hasyim Asy'ari adalah seorang ulama besar bergelar pahlawan nasional dan merupakan pendiri sekaligus Rais Akbar (pimpinan tertinggi pertama) organisasi Nahdlatul Ulama.\r\n\r\nIa memiliki julukan Hadratussyaikh yang berarti mahaguru dan telah hafal Kutub al-Sittah (6 kitab hadits), serta memiliki gelar Syaikhu al-Masyayikh yang berarti Gurunya Para Guru. Ia adalah putra dari pasangan K.H. Asy'ari dengan Ny. H. Halimah, dilahirkan di Desa Tambakrejo, Jombang, Jawa Timur, dan memiliki salah satu anak bernama K.H. A Wahid Hasyim yang juga merupakan pahlawan nasional perumus Piagam Jakarta, serta cucunya yakni K.H. Abdurrahman Wahid, merupakan Presiden RI ke-4.",
+    "foto_profil": "563px-Hasyim_Asyari.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 36,
+  "fields": {
+    "created": "2024-03-12T01:13:57.980",
+    "updated": "2024-03-12T01:13:57.980",
+    "slug": "laksamana-sukardi",
+    "nama_penulis": "Laksamana Sukardi",
+    "nama": "Laksamana Sukardi",
+    "tentang_penulis": "",
+    "foto_profil": ""
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 37,
+  "fields": {
+    "created": "2024-03-12T01:14:11.189",
+    "updated": "2024-03-13T16:19:00.209",
+    "slug": "rudy-badil",
+    "nama_penulis": "Rudy Badil",
+    "nama": "Drs. Rudy David Badil",
+    "tentang_penulis": "Drs. Rudy David Badil adalah seorang wartawan asal Indonesia yang turut membentuk grup lawak Warkop bersama Nanu Moeljono, Kasino Hadiwibowo, Wahjoe Sardono, dan Indrodjojo Kusumonegoro.\r\n\r\nKelahiran: 29 November 1945, Jakarta\r\nMeninggal: 11 Juli 2019, Kota Depok\r\nTempat pemakaman: TPU Tanah Kusir Unit Kristen\r\nAlmamater: Universitas Indonesia\r\nKarya terkenal: Warkop\r\nLahir: Rudy David Badil; 29 November 1945; Jakarta, Indonesia",
+    "foto_profil": "Rudy_Badil_Wartawan_Kompas.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 38,
+  "fields": {
+    "created": "2024-03-12T01:14:31.061",
+    "updated": "2024-03-12T04:10:50.779",
+    "slug": "kevin-kwan",
+    "nama_penulis": "Kevin Kwan",
+    "nama": "Kevin Kwan",
+    "tentang_penulis": "Kevin Kwan adalah novelis Singapura-Amerika yang dikenal sebagai penulis novel satire Crazy Rich Asians, China Rich Girlfriend, dan Rich People Problems. Pada tahun 2014, Kwan diberi gelar \"Five Writers to Watch\" dalam daftar Hollywood's Most Powerful Authors oleh The Hollywood Reporter. Tahun 2018, Kwan masuk daftar 100 orang paling berpengaruh di dunia versi majalah Time dan masuk The Asian Hall of Fame, proyek Robert Chinn Foundation yang dirintis tahun 2004.",
+    "foto_profil": "08e612b74c76c1f6fc05b5bf6f0a34669b-20-kevin-kwan-feature-lede.2x.rvertical.w512.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 39,
+  "fields": {
+    "created": "2024-03-12T01:14:46.417",
+    "updated": "2024-03-13T16:27:00.536",
+    "slug": "ramlan-surbakti",
+    "nama_penulis": "Ramlan Surbakti",
+    "nama": "Prof. A. Ramlan Surbakti, Drs., MA., Ph.D.",
+    "tentang_penulis": "Ramlan Surbakti (lahir 20 Juli 1953) adalah seorang akademisi sekaligus praktisi Pemilihan Umum (Pemilu) yang juga pernah menjabat sebagai Ketua Komisi Pemilihan Umum (KPU) pada periode 2004-2007. Pada Pemilu 1999, Ramlan pernah pula menjadi anggota Panwaslu Pusat, selanjutnya, pada masa pemerintahan Presiden Abdurrahman Wahid, Ramlan dipercaya menjadi anggota KPU.",
+    "foto_profil": "ramlan.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 40,
+  "fields": {
+    "created": "2024-03-12T01:15:21.659",
+    "updated": "2024-03-12T04:01:22.280",
+    "slug": "moh-mahfud-md",
+    "nama_penulis": "Moh. Mahfud MD.",
+    "nama": "Prof. Dr. H. Mohammad Mahfud Mahmodin, S.H., S.U., M.I.P.",
+    "tentang_penulis": "Prof. Dr. H. Mohammad Mahfud Mahmodin, S.H., S.U., M.I.P., dikenal dengan nama Mahfud MD1 (lahir 13 Mei 1957) adalah seorang akademikus, hakim, dan politikus berkebangsaan Indonesia. Ia mengawali kiprahnya di dunia akademisi sebagai dosen di Universitas Islam Indonesia, setahun setelah memperoleh gelar sarjana hukum dari universitas tersebut.\r\n\r\nMahfud menjabat sebagai Menteri Koordinator Bidang Politik, Hukum, dan Keamanan dari 23 Oktober 2019 hingga 1 Februari 2024. Ia menjadi tokoh sipil pertama yang mengemban jabatan tersebut. Pada 18 Oktober 2023, ia secara resmi diusung oleh koalisi pimpinan PDI Perjuangan sebagai calon wakil presiden mendampingi Ganjar Pranowo dalam pemilihan presiden Indonesia 2024.\r\n\r\nDi masa jabatannya sebagai Menteri Koordinator Bidang Politik, Hukum, dan Keamanan, Mahfud ditugaskan oleh presiden Joko Widodo untuk menduduki jabatan Menteri Dalam Negeri (ad interim) ketika menteri definitif, Tito Karnavian melakukan diplomasi ke Singapura pada 2020. Kemudian, ia juga didapuk menjadi Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (ad interim) sewaktu menteri definitif, Tjahjo Kumolo mengalami sakit hingga akhirnya meninggal dunia. Ia kembali menjabat jabatan yang sama pada 16 Juli 2022 sebagai pelaksana tugas menteri.\r\n\r\nMahfud MD pernah menjabat sebagai Ketua merangkap hakim pada Mahkamah Konstitusi periode 2008–2013. Sebelumnya ia merupakan anggota DPR dan Menteri Pertahanan pada Kabinet Persatuan Nasional. Ia meraih gelar Doktor pada tahun 1993 dari Universitas Gadjah Mada. Sebelum diangkat sebagai Menteri, Ia adalah pengajar dan Guru Besar Hukum Tata Negara di Universitas Islam Indonesia (UII), Yogyakarta. Semasa muda ia juga aktif sebagai aktivis Pelajar Islam Indonesia dan Himpunan Mahasiswa Islam.",
+    "foto_profil": "480px-Mahfud_MD,_Candidate_for_Vice_President_of_Indonesia_2024.jpg"
   }
 }
 ]

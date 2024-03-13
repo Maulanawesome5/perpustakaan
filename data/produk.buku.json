@@ -484,5 +484,455 @@
     "harga": 71100,
     "stok_barang": 30
   }
+},
+{
+  "model": "produk.buku",
+  "pk": 28,
+  "fields": {
+    "created": "2024-03-12T01:20:17.109",
+    "updated": "2024-03-13T15:39:05.814",
+    "slug": "sistem-informasi-manajemen",
+    "judul_buku": "Sistem Informasi Manajemen",
+    "penulis": 14,
+    "penerbit": 7,
+    "tahun": 2014,
+    "deskripsi": "Pengembangan sistem informasi manajemen menjadi tuntutan bagi para manajer karena semakin pentingnya informasi dalam menunjang proses pengambilan keputusan. Para manajer sering kali mendapatkan informasi yang berlimpah, tetapi informasi tersebut tidak berkualitas atau tidak relevan dengan kebutuhan manajer. Hal ini disebabkan tidak adanya sebuah sistem yang mengelola arus informasi sesuai dengan kebutuhan organisasi. Ketidakakuratan informasi berimplikasi pada rendahnya kualitas keputusan yang diambil oleh para manajer lembaga pendidikan. Oleh karena itu, diperlukan pengembangan sistem informasi manajemen secara terarah agar setiap keputusan organisasi atau perusahaan ditopang oleh sajian informasi yang berkualitas.\r\n\r\nPada hakikatnya, teknologi informasi merupakan peluang bagi sistem manajemen kontemporer. Peluang tersebut mengindikasikan bahwa teknologi informasi memberikan tantangan yang menarik bagi para akuntan manajemen. Teknologi informasi yang berkembang demikian pesat sudah seharusnya memotivasi akuntan manajemen untuk terus-menerus mengikuti perkembangan teknologi informasi yang baru agar dapat secara cepat beradaptasi dan memanfaatkan teknologi tersebut secara maksimal bagi kepentingan organisasi tempat mereka bekerja.\r\n\r\nBuku Sistem Informasi Manajemen ini hadir sebagai sebuah alternatif bagi para manajer untuk menyediakan dan mengelola informasi yang dipergunakan dalam perencanaan, pendidikan, pengendalian, pengevaluasian, dan perbaikan berkelanjutan, serta menyediakan informasi untuk pengambilan keputusan. Bagi para mahasiswa, buku ini dapat menjadi referensi konseptual untuk melihat secara lebih detail penerapan sistem informasi manajemen.",
+    "sampul_buku": "9789790764217_Sistem-Inform.jpg",
+    "thumbnail_sampul": "9789790764217_Sistem-Inform.jpg",
+    "harga": 50000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 29,
+  "fields": {
+    "created": "2024-03-12T01:20:58.656",
+    "updated": "2024-03-12T04:18:41.485",
+    "slug": "algoritma-dan-pemrograman-dalam-bahasa-pascal-c-dan-c-edisi-keenam",
+    "judul_buku": "Algoritma dan Pemrograman dalam Bahasa Pascal, C, Dan C++ Edisi Keenam",
+    "penulis": 16,
+    "penerbit": 2,
+    "tahun": 2016,
+    "deskripsi": "Algoritma adalah sekumpulan instruksi yang terstruktur dan terbatas yang diimplementasikan kedalam bentuk program komputer untuk menyelesaikan suatu masalah komputasi tertentu. Dalam matematika dan ilmu komputer, algoritme adalah prosedur langkah-demi-langkah untuk penghitungan. Algoritme digunakan untuk penghitungan, pemrosesan data, dan penalaran otomatis.\r\n\r\nAlgoritme adalah metode efektif diekspresikan sebagai rangkaian terbatas dari instruksi-instruksi yang telah didefinisikan dengan baik untuk menghitung sebuah fungsi. Dimulai dari sebuah kondisi awal dan input awal (mungkin kosong), instruksi-instruksi tersebut menjelaskan sebuah komputasi yang, bila dieksekusi, diproses lewat sejumlah urutan kondisi terbatas yang terdefinisi dengan baik, yang pada akhirnya menghasilkan \"keluaran\" dan berhenti di kondisi akhir. Transisi dari satu kondisi ke kondisi selanjutnya tidak harus deterministik; beberapa algoritme, dikenal dengan algoritme pengacakan, menggunakan masukan acak.\r\n\r\nWalaupun algorism-nya al-Khawarizmi dirujuk sebagai aturan-aturan melakukan aritmetika menggunakan bilangan Hindu-Arab dan solusi sistematis dan persamaan kuadrat, sebagian formalisasi yang nantinya menjadi algoritme modern dimulai dengan usaha untuk memecahkan permasalahan keputusan (Entscheidungsproblem) yang diajukan oleh David Hilbert pada tahun 1928. Formalisasi selanjutnya dilihat sebagai usaha untuk menentukan \"penghitungan efektif\" atau \"metode efektif\"; formalisasi tersebut mengikutkan Godel-Herbrand-Kleene fungsi rekursif-nya Kurt Godel - Jacques Herbrand - Stephen Cole Kleene pada tahun 1930, 1934, dan 1935, kalkulus lambda-nya Alonzo Church pada tahun 1936, \"Formulasi 1\"-nya Emil Post pada tahun 1936, dan Mesin Turing-nya Alan Turing pada tahun 1936-7 dan 1939. Dari definisi formal dari algoritme di atas, berkaitan dengan konsep intuituf, masih tetap ada masalah yang menantang. apa itu algoritma?\r\n\r\nSinopsis\r\nBuku Algoritma dan Pemrograman dalam Bahasa Pascal, C, dan C++ merupakan edisi baru dari buku sebelumnya, yaitu Algoritma dan Pemrograman dalam Bahasa Pascal dan C. Buku ini disusun bagi siapapun (siswa, mahasiswa, umum) yang ingin mempelajari bidang pemrograman.\r\n\r\nSetiap materi diperkaya dengan banyak contoh pemecahan masalah. Diharapkan buku ini dapat mengajarkan pembacanya menjadi seorang pemrogram yang dapat memprogram dengan kaidah yang benar.",
+    "sampul_buku": "9786021514917_algoritma-dan-pemrograman-dalam-bahasa-pascal_-c_-dan-c_-edisi-keenam.jpg",
+    "thumbnail_sampul": "9786021514917_algoritma-dan-pemrograman-dalam-bahasa-pascal_-c_-dan-c_-edisi-keenam.jpg",
+    "harga": 120000,
+    "stok_barang": 20
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 30,
+  "fields": {
+    "created": "2024-03-12T01:21:31.059",
+    "updated": "2024-03-13T15:27:37.922",
+    "slug": "retorika-seni-berbicara",
+    "judul_buku": "Retorika Seni Berbicara",
+    "penulis": 17,
+    "penerbit": 8,
+    "tahun": 2018,
+    "deskripsi": "Socrates, Plato, dan Aristoteles memandang retorika dan puisi sebagai alat yang terlalu sering digunakan untuk memanipulasi orang lain melalui manipulasi emosi dan pengaburan fakta. Mereka mendakwa para sofis, termasuk Gorgias dan Isocrates, sebagai para pengguna manipulasi jenis ini, sedangkan para filsuf merupakan pengguna retorika yang didasarkan pada filsafat dan upaya-upaya pencerahan. Salah satu kontribusi terpenting Aristoteles dalam buku ini adalah ia mengidentifikasi retorika sebagai salah satu dari tiga elemen kunci dalam filsafat, bersanding dengan logika dan dialektika.\r\n\r\nAristoteles, melalui buku ini, memberikan dasar-dasar sistem retorika yang berfungsi sebagai batu pijakan bagi perkembangan teori retorika dari zaman kuno sampai zaman modern, sehingga buku ini dianggap sebagai karya tunggal yang paling penting dalam seni persuasi. Gross dan Walzer, sebagaimana Alfred North Whitehead, setuju bahwa semua filsafat Barat adalah catatan kaki bagi Plato dan semua teori retorika hanyalah serangkaian tanggapan terhadap isu isu yang diangkat dalam Retorika.",
+    "sampul_buku": "xapzsvrzhorwgkeak4y7uu.jpg",
+    "thumbnail_sampul": "xapzsvrzhorwgkeak4y7uu.jpg",
+    "harga": 100000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 31,
+  "fields": {
+    "created": "2024-03-12T01:23:33.497",
+    "updated": "2024-03-13T15:36:31.857",
+    "slug": "riset-kualitatif",
+    "judul_buku": "Riset Kualitatif",
+    "penulis": 18,
+    "penerbit": 9,
+    "tahun": 2022,
+    "deskripsi": "Buku ini membahas mengenai bagaimana melakukan penelitian kualitatif dengan baik dan benar dengan penjelasan lengkap dan cukup mendalam tentang berbagai aspek riset kualitatif. Pertimbangan penyusunan buku ini adalah karena kebanyakan buku teks riset kualitatif yang ada di Indonesia saat ini justru dirasakan lebih banyak menimbulkan kebingungan, alih-alih memberikan pencerahan dan kejelasan.\r\n\r\nPenulis sering kali menemukan begitu banyak perbedaan pandangan di antara para sarjana sosial mengenal bagaimana melakukan penelitian kualitatif. Masalah perbedaan yang sering muncul itu mengenai, misalnya, perbedaan penentuan ukuran sampel, perbedaan mengenai peran teori dalam penelitian, perbedaan penentuan paradigma, dan sebagainya. Tidak sedikit yang berpandangan keliru bahwa dalam penelitian kualitatif, peneliti boleh sesukanya menentukan ukuran sampel atau bahkan sesukanya menentukan siapa yang boleh dijadikan sampel. Pandangan pribadi peneliti juga sering kali tercampur ke dalam hasil penelitian, disengaja atau tidak disengaja. Masalah validitas atau objektivitas penelitian juga sering kali diabaikan padahal seharusnya prinsip tersebut tetap harus dipertahankan.\r\n\r\nBuku ini memberikan kejelasan mengenai berbagai masalah tersebut dengan mengacu pada berbagai sumber rujukan utama yang diakui secara luas dan digunakan oleh banyak perguruan tinggi top dunia. Buku ini mudah dipahami dan dapat digunakan oleh peneliti pemula atau mereka yang sudah berpengalaman.",
+    "sampul_buku": "Riset-Kualitatif-morisan.jpg",
+    "thumbnail_sampul": "Riset-Kualitatif-morisan.jpg",
+    "harga": 85000,
+    "stok_barang": 50
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 33,
+  "fields": {
+    "created": "2024-03-12T01:27:08.068",
+    "updated": "2024-03-13T17:29:18.696",
+    "slug": "analisis-ideologi-dunia-kritik-wacana-ideologi-ideologi-dunia",
+    "judul_buku": "Analisis Ideologi Dunia Kritik Wacana Ideologi-Ideologi Dunia",
+    "penulis": 20,
+    "penerbit": 11,
+    "tahun": 2014,
+    "deskripsi": "Ideologi , derivasi kata ideologues yang muncul pasca revolusi Prancis, memang telah kadung dinodai oleh Napoleon, Mark dan Engels. Bahkan, kaum Hegelian muda pun turut melukai ideologi karena menyekapnya hanya dalam jebakan ide-ide dan produk-produk kesadaran. Buku ini ditulis dengan membawa segumpal semangat dekonstruksi-kritis yang memperkaya wacana ideologi dalam sebuah refleksi bahasa.",
+    "sampul_buku": "id-11134201-7r992-lq3mnkzks3oy85.jpg",
+    "thumbnail_sampul": "id-11134201-7r992-lq3mnkzks3oy85.jpg",
+    "harga": 99000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 35,
+  "fields": {
+    "created": "2024-03-12T01:28:47.595",
+    "updated": "2024-03-13T15:48:23.598",
+    "slug": "sukarno-paradoks-revolusi-indonesia",
+    "judul_buku": "Sukarno Paradoks Revolusi Indonesia",
+    "penulis": 22,
+    "penerbit": 13,
+    "tahun": 2021,
+    "deskripsi": "Empat puluh tahun sejak Sukarno meninggal, nama serta wajahnya tidak pernah benar-benar lumat terkubur. Kampanye puluhan tahun Orde Baru untuk membenamkannya justru hanya memperkuat kenangan orang akan kebesarannya.\r\n\r\nSukarno tak pernah berhenti menjadi ikon revolusi nasional Indonesia yang paling menonjol—mungkin seperti Che Guevara bagi Kuba. Di banyak rumah, foto-fotonya, kendati dalam kertas yang sudah menguning di balik kaca pigura yang buram, tidak pernah diturunkan dari dinding meski pemerintahan berganti-ganti.\r\n\r\nIa dicinta sekaligus dicaci. Tidak seorang pun dalam peradaban modern ini yang menimbulkan demikian banyak perasaan pro-kontra seperti Sukarno. “Aku dikutuk seperti bandit dan dipuja bagai dewa,” demikian Si Bung dalam Penyambung Lidah Rakyat.\r\n\r\nKisah Sukarno adalah satu dari empat cerita tentang pendiri republik: Sukarno, Hatta, Tan Malaka, dan Sutan Sjahrir. Diangkat dari edisi khusus Majalah Berita Mingguan Tempo sepanjang 2001-2009, serial buku ini mereportase ulang kehidupan keempatnya. Mulai dari pergolakan pemikiran, petualangan, ketakutan, hingga kisah cinta dan cerita kamar tidur mereka.",
+    "sampul_buku": "paradoks-revolusi-indonesia.jpg",
+    "thumbnail_sampul": "paradoks-revolusi-indonesia.jpg",
+    "harga": 60000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 36,
+  "fields": {
+    "created": "2024-03-12T01:29:45.007",
+    "updated": "2024-03-12T04:49:17.640",
+    "slug": "biografi-syaikhona-muhammad-kholil-guru-para-ulama-dan-pahlawan-nasional",
+    "judul_buku": "Biografi Syaikhona Muhammad Kholil Guru Para Ulama dan Pahlawan Nasional",
+    "penulis": 23,
+    "penerbit": 14,
+    "tahun": 2022,
+    "deskripsi": "Sebuah buku yang disusun untuk mengoreksi beberapa biografi sebelumnya yang didominasi cerita-cerita mistik, dengan menghadirkan perjalanan hidup dan pengembaraan intelektual yang memoderasi citra Syaikhona Muhammad Kholil sebagai tokoh yang bukan hanya sakti (dalam pengertian metafisik) melainkan juga sebagai ulama yang Alim-Allamah, cendekiawan yang cerdas, dan pendidik yang arif, serta pejuang yang teguh dalam melawan kolonialisme.",
+    "sampul_buku": "d5fe4b73-c61f-4356-92ea-274ca23116ac.jpg",
+    "thumbnail_sampul": "d5fe4b73-c61f-4356-92ea-274ca23116ac.jpg",
+    "harga": 68000,
+    "stok_barang": 25
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 37,
+  "fields": {
+    "created": "2024-03-12T01:30:27.890",
+    "updated": "2024-03-13T17:34:16.846",
+    "slug": "vagina-kuasa-dan-kesadaran",
+    "judul_buku": "Vagina Kuasa dan Kesadaran",
+    "penulis": 24,
+    "penerbit": 15,
+    "tahun": 2020,
+    "deskripsi": "Di dalam buku ini, Naomi menggabungkan ilmu pengetahuan mutakhir dengan sejarah budaya untuk mengeksplorasi peran hasrat perempuan dan bagaimana hal ini memengaruhi identitas, kreativitas, dan kepercayaan diri perempuan. Selain provokatif, menarik, dan inspiratif, buku ini juga akan mengantarkan kita menuju inti dari apa artinya menjadi seorang perempuan.\r\n\r\nV*gina: Kuasa dan Kesadaran, adalah karya menakjubkan yang secara radikal mengubah cara kita berpikir, berbicara, dan memahami vagina—dan perempuan dan seksualitas—yang ditulis oleh Naomi Wolf, salah satu kritikus budaya yang paling dihormati dan penulis karya klasik modern, The Beauty Myth.\r\n\r\nKetika Naomi memulai sebuah perjalanan yang mengubah hidup untuk mencari tahu hubungan antara seksualitas dan kreativitas, ia menemukan pencerahan yang menggembirakan—adanya tautan, yang didukung secara ilmiah, antara vagina dan keberanian perempuan, ketegasan dan kesadaran.\r\n\r\nDi dalam buku ini, Naomi menggabungkan ilmu pengetahuan mutakhir dengan sejarah budaya untuk mengeksplorasi peran hasrat perempuan dan bagaimana hal ini memengaruhi identitas, kreativitas, dan kepercayaan diri perempuan. Selain provokatif, menarik, dan inspiratif, buku ini juga akan mengantarkan kita menuju inti dari apa artinya menjadi seorang perempuan.\r\n\r\nBagi setiap pembaca baik laki-laki maupun perempuan yang ingin memahami tubuh, pikiran, serta budaya yang mendefinisikan perempuan, buku ini adalah bacaan wajib.",
+    "sampul_buku": "naomi-wolf-kekuasaan-kesadaran.jpg",
+    "thumbnail_sampul": "naomi-wolf-kekuasaan-kesadaran.jpg",
+    "harga": 55000,
+    "stok_barang": 20
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 38,
+  "fields": {
+    "created": "2024-03-12T01:31:01.688",
+    "updated": "2024-03-12T05:02:02.565",
+    "slug": "di-bawah-lentera-merah",
+    "judul_buku": "Di Bawah Lentera Merah",
+    "penulis": 25,
+    "penerbit": 16,
+    "tahun": 1999,
+    "deskripsi": "Di Bawah Lentera Merah adalah buku karangan Soe Hok Gie (yang merupakan skripsi sarjana mudanya) yang menarasikan satu periode krusial dalam sejarah Indonesia yaitu ketika benih-benih gagasan kebangsaan mulai disemaikan, antara lain lewat upaya berorganisasi. Melalui sumber data berupa kliping-kliping koran antara tahun 1917-1920-an dan wawancara autentik yang berhasil dilakukan terhadap tokoh-tokoh sejarah yang masih tersisa, penulisnya mencoba melacak bagaimana bentuk pergerakan Indonesia, apa gagasan substansialnya, serta upaya macam apa yang dilakukan oleh para tokoh Sarekat Islam Semarang pada kurun waktu 1917-an.\r\n\r\nDi bawah pimpinan Semaoen, para pendukung Sarekat Islam berasal dari kalangan kaum buruh dan rakyat kecil. Pergantian pengurus itu adalah wujud pertama dari perubahan gerakan Sarekat Islam Semarang dari gerakan kaum menangah menjadi gerakan kaum buruh dan tani. Saat itu menjadi sangat penting artinya bagi sejarah modern Indonesia karena menjadi tonggak kelahiran gerakan kaum Marxis pertama di Indonesia.\r\n\r\nPertimbangan lain mengapa Di Bawah Lentera Merah menjadi penting adalah karena buku ini memotret bagaimana gagasan transformasi modernisasi berproses dari wacana tradisional ke wacana modern. Lebih khusus lagi Soe Hok Gie, melalui buku ini, mengajak kita mencermati bagaimana para tokoh tradisionalis lokal tahun 1917-an mencoba menyikapi perubahan pada abad ke-20 yang dalam satu dan lain hal, punya andil menjadikan wajah bangsa Indonesia seperti sekarang ini. Selain itu yang perlu ditekankan bahwa salah satu sumber buku ini merupakan saksi hidup dari pergerakan tersebut yakni Semaun dan Darsono sendiri. Hal yang menarik dari buku ini diungkapkan oleh Soe Hok Gie bahwa untuk mengetahui pemberontakan Partai Komunis Indonesia pada 1926/1927 harus diketahui pula asal mula pergerakannya. Karena tanpa mengetahui permulaannya seperti membaca koran dari tengah-tengah.\r\n\r\nBuku ini diterbitkan oleh Yayasan Bentang Budaya, Yogyakarta tahun 1999.",
+    "sampul_buku": "3154097.jpg",
+    "thumbnail_sampul": "3154097.jpg",
+    "harga": 25000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 39,
+  "fields": {
+    "created": "2024-03-12T01:31:42.188",
+    "updated": "2024-03-13T15:16:50.793",
+    "slug": "perburuan",
+    "judul_buku": "Perburuan",
+    "penulis": 26,
+    "penerbit": 17,
+    "tahun": 1950,
+    "deskripsi": "Novel pendek PAT – ditulis semasa ia di dalam penjara – memaksa kita mengingat-ngingat terus bahwa kebebasan tidak bisa dianggap gampang saja datang dengan sendirinya. Perburuan memiliki segala kewenangan yang sah dari seorang yang mampu bertahan, dan mengandung sebanyak-banyak kebenaran semampu kita menulisnya",
+    "sampul_buku": "963121.jpg",
+    "thumbnail_sampul": "963121.jpg",
+    "harga": 27000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 40,
+  "fields": {
+    "created": "2024-03-12T01:32:25.149",
+    "updated": "2024-03-12T04:28:38.825",
+    "slug": "bahasa-indonesia-untuk-perguruan-tinggi",
+    "judul_buku": "Bahasa Indonesia untuk Perguruan Tinggi",
+    "penulis": 27,
+    "penerbit": 18,
+    "tahun": 2014,
+    "deskripsi": "Buku ini terdiri dari 10 bab, yang masing–masing materi diuraikan secara ringkas sebagai berikut:\r\nBab 1. Sejarah dan Kedudukan Bahasa Indonesia\r\nBab 2. Ejaan\r\nBab 3. Kalimat\r\nBab 4. Paragraf\r\nBab 5. Perencanaan Karangan\r\nBab 6. Diksi\r\nBab 7. Notasi Ilmiah\r\nBab 8. Konvensi Naskah\r\nBab 9. Plagiasi\r\nBab 10. Transliterasi Huruf Arab-Latin",
+    "sampul_buku": "24615_product_1491387775.jpg",
+    "thumbnail_sampul": "24615_product_1491387775.jpg",
+    "harga": 50000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 41,
+  "fields": {
+    "created": "2024-03-12T01:33:21.563",
+    "updated": "2024-03-13T15:12:25.642",
+    "slug": "pengantar-ilmu-politik-perspektif-barat-dan-islam",
+    "judul_buku": "Pengantar Ilmu Politik Perspektif Barat dan Islam",
+    "penulis": 29,
+    "penerbit": 19,
+    "tahun": 2019,
+    "deskripsi": "Salah satu definisi politik yang sangat dominan di dunia Barat adalah dimaknai sebagai “kekuasaan” yaitu kemampuan pemegangnya memeras pemenuhan atau ketaatan individu-individu lain terhadap kehendaknya atas dasar apapun, kekuasaan telah dijadikan absolut dan berkuasa. Kekuasaan semacam itu nyaris tidak dapat berdampingan dengan kemungkinan-kemungkinan kebebasan dan nasib manusia. Akibatnya, kekuasaan negara berkembang pada tingkat yang tak dapat dibatasi, dalam kebanyakan kasus, mengantarkan pada pendudukan masyarakat, manipulasi, pemikiran dan budaya mereka dan bankitnya negara-negara fasis dan otoriter (Bertrand, 1948).\r\n\r\nPemikiran dan definisi seperti di atas, yang lebih banyak digambarkan secara pejoratif sebagai hasil dari konseptualisasi Barat, tidak memiliki relevansi dengan politik yang dikonseptualisasi Barat, tidak memiliki relevansi dengan politik yang dikonseptualisasikan dalam Islam, buku ini merupakan usaha cerdas dari penulisnya yang mencoba memberikan suatu elaborasi akademis tentang politik dalam perspektif Barat di satu sisi dan perspektif Islam di sisi lainnya secara sekaligus. Kajian perbandingan semacam ini masih sangat langka, sebab selama ini jika kita ingin mendapatkan informasi dan kajian Ilmu Politik Barat di satu sisi dan Ilmu Politik Islam di sisi lainnya, harus membaca buku yang berbeda, bukan dalam satu buku yang sudah dirancang secara komprehensif dalam satu buku, inilah kelebihan buku ini.\r\n\r\nBuku ini sangat bagus untuk menjadi rujukan mata kuliah Ilmu Politik, Administrasi Negara, dan mata kuliah terkait lainnya, baik di perguruan tinggi negeri maupun swasta dan juga layak dibaca oleh peminat umum dari masyarakat dalam upaya menambah khazanah pengetahuan tentang politik, hak asasi manusia dan ilmu negara, dalam perspektif Barat dan Islam.",
+    "sampul_buku": "9786024250621.jpg",
+    "thumbnail_sampul": "9786024250621.jpg",
+    "harga": 81000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 42,
+  "fields": {
+    "created": "2024-03-12T01:35:06.173",
+    "updated": "2024-03-13T17:07:12.464",
+    "slug": "biografi-gus-dur",
+    "judul_buku": "Biografi Gus Dur",
+    "penulis": 30,
+    "penerbit": 11,
+    "tahun": 2003,
+    "deskripsi": "Abdurrahman Wahid atau yang akrab disapa Gus Dur memiliki nama lengkap Abdurrahman ad-Dakhil. Secara etimologi, ad-Dakhil berarti sang penakluk. Namun dikarenakan nama ad-Dakhil tidak begitu dikenal, maka diganti dengan nama Abdurrahman Wahid. Sebutan Gus Dur dikarenakan lahir di lingkungan pesantren.\r\n\r\nGus adalah kependekan dari kata Bagus yaitu sebutan yang sering diberikan kepada anak seorang kyai sebagai bentuk penghormatan di Daerah Jawa Timur dan Jawa Tengah. Gus Dur dikenal sebagai tokoh yang kontroversial dan berdedikasi tinggi terhadap penegakan Hak Asasi Manusia (HAM) pembela kaum minoritas.\r\n\r\nSosoknya yang penuh teka-teki dan kontroversial sehingga pemikiran dan tindakannya sering disalahpahami oleh banyak kalangan. Kenali lebih dalam mengenai sosok Gus Dur melalui buku Biografi Gus Dur dibawah ini.\r\n\r\nAbdurrahman Wahid atau Gus Dur dilahirkan di Jombang, Jawa Timur 4 Agustus 1940. Gus Dur merupakan putra pertama dari enam bersaudara. Ayahnya bernama KH. Wahid Hasyim yang merupakan putra dari KH. Hasyim Asy’ari, pendiri Jam’iyah Nahdlatul Ulama (NU) sebagai organisasi massa Islam terbesar di Indonesia dan sekaligus pendiri Pesantren Tebu Ireng Jombang.\r\n\r\nIbunya bernama Hj. Sholehah merupakan putri Kh. Bisri Syansuri pendiri Pesantren Denanyar Jombang, Jawa Timur. Kakek KH Abdurrahman Wahid (Gus Dur) dari sanad ibunya merupakan Rais ‘Aam di Pengurus Besar Nahdlatul Ulama (PBNU) sebagai pengganti posisi KH. Wahab Chasbullah.\r\n\r\nTahun 1949, ayah Gus Dur diangkat menjadi kepala Menteri Agama pertama sehingga keluarga Wahid Hasyim pindah ke Jakarta untuk memasuki suasana yang baru. Setelah kepindahannya di Jakarta, berbagai tamu dari berbagai kalangan bertamu ke kediaman Wahid Hasyim. Hal itu menjadikan Gus Dur menambah pengalaman untuk mengenal dunia politik.\r\n\r\nSejak kecil Gus Dur sudah terlihat memiliki kesadaran penuh untuk mengemban tanggung jawab terhadap Nahdlatul Ulama (NU). Sekitar bulan April  tahun 1953, Gus Dur Bersama ayahnya berangkat ke Sumedang, Jawa Barat untuk menghadiri pertemuan Nahdlatul Ulama (NU) dengan mengendarai mobil, akan tetapi di tengah perjalanan mengalami kecelakaan yang mengakibatkan ayahnya meninggal.",
+    "sampul_buku": "biografi_Pgf1aiX.jpg",
+    "thumbnail_sampul": "biografi_Pgf1aiX.jpg",
+    "harga": 88000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 43,
+  "fields": {
+    "created": "2024-03-12T01:36:06.586",
+    "updated": "2024-03-12T04:24:06.404",
+    "slug": "bagaimana-saya-menulis",
+    "judul_buku": "Bagaimana Saya Menulis",
+    "penulis": 31,
+    "penerbit": 11,
+    "tahun": 2020,
+    "deskripsi": "\"Saya tidak bisa berpura-pura mengetahui bagaimana menulis itu seharusnya dilakukan, atau apa yang oleh seorang kritikus yang bijak akan disarankan kepada saya agar dilakukan untuk meningkatkan tulisan saya\"\r\n\r\nPetikan di atas merupakan pernyataan Russell terkait bagaimana ia menulis. Sebagaimana diketahui, minat Russell itu sangat luas dan beragam, yang berkembang dari tahun ke tahun. Di Cambridge, ia mengembangkan bakatnya di bidang matematika, filsafat, dan ekonomi.\r\n\r\nTetapi, bagaimana gaya tulisan Russell? Bagaimana pula struktur kalimatnya, dan caranya mengembangkan sebuah pokok bahasan?\r\n\r\nBuku Bagaimana Saya Menulis ini menceritakan semuanya, semua tentang bagaimana Russell menemukan gaya tulisannya. Bahkan, ia akan menghabiskan berjam-jam dalam mencoba menemukan jalan paling ringkas untuk mengucapkan sesuatu tanpa ambiguitas. Ia rela mengorbankan semua usaha mencapai kegemilangan yang estetis.\r\n\r\nBukan hanya itu, buku ini juga memuat beberapa esai Russell, yang di antaranya: \"Kenang-Kenangan Religius Saya\", ”Perkembangan Mental Saya\", ”Adaptasi: Sebuah Ringkasan Autobiografia\", \"Kenapa Saya Memilih Filsafat”, ”Pemujaan Seorang Manusia Bebas\", \"Mimpi Buruk Sang Metafisikawan: Retro Me Satanas”, dan \"Menyanjung Kemalasan', dan lain sebagainya.",
+    "sampul_buku": "cats_YkyH4Li.jpg",
+    "thumbnail_sampul": "cats_YkyH4Li.jpg",
+    "harga": 70000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 44,
+  "fields": {
+    "created": "2024-03-12T01:36:38.702",
+    "updated": "2024-03-12T05:31:16.563",
+    "slug": "mein-kampf",
+    "judul_buku": "Mein Kampf",
+    "penulis": 32,
+    "penerbit": 22,
+    "tahun": 1926,
+    "deskripsi": "Mein Kampf adalah buku otobiografi dan manifesto buatan Adolf Hitler dari 1924 sampai 1925. Buku ini berisi proses di mana Hitler mulai bersifat antisemit dan menguraikan ideologi politiknya dan rencana masa depan untuk Jerman. Volume 1 Mein Kampf diterbitkan pada 1925 dan Volume 2 pada 1926.",
+    "sampul_buku": "39285001_5adf670f-8df9-4402-85e0-2a26fecb499c_700_700.jpg",
+    "thumbnail_sampul": "39285001_5adf670f-8df9-4402-85e0-2a26fecb499c_700_700.jpg",
+    "harga": 60000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 45,
+  "fields": {
+    "created": "2024-03-12T01:37:12.921",
+    "updated": "2024-03-12T05:20:35.519",
+    "slug": "islam-jalan-tengah-menjauhi-sikap-berlebihan-dalam-beragama",
+    "judul_buku": "Islam Jalan Tengah Menjauhi Sikap Berlebihan dalam Beragama",
+    "penulis": 33,
+    "penerbit": 23,
+    "tahun": 2017,
+    "deskripsi": "Para Mukmin sejati memandang Islam sebagai satu-satunya jalan yang lurus (al-shirâth al-mustaqîm). Isu utama mereka adalah bagaimana kaum Muslim melaksanakan Islam secara kâffah (total). Hal ini bisa menimbulkan kesan bahwa dunia di mata mereka hanya berwajah biner: Islam/kafir, thâghût/Allah, haqq/bâthil, jahiliyah/Islami, Dâr Al-Islâm/dâr al-harb, dan seterusnya. Dengan pandangan-dunia semacam itu, bagi sebagian orang, sikap dan tindakan mereka dianggap terlalu simplistik, linier, keras, dan bahkan radikal.\r\n \r\nDi sisi yang berseberangan, terdapat sebagian Muslim yang longgar, atau bahkan abai, terhadap prinsip-prinsip Islam. Mereka sering menafsirkan ajaran Islam dalam rangka kepentingan-diri mereka sendiri. Mereka lebih dekat pada sekularisme dan ateisme ketimbang pada Islam, bahkan oleh sebagian orang, mereka dianggap telah keluar dari Islam.\r\n \r\nYusuf Qardhawi, seorang ulama yang sangat disegani di dunia Muslim, mencoba memetakan pandangan-pandangan yang berkembang di Dunia Islam. Dengan keluasan ilmu, kejernihan argumentasi, dan kelapangan hati, dia menunjukkan bahwa Islam adalah agama yang senantiasa menempuh jalan tengah (wasath), yang membawa rahmat bagi semesta alam (rahmah li al-‘âlamîn). Dengan pandangan-dunia itu, Islam menampilkan diri sebagai sebuah agama yang toleran, moderat, adil—tanpa harus kehilangan prinsip-prinsip intrinsiknya. Di dalamnya tersirat pengakuan akan adanya berbagai pandangan, kemungkinan, alternatif, tafsiran tentang Islam yang satu itu.",
+    "sampul_buku": "covUA-230.jpg",
+    "thumbnail_sampul": "covUA-230.jpg",
+    "harga": 77000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 46,
+  "fields": {
+    "created": "2024-03-12T01:37:50.258",
+    "updated": "2024-03-13T15:32:16.939",
+    "slug": "risalah-aswaja",
+    "judul_buku": "Risalah Aswaja",
+    "penulis": 34,
+    "penerbit": 24,
+    "tahun": 2012,
+    "deskripsi": "Kitab Risalah Aswaja adalah salah satu karya KH Hasyim Asy'ari, yang didalamnya membahas persoalan keyakinan (dimensi iman), amalan (dimensi islam), hingga kepribadian (dimensi ihsan) yang selama ini dipegang oleh komunitas Muslim Kultural, khususnya warga Nahdlatul Ulama (NU).",
+    "sampul_buku": "9786023130467.jpg",
+    "thumbnail_sampul": "9786023130467.jpg",
+    "harga": 71000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 47,
+  "fields": {
+    "created": "2024-03-12T01:38:24.661",
+    "updated": "2024-03-13T15:57:44.748",
+    "slug": "wiji-thukul-teka-teki-orang-hilang",
+    "judul_buku": "Wiji Thukul Teka-Teki Orang Hilang",
+    "penulis": 22,
+    "penerbit": 13,
+    "tahun": 2022,
+    "deskripsi": "Lelaki cadel itu tak pernah bisa melafalkan huruf “r” dengan sempurna. Ia “cacat” wicara tapi dianggap berbahaya. Rambutnya lusuh. Pakaiannya kumal. Celananya seperti tak mengenal sabun dan setrika. Ia bukan burung merak yang memesona.\r\n\r\nNamun, bila penyair ini membaca puisi di tengah buruh dan mahasiswa, aparat memberinya cap sebagai agitator, penghasut. Selebaran, poster, stensilan, dan buletin propaganda yang ia bikin tersebar luas di kalangan buruh dan petani. Kegiatannya mendidik anak-anak kampung dianggap menggerakkan kebencian terhadap Orde Baru. Maka ia dibungkam, dilenyapkan.\r\n\r\nWiji Thukul mungkin bukan penyair paling cemerlang yang pernah kita miliki. Sejarah Republik menunjukkan ia juga bukan satu-satunya orang yang menjadi korban penghilangan paksa. Namun, Thukul adalah cerita penting dalam sejarah Orde Baru yang tak patut diabaikan: seorang penyair yang sajak-sajaknya menakutkan sebuah rezim dan kematiannya hingga kini jadi misteri.\r\n\r\nKisah tentang Wiji Thukul adalah jilid perdana seri “Prahara-prahara Orde Baru” yang diangkat dari liputan khusus Majalah Berita Mingguan Tempo, Mei 2013. Serial ini menyelisik, menyingkap, merekonstruksi, dan mengingat kembali berbagai peristiwa gelap kemanusiaan pada masa Orde Baru yang nyaris terlupakan.",
+    "sampul_buku": "Cover_Wiji_Thukul_New_2022.jpg",
+    "thumbnail_sampul": "Cover_Wiji_Thukul_New_2022.jpg",
+    "harga": 60000,
+    "stok_barang": 20
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 48,
+  "fields": {
+    "created": "2024-03-12T01:39:12.343",
+    "updated": "2024-03-12T04:56:30.353",
+    "slug": "di-balik-reformasi-1998",
+    "judul_buku": "Di Balik Reformasi 1998",
+    "penulis": 36,
+    "penerbit": 26,
+    "tahun": 2023,
+    "deskripsi": "Sebagai bagian dari anak bangsa, Laksamana Sukardi terpanggil untuk mengungkap bagaimana dinamika kehidupannya hingga memutuskan terjun dalam gelombang perjuangan mahaberat demi tegaknya paham demokrasi di Indonesia. Ia mengumpulkan catatan pribadinya sejak sekitar tiga dasawarsa silam. Kala itu, Laks muda memutuskan menanggalkan jabatan sebagai seorang eksekutif profesional bidang perbankan untuk ikut mendukung gerakan reformasi Indonesia.\r\n\r\nCatatan pribadi ini sekaligus menjadi refleksi pengalaman 20 tahun reformasi, yang memuat pengalaman perjuangan Laks di kancah politik. Setelah berjuang bersama Megawati Soekarnoputri dalam bayangbayang rezim Orde Baru Soeharto, Lakssebagai menteri-masih dituntut bergelut memecahkan berbagai masalah politikekonomi akibat krisis multidimensional 1998.\r\n\r\nPascareformasi, Laks juga berusaha memaparkan pengalaman dan kebijakan pemerintah yang telah mengembalikan integritas dan kewibawaan bangsa, memulihkan marwah bangsa. Ketika itu, secara bersama-sama pemerintah dan partai politik berhasil menjadikan Republik Indonesia sebagai salah satu negara demokrasi terbesar di dunia dan negara yang mampu melaksanakan pembangunan ekonomi di tengah persaingan global yang ketat. Catatan Laks ini sengaja disusun agar kita mampu menjaga warisan yang diberikan gerakan reformasi.\r\n\r\n\"Reformasi 1998 adalah kehendak sejarah yang ditopang oleh begitu banyak aktor di baliknya. Krisis nilai tukar meletak dalam kerapuhan akut tatanan ekonomi, politik, sosial, dan bahkan mungkin kebudayaan. Transisi ini ternyata tak hanya terjadi pada level nasional dan bahkan organisasional, tetapi juga terjadi pada level individual. Catatan pribadi Laksamana Sukardi Di Balik Reformasi 1998 ini menunjukkan bagaimana evolusi pribadi akhirnya bertemu dengan momentum yang membuat alam bergerak pada perubahan definitif. Destinasi sejarah adalah kumpulan para penumpang (aktor) yang dengan teguh menentukan nasib diri dan lingkungan sosial-politik-ekonominya. Buku ini sangat menggugah untuk dibaca, menelusur torong gelap Reformasi 1998, bermula pertama-tama dari catatan pribadi Laksamana Sukardi.\"\r\n-Dr. A. Prasetyantoko Rektor Unika Atma Jaya, Jakarta",
+    "sampul_buku": "bu4dd4rmxfpftjgs48ogqj.jpg",
+    "thumbnail_sampul": "bu4dd4rmxfpftjgs48ogqj.jpg",
+    "harga": 169000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 49,
+  "fields": {
+    "created": "2024-03-12T01:40:26.105",
+    "updated": "2024-03-13T15:45:05.383",
+    "slug": "soe-hok-gie-sekali-lagi-buku-pesta-dan-cinta-di-alam-bangsanya",
+    "judul_buku": "Soe Hok-gie... Sekali Lagi Buku, Pesta dan Cinta di Alam Bangsanya",
+    "penulis": 37,
+    "penerbit": 27,
+    "tahun": 2009,
+    "deskripsi": "Menghidupkan kembali sosok Soe Hok-gie...dengan penerbitan buku ini tentu diwarnai maksud mengangkat ke permukaan sosok teladan. [...] Di tengah krisis rasa keadilan,hilang nya rasa malu dan gencarnya semangat menggugat hukum saat ini, sosok Soe Hok-gie pantas ditampilkan.\r\n(Jakob Oetama—Pemimpin Umum Harian Kompas)\r\n\r\nPada tahun 1968 tak lama setelah Soehartosecara resmi dipilih MPRS sebagai presiden...[Gie] kembali menggalang kekuatan mahasiswa dan alumni untuk memprotes…melalui siaran Radio Universitas Indonesia. Old habits die hard! (Budiarto Shambazy—Ketua Iluni UI dan wartawan senior)\r\n\r\nGie melibatkan sejarah bangsanya dalam pergulatan pemikiran pribadi. Pada saat yang sama, kekagumannya pada alamdan ilmu pengetahuan, serta pada orang-orangyang mencintai alam dalam berbagai ekspresinya, seperti peneliti, politikus, penulis, bahkan pembuat film, di rangkainya dengan menarik.\r\n(Riri Riza—sutradara dan penulis skenario film)\r\n\r\nSoe Hok-gie juga memberikan perhatian kepada nasib kebebasan pers yang beradadi bawah bayang-bayang kekuasaan. Ia berharap pers juga bisa ikut berjihad melawan korupsi dan ketidakadilan. Dalam pandangannya, bila pers disenso rmaka kehidupan masyarakat kecil akan kian memburuk.\r\n(Stanley JA Prasetyo —komisioner pada Komnas HAM dan wartawan senior)\r\n\r\nSebagai anak muda saya merasa beruntung bisa menemukan sosok yang bisa mewakilidan bisa dibanggakan bagi jiwa muda…sosok idealis seperti Gie yang bisa membuat seorang anak muda berani untuk menghadapi hidup dan berpegang terus pada prinsip-prinsipnya. (Nicholas Saputra—aktor film)\r\n\r\nLuar biasa. Pemuda kritis, di tubuhnya mengalir darah patriot, nasionalis. Semangat senantiasa menggelegak. Seakan tak peduli risiko apa pun yang bakal menimpanya. Dia ikut andil dalam menumbangkan pemerintahan Orde Lama. Tapi ke tika kekuasaan berganti, dia tidak puas dan tetap melakukan kritik… (N Riantiarno—penulis dan sutradara Teater Koma)\r\n\r\nSaya seperti baru saja berkenalan dengan seseorang yang luar biasa, intelektual muda yang berani, lantang dan sekaligus romantis. Saya seperti orang yang sedang jatuh cinta. Lewat catatannya, Gie membuka cakrawala berpikir saya. Dia juga membuat saya malu, karena begitu terbelakang dalam pengetahuan.(Mira Lesmana—produser film)\r\n\r\nMahasiswa UI seperti Soe Hok-gie bukan hanya mencintai negara dan bangsanya, Indonesia, melainkan juga mencintai mereka yang dulu menjadi musuh-musuh politiknya. Tak heran jika Gie tanpa rasa takut bicara mengenai betapa kejamnya rezim Orde Baru pada saat itu yang membantai kaum komunis… (Ikrar Nusa Bhakti—profesorpeneliti LIPI dan anggota Iluni UI)",
+    "sampul_buku": "ID_KPG2013MTH02SHGS_B.jpg",
+    "thumbnail_sampul": "ID_KPG2013MTH02SHGS_B.jpg",
+    "harga": 200000,
+    "stok_barang": 5
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 50,
+  "fields": {
+    "created": "2024-03-12T01:41:03.586",
+    "updated": "2024-03-12T04:53:30.846",
+    "slug": "crazy-rich-asians-kaya-tujuh-turunan",
+    "judul_buku": "Crazy Rich Asians Kaya Tujuh Turunan",
+    "penulis": 38,
+    "penerbit": 1,
+    "tahun": 2013,
+    "deskripsi": "Crazy Rich Asians adalah novel debut yang sangat lucu tentang tiga keluarga Cina yang super kaya dan silsilah serta gosip, fitnah, dan rencana licik yang terjadi ketika pewaris salah satu kekayaan paling besar di Asia membawa pulang ABC-nya (Cina kelahiran Amerika) pacar ke pernikahan musim ini. Ketika Rachel Chu setuju untuk menghabiskan musim panas di Singapura bersama pacarnya, Nicholas Young, dia membayangkan sebuah rumah keluarga yang sederhana, perjalanan panjang untuk menjelajahi pulau, dan waktu berkualitas dengan pria yang mungkin suatu hari nanti dia nikahi.\r\nApa yang dia tidak tahu adalah bahwa rumah keluarga Nick kebetulan terlihat seperti istana, bahwa dia akan naik lebih banyak pesawat pribadi daripada mobil, dan bahwa dengan salah satu bujangan paling memenuhi syarat di Asia di lengannya, Rachel mungkin juga memiliki target. di punggungnya. Dimulai ke dunia kemegahan dinasti di luar imajinasi, Rachel bertemu Astrid, It Girl masyarakat Singapura; Eddie, yang keluarganya praktis tinggal di halaman-halaman majalah sosialita Hong Kong; dan Eleanor, ibu Nick yang tangguh, seorang wanita yang memiliki perasaan yang sangat kuat tentang siapa yang harus—dan tidak boleh—dinikahi oleh putranya. Menghebohkan, membuat ketagihan, dan dipenuhi dengan kemewahan yang menakjubkan, Crazy Rich Asians adalah tampilan orang dalam di Asian JetSet; penggambaran sempurna dari benturan antara uang lama dan uang baru; antara Cina Rantau dan Cina Daratan; dan sebuah novel luar biasa tentang apa artinya menjadi muda, jatuh cinta, dan sangat kaya raya.",
+    "sampul_buku": "9780804171588.jpg",
+    "thumbnail_sampul": "9780804171588.jpg",
+    "harga": 105000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 51,
+  "fields": {
+    "created": "2024-03-12T01:41:35.950",
+    "updated": "2024-03-13T15:09:06.436",
+    "slug": "memahami-ilmu-politik",
+    "judul_buku": "Memahami Ilmu Politik",
+    "penulis": 39,
+    "penerbit": 28,
+    "tahun": 2010,
+    "deskripsi": "Buku ini membahas konsep-konsep dasar ilmu politik dan mendiskripsikan atas sejumlah konsep penting dalam ilmu politik. Selain disajikan teori-teori yang orisinal juga dimunculkan teori-teori dalam konteks budaya politik Indonesia dengan cara sistematis. Oleh karena itu, buku ini dapat menjadi pegangan bagi mahasiswa, dosen, pengamat politik, politikus, dan siapa saja yang ingin menambah pengetahuannya guna memahami ilmu politik.",
+    "sampul_buku": "memahami-ilmu-politik.jpg",
+    "thumbnail_sampul": "memahami-ilmu-politik.jpg",
+    "harga": 78000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 52,
+  "fields": {
+    "created": "2024-03-12T01:42:07.349",
+    "updated": "2024-03-13T15:25:14.546",
+    "slug": "politik-hukum-di-indonesia",
+    "judul_buku": "Politik Hukum di Indonesia",
+    "penulis": 40,
+    "penerbit": 19,
+    "tahun": 2018,
+    "deskripsi": "Apabila politik dipandang semata-mata sebagai salah satu cabang dari ilmu sosial yang memiliki dasar, rangka, fokus, dan juga ruang lingkup yang jelas, maka dapat dikatakan bahwa ilmu politik masih muda usianya karena baru lahir pada abad ke-19. Ilmu politik berkembang secara pesat berdampingan dengan cabang-cabang ilmu sosial lainnya, seperti sosiologi, antropologi, ekonomi dam juga psikologi, yang dalam perkembangannya ini mereka saling berkaitan dan juga saling mempengaruhi satu sama lain.\r\n\r\nIlmu Politik merupakan ilmu yang mempelajari tentang politik, yaitu usaha untuk menggapai kehidupan yang baik. Dewasa ini, definisi mengenai politik yang sangat normatif telah didesak dengan definisi-definisi lain yang lebih menekankan pada upaya-upaya untuk mencapai masyarakat yang baik, seperti kekuasaan, pembuatan keputusan, kebijakan dan alokasi nilai.\r\n\r\nBuku ini tergolong angka di Indonesia. Betapa tidak, tradisi menulis tentang materi hukum di negeri ini masih di dominasi oleh metode normatif-edukatif. Metode ini tidak memperkaya pemahaman kita mengenai hukum yang sesungguhnya, yang jauh lebih kompleks daripada bentuk penampilannya yang hanya yuridis-normatif. Metode interdisipliner, transdisipliner, seperti yang dilakukan dalam buku ini, membantu menampilkan sosok hukum yang lebih ril.\r\nSelain memaparkan hubungan kuasa antara konfigurasi politik dan produk hukum dengan mengkaji hukum pemilihan umum, hukum pemerintahan (di daerah), dan hukum agraria. Oleh karena itu, isinya jelas beda dengan tulisan-tulisan yang menggunakan pendekatan normatif semata.",
+    "sampul_buku": "9789797692636_Politik-Hukum.jpg",
+    "thumbnail_sampul": "9789797692636_Politik-Hukum.jpg",
+    "harga": 132000,
+    "stok_barang": 10
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 53,
+  "fields": {
+    "created": "2024-03-13T17:21:27.607",
+    "updated": "2024-03-13T17:21:27.607",
+    "slug": "nabung-saham-sekarang",
+    "judul_buku": "Nabung Saham Sekarang",
+    "penulis": 1,
+    "penerbit": 1,
+    "tahun": 2017,
+    "deskripsi": "Banyak orang ingin kaya, namun mereka tidak tahu caranya. Banyak pula orang ingin mulai berinvestasi, namun justru malah terjebak dalam investasi bodong. Banyak juga yang sadar berinvestasi di investasi yang tidak bodong (contohnya investasi saham), tetapi mereka belum berhasil karena tidak tahu caranya. Penyebabnya dapat bermacam-macam, seperti tidak tahu saham apa yang harus dibeli, kapan harus membeli, dan kapan menjualnya. Kesalahan memilih saham dan menentukan saat yang tepat untuk membeli serta menjual bisa berakibat fatal. Meski sudah mulai banyak yang berhasil dalam investasi saham, masih banyak pula yang gagal dan rugi besar. Hal inilah yang seringkali menjadi momok bagi banyak orang untuk mulai berinvestasi saham. Risiko investasi saham adalah satu hal yang paling ditakuti calon investor. Sehingga melalui buku ini anda dapat mengetahui dan mendalami tentang dunia saham serta bisa langsung mempraktekannya.\r\n\r\nSinopsis Buku\r\nSejak bergabung dengan Premium Access dari Ellen May Institute, investasi saya bertumbuh. Saya Maryani, berusia 47 tahun, mulai berinvestasi saham dengan menyisihkan gaji dan uang bulanan dari suami. Saya membeli saham untuk berinvestasi, yang menurut saya lebih menguntungkan daripada saya menyimpan uang dalam tabungan atau deposito. Selama satu tahun berinvestasi, empat dari saham saya masing-masing menghasilkan keuntungan 90%, 130%, 300%, dan 700%.\r\n\r\nMemang, ada pula saham-saham yang sempat merugi, tetapi investasi saya secara keseluruhan menghasilkan keuntungan. Saya menyadari bahwa ada strategi untuk meminimalkan risiko dalam investasi di saham. Karena itu, saya berlangganan Premium Access dari Ellen May Institute. Hal ini sangat membantu saya dalam memilih saham yang akan saya beli. Saya membuka rekening online di sebuah sekuritas pada 2015 dan mulai membeli saham sesuai panduan Ms. Ellen May. Saya ingin bisa mandiri seperti Ms. Ellen May agar kelak bisa mengajak dan mengajari teman-teman saya berinvestasi saham. Anak perempuan saya Amalia (17 tahun) juga sudah mulai berinvestasi. Semakin dini investasi saham, tentu semakin bagus hasilnya.\r\n\r\nDaftar Isi\r\nBab 1: THE TOTAL LIFE FREEDOM FOR YOU\r\nBab 2: SPEED UP FINANCIAL GROWTH DARI SAHAM\r\nBab 3: NABUNG SAHAM SEKARANG!\r\nBab 4: NABUNG REKSA DANA SAHAM\r\nBab 5: SPEED UP! GAIN MORE!\r\nBab 6: THOUSAND MILES OF JOURNEY BEGAN WITH A SINGLE STEP\r\nBab 7: 5 SIMPLE STEPS TO START",
+    "sampul_buku": "9786020374819_Nabung-Saham-Sekarang.jpg",
+    "thumbnail_sampul": "9786020374819_Nabung-Saham-Sekarang.jpg",
+    "harga": 53500,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 54,
+  "fields": {
+    "created": "2024-03-13T17:26:00.408",
+    "updated": "2024-03-13T17:26:00.408",
+    "slug": "komunikasi-organisasi",
+    "judul_buku": "Komunikasi Organisasi",
+    "penulis": 18,
+    "penerbit": 9,
+    "tahun": 2020,
+    "deskripsi": "Sinopsis\r\nKomunikasi organisasi adalah bidang studi yang memiliki sejarah, tren, dan metodologi penelitian yang unik. Sebagai makhluk sosial, komunikasi adalah salah satu hal penting dan biasa kita lakukan. Aktivitas komunikasi ini diperlukan untuk membuat kita tetap dekat antara satu sama lain, serta memperlancar sebuah hubungan, baik antar keluarga, teman maupun anggota organisasi. Ketika memilih buku teks komunikasi organisasi yang baik, hal yang harus dipertimbangkan adalah menemukan buku yang kuat secara teori, terkini (up-to-date), dan relevan bagi para pembelajar, dan buku ini dipastikan mampu memenuhi kebutuhan itu dengan sejumlah alasan. Pertama, buku ini membahas teori komunikasi organisasi secara lengkap, mulai dari teori-teori klasik yang menjadi fondasi bagi komunikasi organisasi hingga teori-teori modern masa kini.\r\n\r\nPenulis buku ini percaya bahwa landasan teori yang kuat penting untuk setiap orang yang mempelajari komunikasi organisasi. Kedua, buku ini berisi informasi tentang sejarah suatu konsep yang ada dalam komunikasi organisasi dilanjutkan dengan menunjukkan ide-ide baru disertai perkembangan penelitian terkini. Terakhir, buku ini relevan bagi para siswa karena menunjukkan pengetahuan yang akan berdampak pada kehidupan mereka saat ini dan di masa depan. Untuk alasan ini, berbagai studi kasus konkret digunakan untuk membantu melihat bagaimana pengetahuan yang terkandung dalam buku ini benar-benar diterapkan dalam lingkungan kerja yang sebenarnya.",
+    "sampul_buku": "KOMUNIKASI_ORGANISASI.jpg",
+    "thumbnail_sampul": "KOMUNIKASI_ORGANISASI.jpg",
+    "harga": 54450,
+    "stok_barang": 10
+  }
 }
 ]
