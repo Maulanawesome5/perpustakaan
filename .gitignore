@@ -1,5 +1,6 @@
 .vscode
 docs/SQLite.sql
+docs/Database Buku.txt
 Env
 perpustakaan/__pycache__
 produk/__pycache__
