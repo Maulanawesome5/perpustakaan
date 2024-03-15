@@ -934,5 +934,113 @@
     "harga": 54450,
     "stok_barang": 10
   }
+},
+{
+  "model": "produk.buku",
+  "pk": 55,
+  "fields": {
+    "created": "2024-03-15T23:27:48.269",
+    "updated": "2024-03-15T23:27:48.269",
+    "slug": "jujutsu-kaisen-05",
+    "judul_buku": "Jujutsu Kaisen 05",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2022,
+    "deskripsi": "Program pertukaran dengan Akademi Jujutsu Kyoto dimulai. Pihak yang duluan menyingkirkan jurei tingkat 2 di area pertandinganlah yang akan jadi pemenangnya. Todo yang gemar berkelahi segera menyerang pihak Tokyo! Saat Todo dan Itadori saling berhadapan, anak-anak Kyoto yang lain ikut mengepung Itadori dengan niat untuk membunuhnya.\r\n\r\nSinopsis Buku\r\n\r\nSemua orang terkejut ketika mereka mengetahui Itadori masih hidup, tetapi tidak ada waktu untuk reuni yang mengharukan ketika Jujutsu High berada di tengah-tengah persaingan ketat dengan saingan mereka dari Kyoto! Tapi sportifitas yang baik tampaknya tidak ada dalam kartu begitu pihak berwenang memutuskan untuk menghilangkan ancaman Sukuna sekali dan untuk selamanya.\r\n\r\nDalam pergantian peristiwa yang tidak terduga, Aoi sangat menyukai Yuji. Yakin bahwa mereka adalah sahabat, Aoi bahkan melontarkan rencana timnya sendiri untuk membunuh Yuji. Sementara itu, Megumi dan yang lainnya mulai mengejar rival Kyoto mereka untuk melindungi Yuji juga.\r\n\r\nTim Tokyo dapat mengetahui skema Tim Kyoto. Megumi dan Maki kembali untuk melindungi Yuji, menghadapi saingan mereka karena mencoba membunuhnya. Sementara itu, Aoi menyadari potensi Yuji, dan memutuskan untuk membantu membawanya ke level berikutnya.\r\n\r\nSaat duel Yuji dengan Aoi, Todo mencapai klimaksnya, dia belajar apa artinya mencapai potensinya. Dengan keahlian membimbing Aoi, Yuji mulai tumbuh menuju tingkat kekuatan baru. Sementara itu, Mechamaru mendukung Momo dalam konfrontasinya dengan Nobara dan Panda.",
+    "sampul_buku": "9786230029783_Jujutsukaisen_5.jpg",
+    "thumbnail_sampul": "9786230029783_Jujutsukaisen_5.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 56,
+  "fields": {
+    "created": "2024-03-15T23:29:20.612",
+    "updated": "2024-03-15T23:29:20.612",
+    "slug": "jujutsu-kaisen-04",
+    "judul_buku": "Jujutsu Kaisen 04",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2021,
+    "deskripsi": "Di antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang. Komik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.\r\n\r\nKomik Jujutsu Kaisen 4 karya Gege Akutami menjadi salah satu komik yang wajib untuk diikuti. Itadori bertemu Junpei saat sedang menyelidiki kasus pembunuhan yang disebabkan oleh \"kutukan\". Awalnya, Itadori tidak berprasangka apa-apa terhadap Junpei. Dan karena merasa cocok, Itadori malah menjadi akrab dengannya. Tapi, ternyata Junpei \"terpesona\" dengan bujukan Mahito, dan bertikai dengan Itadori. Di tengah pertikaian, Itadori yang merasa terdesak dan ingin mengembalikan Junpei ke sosok sesungguhnya, malah dicemooh dan ditertawakan Sukuna yang ada dalam dirinya, juga Mahito. Akankah Itadori sanggup melepaskan Junpei dari \"kutukan\" kebenciannya?",
+    "sampul_buku": "Cover_Depan_Jujutsu_Kaisen_04.jpg",
+    "thumbnail_sampul": "Cover_Depan_Jujutsu_Kaisen_04.jpg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 57,
+  "fields": {
+    "created": "2024-03-15T23:31:15.888",
+    "updated": "2024-03-15T23:31:15.888",
+    "slug": "jujutsu-kaisen-03",
+    "judul_buku": "Jujutsu Kaisen 03",
+    "penulis": 5,
+    "penerbit": 3,
+    "tahun": 2021,
+    "deskripsi": "Aoi Todo dan Mai Zenin dari Akademi Jujutsu Kyoto muncul di hadapan Fushiguro dan Kugisaki. Tiba-tiba saja Todo langsung melontarkan pertanyaan tak terduga. Kira-kira apa, ya, jawaban Fushiguro untuk pertanyaan Todo? Sementara itu, Itadori pergi ke sebuah tempat untuk berlatih kemampuan bertarungnya.\r\n\r\nJujutsu Kaisen adalah manga Jepang yang ditulis dan diilustrasikan sendiri oleh Gege Akutami. Jujutsu Kaisen dirilis pertama kali pada bulan Maret 2018 ini menceritakan tentang siswa sekolah menengah, Yuji Itadori, saat ia bergabung dengan organisasi rahasia Penyihir Jujutsu untuk membunuh Kutukan kuat bernama Ryomen Sukuna, yang menjadikan Yuji sebagai tuan rumah. Karena sifat jahat Sukuna, semua penyihir diharuskan untuk mengusirnya segera–dalam hal ini, termasuk memburu Yuji Itadori. Tapi setelah melihat Yuji mempertahankan kendali atas tubuhnya, guru Megumi–Satoru Gojo membawanya ke Sekolah Tinggi Jujutsu Prefektur Tokyo dengan proposal kepada atasannya: tunda hukuman mati Yuji dan berlatih di bawah Gojo sampai dia menghabiskan semua jari Sukuna sehingga Kutukan bisa hancur total.\r\n\r\nSetelah berpetualang dan berlatih di bawah guru Gojo, Yuji dan Megumi bekerja sama dengan siswa tahun kedua Yuta Okkotsu dan Yuki Tsukumo. seorang penyihir jujutsu kelas khusus dan salah satu penyihir paling kuat sepanjang masa bersama dengan Choso setengah manusia, setengah Kutukan dan siswa tahun kedua. Maki Zenin untuk bertemu dengan Tengen.",
+    "sampul_buku": "WhatsApp_Image_2021-06-18_at_14.16.20.jpeg",
+    "thumbnail_sampul": "WhatsApp_Image_2021-06-18_at_14.16.20.jpeg",
+    "harga": 32000,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 58,
+  "fields": {
+    "created": "2024-03-15T23:33:31.747",
+    "updated": "2024-03-15T23:33:31.747",
+    "slug": "naruto-bind-up-edition-01",
+    "judul_buku": "Naruto Bind Up Edition 01",
+    "penulis": 41,
+    "penerbit": 3,
+    "tahun": 2023,
+    "deskripsi": "Sebuah cerita dari Desa Konohagakure. Adalah seorang murid di Akademi Ninja yang suka berbuat onar dan bermimpi menjadi seorang Hokage, bernama Naruto. Ia memiliki rahasia, sejak lahir di dalam tubuhnya terdapat siluman rubah yang disegel! Naruto berhasil meraih mimpinya. Ia berhasil lulus ujian Ninja yang diberikan oleh Guru Kakashi, bersama Sakura dan Sasuke. Sebagai Genin, tingkatan Ninja terbawah, mereka harus melaksanakan berbagai macam misi. Kali ini, misi yang diberikan adalah mengawal Tazuna, si pembuat jembatan. Namun, tanpa disadari, ada pembunuh yang sedang mengincar mereka semua!!\r\n\r\nDi antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.",
+    "sampul_buku": "zucrv4mvcaepw4mvccaolc.jpg",
+    "thumbnail_sampul": "zucrv4mvcaepw4mvccaolc.jpg",
+    "harga": 79200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 59,
+  "fields": {
+    "created": "2024-03-15T23:36:24.369",
+    "updated": "2024-03-15T23:36:24.370",
+    "slug": "naruto-bind-up-edition-02",
+    "judul_buku": "Naruto Bind Up Edition 02",
+    "penulis": 41,
+    "penerbit": 3,
+    "tahun": 2024,
+    "deskripsi": "Si manusia iblis, Zabuza, yang seharusnya telah dikalahkan oleh Sharingan Kakashi, ternyata masih hidup! Kelompok Naruto, yang telah tiba di negara Nami untuk mengawal Pak Tazuna, dilanda keraguan. Tapi, ini bukan saatnya untuk takut! Di bawah bimbingan Guru Kakashi, Naruto dan yang lain memulai aksi mereka! Namun, Sasuke gugur saat melindungi Naruto! Saat itu, terjadi keanehan pada diri Naruto! Haku yang terkena pukulan kemarahan pun menyadari hal tersebut. Sementara itu, pertarungan antara Zabuza vs Kakashi semakin sengit, siapakah yang menang!? Inilah babak akhir dari pergolakan di Negara Nami!!\r\n\r\nDi antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.",
+    "sampul_buku": "ukxpx6wsmqtgqqtgcltr9j.jpg",
+    "thumbnail_sampul": "ukxpx6wsmqtgqqtgcltr9j.jpg",
+    "harga": 79200,
+    "stok_barang": 100
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 60,
+  "fields": {
+    "created": "2024-03-15T23:38:18.847",
+    "updated": "2024-03-15T23:38:18.847",
+    "slug": "naruto-bind-up-edition-03",
+    "judul_buku": "Naruto Bind Up Edition 03",
+    "penulis": 41,
+    "penerbit": 3,
+    "tahun": 2024,
+    "deskripsi": "Kelompok Naruto berpartisipasi dalam ujian seleksi Chuunin atas rekomendasi Guru Kakashi! Sebelum sampai ke tempat ujian, ada seseorang yang menantang Sasuke. Inikah pertanda akan terwujudnya suatu hal yang mengerikan? Kemudian tes kedua ujian seleksi Chuunin pun dimulai!! Naruto dan teman-teman terlibat dalam pertarungan merebut gulungan di hutan yang mengerikan. Namun, ada sesuatu yang tak jelas asalnya mulai bergerak di balik ujian ini. Bagaimana kelanjutan ujian yang mempertaruhkan nyawa para pesertanya ini!?\r\n\r\nDi antara jenis buku lainnya, komik memang disukai oleh semua kalangan mulai dari anak kecil hingga orang dewasa. Alasan komik lebih disukai oleh banyak orang karena disajikan dengan penuh dengan gambar dan cerita yang mengasyikan sehingga mampu menghilangkan rasa bosan di kala waktu senggang.\r\n\r\nKomik seringkali dijadikan sebagai koleksi dan diburu oleh penggemarnya karena serinya yang cukup terkenal dan kepopulerannya terus berlanjut sampai saat ini. Dalam memilih jenis komik, ada baiknya perhatikan terlebih dahulu ringkasan cerita komik di sampul bagian belakang sehingga sesuai dengan preferensi pribadi pembaca.",
+    "sampul_buku": "vcsm5z6mqb3padwqgfqivx.jpg",
+    "thumbnail_sampul": "vcsm5z6mqb3padwqgfqivx.jpg",
+    "harga": 79200,
+    "stok_barang": 100
+  }
 }
 ]
