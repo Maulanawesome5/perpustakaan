@@ -24,7 +24,7 @@ class Penulis_Buku(Abstract_Product):
 
     def __str__(self) -> str:
         return self.nama_penulis
-    
+
     class Meta:
         ordering = ['nama_penulis']
 
@@ -48,22 +48,23 @@ class Penerbit_Buku(Abstract_Product):
 
 class Buku(Abstract_Product):
     judul_buku = models.CharField(max_length=255)
-    penulis = models.ForeignKey(Penulis_Buku, on_delete=models.CASCADE, default='')
-    penerbit = models.ForeignKey(Penerbit_Buku, on_delete=models.CASCADE, default='')
+    penulis = models.ForeignKey(Penulis_Buku, on_delete=models.CASCADE)
+    penerbit = models.ForeignKey(Penerbit_Buku, on_delete=models.CASCADE)
     tahun = models.IntegerField()
     deskripsi = models.TextField()
     sampul_buku = models.CharField(max_length=255, blank=True)
     thumbnail_sampul = models.CharField(max_length=255, blank=True)
     harga = models.IntegerField(default=0)
     stok_barang = models.IntegerField(default=0)
+    isbn = models.CharField(max_length=255, blank=True)
 
     def save(self, *args, **kwargs):
         self.slug = slugify(self.judul_buku)
         super(Buku, self).save(*args, **kwargs)
-    
+
     def __str__(self) -> str:
         return self.judul_buku
-    
+
     class Meta:
         ordering = ['judul_buku']
 
@@ -80,6 +81,6 @@ class Stationery(Abstract_Product):
 
     def __str__(self) -> str:
         return self.nama_produk
-    
+
     class Meta:
         ordering = ['nama_produk']
