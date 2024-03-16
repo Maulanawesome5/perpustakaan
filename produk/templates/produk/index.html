@@ -9,7 +9,7 @@
     <div class="row row-cols-5">
         {% for book in books %}
         <div class="col pb-2" style="margin-right: 55px;">
-            <div class="card" style="width: 15rem;">
+            <div class="card shadow-sm" style="width: 15rem;">
                 <a href="{% url 'produk:detail' inputSlug=book.slug %}">
                     <img src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
                         class="card-img-top"
@@ -31,7 +31,7 @@
     <div class="row row-cols-5">
         {% for s in stationery %}
         <div class="col pb-2" style="margin-right: 55px;">
-            <div class="card" style="width: 15rem;">
+            <div class="card shadow-sm" style="width: 15rem;">
                 <a href="#">
                     <img src="{% static 'produk/stationery' %}/{{s.gambar_produk}}"
                         class="card-img-top"
