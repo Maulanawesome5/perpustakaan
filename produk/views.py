@@ -21,17 +21,4 @@ def detail(request, inputSlug):
         'halaman': 'Detail Buku',
         'website': 'OnlineBookStore'
     }
-    if request.method == "GET":
-        print("\n")
-        print(f"""Debugging Mode
-        \rJudul Buku   = {context['books'].judul_buku}
-        \rPK Penulis   = {context['books'].penulis_id}
-        \rPenulis      = {context['books'].penulis}
-        \rURL Penulis  = {context['books'].penulis.slug}
-        \rPK Penerbit  = {context['books'].penerbit_id}
-        \rPenerbit     = {context['books'].penerbit}
-        \rURL Penerbit = {context['books'].penerbit.slug}
-        \rHarga        = {context['books'].harga}
-        \rSlug         = {context['books'].slug}
-    """)
     return render(request, 'produk/detail.html', context)
