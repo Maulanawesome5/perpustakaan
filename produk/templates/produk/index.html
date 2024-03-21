@@ -16,7 +16,11 @@
                         style="width: 100%; max-height: 250px; object-fit: contain;">
                 </a>
                 <div class="card-body" style="max-height: 300px; overflow-y: auto;">
-                    <h5 class="card-title pb-1" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{book.judul_buku}}</h5>
+                    <a href="{% url 'produk:detail' inputSlug=book.slug %}"
+                        class="text-dark text-decoration-none">
+                        <h5 class="card-title pb-1"
+                            style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{book.judul_buku}}</h5>
+                    </a>
                     <p>Rp. {{book.harga|intcomma}}</p>
                 </div>
             </div>
