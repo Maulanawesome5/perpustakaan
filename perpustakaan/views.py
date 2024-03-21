@@ -8,11 +8,12 @@ from produk.models import Penerbit_Buku as data_penerbit
 def index(request):
     buku = data_buku.objects.all()
     context = {
-        'books':buku,
-        'halaman':'Beranda',
-        'website':'OnlineBookStore'
+        'books': buku,
+        'halaman': 'Beranda',
+        'website': 'OnlineBookStore'
     }
     return render(request, 'index.html', context)
+
 
 def penulis(request):
     penulis_buku = data_penulis.objects.all()
@@ -22,6 +23,7 @@ def penulis(request):
         'website': 'OnlineBookStore'
     }
     return render(request, 'penulis.html', context)
+
 
 def detail_penulis(request, id, inputSlug):
     penulis_buku = data_penulis.objects.get(id=id, slug=inputSlug)
@@ -37,6 +39,7 @@ def detail_penulis(request, id, inputSlug):
     except:
         return HttpResponse("Disini halaman detail penulis buku ")
 
+
 def penerbit(request):
     penerbit_buku = data_penerbit.objects.all()
     context = {
@@ -45,6 +48,7 @@ def penerbit(request):
         'website': 'OnlineBookStore'
     }
     return render(request, 'penerbit.html', context)
+
 
 def detail_penerbit(request, id, inputSlug):
     penerbit_buku = data_penerbit.objects.get(id=id, slug=inputSlug)
@@ -59,3 +63,8 @@ def detail_penerbit(request, id, inputSlug):
         return render(request, 'detail.html', context)
     except:
         return HttpResponse("Disini halaman detail penerbit buku.")
+
+
+def under_cons(request):
+    messages = "<h1>Page is under construction. Come back later!</h1>"
+    return HttpResponse(messages)
