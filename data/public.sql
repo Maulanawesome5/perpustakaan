@@ -42,6 +42,10 @@ UPDATE public.produk_penulis_buku
         SET kategori = 'penulis'
         WHERE kategori != 'penulis';
 
+UPDATE public.produk_buku
+        SET deskripsi = 'Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020. Pada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015. Sebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.'
+        WHERE judul_buku LIKE '%DATE A LIVE%';
+
 -- Menghitung total stok buku beserta harganya
 -- Hasilnya sekitar Rp. 304.518.830 (tiga ratus juta) total harga buku yang dimiliki toko
 SELECT count(book.judul_buku) AS "Total Judul Buku",
