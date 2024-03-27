@@ -628,5 +628,47 @@
     "tentang_penulis": "Ratih Kumala (lahir 4 Juni 1980) adalah seorang penulis asal Indonesia. Ia mengenyam pendidikan di Fakultas Sastra Inggris Universitas Sebelas Maret, Surakarta. Selain sebagai penulis novel dan cerita pendek, ia juga merupakan penulis skenario. Ia pernah bergabung dalam tim penulis program Jalan Sesama, yang merupakan adaptasi dari program Sesame Street untuk televisi Indonesia, serta bekerja sebagai editor naskah drama di sebuah televisi swasta.\r\n\r\nPada tahun 2006, ia menikah dengan novelis Eka Kurniawan di Solo. Kini, ia tinggal di Jakarta.",
     "foto_profil": "ratih-kumala-gadis-kretek.jpg"
   }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 49,
+  "fields": {
+    "created": "2024-03-22T00:57:16.018",
+    "updated": "2024-03-22T00:57:16.018",
+    "slug": "fiersa-besari",
+    "kategori": "penulis",
+    "nama_penulis": "Fiersa Besari",
+    "nama": "Fiersa Besari, S.S.",
+    "tentang_penulis": "Fiersa Besari, S.S. adalah penulis, YouTuber, dan musisi asal Indonesia. Sebagai penulis, Fiersa telah menghasilkan enam novel. Ia juga terlibat sebagai salah satu pendiri Komunitas Pecandu Buku. Ia pun aktif sebagai YouTuber pendakian. Episode-episode YouTube terkenal miliknya adalah \"Sebuah Jurnal\". Kini, ia bersama Arshal Bahtiar merintis perjalanan Atap Negeri di mana ia akan mendaki 33 gunung di 33 provinsi di Indonesia yang diunggah pada kanal YouTube-nya. Konspirasi alam semesta merupakan salah satu album musik yang pernah diterbitkannya.",
+    "foto_profil": "fiersa-besari.jpg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 50,
+  "fields": {
+    "created": "2024-03-26T20:48:52.511",
+    "updated": "2024-03-26T20:48:52.511",
+    "slug": "koushi-tachibana",
+    "kategori": "penulis",
+    "nama_penulis": "Koushi Tachibana",
+    "nama": "Koushi Tachibana",
+    "tentang_penulis": "Koushi Tachibana merupakan penulis novel ringan asal negara Jepang. Pria kelahiran tanggal (...) ini telah menghasilkan beberapa karya populer, seperti Date A Live yang telah diadaptasi menjadi anime sebanyak 4 musim, sekaligus beberapa Spin-off dan OVA.",
+    "foto_profil": "koushi-tachibana.jpeg"
+  }
+},
+{
+  "model": "produk.penulis_buku",
+  "pk": 51,
+  "fields": {
+    "created": "2024-03-27T23:06:12.569",
+    "updated": "2024-03-27T23:06:12.569",
+    "slug": "senri-akatsuki",
+    "kategori": "penulis",
+    "nama_penulis": "Senri Akatsuki",
+    "nama": "Senri Akatsuki",
+    "tentang_penulis": "Senri Akatsuki merupakan penulis novel asal negara Jepang. Salah satu karya novelnya yang terkenal seperti Saijaku Muhai no Bahamut (Bahamut of the Weakest Undefeated) telah diadaptasi menjadi serial anime yang tayang pada 11 Januari 2016, diproduksi oleh studio animasi Lerche.\r\n\r\nIdentitas dan informasi tentang penulis sengaja dirahasiakan.",
+    "foto_profil": ""
+  }
 }
 ]

@@ -376,5 +376,2721 @@
     "tentang_penerbit": "M&C Publishing adalah penerbit di bawah Divisi Ritel dan Penerbitan Grup Kompas Gramedia, perusahaan penerbitan terbesar di Indonesia. Grup Kompas Gramedia memulai usahanya dengan fokus pada media cetak. Dalam perkembangannya, perusahaan telah berkembang menjadi kelompok usaha dengan berbagai divisi. Di bidang informasi, kelompok ini juga merambah ke media elektronik dan multimedia.\r\n\r\nM&C Publishing dimulai sebagai Komik Majalah pada tahun 1980-an yang menerbitkan berbagai komik dari beberapa penerbit luar negeri. Beberapa judulnya menjadi begitu populer dan cukup melegenda, seperti serial komik Nina dari Belanda dan komik kungfu Tiger Wong dari Hongkong. Ketika pasar manga meningkat secara signifikan pada akhir tahun 1990-an di Indonesia, m&c! Penerbitan mulai menerbitkan manga juga dan merek m&c! sebagai penerbit komik telah tertanam di benak pembaca kami sejak saat itu. Saat ini, bekerja sama dengan berbagai penerbit di seluruh dunia, m&c! Penerbitan telah menerbitkan berbagai macam judul dan jenis buku: komik, komik pendidikan, buku anak, novel, dan juga buku nonfiksi.\r\n\r\nDengan misi membangun generasi cerdas dan kreatif, kami menerbitkan buku-buku berkualitas tinggi dari penerbit internasional ternama. Sebagai komitmen kami untuk membangun generasi kreatif, kami juga menerbitkan komik kami sendiri yang dibuat oleh penulis berbakat kami di bawah lini KOLONI. Agar sukses mendunia, kami bercita-cita menerbitkan novel dan nonfiksi yang dapat diapresiasi oleh pembaca kami di seluruh dunia.",
     "logo_penerbit": "Promotional_Banner__wauto_h300.png"
   }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 33,
+  "fields": {
+    "created": "2024-03-22T01:10:30.055",
+    "updated": "2024-03-22T01:10:30.055",
+    "slug": "pt-kawah-media-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Kawah Media",
+    "instansi": "PT Kawah Media Pustaka",
+    "tentang_penerbit": "Distributor Kawahmedia adalah salah distributor terbesar, Yang dimana jalur distribusinya keseluruh jaringan nasional toko Gramedia. KawahMedia merupakan bagian dari perusahaan penerbit besar bernama Agromedia Group. KawahMedia berfokus pada distribusi buku pada toko buku modern.\r\n\r\nAlamat: Jl. M. Kahfi 2 No.12, RT.13/RW.9, Srengseng Sawah, Jagakarsa, Kota Jakarta Selatan, Jakarta, Indonesia, Jakarta\r\nTelpon: +82 2-7709-8206",
+    "logo_penerbit": "Logo-KAWAH-MEDIA-182.jpg"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 34,
+  "fields": {
+    "created": "2024-03-26T23:12:05.104",
+    "updated": "2024-03-26T23:14:59.810",
+    "slug": "kadokawa-shoten-publishing-co-ltd",
+    "kategori": "penerbit",
+    "penerbit": "KADOKAWA SHOTEN",
+    "instansi": "Kadokawa Shoten Publishing Co., Ltd.",
+    "tentang_penerbit": "Penerbit karya cetak yang berlokasi di Jepang.",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 35,
+  "fields": {
+    "created": "2024-03-27T22:59:07.426",
+    "updated": "2024-03-27T22:59:07.426",
+    "slug": "sb-creative-corp",
+    "kategori": "penerbit",
+    "penerbit": "SB Creative",
+    "instansi": "SB Creative Corp.",
+    "tentang_penerbit": "SB Creative Corp. adalah sebuah perusahaan penerbitan Jepang dan anak perusahaan dari perusahaan telekomunikasi SoftBank yang didirikan pada tahun 1999 dan berkantor pusat di Tokyo, Jepang.",
+    "logo_penerbit": "SB_Creative_logo.png"
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 36,
+  "fields": {
+    "created": "2024-03-28T00:12:47.794",
+    "updated": "2024-03-28T00:12:47.794",
+    "slug": "balai-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Balai Pustaka",
+    "instansi": "Balai Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 37,
+  "fields": {
+    "created": "2024-03-28T00:13:06.645",
+    "updated": "2024-03-28T00:13:06.645",
+    "slug": "bumi-aksara",
+    "kategori": "penerbit",
+    "penerbit": "Bumi Aksara",
+    "instansi": "Bumi Aksara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 38,
+  "fields": {
+    "created": "2024-03-28T00:13:25.343",
+    "updated": "2024-03-28T00:13:25.343",
+    "slug": "egc",
+    "kategori": "penerbit",
+    "penerbit": "EGC",
+    "instansi": "EGC",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 39,
+  "fields": {
+    "created": "2024-03-28T00:13:40.641",
+    "updated": "2024-03-28T00:13:40.641",
+    "slug": "erlangga-mahameru",
+    "kategori": "penerbit",
+    "penerbit": "Erlangga Mahameru",
+    "instansi": "Erlangga Mahameru",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 40,
+  "fields": {
+    "created": "2024-03-28T00:14:02.207",
+    "updated": "2024-03-28T00:14:02.207",
+    "slug": "gema-insani",
+    "kategori": "penerbit",
+    "penerbit": "Gema Insani",
+    "instansi": "Gema Insani",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 41,
+  "fields": {
+    "created": "2024-03-28T00:14:18.106",
+    "updated": "2024-03-28T00:14:18.106",
+    "slug": "gramedia-widiasarana-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Gramedia Widiasarana Indonesia",
+    "instansi": "Gramedia Widiasarana Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 42,
+  "fields": {
+    "created": "2024-03-28T00:14:43.119",
+    "updated": "2024-03-28T00:14:43.119",
+    "slug": "bina-pustaka-kristiani-bpk-todung-sutan-gunung-mulia",
+    "kategori": "penerbit",
+    "penerbit": "Bina Pustaka Kristiani (BPK) Todung Sutan Gunung Mulia",
+    "instansi": "Bina Pustaka Kristiani (BPK) Todung Sutan Gunung Mulia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 43,
+  "fields": {
+    "created": "2024-03-28T00:15:03.037",
+    "updated": "2024-03-28T00:15:03.037",
+    "slug": "katalis-mitra-plaosan",
+    "kategori": "penerbit",
+    "penerbit": "Katalis Mitra Plaosan",
+    "instansi": "Katalis Mitra Plaosan",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 44,
+  "fields": {
+    "created": "2024-03-28T00:15:17.519",
+    "updated": "2024-03-28T00:15:17.519",
+    "slug": "komunikasi-bina-kasih",
+    "kategori": "penerbit",
+    "penerbit": "Komunikasi Bina Kasih",
+    "instansi": "Komunikasi Bina Kasih",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 45,
+  "fields": {
+    "created": "2024-03-28T00:15:31.001",
+    "updated": "2024-03-28T00:15:31.001",
+    "slug": "lembaga-alkitab-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Lembaga Alkitab Indonesia",
+    "instansi": "Lembaga Alkitab Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 46,
+  "fields": {
+    "created": "2024-03-28T00:15:43.818",
+    "updated": "2024-03-28T00:15:43.818",
+    "slug": "pustaka-obor-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Obor Indonesia",
+    "instansi": "Pustaka Obor Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 47,
+  "fields": {
+    "created": "2024-03-28T00:15:57.134",
+    "updated": "2024-03-28T00:15:57.134",
+    "slug": "obor",
+    "kategori": "penerbit",
+    "penerbit": "Obor",
+    "instansi": "Obor",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 48,
+  "fields": {
+    "created": "2024-03-28T00:16:11.333",
+    "updated": "2024-03-28T00:16:11.333",
+    "slug": "penebar-swadaya",
+    "kategori": "penerbit",
+    "penerbit": "Penebar Swadaya",
+    "instansi": "Penebar Swadaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 49,
+  "fields": {
+    "created": "2024-03-28T00:16:25.148",
+    "updated": "2024-03-28T00:16:25.148",
+    "slug": "pustaka-al-kautsar",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Al Kautsar",
+    "instansi": "Pustaka Al Kautsar",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 50,
+  "fields": {
+    "created": "2024-03-28T00:16:41.997",
+    "updated": "2024-03-28T00:16:41.997",
+    "slug": "pustaka-pembangunan-swadaya-nusantara-puspa-swara",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Pembangunan Swadaya Nusantara (Puspa Swara)",
+    "instansi": "Pustaka Pembangunan Swadaya Nusantara (Puspa Swara)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 51,
+  "fields": {
+    "created": "2024-03-28T00:17:00.240",
+    "updated": "2024-03-28T00:17:00.240",
+    "slug": "salemba-empat",
+    "kategori": "penerbit",
+    "penerbit": "Salemba Empat",
+    "instansi": "Salemba Empat",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 52,
+  "fields": {
+    "created": "2024-03-28T00:17:15.521",
+    "updated": "2024-03-28T00:17:15.521",
+    "slug": "sinar-grafika",
+    "kategori": "penerbit",
+    "penerbit": "Sinar Grafika",
+    "instansi": "Sinar Grafika",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 53,
+  "fields": {
+    "created": "2024-03-28T00:17:33.311",
+    "updated": "2024-03-28T00:17:33.311",
+    "slug": "penerbit-universitas-trisakti",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Universitas Trisakti",
+    "instansi": "Penerbit Universitas Trisakti",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 54,
+  "fields": {
+    "created": "2024-03-28T00:17:46.894",
+    "updated": "2024-03-28T00:17:46.894",
+    "slug": "yudhistira-ghalia-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Yudhistira Ghalia Indonesia",
+    "instansi": "Yudhistira Ghalia Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 55,
+  "fields": {
+    "created": "2024-03-28T00:18:16.159",
+    "updated": "2024-03-28T00:18:16.159",
+    "slug": "pusat-pengembangan-multimedia-universitas-terbuka",
+    "kategori": "penerbit",
+    "penerbit": "Pusat Pengembangan Multimedia Universitas Terbuka",
+    "instansi": "Pusat Pengembangan Multimedia Universitas Terbuka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 56,
+  "fields": {
+    "created": "2024-03-28T00:18:27.903",
+    "updated": "2024-03-28T00:18:27.903",
+    "slug": "graha-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Graha Pustaka",
+    "instansi": "Graha Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 57,
+  "fields": {
+    "created": "2024-03-28T00:18:46.224",
+    "updated": "2024-03-28T00:18:46.224",
+    "slug": "arya-duta",
+    "kategori": "penerbit",
+    "penerbit": "Arya Duta",
+    "instansi": "Arya Duta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 58,
+  "fields": {
+    "created": "2024-03-28T00:18:57.923",
+    "updated": "2024-03-28T00:18:57.923",
+    "slug": "trubus-swadaya",
+    "kategori": "penerbit",
+    "penerbit": "Trubus Swadaya",
+    "instansi": "Trubus Swadaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 59,
+  "fields": {
+    "created": "2024-03-28T00:19:10.972",
+    "updated": "2024-03-28T00:19:10.972",
+    "slug": "lista-fariska-putra",
+    "kategori": "penerbit",
+    "penerbit": "Lista Fariska Putra",
+    "instansi": "Lista Fariska Putra",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 60,
+  "fields": {
+    "created": "2024-03-28T00:19:22.138",
+    "updated": "2024-03-28T00:19:22.138",
+    "slug": "hambali-swadaya-putra",
+    "kategori": "penerbit",
+    "penerbit": "Hambali Swadaya Putra",
+    "instansi": "Hambali Swadaya Putra",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 61,
+  "fields": {
+    "created": "2024-03-28T00:19:33.387",
+    "updated": "2024-03-28T00:19:33.387",
+    "slug": "sagung-seto",
+    "kategori": "penerbit",
+    "penerbit": "Sagung Seto",
+    "instansi": "Sagung Seto",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 62,
+  "fields": {
+    "created": "2024-03-28T00:19:46.953",
+    "updated": "2024-03-28T00:19:46.953",
+    "slug": "indeks",
+    "kategori": "penerbit",
+    "penerbit": "Indeks",
+    "instansi": "Indeks",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 63,
+  "fields": {
+    "created": "2024-03-28T01:17:09.292",
+    "updated": "2024-03-28T01:17:09.292",
+    "slug": "gagas-media",
+    "kategori": "penulis",
+    "penerbit": "Gagas Media",
+    "instansi": "Gagas Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 64,
+  "fields": {
+    "created": "2024-03-28T01:17:27.525",
+    "updated": "2024-03-28T01:17:27.525",
+    "slug": "kawan-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Kawan Pustaka",
+    "instansi": "Kawan Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 65,
+  "fields": {
+    "created": "2024-03-28T01:17:58.107",
+    "updated": "2024-03-28T01:17:58.107",
+    "slug": "brin-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit BRIN",
+    "instansi": "BRIN Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 66,
+  "fields": {
+    "created": "2024-03-28T01:18:15.623",
+    "updated": "2024-03-28T01:18:15.623",
+    "slug": "bestari-buana-murni",
+    "kategori": "penerbit",
+    "penerbit": "Bestari Buana Murni",
+    "instansi": "Bestari Buana Murni",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 67,
+  "fields": {
+    "created": "2024-03-28T01:18:32.305",
+    "updated": "2024-03-28T01:18:32.305",
+    "slug": "indocamp",
+    "kategori": "penerbit",
+    "penerbit": "Indocamp",
+    "instansi": "Indocamp",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 68,
+  "fields": {
+    "created": "2024-03-28T01:19:29.968",
+    "updated": "2024-03-28T01:19:29.968",
+    "slug": "pustaka-imam-asy-syafii",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Imam Asy-Syafi'i",
+    "instansi": "Pustaka Imam Asy-Syafi'i",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 69,
+  "fields": {
+    "created": "2024-03-28T01:19:44.017",
+    "updated": "2024-03-28T01:19:44.017",
+    "slug": "sunda-kelapa-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Sunda Kelapa Pustaka",
+    "instansi": "Sunda Kelapa Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 70,
+  "fields": {
+    "created": "2024-03-28T01:19:56.935",
+    "updated": "2024-03-28T01:19:56.935",
+    "slug": "phibeta-aneka-gama",
+    "kategori": "penerbit",
+    "penerbit": "Phibeta Aneka Gama",
+    "instansi": "Phibeta Aneka Gama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 71,
+  "fields": {
+    "created": "2024-03-28T01:20:24.914",
+    "updated": "2024-03-28T01:20:24.914",
+    "slug": "kuark-internasional",
+    "kategori": "penerbit",
+    "penerbit": "Kuark Internasional",
+    "instansi": "Kuark Internasional",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 72,
+  "fields": {
+    "created": "2024-03-28T01:20:37.448",
+    "updated": "2024-03-28T01:20:37.448",
+    "slug": "trans-media-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Trans Media Pustaka",
+    "instansi": "Trans Media Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 73,
+  "fields": {
+    "created": "2024-03-28T01:20:50.307",
+    "updated": "2024-03-28T01:20:50.308",
+    "slug": "qultum-media",
+    "kategori": "penerbit",
+    "penerbit": "Qultum Media",
+    "instansi": "Qultum Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 74,
+  "fields": {
+    "created": "2024-03-28T01:21:03.494",
+    "updated": "2024-03-28T01:21:03.494",
+    "slug": "media-kita",
+    "kategori": "penerbit",
+    "penerbit": "Media Kita",
+    "instansi": "Media Kita",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 75,
+  "fields": {
+    "created": "2024-03-28T01:21:21.111",
+    "updated": "2024-03-28T01:21:21.111",
+    "slug": "wahyu-media",
+    "kategori": "penerbit",
+    "penerbit": "Wahyu Media",
+    "instansi": "Wahyu Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 76,
+  "fields": {
+    "created": "2024-03-28T01:21:32.611",
+    "updated": "2024-03-28T01:21:32.611",
+    "slug": "anak-teladan",
+    "kategori": "penerbit",
+    "penerbit": "Anak Teladan",
+    "instansi": "Anak Teladan",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 77,
+  "fields": {
+    "created": "2024-03-28T01:21:45.710",
+    "updated": "2024-03-28T01:21:45.710",
+    "slug": "mediantara-semesta",
+    "kategori": "penerbit",
+    "penerbit": "Mediantara Semesta",
+    "instansi": "Mediantara Semesta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 78,
+  "fields": {
+    "created": "2024-03-28T01:21:58.943",
+    "updated": "2024-03-28T01:21:58.943",
+    "slug": "bina-sarana-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Bina Sarana Pustaka",
+    "instansi": "Bina Sarana Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 79,
+  "fields": {
+    "created": "2024-03-28T01:22:16.792",
+    "updated": "2024-03-28T01:22:16.792",
+    "slug": "literata-lintas-media",
+    "kategori": "penerbit",
+    "penerbit": "Literata Lintas Media",
+    "instansi": "Literata Lintas Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 80,
+  "fields": {
+    "created": "2024-03-28T01:22:29.322",
+    "updated": "2024-03-28T01:22:29.322",
+    "slug": "darus-sunnah",
+    "kategori": "penerbit",
+    "penerbit": "Darus Sunnah",
+    "instansi": "Darus Sunnah",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 81,
+  "fields": {
+    "created": "2024-03-28T01:22:40.023",
+    "updated": "2024-03-28T01:22:40.023",
+    "slug": "almahira",
+    "kategori": "penerbit",
+    "penerbit": "Almahira",
+    "instansi": "Almahira",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 82,
+  "fields": {
+    "created": "2024-03-28T01:22:51.488",
+    "updated": "2024-03-28T01:22:51.488",
+    "slug": "eureka-bookhouse",
+    "kategori": "penerbit",
+    "penerbit": "Eureka Bookhouse",
+    "instansi": "Eureka Bookhouse",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 83,
+  "fields": {
+    "created": "2024-03-28T01:23:02.300",
+    "updated": "2024-03-28T01:23:02.300",
+    "slug": "mitra-wacana-media",
+    "kategori": "penerbit",
+    "penerbit": "Mitra Wacana Media",
+    "instansi": "Mitra Wacana Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 84,
+  "fields": {
+    "created": "2024-03-28T01:23:13.138",
+    "updated": "2024-03-28T01:23:13.138",
+    "slug": "inti-medina",
+    "kategori": "penerbit",
+    "penerbit": "Inti Medina",
+    "instansi": "Inti Medina",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 85,
+  "fields": {
+    "created": "2024-03-28T01:23:26.337",
+    "updated": "2024-03-28T01:23:26.337",
+    "slug": "fakultas-seni-rupa-institut-kesenian-jakarta",
+    "kategori": "penerbit",
+    "penerbit": "Fakultas Seni Rupa Institut Kesenian Jakarta",
+    "instansi": "Fakultas Seni Rupa Institut Kesenian Jakarta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 86,
+  "fields": {
+    "created": "2024-03-28T01:23:38.738",
+    "updated": "2024-03-28T01:23:38.738",
+    "slug": "pro-you",
+    "kategori": "penerbit",
+    "penerbit": "Pro You",
+    "instansi": "Pro You",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 87,
+  "fields": {
+    "created": "2024-03-28T01:23:49.853",
+    "updated": "2024-03-28T01:23:49.853",
+    "slug": "mediatama-saptakarya",
+    "kategori": "penerbit",
+    "penerbit": "Mediatama Saptakarya",
+    "instansi": "Mediatama Saptakarya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 88,
+  "fields": {
+    "created": "2024-03-28T01:24:01.887",
+    "updated": "2024-03-28T01:24:01.887",
+    "slug": "bisnis-indonesia-gagaskreasitama",
+    "kategori": "penerbit",
+    "penerbit": "Bisnis Indonesia Gagaskreasitama",
+    "instansi": "Bisnis Indonesia Gagaskreasitama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 89,
+  "fields": {
+    "created": "2024-03-28T01:24:23.669",
+    "updated": "2024-03-28T01:24:23.669",
+    "slug": "griya-ilmu",
+    "kategori": "penerbit",
+    "penerbit": "Griya Ilmu",
+    "instansi": "Griya Ilmu",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 90,
+  "fields": {
+    "created": "2024-03-28T01:24:42.200",
+    "updated": "2024-03-28T01:24:42.200",
+    "slug": "trans-info-media",
+    "kategori": "penerbit",
+    "penerbit": "Trans Info Media",
+    "instansi": "Trans Info Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 91,
+  "fields": {
+    "created": "2024-03-28T01:24:54.516",
+    "updated": "2024-03-28T01:24:54.516",
+    "slug": "quadra-inti-solusi",
+    "kategori": "penerbit",
+    "penerbit": "Quadra inti solusi",
+    "instansi": "Quadra inti solusi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 92,
+  "fields": {
+    "created": "2024-03-28T01:25:11.782",
+    "updated": "2024-03-28T01:25:11.782",
+    "slug": "sulaksana-watinsa-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Sulaksana Watinsa Indonesia",
+    "instansi": "Sulaksana Watinsa Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 93,
+  "fields": {
+    "created": "2024-03-28T01:25:31.649",
+    "updated": "2024-03-28T01:25:31.649",
+    "slug": "badan-riset-dan-sumber-daya-mausia-kelautan-dan-perikanan-amafrad-press",
+    "kategori": "penerbit",
+    "penerbit": "Badan Riset dan Sumber Daya Mausia Kelautan dan Perikanan (AMAFRAD Press)",
+    "instansi": "Badan Riset dan Sumber Daya Mausia Kelautan dan Perikanan (AMAFRAD Press)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 94,
+  "fields": {
+    "created": "2024-03-28T01:25:48.797",
+    "updated": "2024-03-28T01:25:48.797",
+    "slug": "penerbit-lentera-abadi",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Lentera Abadi",
+    "instansi": "Penerbit Lentera Abadi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 95,
+  "fields": {
+    "created": "2024-03-28T01:26:01.513",
+    "updated": "2024-03-28T01:26:01.513",
+    "slug": "educarindo-compumedia-utama",
+    "kategori": "penerbit",
+    "penerbit": "Educarindo Compumedia Utama",
+    "instansi": "Educarindo Compumedia Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 96,
+  "fields": {
+    "created": "2024-03-28T01:26:13.212",
+    "updated": "2024-03-28T01:26:13.212",
+    "slug": "agromedia-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Agromedia Pustaka",
+    "instansi": "Agromedia Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 97,
+  "fields": {
+    "created": "2024-03-28T01:26:26.111",
+    "updated": "2024-03-28T01:26:26.111",
+    "slug": "fatih-samudera-benua",
+    "kategori": "penerbit",
+    "penerbit": "Fatih Samudera Benua",
+    "instansi": "Fatih Samudera Benua",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 98,
+  "fields": {
+    "created": "2024-03-28T01:26:59.392",
+    "updated": "2024-03-28T01:26:59.392",
+    "slug": "bukune-kreatif-cipta",
+    "kategori": "penerbit",
+    "penerbit": "Bukune Kreatif Cipta",
+    "instansi": "Bukune Kreatif Cipta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 99,
+  "fields": {
+    "created": "2024-03-28T01:27:11.742",
+    "updated": "2024-03-28T01:27:11.742",
+    "slug": "indonesia-tera",
+    "kategori": "penerbit",
+    "penerbit": "Indonesia Tera",
+    "instansi": "Indonesia Tera",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 100,
+  "fields": {
+    "created": "2024-03-28T01:27:23.693",
+    "updated": "2024-03-28T01:27:23.693",
+    "slug": "sandiarta-sukses",
+    "kategori": "penerbit",
+    "penerbit": "Sandiarta Sukses",
+    "instansi": "Sandiarta Sukses",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 101,
+  "fields": {
+    "created": "2024-03-28T01:28:16.838",
+    "updated": "2024-03-28T01:28:16.838",
+    "slug": "rene-turos-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Rene Turos Indonesia",
+    "instansi": "Rene Turos Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 102,
+  "fields": {
+    "created": "2024-03-28T01:28:29.171",
+    "updated": "2024-03-28T01:28:29.171",
+    "slug": "pusat-studi-veda-dan-dharma",
+    "kategori": "penerbit",
+    "penerbit": "Pusat Studi Veda dan Dharma",
+    "instansi": "Pusat Studi Veda dan Dharma",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 103,
+  "fields": {
+    "created": "2024-03-28T01:28:40.118",
+    "updated": "2024-03-28T01:28:40.118",
+    "slug": "pustaka-mulia",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Mulia",
+    "instansi": "Pustaka Mulia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 104,
+  "fields": {
+    "created": "2024-03-28T01:28:56.436",
+    "updated": "2024-03-28T01:28:56.436",
+    "slug": "prasetiya-mulya-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Prasetiya Mulya Publishing",
+    "instansi": "Prasetiya Mulya Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 105,
+  "fields": {
+    "created": "2024-03-28T01:29:39.136",
+    "updated": "2024-03-28T01:29:39.136",
+    "slug": "badan-penelitian-dan-pengembangan-hukum-dan-hak-asasi-manusia-balitbangkumham-press",
+    "kategori": "penerbit",
+    "penerbit": "Badan Penelitian dan Pengembangan Hukum dan Hak Asasi Manusia (BALITBANGKUMHAM Press)",
+    "instansi": "Badan Penelitian dan Pengembangan Hukum dan Hak Asasi Manusia (BALITBANGKUMHAM Press)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 106,
+  "fields": {
+    "created": "2024-03-28T01:29:52.949",
+    "updated": "2024-03-28T01:29:52.949",
+    "slug": "kreasi-cendekia-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Kreasi Cendekia Pustaka",
+    "instansi": "Kreasi Cendekia Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 107,
+  "fields": {
+    "created": "2024-03-28T01:30:07.748",
+    "updated": "2024-03-28T01:30:07.748",
+    "slug": "ukrida-press",
+    "kategori": "penerbit",
+    "penerbit": "UKRIDA Press",
+    "instansi": "UKRIDA Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 108,
+  "fields": {
+    "created": "2024-03-28T01:30:25.180",
+    "updated": "2024-03-28T01:30:25.180",
+    "slug": "universitas-indonesia-publishing-ui-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Universitas Indonesia Publishing (UI Publishing)",
+    "instansi": "Universitas Indonesia Publishing (UI Publishing)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 109,
+  "fields": {
+    "created": "2024-03-28T01:30:56.129",
+    "updated": "2024-03-28T01:30:56.129",
+    "slug": "perpusnas-press",
+    "kategori": "penerbit",
+    "penerbit": "PERPUSNAS Press",
+    "instansi": "PERPUSNAS Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 110,
+  "fields": {
+    "created": "2024-03-28T01:31:17.955",
+    "updated": "2024-03-28T01:31:17.955",
+    "slug": "penerbit-institut-teknologi-perusahaan-listrik-negara",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Institut Teknologi Perusahaan Listrik Negara",
+    "instansi": "Penerbit Institut Teknologi Perusahaan Listrik Negara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 111,
+  "fields": {
+    "created": "2024-03-28T01:31:31.760",
+    "updated": "2024-03-28T01:31:31.760",
+    "slug": "penerbit-universitas-katolik-indonesia-atma-jaya",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Universitas Katolik Indonesia Atma Jaya",
+    "instansi": "Penerbit Universitas Katolik Indonesia Atma Jaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 112,
+  "fields": {
+    "created": "2024-03-28T01:31:43.277",
+    "updated": "2024-03-28T01:31:43.277",
+    "slug": "khalifah-mediatama",
+    "kategori": "penerbit",
+    "penerbit": "Khalifah Mediatama",
+    "instansi": "Khalifah Mediatama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 113,
+  "fields": {
+    "created": "2024-03-28T01:31:55.356",
+    "updated": "2024-03-28T01:31:55.356",
+    "slug": "bibliosmia-karya-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Bibliosmia Karya Indonesia",
+    "instansi": "Bibliosmia Karya Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 114,
+  "fields": {
+    "created": "2024-03-28T01:32:08.608",
+    "updated": "2024-03-28T01:32:08.608",
+    "slug": "educarindo-compuniaga-nusantara",
+    "kategori": "penerbit",
+    "penerbit": "Educarindo Compuniaga Nusantara",
+    "instansi": "Educarindo Compuniaga Nusantara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 115,
+  "fields": {
+    "created": "2024-03-28T01:32:20.858",
+    "updated": "2024-03-28T01:32:20.858",
+    "slug": "rivita-oppustaka-translitera",
+    "kategori": "penerbit",
+    "penerbit": "Rivita Oppustaka Translitera",
+    "instansi": "Rivita Oppustaka Translitera",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 116,
+  "fields": {
+    "created": "2024-03-28T01:32:35.591",
+    "updated": "2024-03-28T01:32:35.591",
+    "slug": "mekar-cipta-lestari",
+    "kategori": "penerbit",
+    "penerbit": "Mekar Cipta Lestari",
+    "instansi": "Mekar Cipta Lestari",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 117,
+  "fields": {
+    "created": "2024-03-28T01:32:56.222",
+    "updated": "2024-03-28T01:32:56.222",
+    "slug": "pusat-studi-dan-informasi-kecacatan-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Pusat Studi dan Informasi Kecacatan Indonesia",
+    "instansi": "Pusat Studi dan Informasi Kecacatan Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 118,
+  "fields": {
+    "created": "2024-03-28T01:33:13.555",
+    "updated": "2024-03-28T01:33:13.555",
+    "slug": "lembaga-penelitian-publikasi-dan-pengabdian-masyarakat-lp3m-lspr",
+    "kategori": "penerbit",
+    "penerbit": "Lembaga Penelitian Publikasi dan Pengabdian Masyarakat (LP3M) LSPR",
+    "instansi": "Lembaga Penelitian Publikasi dan Pengabdian Masyarakat (LP3M) LSPR",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 119,
+  "fields": {
+    "created": "2024-03-28T01:33:26.071",
+    "updated": "2024-03-28T01:33:26.071",
+    "slug": "trilogi-press",
+    "kategori": "penerbit",
+    "penerbit": "Trilogi Press",
+    "instansi": "Trilogi Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 120,
+  "fields": {
+    "created": "2024-03-28T01:33:40.437",
+    "updated": "2024-03-28T01:33:40.437",
+    "slug": "mukti-lintas-media",
+    "kategori": "penerbit",
+    "penerbit": "Mukti Lintas Media",
+    "instansi": "Mukti Lintas Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 121,
+  "fields": {
+    "created": "2024-03-28T01:33:56.632",
+    "updated": "2024-03-28T01:33:56.632",
+    "slug": "uki-press",
+    "kategori": "penerbit",
+    "penerbit": "Uki Press",
+    "instansi": "Uki Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 122,
+  "fields": {
+    "created": "2024-03-28T01:34:11.836",
+    "updated": "2024-03-28T01:34:11.836",
+    "slug": "asosiasi-profesi-widyaiswara-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Asosiasi Profesi Widyaiswara Indonesia",
+    "instansi": "Asosiasi Profesi Widyaiswara Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 123,
+  "fields": {
+    "created": "2024-03-28T01:34:25.102",
+    "updated": "2024-03-28T01:34:25.102",
+    "slug": "mahakarya-citra-utama-group",
+    "kategori": "penerbit",
+    "penerbit": "Mahakarya Citra Utama Group",
+    "instansi": "Mahakarya Citra Utama Group",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 124,
+  "fields": {
+    "created": "2024-03-28T01:34:43.416",
+    "updated": "2024-03-28T01:34:43.416",
+    "slug": "ratna-media-utama",
+    "kategori": "penerbit",
+    "penerbit": "Ratna Media Utama",
+    "instansi": "Ratna Media Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 125,
+  "fields": {
+    "created": "2024-03-28T01:34:56.732",
+    "updated": "2024-03-28T01:34:56.732",
+    "slug": "lembaga-penerbitan-universitas-esa-unggul",
+    "kategori": "penerbit",
+    "penerbit": "Lembaga Penerbitan Universitas Esa Unggul",
+    "instansi": "Lembaga Penerbitan Universitas Esa Unggul",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 126,
+  "fields": {
+    "created": "2024-03-28T01:35:09.532",
+    "updated": "2024-03-28T01:35:09.532",
+    "slug": "galiono-digdaya-kawthar",
+    "kategori": "penerbit",
+    "penerbit": "Galiono Digdaya Kawthar",
+    "instansi": "Galiono Digdaya Kawthar",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 127,
+  "fields": {
+    "created": "2024-03-28T01:35:23.031",
+    "updated": "2024-03-28T01:35:23.031",
+    "slug": "qaf-media-kreativa",
+    "kategori": "penerbit",
+    "penerbit": "Qaf Media Kreativa",
+    "instansi": "Qaf Media Kreativa",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 128,
+  "fields": {
+    "created": "2024-03-28T01:35:36.213",
+    "updated": "2024-03-28T01:35:36.213",
+    "slug": "publica-indonesia-utama",
+    "kategori": "penerbit",
+    "penerbit": "Publica Indonesia Utama",
+    "instansi": "Publica Indonesia Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 129,
+  "fields": {
+    "created": "2024-03-28T01:35:50.396",
+    "updated": "2024-03-28T01:35:50.396",
+    "slug": "adler-manurung-press",
+    "kategori": "penerbit",
+    "penerbit": "Adler Manurung Press",
+    "instansi": "Adler Manurung Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 130,
+  "fields": {
+    "created": "2024-03-28T01:36:33.193",
+    "updated": "2024-03-28T01:36:33.193",
+    "slug": "ikj-press",
+    "kategori": "penerbit",
+    "penerbit": "IKJ Press",
+    "instansi": "IKJ Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 131,
+  "fields": {
+    "created": "2024-03-28T01:36:47.202",
+    "updated": "2024-03-28T01:36:47.202",
+    "slug": "yayasan-dayabunaya-tetum-bunaya",
+    "kategori": "penerbit",
+    "penerbit": "Yayasan DayaBunaya (Tetum Bunaya)",
+    "instansi": "Yayasan DayaBunaya (Tetum Bunaya)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 132,
+  "fields": {
+    "created": "2024-03-28T01:37:05.774",
+    "updated": "2024-03-28T01:37:05.774",
+    "slug": "sekolah-tinggi-ilmu-ekonomi-muhammadiyah-jakarta-stiemi-press",
+    "kategori": "penerbit",
+    "penerbit": "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Jakarta (STIEMI) Press",
+    "instansi": "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Jakarta (STIEMI) Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 133,
+  "fields": {
+    "created": "2024-03-28T01:37:25.573",
+    "updated": "2024-03-28T01:37:25.573",
+    "slug": "institute-for-development-of-economics-and-finance-indef",
+    "kategori": "penerbit",
+    "penerbit": "Institute for Development of Economics and Finance (INDEF)",
+    "instansi": "Institute for Development of Economics and Finance (INDEF)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 134,
+  "fields": {
+    "created": "2024-03-28T01:37:37.024",
+    "updated": "2024-03-28T01:37:37.024",
+    "slug": "moestopo-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Moestopo Publishing",
+    "instansi": "Moestopo Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 135,
+  "fields": {
+    "created": "2024-03-28T01:37:50.522",
+    "updated": "2024-03-28T01:37:50.522",
+    "slug": "lppm-universitas-veteran-jakarta-press",
+    "kategori": "penerbit",
+    "penerbit": "LPPM Universitas Veteran Jakarta Press",
+    "instansi": "LPPM Universitas Veteran Jakarta Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 136,
+  "fields": {
+    "created": "2024-03-28T01:38:02.939",
+    "updated": "2024-03-28T01:38:02.939",
+    "slug": "indonesia-persada-studi",
+    "kategori": "penerbit",
+    "penerbit": "Indonesia Persada Studi",
+    "instansi": "Indonesia Persada Studi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 137,
+  "fields": {
+    "created": "2024-03-28T01:38:15.384",
+    "updated": "2024-03-28T01:38:15.384",
+    "slug": "damera-press",
+    "kategori": "penerbit",
+    "penerbit": "Damera Press",
+    "instansi": "Damera Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 138,
+  "fields": {
+    "created": "2024-03-28T01:38:26.837",
+    "updated": "2024-03-28T01:38:26.837",
+    "slug": "tunas-aksara",
+    "kategori": "penerbit",
+    "penerbit": "Tunas Aksara",
+    "instansi": "Tunas Aksara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 139,
+  "fields": {
+    "created": "2024-03-28T01:38:40.195",
+    "updated": "2024-03-28T01:38:40.195",
+    "slug": "pratama-indomitra-konsultan",
+    "kategori": "penerbit",
+    "penerbit": "Pratama Indomitra Konsultan",
+    "instansi": "Pratama Indomitra Konsultan",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 140,
+  "fields": {
+    "created": "2024-03-28T01:38:53.635",
+    "updated": "2024-03-28T01:38:53.635",
+    "slug": "fakultas-kedokteran-dan-kesehatan-universitas-muhammadiyah-jakarta",
+    "kategori": "penerbit",
+    "penerbit": "Fakultas Kedokteran dan Kesehatan Universitas Muhammadiyah Jakarta",
+    "instansi": "Fakultas Kedokteran dan Kesehatan Universitas Muhammadiyah Jakarta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 141,
+  "fields": {
+    "created": "2024-03-28T01:39:06.085",
+    "updated": "2024-03-28T01:39:06.085",
+    "slug": "nuansa-fajar-cemerlang",
+    "kategori": "penerbit",
+    "penerbit": "Nuansa Fajar Cemerlang",
+    "instansi": "Nuansa Fajar Cemerlang",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 142,
+  "fields": {
+    "created": "2024-03-28T01:39:21.517",
+    "updated": "2024-03-28T01:39:21.517",
+    "slug": "cipta-widya-karya",
+    "kategori": "penerbit",
+    "penerbit": "Cipta Widya Karya",
+    "instansi": "Cipta Widya Karya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 143,
+  "fields": {
+    "created": "2024-03-28T01:39:33.467",
+    "updated": "2024-03-28T01:39:33.467",
+    "slug": "gramedia-edukasi-nusantara",
+    "kategori": "penerbit",
+    "penerbit": "Gramedia Edukasi Nusantara",
+    "instansi": "Gramedia Edukasi Nusantara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 144,
+  "fields": {
+    "created": "2024-03-28T01:39:44.066",
+    "updated": "2024-03-28T01:39:44.066",
+    "slug": "yapindo-jaya-abadi",
+    "kategori": "penerbit",
+    "penerbit": "Yapindo Jaya Abadi",
+    "instansi": "Yapindo Jaya Abadi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 145,
+  "fields": {
+    "created": "2024-03-28T01:39:59.115",
+    "updated": "2024-03-28T01:39:59.115",
+    "slug": "scifintech-andrew-wijaya",
+    "kategori": "penerbit",
+    "penerbit": "Scifintech Andrew Wijaya",
+    "instansi": "Scifintech Andrew Wijaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 146,
+  "fields": {
+    "created": "2024-03-28T01:41:34.877",
+    "updated": "2024-03-28T01:41:34.877",
+    "slug": "arrus-intelektual-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Arrus intelektual indonesia",
+    "instansi": "Arrus intelektual indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 147,
+  "fields": {
+    "created": "2024-03-28T01:41:48.102",
+    "updated": "2024-03-28T01:41:48.102",
+    "slug": "pertanian-press",
+    "kategori": "penerbit",
+    "penerbit": "Pertanian Press",
+    "instansi": "Pertanian Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 148,
+  "fields": {
+    "created": "2024-03-28T01:42:01.825",
+    "updated": "2024-03-28T01:42:01.825",
+    "slug": "sanskara-karya-internasional",
+    "kategori": "penerbit",
+    "penerbit": "Sanskara Karya Internasional",
+    "instansi": "Sanskara Karya Internasional",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 149,
+  "fields": {
+    "created": "2024-03-28T01:42:17.741",
+    "updated": "2024-03-28T01:42:17.741",
+    "slug": "farah-media-utama-booknesia",
+    "kategori": "penerbit",
+    "penerbit": "Farah Media Utama (Booknesia)",
+    "instansi": "Farah Media Utama (Booknesia)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 150,
+  "fields": {
+    "created": "2024-03-28T01:42:50.106",
+    "updated": "2024-03-28T01:42:50.106",
+    "slug": "pakar-raya",
+    "kategori": "penerbit",
+    "penerbit": "Pakar Raya",
+    "instansi": "Pakar Raya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 151,
+  "fields": {
+    "created": "2024-03-28T01:43:01.889",
+    "updated": "2024-03-28T01:43:01.889",
+    "slug": "refika-aditama",
+    "kategori": "penerbit",
+    "penerbit": "Refika Aditama",
+    "instansi": "Refika Aditama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 152,
+  "fields": {
+    "created": "2024-03-28T01:43:22.465",
+    "updated": "2024-03-28T01:43:22.465",
+    "slug": "remaja-rosda-karya",
+    "kategori": "penerbit",
+    "penerbit": "Remaja Rosda Karya",
+    "instansi": "Remaja Rosda Karya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 153,
+  "fields": {
+    "created": "2024-03-28T01:43:34.553",
+    "updated": "2024-03-28T01:43:34.553",
+    "slug": "sarana-panca-karya-nusa",
+    "kategori": "penerbit",
+    "penerbit": "Sarana Panca Karya Nusa",
+    "instansi": "Sarana Panca Karya Nusa",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 154,
+  "fields": {
+    "created": "2024-03-28T01:43:46.036",
+    "updated": "2024-03-28T01:43:46.036",
+    "slug": "yrama-widya",
+    "kategori": "penerbit",
+    "penerbit": "Yrama Widya",
+    "instansi": "Yrama Widya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 155,
+  "fields": {
+    "created": "2024-03-28T01:43:59.268",
+    "updated": "2024-03-28T01:43:59.268",
+    "slug": "nuansa-cendekia",
+    "kategori": "penerbit",
+    "penerbit": "Nuansa Cendekia",
+    "instansi": "Nuansa Cendekia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 156,
+  "fields": {
+    "created": "2024-03-28T01:44:09.885",
+    "updated": "2024-03-28T01:44:09.885",
+    "slug": "thursina-mediana-utama",
+    "kategori": "penerbit",
+    "penerbit": "Thursina Mediana Utama",
+    "instansi": "Thursina Mediana Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 157,
+  "fields": {
+    "created": "2024-03-28T01:44:23.217",
+    "updated": "2024-03-28T01:44:23.217",
+    "slug": "simbiosa-rekatama-media",
+    "kategori": "penerbit",
+    "penerbit": "Simbiosa Rekatama Media",
+    "instansi": "Simbiosa Rekatama Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 158,
+  "fields": {
+    "created": "2024-03-28T01:44:36.566",
+    "updated": "2024-03-28T01:44:36.566",
+    "slug": "irsyad-baitus-salam",
+    "kategori": "penerbit",
+    "penerbit": "Irsyad Baitus Salam",
+    "instansi": "Irsyad Baitus Salam",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 159,
+  "fields": {
+    "created": "2024-03-28T01:44:47.432",
+    "updated": "2024-03-28T01:44:47.432",
+    "slug": "nuansa-aulia",
+    "kategori": "penerbit",
+    "penerbit": "Nuansa Aulia",
+    "instansi": "Nuansa Aulia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 160,
+  "fields": {
+    "created": "2024-03-28T01:44:59.264",
+    "updated": "2024-03-28T01:44:59.264",
+    "slug": "bina-pustaka",
+    "kategori": "penerbit",
+    "penerbit": "Bina Pustaka",
+    "instansi": "Bina Pustaka",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 161,
+  "fields": {
+    "created": "2024-03-28T01:45:13.481",
+    "updated": "2024-03-28T01:45:13.481",
+    "slug": "prisma-esta-utama",
+    "kategori": "penerbit",
+    "penerbit": "Prisma Esta Utama",
+    "instansi": "Prisma Esta Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 162,
+  "fields": {
+    "created": "2024-03-28T01:45:24.613",
+    "updated": "2024-03-28T01:45:24.613",
+    "slug": "penerbit-ipb-press",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit IPB Press",
+    "instansi": "Penerbit IPB Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 163,
+  "fields": {
+    "created": "2024-03-28T01:45:35.679",
+    "updated": "2024-03-28T01:45:35.679",
+    "slug": "sarana-tutorial-nurani-sejahtera",
+    "kategori": "penerbit",
+    "penerbit": "Sarana Tutorial Nurani Sejahtera",
+    "instansi": "Sarana Tutorial Nurani Sejahtera",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 164,
+  "fields": {
+    "created": "2024-03-28T01:45:48.512",
+    "updated": "2024-03-28T01:45:48.512",
+    "slug": "unpad-press",
+    "kategori": "penerbit",
+    "penerbit": "UNPAD Press",
+    "instansi": "UNPAD Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 165,
+  "fields": {
+    "created": "2024-03-28T01:46:02.011",
+    "updated": "2024-03-28T01:46:02.011",
+    "slug": "dunia-pustaka-jaya",
+    "kategori": "penerbit",
+    "penerbit": "Dunia Pustaka Jaya",
+    "instansi": "Dunia Pustaka Jaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 166,
+  "fields": {
+    "created": "2024-03-28T01:46:30.253",
+    "updated": "2024-03-28T01:46:30.253",
+    "slug": "srikandi-empat-widya-utama",
+    "kategori": "penerbit",
+    "penerbit": "Srikandi Empat Widya Utama",
+    "instansi": "Srikandi Empat Widya Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 167,
+  "fields": {
+    "created": "2024-03-28T01:46:52.741",
+    "updated": "2024-03-28T01:46:52.741",
+    "slug": "graha-cipta-media",
+    "kategori": "penerbit",
+    "penerbit": "Graha Cipta Media",
+    "instansi": "Graha Cipta Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 168,
+  "fields": {
+    "created": "2024-03-28T01:47:05.158",
+    "updated": "2024-03-28T01:47:05.158",
+    "slug": "smart-media-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Smart Media Publishing",
+    "instansi": "Smart Media Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 169,
+  "fields": {
+    "created": "2024-03-28T01:47:18.623",
+    "updated": "2024-03-28T01:47:18.623",
+    "slug": "keira-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Keira Publishing",
+    "instansi": "Keira Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 170,
+  "fields": {
+    "created": "2024-03-28T01:47:31.566",
+    "updated": "2024-03-28T01:47:31.566",
+    "slug": "confident",
+    "kategori": "penerbit",
+    "penerbit": "Confident",
+    "instansi": "Confident",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 171,
+  "fields": {
+    "created": "2024-03-28T01:47:44.623",
+    "updated": "2024-03-28T01:47:44.623",
+    "slug": "goresan-pena",
+    "kategori": "penerbit",
+    "penerbit": "Goresan Pena",
+    "instansi": "Goresan Pena",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 172,
+  "fields": {
+    "created": "2024-03-28T01:47:55.438",
+    "updated": "2024-03-28T01:47:55.438",
+    "slug": "mizan-bunaya-kreativa",
+    "kategori": "penerbit",
+    "penerbit": "Mizan Bunaya Kreativa",
+    "instansi": "Mizan Bunaya Kreativa",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 173,
+  "fields": {
+    "created": "2024-03-28T01:48:08.354",
+    "updated": "2024-03-28T01:48:08.354",
+    "slug": "yayasan-pendidikan-nasional-bandung-press",
+    "kategori": "penerbit",
+    "penerbit": "Yayasan Pendidikan Nasional Bandung Press",
+    "instansi": "Yayasan Pendidikan Nasional Bandung Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 174,
+  "fields": {
+    "created": "2024-03-28T01:48:19.687",
+    "updated": "2024-03-28T01:48:19.687",
+    "slug": "eka-prima-mandiri",
+    "kategori": "penerbit",
+    "penerbit": "Eka Prima Mandiri",
+    "instansi": "Eka Prima Mandiri",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 175,
+  "fields": {
+    "created": "2024-03-28T01:48:34.002",
+    "updated": "2024-03-28T01:48:34.002",
+    "slug": "raness-media-rancage",
+    "kategori": "penerbit",
+    "penerbit": "Raness Media Rancage",
+    "instansi": "Raness Media Rancage",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 176,
+  "fields": {
+    "created": "2024-03-28T01:48:45.665",
+    "updated": "2024-03-28T01:48:45.665",
+    "slug": "agro-indo-mandiri",
+    "kategori": "penerbit",
+    "penerbit": "Agro Indo Mandiri",
+    "instansi": "Agro Indo Mandiri",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 177,
+  "fields": {
+    "created": "2024-03-28T01:48:57.619",
+    "updated": "2024-03-28T01:48:57.619",
+    "slug": "jejak",
+    "kategori": "penerbit",
+    "penerbit": "Jejak",
+    "instansi": "Jejak",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 178,
+  "fields": {
+    "created": "2024-03-28T01:49:10.767",
+    "updated": "2024-03-28T01:49:10.767",
+    "slug": "pustaka-utama-bandung",
+    "kategori": "penerbit",
+    "penerbit": "Pustaka Utama Bandung",
+    "instansi": "Pustaka Utama Bandung",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 179,
+  "fields": {
+    "created": "2024-03-28T01:49:25.699",
+    "updated": "2024-03-28T01:49:25.699",
+    "slug": "cendekia-press",
+    "kategori": "penerbit",
+    "penerbit": "Cendekia Press",
+    "instansi": "Cendekia Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 180,
+  "fields": {
+    "created": "2024-03-28T01:49:40.180",
+    "updated": "2024-03-28T01:49:40.180",
+    "slug": "media-jaya-abadi",
+    "kategori": "penerbit",
+    "penerbit": "Media Jaya Abadi",
+    "instansi": "Media Jaya Abadi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 181,
+  "fields": {
+    "created": "2024-03-28T01:49:52.365",
+    "updated": "2024-03-28T01:49:52.365",
+    "slug": "niaga-muda-press",
+    "kategori": "penerbit",
+    "penerbit": "Niaga Muda Press",
+    "instansi": "Niaga Muda Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 182,
+  "fields": {
+    "created": "2024-03-28T01:50:05.647",
+    "updated": "2024-03-28T01:50:05.647",
+    "slug": "universitas-pendidikan-indonesia-upi-press",
+    "kategori": "penerbit",
+    "penerbit": "Universitas Pendidikan Indonesia (UPI Press)",
+    "instansi": "Universitas Pendidikan Indonesia (UPI Press)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 183,
+  "fields": {
+    "created": "2024-03-28T01:50:17.397",
+    "updated": "2024-03-28T01:50:17.397",
+    "slug": "sakeena-lentera-berkah",
+    "kategori": "penerbit",
+    "penerbit": "Sakeena Lentera Berkah",
+    "instansi": "Sakeena Lentera Berkah",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 184,
+  "fields": {
+    "created": "2024-03-28T01:50:28.164",
+    "updated": "2024-03-28T01:50:28.164",
+    "slug": "politeknik-imigrasi-press",
+    "kategori": "penerbit",
+    "penerbit": "Politeknik Imigrasi Press",
+    "instansi": "Politeknik Imigrasi Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 185,
+  "fields": {
+    "created": "2024-03-28T01:50:41.013",
+    "updated": "2024-03-28T01:50:41.013",
+    "slug": "widya-aksara-press",
+    "kategori": "penerbit",
+    "penerbit": "Widya Aksara Press",
+    "instansi": "Widya Aksara Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 186,
+  "fields": {
+    "created": "2024-03-28T01:50:52.133",
+    "updated": "2024-03-28T01:50:52.133",
+    "slug": "dandelion-publisher",
+    "kategori": "penerbit",
+    "penerbit": "Dandelion Publisher",
+    "instansi": "Dandelion Publisher",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 187,
+  "fields": {
+    "created": "2024-03-28T01:51:02.862",
+    "updated": "2024-03-28T01:51:02.862",
+    "slug": "sahara-multi-trading",
+    "kategori": "penerbit",
+    "penerbit": "Sahara Multi Trading",
+    "instansi": "Sahara Multi Trading",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 188,
+  "fields": {
+    "created": "2024-03-28T01:51:29.643",
+    "updated": "2024-03-28T01:51:29.643",
+    "slug": "adanu-abimata",
+    "kategori": "penerbit",
+    "penerbit": "Adanu Abimata",
+    "instansi": "Adanu Abimata",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 189,
+  "fields": {
+    "created": "2024-03-28T01:51:43.943",
+    "updated": "2024-03-28T01:51:43.943",
+    "slug": "widina-bhakti-persada-bandung",
+    "kategori": "penerbit",
+    "penerbit": "Widina Bhakti Persada Bandung",
+    "instansi": "Widina Bhakti Persada Bandung",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 190,
+  "fields": {
+    "created": "2024-03-28T01:52:01.874",
+    "updated": "2024-03-28T01:52:01.874",
+    "slug": "penerbit-program-studi-pendidikan-jasmani-kesehatan-dan-rekreasi-stkip-nahdlatul-ulama-indramayu",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Program Studi Pendidikan jasmani Kesehatan dan Rekreasi STKIP Nahdlatul Ulama Indramayu",
+    "instansi": "Penerbit Program Studi Pendidikan jasmani Kesehatan dan Rekreasi STKIP Nahdlatul Ulama Indramayu",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 191,
+  "fields": {
+    "created": "2024-03-28T01:52:14.747",
+    "updated": "2024-03-28T01:52:14.747",
+    "slug": "lindan-bestari",
+    "kategori": "penerbit",
+    "penerbit": "Lindan Bestari",
+    "instansi": "Lindan Bestari",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 192,
+  "fields": {
+    "created": "2024-03-28T01:52:25.456",
+    "updated": "2024-03-28T01:52:25.456",
+    "slug": "zenius-publisher",
+    "kategori": "penerbit",
+    "penerbit": "Zenius Publisher",
+    "instansi": "Zenius Publisher",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 193,
+  "fields": {
+    "created": "2024-03-28T01:52:36.155",
+    "updated": "2024-03-28T01:52:36.155",
+    "slug": "kmo-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "KMO Indonesia",
+    "instansi": "KMO Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 194,
+  "fields": {
+    "created": "2024-03-28T01:52:48.621",
+    "updated": "2024-03-28T01:52:48.621",
+    "slug": "unpar-press",
+    "kategori": "penerbit",
+    "penerbit": "UNPAR Press",
+    "instansi": "UNPAR Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 195,
+  "fields": {
+    "created": "2024-03-28T01:52:59.188",
+    "updated": "2024-03-28T01:52:59.188",
+    "slug": "media-sains-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Media Sains Indonesia",
+    "instansi": "Media Sains Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 196,
+  "fields": {
+    "created": "2024-03-28T01:53:09.504",
+    "updated": "2024-03-28T01:53:09.504",
+    "slug": "haura-utama",
+    "kategori": "penerbit",
+    "penerbit": "Haura Utama",
+    "instansi": "Haura Utama",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 197,
+  "fields": {
+    "created": "2024-03-28T01:53:22.270",
+    "updated": "2024-03-28T01:53:22.270",
+    "slug": "ciptakarya-paramacitra",
+    "kategori": "penerbit",
+    "penerbit": "Ciptakarya Paramacitra",
+    "instansi": "Ciptakarya Paramacitra",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 198,
+  "fields": {
+    "created": "2024-03-28T01:53:36.670",
+    "updated": "2024-03-28T01:53:36.670",
+    "slug": "penerbit-masyarakat-pernaskahan-nusantara-manassa",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Masyarakat Pernaskahan Nusantara (Manassa)",
+    "instansi": "Penerbit Masyarakat Pernaskahan Nusantara (Manassa)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 199,
+  "fields": {
+    "created": "2024-03-28T01:53:46.236",
+    "updated": "2024-03-28T01:53:46.236",
+    "slug": "unibi-press",
+    "kategori": "penerbit",
+    "penerbit": "UNIBI Press",
+    "instansi": "UNIBI Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 200,
+  "fields": {
+    "created": "2024-03-28T01:53:58.384",
+    "updated": "2024-03-28T01:53:58.384",
+    "slug": "beemee-investama-globalindo",
+    "kategori": "penerbit",
+    "penerbit": "Beemee Investama Globalindo",
+    "instansi": "Beemee Investama Globalindo",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 201,
+  "fields": {
+    "created": "2024-03-28T01:54:09.268",
+    "updated": "2024-03-28T01:54:09.268",
+    "slug": "indonesia-emas-group",
+    "kategori": "penerbit",
+    "penerbit": "Indonesia Emas Group",
+    "instansi": "Indonesia Emas Group",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 202,
+  "fields": {
+    "created": "2024-03-28T01:54:20.558",
+    "updated": "2024-03-28T01:54:20.558",
+    "slug": "delfa-indonesia-madani",
+    "kategori": "penerbit",
+    "penerbit": "Delfa Indonesia Madani",
+    "instansi": "Delfa Indonesia Madani",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 203,
+  "fields": {
+    "created": "2024-03-28T01:54:30.183",
+    "updated": "2024-03-28T01:54:30.183",
+    "slug": "bima-pershada",
+    "kategori": "penerbit",
+    "penerbit": "Bima Pershada",
+    "instansi": "Bima Pershada",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 204,
+  "fields": {
+    "created": "2024-03-28T01:54:40.432",
+    "updated": "2024-03-28T01:54:40.432",
+    "slug": "ellunar-publisher",
+    "kategori": "penerbit",
+    "penerbit": "Ellunar Publisher",
+    "instansi": "Ellunar Publisher",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 205,
+  "fields": {
+    "created": "2024-03-28T01:54:52.598",
+    "updated": "2024-03-28T01:54:52.598",
+    "slug": "dida",
+    "kategori": "penerbit",
+    "penerbit": "Dida",
+    "instansi": "Dida",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 206,
+  "fields": {
+    "created": "2024-03-28T01:55:03.680",
+    "updated": "2024-03-28T01:55:03.680",
+    "slug": "multi-trans-media",
+    "kategori": "penerbit",
+    "penerbit": "Multi Trans Media",
+    "instansi": "Multi Trans Media",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 207,
+  "fields": {
+    "created": "2024-03-28T01:55:14.131",
+    "updated": "2024-03-28T01:55:14.131",
+    "slug": "yk-publishing",
+    "kategori": "penerbit",
+    "penerbit": "YK Publishing",
+    "instansi": "YK Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 208,
+  "fields": {
+    "created": "2024-03-28T01:55:36.245",
+    "updated": "2024-03-28T01:55:36.245",
+    "slug": "bolabot",
+    "kategori": "penerbit",
+    "penerbit": "Bolabot",
+    "instansi": "Bolabot",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 209,
+  "fields": {
+    "created": "2024-03-28T01:55:49.962",
+    "updated": "2024-03-28T01:55:49.962",
+    "slug": "unsub-press",
+    "kategori": "penerbit",
+    "penerbit": "UNSUB PRESS",
+    "instansi": "UNSUB PRESS",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 210,
+  "fields": {
+    "created": "2024-03-28T01:56:01.276",
+    "updated": "2024-03-28T01:56:01.276",
+    "slug": "indie-press",
+    "kategori": "penerbit",
+    "penerbit": "Indie Press",
+    "instansi": "Indie Press",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 211,
+  "fields": {
+    "created": "2024-03-28T01:56:13.760",
+    "updated": "2024-03-28T01:56:13.760",
+    "slug": "mutiara-galuh",
+    "kategori": "penerbit",
+    "penerbit": "Mutiara Galuh",
+    "instansi": "Mutiara Galuh",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 212,
+  "fields": {
+    "created": "2024-03-28T01:56:25.104",
+    "updated": "2024-03-28T01:56:25.104",
+    "slug": "nurul-amanah-publishing",
+    "kategori": "penerbit",
+    "penerbit": "Nurul Amanah Publishing",
+    "instansi": "Nurul Amanah Publishing",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 213,
+  "fields": {
+    "created": "2024-03-28T01:56:38.708",
+    "updated": "2024-03-28T01:56:38.708",
+    "slug": "pusat-kajian-sumberdaya-pesisir-dan-lautan-pkspl-ipb-university",
+    "kategori": "penerbit",
+    "penerbit": "Pusat Kajian Sumberdaya Pesisir dan Lautan (PKSPL) IPB University",
+    "instansi": "Pusat Kajian Sumberdaya Pesisir dan Lautan (PKSPL) IPB University",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 214,
+  "fields": {
+    "created": "2024-03-28T01:56:53.309",
+    "updated": "2024-03-28T01:56:53.309",
+    "slug": "penerbit-koperasi-jasa-informasi-karya-bersama-infokarsa",
+    "kategori": "penerbit",
+    "penerbit": "Penerbit Koperasi Jasa Informasi Karya Bersama (InfoKarsa)",
+    "instansi": "Penerbit Koperasi Jasa Informasi Karya Bersama (InfoKarsa)",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 215,
+  "fields": {
+    "created": "2024-03-28T01:57:03.874",
+    "updated": "2024-03-28T01:57:03.874",
+    "slug": "edukati-inti-cemerlang",
+    "kategori": "penerbit",
+    "penerbit": "Edukati Inti Cemerlang",
+    "instansi": "Edukati Inti Cemerlang",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 216,
+  "fields": {
+    "created": "2024-03-28T01:57:14.056",
+    "updated": "2024-03-28T01:57:14.056",
+    "slug": "allsys-media-solusi",
+    "kategori": "penerbit",
+    "penerbit": "Allsys Media Solusi",
+    "instansi": "Allsys Media Solusi",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 217,
+  "fields": {
+    "created": "2024-03-28T01:57:23.274",
+    "updated": "2024-03-28T01:57:23.274",
+    "slug": "mega-press-nusantara",
+    "kategori": "penerbit",
+    "penerbit": "Mega Press Nusantara",
+    "instansi": "Mega Press Nusantara",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 218,
+  "fields": {
+    "created": "2024-03-28T01:57:35.256",
+    "updated": "2024-03-28T01:57:35.256",
+    "slug": "lppm-universitas-muhammadiyah-tasikmalaya",
+    "kategori": "penerbit",
+    "penerbit": "LPPM Universitas Muhammadiyah Tasikmalaya",
+    "instansi": "LPPM Universitas Muhammadiyah Tasikmalaya",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 219,
+  "fields": {
+    "created": "2024-03-28T01:57:49.038",
+    "updated": "2024-03-28T01:57:49.038",
+    "slug": "unla-press",
+    "kategori": "penerbit",
+    "penerbit": "UNLA PRESS",
+    "instansi": "UNLA PRESS",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 220,
+  "fields": {
+    "created": "2024-03-28T01:58:00.455",
+    "updated": "2024-03-28T01:58:00.455",
+    "slug": "fia-ui-press",
+    "kategori": "penerbit",
+    "penerbit": "FIA UI PRESS",
+    "instansi": "FIA UI PRESS",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 221,
+  "fields": {
+    "created": "2024-03-28T01:58:11.153",
+    "updated": "2024-03-28T01:58:11.153",
+    "slug": "rumah-publikasi-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Rumah Publikasi Indonesia",
+    "instansi": "Rumah Publikasi Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 222,
+  "fields": {
+    "created": "2024-03-28T01:58:22.554",
+    "updated": "2024-03-28T01:58:22.554",
+    "slug": "kimshafi-alung-cipta",
+    "kategori": "penerbit",
+    "penerbit": "Kimshafi Alung Cipta",
+    "instansi": "Kimshafi Alung Cipta",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 223,
+  "fields": {
+    "created": "2024-03-28T01:58:32.085",
+    "updated": "2024-03-28T01:58:32.085",
+    "slug": "assofa",
+    "kategori": "penerbit",
+    "penerbit": "Assofa",
+    "instansi": "Assofa",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 224,
+  "fields": {
+    "created": "2024-03-28T01:58:44.368",
+    "updated": "2024-03-28T01:58:44.368",
+    "slug": "upt-penerbit-salman-itb",
+    "kategori": "penerbit",
+    "penerbit": "UPT Penerbit Salman ITB",
+    "instansi": "UPT Penerbit Salman ITB",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 225,
+  "fields": {
+    "created": "2024-03-28T01:58:55.685",
+    "updated": "2024-03-28T01:58:55.685",
+    "slug": "green-publisher-indonesia",
+    "kategori": "penerbit",
+    "penerbit": "Green Publisher Indonesia",
+    "instansi": "Green Publisher Indonesia",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
+},
+{
+  "model": "produk.penerbit_buku",
+  "pk": 226,
+  "fields": {
+    "created": "2024-03-28T01:59:10.258",
+    "updated": "2024-03-28T01:59:10.258",
+    "slug": "kpm-ikhlas-tegas-puas",
+    "kategori": "penerbit",
+    "penerbit": "KPM Ikhlas Tegas Puas",
+    "instansi": "KPM Ikhlas Tegas Puas",
+    "tentang_penerbit": "",
+    "logo_penerbit": ""
+  }
 }
 ]

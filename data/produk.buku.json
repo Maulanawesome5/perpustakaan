@@ -104,7 +104,7 @@
   "pk": 6,
   "fields": {
     "created": "2023-10-13T23:10:43.983",
-    "updated": "2024-02-15T18:47:56.029",
+    "updated": "2024-03-22T00:21:41.980",
     "slug": "jujutsu-kaisen-11",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 11",
@@ -116,7 +116,7 @@
     "thumbnail_sampul": "eqabs5dgzrpwkp7trvqajz__w149_hauto.jpg",
     "harga": 32500,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230049651"
   }
 },
 {
@@ -124,7 +124,7 @@
   "pk": 7,
   "fields": {
     "created": "2023-10-24T14:16:43.363",
-    "updated": "2024-02-15T18:47:10.191",
+    "updated": "2024-03-22T00:16:22.143",
     "slug": "data-mining-dan-machine-learning-menggunakan-matlab-dan-python",
     "kategori": "buku",
     "judul_buku": "Data Mining Dan Machine Learning Menggunakan Matlab Dan Python",
@@ -136,7 +136,7 @@
     "thumbnail_sampul": "9786237131328.jpg",
     "harga": 72250,
     "stok_barang": 8,
-    "isbn": ""
+    "isbn": "9786237131328"
   }
 },
 {
@@ -144,7 +144,7 @@
   "pk": 8,
   "fields": {
     "created": "2023-10-24T14:18:55.472",
-    "updated": "2024-03-05T16:43:18.428",
+    "updated": "2024-03-22T00:20:39.144",
     "slug": "jujutsu-kaisen-06",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 06",
@@ -156,7 +156,7 @@
     "thumbnail_sampul": "Jujutsukaisen_6.jpg",
     "harga": 34000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230031274"
   }
 },
 {
@@ -164,7 +164,7 @@
   "pk": 9,
   "fields": {
     "created": "2024-03-05T16:42:32.658",
-    "updated": "2024-03-05T16:42:32.658",
+    "updated": "2024-03-22T00:17:07.191",
     "slug": "jujutsu-kaisen-0",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 0",
@@ -176,7 +176,7 @@
     "thumbnail_sampul": "Cover_Depan_Jujutsu_Kaisen_0.jpg",
     "harga": 40000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230034640"
   }
 },
 {
@@ -184,7 +184,7 @@
   "pk": 10,
   "fields": {
     "created": "2024-03-05T16:45:54.754",
-    "updated": "2024-03-05T18:38:23.164",
+    "updated": "2024-03-22T00:17:41.122",
     "slug": "jujutsu-kaisen-01",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 01",
@@ -196,7 +196,7 @@
     "thumbnail_sampul": "9786230022180_Jujutsukaisen_1.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230022180"
   }
 },
 {
@@ -204,7 +204,7 @@
   "pk": 11,
   "fields": {
     "created": "2024-03-05T16:47:34.582",
-    "updated": "2024-03-05T16:47:34.582",
+    "updated": "2024-03-22T00:18:13.537",
     "slug": "jujutsu-kaisen-02",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 02",
@@ -216,7 +216,7 @@
     "thumbnail_sampul": "9786230024399_Jujutsukaisen_2.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230024399"
   }
 },
 {
@@ -224,7 +224,7 @@
   "pk": 12,
   "fields": {
     "created": "2024-03-05T16:49:38.175",
-    "updated": "2024-03-05T17:59:11.299",
+    "updated": "2024-03-22T00:23:32.302",
     "slug": "harry-potter-dan-batu-bertuah",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Batu Bertuah",
@@ -236,7 +236,7 @@
     "thumbnail_sampul": "9786020337647_harry-potter-dan-batu-bertuah-cover-baru.jpg",
     "harga": 102400,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020337647"
   }
 },
 {
@@ -244,7 +244,7 @@
   "pk": 13,
   "fields": {
     "created": "2024-03-05T16:51:30.169",
-    "updated": "2024-03-05T16:51:30.169",
+    "updated": "2024-03-22T00:26:16.293",
     "slug": "harry-potter-dan-tawanan-azkaban",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Tawanan Azkaban",
@@ -256,7 +256,7 @@
     "thumbnail_sampul": "9786020342733_harry-potter-dan-tawanan-azkaban-_harry-potter-and-the-prisoner-of-azkaban_-cover-baru.jpg",
     "harga": 136000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020342733"
   }
 },
 {
@@ -264,7 +264,7 @@
   "pk": 14,
   "fields": {
     "created": "2024-03-05T16:53:03.031",
-    "updated": "2024-03-05T16:53:03.031",
+    "updated": "2024-03-22T00:24:01.683",
     "slug": "harry-potter-dan-kamar-rahasia",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Kamar Rahasia",
@@ -276,7 +276,7 @@
     "thumbnail_sampul": "9786020339184_harry-potter-dan-kamar-rahasia-cover-baru.jpg",
     "harga": 110400,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020339184"
   }
 },
 {
@@ -284,7 +284,7 @@
   "pk": 15,
   "fields": {
     "created": "2024-03-05T18:00:40.753",
-    "updated": "2024-03-05T18:00:40.753",
+    "updated": "2024-03-22T00:25:09.769",
     "slug": "harry-potter-dan-pangeran-berdarah-campuran",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Pangeran Berdarah Campuran",
@@ -296,7 +296,7 @@
     "thumbnail_sampul": "9786020377414_Harry-Potter-dan-Pangeran-Berdarah-Campuran-Harry-Potter-and-The-Half-Blood-Prince.jpg",
     "harga": 200000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020377414"
   }
 },
 {
@@ -304,7 +304,7 @@
   "pk": 16,
   "fields": {
     "created": "2024-03-05T18:01:45.633",
-    "updated": "2024-03-05T18:01:45.633",
+    "updated": "2024-03-22T00:25:44.243",
     "slug": "harry-potter-dan-piala-api",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Piala Api",
@@ -316,7 +316,7 @@
     "thumbnail_sampul": "9786020342726_harry-potter-dan-piala-api-cover-baru.jpg",
     "harga": 204000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020342726"
   }
 },
 {
@@ -324,7 +324,7 @@
   "pk": 17,
   "fields": {
     "created": "2024-03-05T18:03:02.929",
-    "updated": "2024-03-05T18:03:02.929",
+    "updated": "2024-03-22T00:24:38.997",
     "slug": "harry-potter-dan-orde-phoenix",
     "kategori": "buku",
     "judul_buku": "Harry Potter dan Orde Phoenix",
@@ -336,7 +336,7 @@
     "thumbnail_sampul": "9786020361314_harry-potter_5_harry-potter-dan-orde-phoenix-cover-baru.jpg",
     "harga": 239200,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020361314"
   }
 },
 {
@@ -344,7 +344,7 @@
   "pk": 18,
   "fields": {
     "created": "2024-03-05T18:04:48.791",
-    "updated": "2024-03-05T18:04:48.791",
+    "updated": "2024-03-22T00:29:45.714",
     "slug": "pemrograman-python-untuk-ilmu-komputer-dan-teknik",
     "kategori": "buku",
     "judul_buku": "Pemrograman Python Untuk Ilmu Komputer Dan Teknik",
@@ -356,7 +356,7 @@
     "thumbnail_sampul": "PEMROGRAMAN_PYTHON_UNTUK_ILMU_KOMPUTER_DAN_TEKNIK.jpg",
     "harga": 49500,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9789792966183"
   }
 },
 {
@@ -364,7 +364,7 @@
   "pk": 19,
   "fields": {
     "created": "2024-03-05T18:06:49.383",
-    "updated": "2024-03-05T18:06:49.383",
+    "updated": "2024-03-22T00:26:46.790",
     "slug": "python-untuk-analisis-dan-visualisasi-data",
     "kategori": "buku",
     "judul_buku": "Python untuk Analisis dan Visualisasi Data",
@@ -376,7 +376,7 @@
     "thumbnail_sampul": "sevge26s2yhsk37siipsld.jpg",
     "harga": 64000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230045561"
   }
 },
 {
@@ -384,7 +384,7 @@
   "pk": 20,
   "fields": {
     "created": "2024-03-05T18:08:25.095",
-    "updated": "2024-03-05T18:08:25.095",
+    "updated": "2024-03-22T00:12:00.442",
     "slug": "anggara-kasih",
     "kategori": "buku",
     "judul_buku": "Anggara Kasih",
@@ -396,7 +396,7 @@
     "thumbnail_sampul": "ckcwotdfj5z26odakmwgr2.jpg",
     "harga": 79200,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230416149"
   }
 },
 {
@@ -404,7 +404,7 @@
   "pk": 21,
   "fields": {
     "created": "2024-03-05T18:10:05.906",
-    "updated": "2024-03-05T18:10:05.906",
+    "updated": "2024-03-22T00:12:52.273",
     "slug": "the-monk-who-sold-his-ferrari-perjalanan-mencari-kebahagiaan-hidup-sejati",
     "kategori": "buku",
     "judul_buku": "The Monk Who Sold His Ferrari: Perjalanan Mencari Kebahagiaan Hidup Sejati",
@@ -416,7 +416,7 @@
     "thumbnail_sampul": "Cover_The_Monk_Who_Sold_His_Ferrari.jpg",
     "harga": 100000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230409011"
   }
 },
 {
@@ -424,7 +424,7 @@
   "pk": 22,
   "fields": {
     "created": "2024-03-05T19:04:40.597",
-    "updated": "2024-03-05T20:41:52.942",
+    "updated": "2024-03-22T00:22:13.273",
     "slug": "jujutsu-kaisen-12",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 12",
@@ -436,7 +436,7 @@
     "thumbnail_sampul": "efri6damk2qz3tuvwn4car.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230050619"
   }
 },
 {
@@ -444,7 +444,7 @@
   "pk": 23,
   "fields": {
     "created": "2024-03-05T19:07:40.462",
-    "updated": "2024-03-05T20:43:03.226",
+    "updated": "2024-03-22T00:22:47.470",
     "slug": "jujutsu-kaisen-13",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 13",
@@ -456,7 +456,7 @@
     "thumbnail_sampul": "r7sy78svdmpjcqupgxywu8.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230055850"
   }
 },
 {
@@ -464,7 +464,7 @@
   "pk": 24,
   "fields": {
     "created": "2024-03-05T19:10:55.192",
-    "updated": "2024-03-05T19:10:55.192",
+    "updated": "2024-03-22T00:31:14.341",
     "slug": "menguasai-adobe-photoshop-cc-2021",
     "kategori": "buku",
     "judul_buku": "Menguasai Adobe Photoshop Cc 2021",
@@ -476,7 +476,7 @@
     "thumbnail_sampul": "9786230025792_Cov_Menguasai_Adobe_Photoshop_CC_2021.jpg",
     "harga": 68000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230025792"
   }
 },
 {
@@ -484,7 +484,7 @@
   "pk": 25,
   "fields": {
     "created": "2024-03-05T19:13:12.960",
-    "updated": "2024-03-05T19:13:12.960",
+    "updated": "2024-03-22T00:31:55.905",
     "slug": "belajar-sendiri-adobe-premiere-cc-2019",
     "kategori": "buku",
     "judul_buku": "Belajar Sendiri Adobe Premiere CC 2019",
@@ -496,7 +496,7 @@
     "thumbnail_sampul": "9786020495941_Belajar_Sendi.jpg",
     "harga": 57600,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "SCOOPG173701"
   }
 },
 {
@@ -504,7 +504,7 @@
   "pk": 26,
   "fields": {
     "created": "2024-03-05T19:23:49.324",
-    "updated": "2024-03-05T19:23:49.324",
+    "updated": "2024-03-22T00:33:12.318",
     "slug": "trading-saham-dengan-menggunakan-fibonacci-retracement",
     "kategori": "buku",
     "judul_buku": "Trading Saham dengan Menggunakan Fibonacci Retracement",
@@ -516,7 +516,7 @@
     "thumbnail_sampul": "9786020281629_Trading_Saham_dengan_Menggunakan_Fibonacci_Retracement.jpg",
     "harga": 61440,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786020281629"
   }
 },
 {
@@ -524,7 +524,7 @@
   "pk": 27,
   "fields": {
     "created": "2024-03-05T19:43:43.714",
-    "updated": "2024-03-05T19:43:43.714",
+    "updated": "2024-03-22T00:13:31.919",
     "slug": "panduan-lengkap-microsoft-excel-di-dunia-kerja",
     "kategori": "buku",
     "judul_buku": "Panduan Lengkap Microsoft Excel di Dunia Kerja",
@@ -536,7 +536,7 @@
     "thumbnail_sampul": "j4qbtzv3pty2g4sdwa4vtb.jpg",
     "harga": 71100,
     "stok_barang": 30,
-    "isbn": ""
+    "isbn": "9786231641434"
   }
 },
 {
@@ -564,7 +564,7 @@
   "pk": 29,
   "fields": {
     "created": "2024-03-12T01:20:58.656",
-    "updated": "2024-03-12T04:18:41.485",
+    "updated": "2024-03-22T00:11:16.127",
     "slug": "algoritma-dan-pemrograman-dalam-bahasa-pascal-c-dan-c-edisi-keenam",
     "kategori": "buku",
     "judul_buku": "Algoritma dan Pemrograman dalam Bahasa Pascal, C, Dan C++ Edisi Keenam",
@@ -576,7 +576,7 @@
     "thumbnail_sampul": "9786021514917_algoritma-dan-pemrograman-dalam-bahasa-pascal_-c_-dan-c_-edisi-keenam.jpg",
     "harga": 120000,
     "stok_barang": 20,
-    "isbn": ""
+    "isbn": "9786021514917"
   }
 },
 {
@@ -1004,7 +1004,7 @@
   "pk": 53,
   "fields": {
     "created": "2024-03-13T17:21:27.607",
-    "updated": "2024-03-13T17:21:27.607",
+    "updated": "2024-03-22T00:15:52.279",
     "slug": "nabung-saham-sekarang",
     "kategori": "buku",
     "judul_buku": "Nabung Saham Sekarang",
@@ -1016,7 +1016,7 @@
     "thumbnail_sampul": "9786020374819_Nabung-Saham-Sekarang.jpg",
     "harga": 53500,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "SCOOPG144489"
   }
 },
 {
@@ -1024,7 +1024,7 @@
   "pk": 54,
   "fields": {
     "created": "2024-03-13T17:26:00.408",
-    "updated": "2024-03-13T17:26:00.408",
+    "updated": "2024-03-22T00:27:37.238",
     "slug": "komunikasi-organisasi",
     "kategori": "buku",
     "judul_buku": "Komunikasi Organisasi",
@@ -1036,7 +1036,7 @@
     "thumbnail_sampul": "KOMUNIKASI_ORGANISASI.jpg",
     "harga": 54450,
     "stok_barang": 10,
-    "isbn": ""
+    "isbn": "9786232183513"
   }
 },
 {
@@ -1044,7 +1044,7 @@
   "pk": 55,
   "fields": {
     "created": "2024-03-15T23:27:48.269",
-    "updated": "2024-03-15T23:27:48.269",
+    "updated": "2024-03-22T00:19:47.700",
     "slug": "jujutsu-kaisen-05",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 05",
@@ -1056,7 +1056,7 @@
     "thumbnail_sampul": "9786230029783_Jujutsukaisen_5.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230029783"
   }
 },
 {
@@ -1064,7 +1064,7 @@
   "pk": 56,
   "fields": {
     "created": "2024-03-15T23:29:20.612",
-    "updated": "2024-03-15T23:29:20.612",
+    "updated": "2024-03-22T00:19:17.116",
     "slug": "jujutsu-kaisen-04",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 04",
@@ -1076,7 +1076,7 @@
     "thumbnail_sampul": "Cover_Depan_Jujutsu_Kaisen_04.jpg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230026942"
   }
 },
 {
@@ -1084,7 +1084,7 @@
   "pk": 57,
   "fields": {
     "created": "2024-03-15T23:31:15.888",
-    "updated": "2024-03-15T23:31:15.888",
+    "updated": "2024-03-22T00:18:43.201",
     "slug": "jujutsu-kaisen-03",
     "kategori": "buku",
     "judul_buku": "Jujutsu Kaisen 03",
@@ -1096,7 +1096,7 @@
     "thumbnail_sampul": "WhatsApp_Image_2021-06-18_at_14.16.20.jpeg",
     "harga": 32000,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230024672"
   }
 },
 {
@@ -1104,7 +1104,7 @@
   "pk": 58,
   "fields": {
     "created": "2024-03-15T23:33:31.747",
-    "updated": "2024-03-15T23:33:31.747",
+    "updated": "2024-03-22T00:14:22.937",
     "slug": "naruto-bind-up-edition-01",
     "kategori": "buku",
     "judul_buku": "Naruto Bind Up Edition 01",
@@ -1116,7 +1116,7 @@
     "thumbnail_sampul": "zucrv4mvcaepw4mvccaolc.jpg",
     "harga": 79200,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230054952"
   }
 },
 {
@@ -1124,7 +1124,7 @@
   "pk": 59,
   "fields": {
     "created": "2024-03-15T23:36:24.369",
-    "updated": "2024-03-15T23:36:24.370",
+    "updated": "2024-03-22T00:14:53.674",
     "slug": "naruto-bind-up-edition-02",
     "kategori": "buku",
     "judul_buku": "Naruto Bind Up Edition 02",
@@ -1136,7 +1136,7 @@
     "thumbnail_sampul": "ukxpx6wsmqtgqqtgcltr9j.jpg",
     "harga": 79200,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230054969"
   }
 },
 {
@@ -1144,7 +1144,7 @@
   "pk": 60,
   "fields": {
     "created": "2024-03-15T23:38:18.847",
-    "updated": "2024-03-15T23:38:18.847",
+    "updated": "2024-03-22T00:15:23.514",
     "slug": "naruto-bind-up-edition-03",
     "kategori": "buku",
     "judul_buku": "Naruto Bind Up Edition 03",
@@ -1156,7 +1156,7 @@
     "thumbnail_sampul": "vcsm5z6mqb3padwqgfqivx.jpg",
     "harga": 79200,
     "stok_barang": 100,
-    "isbn": ""
+    "isbn": "9786230056444"
   }
 },
 {
@@ -2797,6 +2797,886 @@
     "harga": 75000,
     "stok_barang": 10,
     "isbn": "978-1-97-534151-0"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 143,
+  "fields": {
+    "created": "2024-03-22T01:21:43.816",
+    "updated": "2024-03-22T01:21:43.816",
+    "slug": "arah-langkah",
+    "kategori": "buku",
+    "judul_buku": "Arah langkah",
+    "penulis": 49,
+    "penerbit": 33,
+    "tahun": 2018,
+    "deskripsi": "Bulan April, tahun 2013, berawal dengan niat dan tujuan yang berbeda, salah satunya karena hati yang terluka, tiga pengelana memulai sebuah perjalanan menyusuri daerah-daerah di Indonesia. Lewat cara yang seru tapi menantang, mereka tidak hanya menyaksikan langsung keindahan negeri ini, mereka juga harus menghadapi pertarungan dengan kegelisahan yang dibawa masing-masing.\r\n\r\nArah Langkah bukan sekadar catatan perjalanan yang melukiskan keindahan alam, budaya, dan manusia lewat teks dan foto. Tetapi juga memberikan cerita lain tentang kondisi negeri yang tidak selalu sebagus seperti di layar televisi. Meskipun begitu, semua daerah memang memiliki cerita yang berbeda-beda, namun di dalam perbedaan itu, cinta dan persahabatan selalu bisa ditemukan.",
+    "sampul_buku": "arah-langkah-edit.jpg",
+    "thumbnail_sampul": "arah-langkah-edit.jpg",
+    "harga": 79200,
+    "stok_barang": 10,
+    "isbn": "9789797945619"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 144,
+  "fields": {
+    "created": "2024-03-22T01:23:02.961",
+    "updated": "2024-03-22T01:23:02.961",
+    "slug": "sebuah-perjalanan-menghapus-luka-garis-waktu",
+    "kategori": "buku",
+    "judul_buku": "Sebuah Perjalanan Menghapus Luka – Garis Waktu",
+    "penulis": 49,
+    "penerbit": 33,
+    "tahun": 2021,
+    "deskripsi": "Pada sebuah garis waktu yang merangkak maju, akan ada saatnya kau bertemu dengan satu orang yang mengubah dirimu untuk selamanya. Kemudian, satu orang tersebut akan menjadi bagian terbesar di dalam agendamu. Dan hatimu, takkan memberikan pilihan apapun kecuali jatuh cinta. Walaupun logika berkata bahwa risiko jatuh cinta adalah terjerembab di dasar nestapa sekalipun.\r\n\r\nPada sebuah garis waktu yang merangkak maju, akan ada saatnya kau akan terluka dan kehilangan pasangan. Yang paling menggiurkan setelahnya adalah berbaring, menikmati kepedihan dan membiarkan garis waktu menyeretmu yang mau tak mau harus tetap menjalani hidup. Lantas, mau sampai kapan? Sampai cahaya yang kau miliki padam dengan sendirinya? Sadarkah bahwa Tuhan mengujimu karena Dia percaya dirimu lebih kuat dari yang kau duga? Bangkit. Hidup takkan menunggu.\r\n\r\nPada sebuah garis waktu yang merangkak maju, akan ada saatnya ketika kau ingin melompat mundur pada titik-titik kenangan tertentu. Namun, tiada guna, garis waktu takkan memperlambat gerakannya barang sedetik pun. Ia hanya mampu maju, dan terus maju. Dan mau tidak mau kita juga harus ikut terseret dalam alurnya. Maka, ikhlaskan saja kalau begitu. Karena sesungguhnya, yang lebih menyakitkan dari melepaskan sesuatu adalah berpegangan pada sesuatu yang akan menyakitimu secara perlahan.",
+    "sampul_buku": "Garis_waktu.jpg",
+    "thumbnail_sampul": "Garis_waktu.jpg",
+    "harga": 76500,
+    "stok_barang": 10,
+    "isbn": "9789797946333"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 145,
+  "fields": {
+    "created": "2024-03-22T01:24:04.307",
+    "updated": "2024-03-22T01:24:04.307",
+    "slug": "catatan-juang",
+    "kategori": "buku",
+    "judul_buku": "Catatan Juang",
+    "penulis": 49,
+    "penerbit": 33,
+    "tahun": 2017,
+    "deskripsi": "Buku berjudul Catatan Juang merupakan spin-off dari novel best seller yang berjudul Konspirasi Alam Semesta. Dalam novel barunya ini penulis, Fiersa Besari mengajak pembaca berkenalan dengan Kasuarina atau akrab disapa Suar, sang tokoh utama dalam cerita ini.\r\n\r\nBuku ini memiliki empat bagian, dan tiap bagiannya memiliki satu atap yang sama tentang perjuangan Suar. Pendeskripsian kata serta pemikiran Fiersa Besari sebagai \"Juang\" sang pemilik buku dituturkan dengan lugas dan apa adanya.\r\n\r\nSuar, berkesempatan untuk membaca buku itu. Buku itu memang bukan sebuah bocoran dari Tuhan atas seluruh kehidupannya. Buku itu hanya catatan usang bersampul merah yang bertuliskan Catatan Juang. Sebuah catatan yang ternyata, entah bagaimana begitu sangat relevan dengan kehidupan Suar.\r\n\r\nSuar adalah seorang karyawan swasta yang telah mengubur mimpinya dalam-dalam, hingga menemukan buku sampul merah ini. Buku yang ia sebut \"obat kuat\" berisi goresan tinta seorang pria bernama Juang di tiap lembar buku, membuka cakrawala pengetahuan, dan menemani setiap langkah kehidupan Suar. Catatannya sarat akan unsur humanisme, nasionalisme, mimpi, hingga cinta.\r\n\r\n\"Seseorang yang akan menemani setiap langkahmu dengan satu kebaikan kecil setiap harinya.\r\n\r\ntertanda,\r\nJuang\"",
+    "sampul_buku": "207959051.jpg",
+    "thumbnail_sampul": "207959051.jpg",
+    "harga": 67320,
+    "stok_barang": 10,
+    "isbn": "9789797945497"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 146,
+  "fields": {
+    "created": "2024-03-22T01:25:03.938",
+    "updated": "2024-03-22T01:25:03.938",
+    "slug": "tapak-jejak",
+    "kategori": "buku",
+    "judul_buku": "Tapak Jejak",
+    "penulis": 49,
+    "penerbit": 33,
+    "tahun": 2019,
+    "deskripsi": "Tapak Jejak adalah novel yang pertama kali diterbitkan pada tahun 2019 yang merupakan sekuel dari novel Arah Langkah. Tapak Jejak ini bercerita tentang Fiersa Besari yang menjelajahi berbagai daerah di Indonesia yang ia lakukan pada tahun 2013. Pada novel sebelumnya, yakni Arah Langkah, perjalanan Fiersa terhenti di Ternate dengan kedua sahabatnya, kemudian lewat Tapak Jejak ini ia melanjutkan perjalanannya seorang diri menuju Indonesia bagian paling timur.\r\n\r\nNovel Tapak Jejak ini menyajikan pergulatan dalam diri Fiersa yang merindukan rumah, tetapi juga memiliki ego yang tinggi untuk mencapai tujuannya, yakni menjelajahi daerah Indonesia paling timur. Ia juga bercerita bahwa dalam perjalanannya ia banyak bertemu dengan teman baru.\r\n\r\nDalam novel Tapak Jejak ini, Fiersa Besari akan mengisahkan tentang silsilah keluarganya, mulai dari Ayah, Ibu, dan Adiknya. Tentu saja, Fiersa Besari juga menceritakan tentang masa lalu dirinya. Tapak Jejak layak untuk dibaca karena pembaca akan diajak untuk mengikuti catatan perjalanan seorang Fiersa Besari yang tengah berpetualang mengunjungi daerah-daerah di Indonesia.",
+    "sampul_buku": "tapak-jejak.jpg",
+    "thumbnail_sampul": "tapak-jejak.jpg",
+    "harga": 93500,
+    "stok_barang": 10,
+    "isbn": "9789797945862"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 147,
+  "fields": {
+    "created": "2024-03-26T20:52:10.601",
+    "updated": "2024-03-28T03:10:54.990",
+    "slug": "date-a-live-01",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 01",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2011,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v01.png",
+    "thumbnail_sampul": "DAL_v01.png",
+    "harga": 419000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3623-2"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 148,
+  "fields": {
+    "created": "2024-03-26T20:53:48.335",
+    "updated": "2024-03-28T03:11:13.656",
+    "slug": "date-a-live-02",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 02",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2011,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v02.jpg",
+    "thumbnail_sampul": "DAL_v02.jpg",
+    "harga": 427000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3672-0"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 149,
+  "fields": {
+    "created": "2024-03-26T20:55:00.124",
+    "updated": "2024-03-28T03:11:42.688",
+    "slug": "date-a-live-03",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 03",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2011,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v03.png",
+    "thumbnail_sampul": "DAL_v03.png",
+    "harga": 448000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3704-8"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 150,
+  "fields": {
+    "created": "2024-03-26T20:57:17.849",
+    "updated": "2024-03-28T03:11:59.587",
+    "slug": "date-a-live-04",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 04",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2012,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v04.png",
+    "thumbnail_sampul": "DAL_v04.png",
+    "harga": 457000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3744-4"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 151,
+  "fields": {
+    "created": "2024-03-26T20:58:35.624",
+    "updated": "2024-03-28T03:12:16.225",
+    "slug": "date-a-live-05",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 05",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2012,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v05.jpg",
+    "thumbnail_sampul": "DAL_v05.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3795-6"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 152,
+  "fields": {
+    "created": "2024-03-26T20:59:57.123",
+    "updated": "2024-03-28T03:12:32.685",
+    "slug": "date-a-live-06",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 06",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2012,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v6_Cover.jpg",
+    "thumbnail_sampul": "DAL_v6_Cover.jpg",
+    "harga": 461000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3835-9"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 153,
+  "fields": {
+    "created": "2024-03-26T21:01:16.638",
+    "updated": "2024-03-28T03:12:47.700",
+    "slug": "date-a-live-07",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 07",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2013,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v7_Cover.jpg",
+    "thumbnail_sampul": "DAL_v7_Cover.jpg",
+    "harga": 450000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3871-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 154,
+  "fields": {
+    "created": "2024-03-26T21:03:12.896",
+    "updated": "2024-03-28T03:13:06.034",
+    "slug": "date-a-live-08",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 08",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2013,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v8_Cover.jpg",
+    "thumbnail_sampul": "DAL_v8_Cover.jpg",
+    "harga": 430000,
+    "stok_barang": 100,
+    "isbn": "978-4-8291-3938-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 155,
+  "fields": {
+    "created": "2024-03-26T21:04:32.025",
+    "updated": "2024-03-28T03:13:23.715",
+    "slug": "date-a-live-09",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 09",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2013,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v9_Cover.jpg",
+    "thumbnail_sampul": "DAL_v9_Cover.jpg",
+    "harga": 438000,
+    "stok_barang": 100,
+    "isbn": "978-4-04-712974-0"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 156,
+  "fields": {
+    "created": "2024-03-26T21:06:10.970",
+    "updated": "2024-03-28T03:13:39.132",
+    "slug": "date-a-live-10",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 10",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2014,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v10_Cover.jpg",
+    "thumbnail_sampul": "DAL_v10_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "978-4-04-070066-3"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 157,
+  "fields": {
+    "created": "2024-03-26T21:12:40.764",
+    "updated": "2024-03-28T03:13:55.197",
+    "slug": "date-a-live-11",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 11",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2014,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v11_Cover.jpg",
+    "thumbnail_sampul": "DAL_v11_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "978-4-04-070143-1"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 158,
+  "fields": {
+    "created": "2024-03-26T21:14:08.705",
+    "updated": "2024-03-28T03:14:17.913",
+    "slug": "date-a-live-12",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 12",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2015,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v15_Cover.jpg",
+    "thumbnail_sampul": "DAL_v15_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040701516"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 159,
+  "fields": {
+    "created": "2024-03-26T21:15:15.541",
+    "updated": "2024-03-28T03:14:32.244",
+    "slug": "date-a-live-13",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 13",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2015,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v13_Cover.jpg",
+    "thumbnail_sampul": "DAL_v13_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040706948"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 160,
+  "fields": {
+    "created": "2024-03-26T21:16:15.035",
+    "updated": "2024-03-28T03:14:46.677",
+    "slug": "date-a-live-14",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 14",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2016,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v14_Cover.png",
+    "thumbnail_sampul": "DAL_v14_Cover.png",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040706955"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 161,
+  "fields": {
+    "created": "2024-03-26T21:17:23.938",
+    "updated": "2024-03-28T03:15:03.043",
+    "slug": "date-a-live-15",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 15",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2016,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v15_Cover.jpg",
+    "thumbnail_sampul": "DAL_v15_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040709277"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 162,
+  "fields": {
+    "created": "2024-03-26T21:21:17.201",
+    "updated": "2024-03-28T03:15:19.183",
+    "slug": "date-a-live-16",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 16",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2017,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v16_Cover.jpg",
+    "thumbnail_sampul": "DAL_v16_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040709284"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 163,
+  "fields": {
+    "created": "2024-03-26T21:22:59.512",
+    "updated": "2024-03-28T03:15:35.992",
+    "slug": "date-a-live-17",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 17",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2017,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v17_Cover.jpg",
+    "thumbnail_sampul": "DAL_v17_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040709291"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 164,
+  "fields": {
+    "created": "2024-03-26T21:24:51.880",
+    "updated": "2024-03-28T03:15:52.907",
+    "slug": "date-a-live-18",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 18",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2018,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v18_Cover.jpg",
+    "thumbnail_sampul": "DAL_v18_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040725659"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 165,
+  "fields": {
+    "created": "2024-03-26T21:25:48.403",
+    "updated": "2024-03-28T03:16:08.706",
+    "slug": "date-a-live-19",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 19",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2018,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v19_Cover.jpg",
+    "thumbnail_sampul": "DAL_v19_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040728216"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 166,
+  "fields": {
+    "created": "2024-03-26T21:27:02.351",
+    "updated": "2024-03-28T03:16:23.673",
+    "slug": "date-a-live-20",
+    "kategori": "buku",
+    "judul_buku": "DATE A LIVE 20",
+    "penulis": 50,
+    "penerbit": 30,
+    "tahun": 2019,
+    "deskripsi": "Date A Live, adalah seri novel ringan Jepang yang ditulis oleh Koushi Tachibana, dengan ilustrasi oleh Tsunako. Ia diterbitkan oleh Fujimi Shobo di bawah label Fujimi Fantasia Bunko mereka. Novel ini pertama kali diterbitkan pada Maret 2011 dan telah selesai sebanyak 22 volume pada Maret 2020.\r\n\r\nPada bulan April 2013, adaptasi anime dimulai yang mencakup peristiwa volume 1-4 novel ringan dan berakhir pada bulan Juni 2013. Dub Musim 1 dirilis pada 10 Juni 2014 oleh FUNimation. Musim kedua, berjudul Date A Live II, ditayangkan pada 11 April 2014 hingga 13 Juni 2014 yang meliput peristiwa dari volume 5-7. Versi film dari serial ini, berjudul Date A Live: Mayuri Judgment diumumkan pada akhir musim kedua dan dirilis pada 22 Agustus 2015.\r\n\r\nSebuah proyek anime baru diumumkan di Fantasia Bunko Festival pada tanggal 21 Oktober 2017. Anime tersebut berjudul Date A Live III, tayang perdana pada tanggal 11 Januari 2019 dan selesai pada tanggal 29 Maret 2019. Pada tanggal 23 September 2019, dua proyek anime baru diumumkan. proyek anime diumumkan, dan pada 16 Maret 2020, Koushi Tachibana mengonfirmasi bahwa salah satu proyek tersebut adalah musim keempat animenya. Anime bertajuk Date A Live IV ini resmi tayang mulai 8 April 2022 hingga 24 Juni 2022. Season kelima bertajuk Date A Live V telah dikonfirmasi pada 24 Juni 2022.",
+    "sampul_buku": "DAL_v20_Cover.jpg",
+    "thumbnail_sampul": "DAL_v20_Cover.jpg",
+    "harga": 68561,
+    "stok_barang": 100,
+    "isbn": "9784040728223"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 167,
+  "fields": {
+    "created": "2024-03-27T23:15:05.202",
+    "updated": "2024-03-28T00:00:34.202",
+    "slug": "saijaku-muhai-no-bahamut-volume-01",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 01",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2013,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 1 merupakan volume pertama dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 12 Agustus 2013.\r\n\r\nIni mengikuti Lux Arcadia, pangeran dari bekas Kekaisaran Arcadia Lama, yang tiba-tiba bertemu dengan Lisesharte Atismata, putri Kerajaan Baru Atismata. Hal ini menyebabkan dia diterima di Royal Officer Academy, sebuah sekolah untuk gadis bangsawan yang juga dihadiri Lisesharte, dan dengan demikian menyebabkan dia terlibat dalam konflik kerajaan.",
+    "sampul_buku": "SaijakuBahamut_v1.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v1.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-7466-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 168,
+  "fields": {
+    "created": "2024-03-27T23:17:56.296",
+    "updated": "2024-03-28T00:00:58.200",
+    "slug": "saijaku-muhai-no-bahamut-volume-02",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 02",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2013,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 2 merupakan volume kedua dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 15 November 2013.\r\n\r\nNovel ini dimulai dengan Lux Arcadia sebagai subjek kontes di mana pemenangnya akan menjadikan dia sebagai pelayannya selama satu minggu. Pemenangnya adalah Krulcifer Einfolk, seorang bangsawan dari Teokrasi Ymir, dan dia meminta agar Lux berpura-pura menjadi kekasihnya selama seminggu.",
+    "sampul_buku": "SaijakuBahamut_v2.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v2.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-7551-0"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 169,
+  "fields": {
+    "created": "2024-03-27T23:20:43.271",
+    "updated": "2024-03-28T00:01:17.714",
+    "slug": "saijaku-muhai-no-bahamut-volume-03",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 03",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2014,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 3 merupakan volume ketiga dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 17 Maret 2014.\r\n\r\nNovel tersebut menunjukkan Lux Arcadia menghadapi masalah: Celistia Ralgris, siswa lain dari Royal Officer Academy, menolak dia (seorang pria) berada di akademi dan ingin dia pergi. Oleh karena itu, dia harus membenarkan kehadirannya yang berkelanjutan di akademi. Di latar belakang, ancaman Ragnarok yang kuat mulai muncul...",
+    "sampul_buku": "SaijakuBahamut_v3.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v3.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-7613-5"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 170,
+  "fields": {
+    "created": "2024-03-27T23:23:05.246",
+    "updated": "2024-03-28T00:01:37.798",
+    "slug": "saijaku-muhai-no-bahamut-volume-04",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 04",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2014,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 4 merupakan volume keempat dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 15 Juli 2014.\r\n\r\nNovel ini dimulai dengan Lux Arcadia dan siswa lain dari Royal Officer Academy menghadiri kamp pelatihan khusus di Pulau Ries, sebagai persiapan untuk turnamen Drag-Knight internasional yang akan mereka ikuti. Namun, Tabut, salah satu dari tujuh Reruntuhan, muncul di laut dekat pulau. Ternyata mereka sebenarnya ada di sini dalam misi rahasia untuk menyelidiki Reruntuhan misterius tersebut.",
+    "sampul_buku": "SaijakuBahamut_v4.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v4.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-7682-1"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 171,
+  "fields": {
+    "created": "2024-03-27T23:25:13.655",
+    "updated": "2024-03-28T00:01:52.597",
+    "slug": "saijaku-muhai-no-bahamut-volume-05",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 05",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2014,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 5 adalah volume kelima dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 15 Desember 2014.\r\n\r\nNovel ini bercerita tentang Lux Arcadia yang menghadapi kemunculan Yoruka Kirihime yang misterius, seorang pembunuh dari Kekaisaran Arcadia Lama yang berupaya menghidupkan kembali kekaisaran melalui dia, sementara pada saat yang sama perlu berpartisipasi dalam Pertempuran Semua Naga, sebuah Drag Turnamen ksatria diadakan di ibukota.",
+    "sampul_buku": "SaijakuBahamut_v5.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v5.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-7763-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 172,
+  "fields": {
+    "created": "2024-03-27T23:27:26.265",
+    "updated": "2024-03-28T00:02:09.179",
+    "slug": "saijaku-muhai-no-bahamut-volume-06",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 06",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2015,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 6 merupakan volume keenam dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 16 Juni 2015.\r\n\r\nNovel ini menunjukkan Lux Arcadia menerima tawaran mengejutkan: untuk bergabung dengan Tujuh Naga Paladin, unit elit Drag-Knight. Pada saat yang sama, dia dan teman-teman sekelasnya harus pergi ke Kerajaan Vanheim untuk menjalani ujian promosi Kelas, sehingga mereka perlu naik ke Kelas Drag-Knight yang lebih tinggi.",
+    "sampul_buku": "SaijakuBahamut_v6.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v6.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8320-1"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 173,
+  "fields": {
+    "created": "2024-03-27T23:29:57.955",
+    "updated": "2024-03-28T00:02:24.846",
+    "slug": "saijaku-muhai-no-bahamut-volume-07",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 07",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2015,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 7 adalah volume ketujuh dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 16 Oktober 2015.\r\n\r\nDalam novel ini, Lux Arcadia dan Krulcifer Einfolk melakukan perjalanan ke Teokrasi Ymir untuk menyelidiki Reruntuhan tempat Krulcifer muncul. Ketika mereka tiba, mereka bertemu Mel Gizalut, salah satu dari Tujuh Paladin Naga. Saat para pemberontak merencanakan sesuatu secara sembunyi-sembunyi, Lux dan teman-temannya harus mengungkap rahasia Kehancuran dan negaranya sebelum terlambat.",
+    "sampul_buku": "SaijakuBahamut_v7.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v7.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8503-8"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 174,
+  "fields": {
+    "created": "2024-03-27T23:32:23.797",
+    "updated": "2024-03-28T00:02:43.095",
+    "slug": "saijaku-muhai-no-bahamut-volume-08",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 08",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2016,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 8 adalah volume kedelapan dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 Januari 2016.\r\n\r\nNovel ini berfokus pada pertemuan para pemimpin dunia untuk membahas para Lord, penguasa yang memproklamirkan diri dari Kekaisaran Arcadia Suci yang hilang. Para Lord mengungkapkan kebenaran yang mengejutkan: dunia akan segera dihancurkan oleh Sacred Eclipse, Ragnarok terhebat, dan ini hanya dapat dicegah dengan menaklukkan ketujuh Reruntuhan untuk mencapai tanah Avalon.",
+    "sampul_buku": "UBC_Volume_8-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_8-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8612-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 175,
+  "fields": {
+    "created": "2024-03-27T23:34:29.290",
+    "updated": "2024-03-28T00:02:58.644",
+    "slug": "saijaku-muhai-no-bahamut-volume-09",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 09",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2016,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 9 adalah volume kesembilan dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 12 Maret 2016.\r\n\r\nNovel ini tidak biasa karena tidak memiliki satu cerita utama. Ini adalah kumpulan cerita sampingan, dengan setiap bab berfokus pada satu karakter tertentu.",
+    "sampul_buku": "UBC_Volume_9-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_9-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8621-9"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 176,
+  "fields": {
+    "created": "2024-03-27T23:36:55.448",
+    "updated": "2024-03-27T23:36:55.448",
+    "slug": "saijaku-muhai-no-bahamut-volume-10",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 10",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2016,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 10 adalah volume kesepuluh dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 Juli 2016.\r\n\r\nNovel ini menunjukkan misi Lux Arcadia dan Philuffy Aingram untuk menyusup ke Republik Heiburg, sementara teman-teman mereka di Kerajaan Baru Atismata harus menghadapi upaya Republik untuk menaklukkan Babel, salah satu Reruntuhan Kerajaan Baru.",
+    "sampul_buku": "UBC_Volume_10-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_10-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8624-0"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 177,
+  "fields": {
+    "created": "2024-03-27T23:39:24.150",
+    "updated": "2024-03-27T23:39:24.150",
+    "slug": "saijaku-muhai-no-bahamut-volume-11",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 11",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2016,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 11 adalah volume kesebelas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 12 November 2016.\r\n\r\nNovel ini berfokus pada pertukaran bantuan dari Tujuh Paladin Naga: ketika dunia sedang istirahat dari penaklukan Reruntuhan, para pembantu Paladin dipertukarkan antar negara setiap dua minggu, seolah-olah untuk mengkonfirmasi potensi tempur satu sama lain dan memperkuat kerja sama antar negara. Ajudan yang datang ke Kerajaan Baru Atismata adalah Coral Esther dari Kerajaan Vanheim. Di latar belakang, Yoruka Kirihime berencana membunuh Singlen Shelbrit untuk menghilangkan ancaman yang dia berikan kepada tuannya.",
+    "sampul_buku": "UBC_Volume_11-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_11-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8810-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 178,
+  "fields": {
+    "created": "2024-03-27T23:41:23.259",
+    "updated": "2024-03-27T23:41:23.259",
+    "slug": "saijaku-muhai-no-bahamut-volume-12",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 12",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2017,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 12 adalah volume kedua belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 April 2017.\r\n\r\nNovel ini menunjukkan reaksi dunia terhadap Soffice Xfer, pengkhianat Aliansi Dunia yang berencana mencapai Avalon sebelum orang lain. Pada saat yang sama, para siswa Akademi Perwira Kerajaan mempersiapkan Festival Malam Suci.",
+    "sampul_buku": "UBC_Volume_12-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_12-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-8811-4"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 179,
+  "fields": {
+    "created": "2024-03-27T23:43:09.260",
+    "updated": "2024-03-27T23:43:09.260",
+    "slug": "saijaku-muhai-no-bahamut-volume-13",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 13",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2017,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 13 adalah volume ketiga belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 September 2017.\r\n\r\nNovel ini dimulai dengan Tujuh Naga Paladin yang ditangkap oleh para Lord, yang telah mengkhianati seluruh dunia dan berencana memonopoli Avalon. Para Lord memaksa Lux Arcadia untuk bekerja sama dengan mereka, khususnya dengan Aeril Vi Arcadia yang relatif bermoral, dengan menggunakan Paladin lain sebagai sandera.",
+    "sampul_buku": "UBC_Volume_13-Picture1.png",
+    "thumbnail_sampul": "UBC_Volume_13-Picture1.png",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-9156-5"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 180,
+  "fields": {
+    "created": "2024-03-27T23:45:07.488",
+    "updated": "2024-03-27T23:45:07.488",
+    "slug": "saijaku-muhai-no-bahamut-volume-14",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 14",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2017,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 14 adalah volume keempat belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 Desember 2017.\r\n\r\nNovel ini berfokus pada upaya aliansi dunia untuk menaklukkan kota suci Avalon dan mendapatkan harta karun di dalamnya, sementara para Lord berusaha untuk mengalahkan mereka.",
+    "sampul_buku": "SaijakuBahamut_v14_Cover.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v14_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-9157-2"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 181,
+  "fields": {
+    "created": "2024-03-27T23:46:41.766",
+    "updated": "2024-03-27T23:46:41.766",
+    "slug": "saijaku-muhai-no-bahamut-volume-15",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 15",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2018,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 15 adalah volume kelima belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 12 Mei 2018.\r\n\r\nNovel ini dimulai dengan Lords dikalahkan, Avalon ditangkap dan dunia damai.. atau begitulah yang terlihat pada awalnya. Lux Arcadia mencoba bersantai, tapi dia menemukan tanda-tanda ancaman baru.",
+    "sampul_buku": "SaijakuBahamut_v15_Cover.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v15_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": "978-4-7973-9701-7"
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 182,
+  "fields": {
+    "created": "2024-03-27T23:48:28.210",
+    "updated": "2024-03-27T23:48:28.210",
+    "slug": "saijaku-muhai-no-bahamut-volume-16",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 16",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2018,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 16 adalah volume keenam belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 September 2018.\r\n\r\nNovel ini berfokus pada Lux Arcadia dan upayanya untuk mengungkap rahasia Kerajaan Baru Atismata, setelah mengetahui bahwa Fugil Arcadia dan Sacred Eclipse masih aktif dan semua orang yang dia kenal sedang dimanipulasi untuk mempercayai sejarah palsu.",
+    "sampul_buku": "SaijakuBahamut_v16_Cover.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v16_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": ""
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 183,
+  "fields": {
+    "created": "2024-03-27T23:49:41.921",
+    "updated": "2024-03-27T23:49:41.921",
+    "slug": "saijaku-muhai-no-bahamut-volume-17",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 17",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2019,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 17 adalah volume ketujuh belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 Februari 2019.\r\n\r\nNovel ini menunjukkan Lux Arcadia mencoba menjalani kehidupan ganda: sebagai pahlawan Kerajaan Baru Atismata dan sebagai pemimpin Divisi Azure yang menentangnya.",
+    "sampul_buku": "SaijakuBahamut_v17_Cover.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v17_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": ""
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 184,
+  "fields": {
+    "created": "2024-03-27T23:50:52.702",
+    "updated": "2024-03-27T23:50:52.702",
+    "slug": "saijaku-muhai-no-bahamut-volume-18",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 18",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2019,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 18 adalah volume kedelapan belas dari seri novel ringan Saijaku Muhai no Bahamut. Ini dirilis pada 14 Juni 2019.",
+    "sampul_buku": "SaijakuBahamut_v18_Cover.jpg",
+    "thumbnail_sampul": "SaijakuBahamut_v18_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": ""
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 185,
+  "fields": {
+    "created": "2024-03-27T23:52:17.797",
+    "updated": "2024-03-27T23:52:17.797",
+    "slug": "saijaku-muhai-no-bahamut-volume-19",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 19",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2019,
+    "deskripsi": "Novel Ringan Saijaku Muhai no Bahamut Volume 19 adalah volume kesembilan belas dari seri novel ringan Saijaku Muhai no Bahamut",
+    "sampul_buku": "Vol19_Cover.jpg",
+    "thumbnail_sampul": "Vol19_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": ""
+  }
+},
+{
+  "model": "produk.buku",
+  "pk": 186,
+  "fields": {
+    "created": "2024-03-27T23:53:41.808",
+    "updated": "2024-03-27T23:53:41.808",
+    "slug": "saijaku-muhai-no-bahamut-volume-20",
+    "kategori": "buku",
+    "judul_buku": "Saijaku Muhai no Bahamut Volume 20",
+    "penulis": 51,
+    "penerbit": 35,
+    "tahun": 2020,
+    "deskripsi": "Saijaku Muhai no Bahamut Light Novel Volume 20 adalah volume kedua puluh dan terakhir dari seri light novel Saijaku Muhai no Bahamut",
+    "sampul_buku": "Vol20_Cover.jpg",
+    "thumbnail_sampul": "Vol20_Cover.jpg",
+    "harga": 70000,
+    "stok_barang": 0,
+    "isbn": ""
   }
 }
 ]
