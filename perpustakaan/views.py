@@ -1,10 +1,11 @@
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from produk.models import Buku as data_buku
 from produk.models import Penulis_Buku as data_penulis
 from produk.models import Penerbit_Buku as data_penerbit
 
 
+# # Views untuk beranda aplikasi
 def index(request):
     buku = data_buku.objects.all()
     context = {
@@ -15,6 +16,13 @@ def index(request):
     return render(request, 'index.html', context)
 
 
+# # Views menampilkan `halaman belum dibuat`
+def under_cons(request):
+    messages = "<h1>Page is under construction. Come back later!</h1>"
+    return HttpResponse(messages)
+
+
+# # Views untuk penulis buku
 def penulis(request):
     penulis_buku = data_penulis.objects.all()
     context = {
@@ -32,14 +40,18 @@ def detail_penulis(request, id, inputSlug):
         'website': 'OnlineBookStore'
     }
     try:
-        context['data_penulis'] = penulis_buku
-        context['halaman'] = penulis_buku.nama_penulis
-        context['related_book'] = buku_terkait
-        return render(request, 'detail.html', context)
-    except:
-        return HttpResponse("Disini halaman detail penulis buku ")
+        if request.method == 'GET':
+            context.update({
+                'data_penulis': penulis_buku,
+                'halaman': penulis_buku.nama_penulis,
+                'related_book': buku_terkait,
+            })
+            return render(request, 'detail.html', context)
+    except data_penulis.DoesNotExist:
+        return get_object_or_404(data_penulis, id=id, slug=inputSlug)
 
 
+# # Views untuk penerbit buku
 def penerbit(request):
     penerbit_buku = data_penerbit.objects.all()
     context = {
@@ -57,14 +69,12 @@ def detail_penerbit(request, id, inputSlug):
         'website': 'OnlineBookStore'
     }
     try:
-        context['data_penerbit'] = penerbit_buku
-        context['halaman'] = penerbit_buku.penerbit
-        context['related_book'] = buku_terkait
-        return render(request, 'detail.html', context)
-    except:
-        return HttpResponse("Disini halaman detail penerbit buku.")
-
-
-def under_cons(request):
-    messages = "<h1>Page is under construction. Come back later!</h1>"
-    return HttpResponse(messages)
+        if request.method == 'GET':
+            context.update({
+                'data_penerbit': penerbit_buku,
+                'halaman': penerbit_buku.penerbit,
+                'related_book': buku_terkait,
+            })
+            return render(request, 'detail.html', context)
+    except data_penerbit.DoesNotExist:
+        return get_object_or_404(data_penerbit, id=id, slug=inputSlug)
