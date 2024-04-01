@@ -2,8 +2,9 @@
 {% load static %}
 {% load humanize %}
 
+
 {% block jumbotron %}
-    {% include "snippets/jumbotron.html" %}
+{% include "snippets/jumbotron.html" %}
 {% endblock jumbotron %}
 
 {% block contents %}
@@ -13,11 +14,13 @@
         {% for book in books %}
         <div class="col pb-2">
             <div class="card" style="width: 15rem;">
-                <img
-                    src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
-                    class="card-img-top"
-                    alt="..."
-                    style="width: 100%;">
+                <a href="{% url 'produk:detail' inputSlug=book.slug %}">
+                    <img
+                        src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
+                        class="card-img-top"
+                        alt="..."
+                        style="width: 100%;">
+                </a>
                 <div class="card-body">
                     <h6 class="card-title">
                         <a href="{% url 'produk:detail' inputSlug=book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>

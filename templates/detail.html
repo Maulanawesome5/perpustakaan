@@ -20,6 +20,29 @@
             <p class="text-align-justify">{{data_penulis.tentang_penulis | linebreaks}}</p>
         </div>
     </div>
+    <!-- Daftar buku dari penulis -->
+    <hr>
+    <h4 class="pb-3 pt-4">Buku yang ditulis oleh {{data_penulis.nama_penulis}}</h4>
+    <div class="container">
+        <div class="row row-cols-4">
+            {% for book in related_book %}
+            <div class="col pb-2">
+                <div class="card" style="width: 15rem;">
+                    <img
+                        src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
+                        class="card-img-top"
+                        alt="..."
+                        style="width: 100%;">
+                    <div class="card-body">
+                        <h6 class="card-title">
+                            <a href="{% url 'produk:detail' inputSlug=book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 </div>
 {% else %}
 <!-- Template halaman detail penerbit -->

@@ -4,16 +4,21 @@ from django.utils.text import slugify
 
 # Create your models here.
 class Abstract_Product(models.Model):
+    OPSI_KATEGORI = (("penulis", "Penulis"),
+                     ("penerbit", "Penerbit"),
+                     ("buku", "Buku"),
+                     ("stationery", "Stationery"))
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
     slug = models.SlugField(max_length=255, editable=False)
+    kategori = models.CharField(max_length=50, choices=OPSI_KATEGORI)
 
     class Meta:
         abstract = True
 
 
 class Penulis_Buku(Abstract_Product):
-    nama_penulis = models.CharField(max_length=100)
+    nama_penulis = models.CharField(max_length=100, unique=True)
     nama = models.CharField(max_length=100, blank=True)
     tentang_penulis = models.TextField(blank=True)
     foto_profil = models.CharField(max_length=100, blank=True, default="")
@@ -24,13 +29,13 @@ class Penulis_Buku(Abstract_Product):
 
     def __str__(self) -> str:
         return self.nama_penulis
-    
+
     class Meta:
         ordering = ['nama_penulis']
 
 
 class Penerbit_Buku(Abstract_Product):
-    penerbit = models.CharField(max_length=100)
+    penerbit = models.CharField(max_length=100, unique=True)
     instansi = models.CharField(max_length=100)
     tentang_penerbit = models.TextField(blank=True)
     logo_penerbit = models.CharField(max_length=100, blank=True)
@@ -47,23 +52,24 @@ class Penerbit_Buku(Abstract_Product):
 
 
 class Buku(Abstract_Product):
-    judul_buku = models.CharField(max_length=255)
-    penulis = models.ForeignKey(Penulis_Buku, on_delete=models.CASCADE, default='')
-    penerbit = models.ForeignKey(Penerbit_Buku, on_delete=models.CASCADE, default='')
+    judul_buku = models.CharField(max_length=255, unique=True)
+    penulis = models.ForeignKey(Penulis_Buku, on_delete=models.CASCADE)
+    penerbit = models.ForeignKey(Penerbit_Buku, on_delete=models.CASCADE)
     tahun = models.IntegerField()
     deskripsi = models.TextField()
     sampul_buku = models.CharField(max_length=255, blank=True)
     thumbnail_sampul = models.CharField(max_length=255, blank=True)
     harga = models.IntegerField(default=0)
     stok_barang = models.IntegerField(default=0)
+    isbn = models.CharField(max_length=255, blank=True)
 
     def save(self, *args, **kwargs):
         self.slug = slugify(self.judul_buku)
         super(Buku, self).save(*args, **kwargs)
-    
+
     def __str__(self) -> str:
         return self.judul_buku
-    
+
     class Meta:
         ordering = ['judul_buku']
 
@@ -80,6 +86,6 @@ class Stationery(Abstract_Product):
 
     def __str__(self) -> str:
         return self.nama_produk
-    
+
     class Meta:
         ordering = ['nama_produk']
