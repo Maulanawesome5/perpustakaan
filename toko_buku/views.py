@@ -13,6 +13,8 @@ def index(request):
         "halaman": "Beranda",
         "website": "OnlineBookStore",
     }
+    # print(f"\nSiapa User aktif saat ini: {request.user}")
+    # print(f"Apa User aktif ter-autentikasi: {request.user.is_authenticated}\n")
     return render(request, "index.html", context)
 
 
