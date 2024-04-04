@@ -8,7 +8,11 @@
     <!-- CSS Bootstrap template -->
     {% include "snippets/styles.html" %}
 
-    <title>{{website}} | {{halaman}}</title>
+    <title>
+        {% block page_title %}
+            {{website}} | {{halaman}}
+        {% endblock page_title %}
+    </title>
 </head>
 <body>
     <!-- Navbar Bootstrap template -->
@@ -16,13 +20,60 @@
     
     <!-- Jumbotron Section -->
     {% block jumbotron %}
-    
     {% endblock jumbotron %}
     
     <div class="container pt-5">
         {% block contents %}
         {% endblock contents %}
     </div>
+
+    <!-- BLOCK Manajemen Account -->
+    <div class="container">
+        {% block login %}
+        {% endblock login %}
+    </div>
+
+    <div class="container">
+        {% block signup_account %}
+        {% endblock signup_account %}
+    </div>
+
+    <div class="container">
+        {% block ganti_password %}
+        {% endblock ganti_password %}
+    </div>
+
+    <div class="container">
+        {% block ganti_password_sukses %}
+        {% endblock ganti_password_sukses %}
+    </div>
+
+    <div class="container">
+        {% block reset_password %}
+        {% endblock reset_password %}
+    </div>
+
+    <div class="container">
+        {% block reset_password_sukses %}
+        {% endblock reset_password_sukses %}
+    </div>
+
+    <div class="container">
+        {% block input_password_baru %}
+        {% endblock input_password_baru %}
+    </div>
+    <div class="container">
+        {% block reset_password_complete %}
+        {% endblock reset_password_complete %}
+    </div>
+    <!-- END Manajemen Account -->
+
+    <!-- BLOCK query pencarian data -->
+    <div class="container pt-5">
+        {% block pencarian %}
+        {% endblock pencarian %}
+    </div>
+    <!-- END query pencarian data -->
 
     <!-- Footer template -->
     {% include "snippets/footer.html" %}
