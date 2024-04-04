@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "django.contrib.humanize",  # untuk formatting data agar mudah dibaca manusia
     "produk",
+    "accounts",
 ]
 
 MIDDLEWARE = [
@@ -133,6 +134,12 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# # Tutorial Login, Logout, Signup, Password Change, and Password Reset
+# # https://learndjango.com/tutorials/django-login-and-logout-tutorial
+
 # Django login and logout
 LOGIN_REDIRECT_URL = "index"
 LOGOUT_REDIRECT_URL = "index"
+
+# Email Backend
+EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
