@@ -62,9 +62,29 @@ class Buku(Abstract_Product):
     harga = models.IntegerField(default=0)
     stok_barang = models.IntegerField(default=0)
     isbn = models.CharField(max_length=255, blank=True)
+    berat = models.FloatField(default=0.0)
+    panjang = models.FloatField(default=0.0)
+    lebar = models.FloatField(default=0.0)
+    jumlah_halaman = models.IntegerField(default=0)
+    is_discount = models.BooleanField(default=False)  # False-True
+    discount = models.IntegerField(blank=True, null=True)
+    harga_diskon = models.IntegerField(default=0)  # price-(price*discount/100)
+
+    def price_after_discount(self) -> int:
+        """Jika terdapat diskon, maka harga final produk adalah setelah dikurangi diskon."""
+        self.harga_diskon = self.harga - (self.harga * self.discount / 100)
 
     def save(self, *args, **kwargs):
+        # Function ini akan dieksekusi pada setiap perubahan data
+        # saat menekan tombol save pada Halaman Admin
         self.slug = slugify(self.judul_buku)
+
+        if self.is_discount == True:
+            self.price_after_discount()
+        elif self.is_discount == False:
+            self.discount = 0
+            self.harga_diskon = 0
+
         super(Buku, self).save(*args, **kwargs)
 
     def __str__(self) -> str:
@@ -79,9 +99,25 @@ class Stationery(Abstract_Product):
     gambar_produk = models.CharField(max_length=255, blank=True)
     stok_barang = models.IntegerField(default=0)
     harga = models.IntegerField(default=0)
+    is_discount = models.BooleanField(default=False)  # False-True
+    discount = models.IntegerField(blank=True, null=True)
+    harga_diskon = models.IntegerField(default=0)  # price-(price*discount/100)
+
+    def price_after_discount(self) -> int:
+        """Jika terdapat diskon, maka harga final produk adalah setelah dikurangi diskon."""
+        self.harga_diskon = self.harga - (self.harga * self.discount / 100)
 
     def save(self, *args, **kwargs):
+        # Function ini akan dieksekusi pada setiap perubahan data
+        # saat menekan tombol save pada Halaman Admin
         self.slug = slugify(self.nama_produk)
+
+        if self.is_discount == True:
+            self.price_after_discount()
+        elif self.is_discount == False:
+            self.discount = 0
+            self.harga_diskon = 0
+
         super(Stationery, self).save(*args, **kwargs)
 
     def __str__(self) -> str:
