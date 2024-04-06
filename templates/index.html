@@ -14,7 +14,7 @@
         {% for book in books %}
         <div class="col pb-2">
             <div class="card" style="width: 15rem;">
-                <a href="{% url 'produk:detail' inputSlug=book.slug %}">
+                <a href="{% url 'produk:detail-buku' inputSlug=book.slug %}">
                     <img
                         src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
                         class="card-img-top"
@@ -23,7 +23,7 @@
                 </a>
                 <div class="card-body">
                     <h6 class="card-title">
-                        <a href="{% url 'produk:detail' inputSlug=book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
+                        <a href="{% url 'produk:detail-buku' inputSlug=book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
                     </h5>
                 </div>
             </div>

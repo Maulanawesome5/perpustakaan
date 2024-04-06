@@ -4,6 +4,7 @@
 
 {% block contents %}
 
+{% if books %}
 <div class="container">
     <p><a href="{% url 'produk:index' %}">Kembali</a></p>
     <div class="row">
@@ -16,6 +17,12 @@
                 <span>
                     <a href="#" class="btn btn-primary">Tambah Keranjang</a>
                     <a href="#" class="btn btn-primary">Tambah Wishlist</a>
+                    <hr style="width: 70%;">
+                    <h4>Informasi lain</h4>
+                    <p>Berat: {{books.berat}} kg</p>
+                    <p>Panjang: {{books.panjang}} cm</p>
+                    <p>Lebar: {{books.lebar}} cm</p>
+                    <p>ISBN {{books.isbn}}</p>
                 </span>
             </div>
         </div>
@@ -28,5 +35,28 @@
         </div>
     </div>
 </div>
+{% else %}
+<div class="container">
+    <p><a href="{% url 'produk:index' %}">Kembali</a></p>
+    <div class="row">
+        <div class="col">
+            <img src="{% static 'produk/stationery' %}/{{stationery.gambar_produk}}"
+                alt="{{stationery.gambar_produk}}"
+                style="width: 50%;">
+            <div class="row pt-5">
+                <h3 class="pb-3">Rp. {{stationery.harga|intcomma}}</h3>
+                <span>
+                    <a href="#" class="btn btn-primary">Tambah Keranjang</a>
+                    <a href="#" class="btn btn-primary">Tambah Wishlist</a>
+                </span>
+            </div>
+        </div>
+        <div class="col" style="padding-left: 0; padding-right: auto;">
+            <h1>{{stationery.nama_produk}}</h1>
+            <p class="text-align-justify">{% lorem %}</p>
+        </div>
+    </div>
+</div>
+{% endif %}
 
 {% endblock contents %}

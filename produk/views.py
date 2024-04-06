@@ -28,11 +28,21 @@ def filter(request, c: str):
     return render(request, 'produk/index.html', context)
 
 
-def detail(request, inputSlug):
+def detail_buku(request, inputSlug):
     buku = Buku.objects.get(slug=inputSlug)
     context = {
         'books': buku,
         'halaman': 'Detail Buku',
+        'website': 'OnlineBookStore'
+    }
+    return render(request, 'produk/detail.html', context)
+
+
+def detail_stationery(request, inputSlug):
+    stationery = Stationery.objects.get(slug=inputSlug)
+    context = {
+        'halaman': 'Detail Buku',
+        'stationery': stationery,
         'website': 'OnlineBookStore'
     }
     return render(request, 'produk/detail.html', context)
