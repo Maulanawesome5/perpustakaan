@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "django.contrib.humanize",  # untuk formatting data agar mudah dibaca manusia
     "produk",
     "accounts",
+    "wilayah",
 ]
 
 MIDDLEWARE = [
