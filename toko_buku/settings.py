@@ -10,8 +10,11 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
+from dotenv import load_dotenv
 from pathlib import Path
 import os
+
+load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -21,10 +24,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-8h12272+ec)cfk!vo$^t*wrjp**8mo&5_s@#e657_vq4_%-8#1'
+SECRET_KEY = os.getenv("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.getenv("DEBUG")
 
 ALLOWED_HOSTS = []
 
@@ -38,7 +41,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "django.contrib.humanize",  # untuk formatting data agar mudah dibaca manusia
+
+    # # untuk memformat tampilan data seperti `intcomma` pada file HTML
+    # # sertakan tag {% load humanize %}
+    "django.contrib.humanize",
+
+    # # untuk mengakses fitur bawaan DBMS PostgreSQL
+    # Misalnya untuk pencarian
+    "django.contrib.postgres",
+
+    # # Django app custom
     "produk",
     "accounts",
     "wilayah",
@@ -81,11 +93,11 @@ WSGI_APPLICATION = 'toko_buku.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'toko_buku',
-        'USER': 'postgres',
-        'PASSWORD': 'Persebaya1927',
-        'HOST': 'localhost',
-        'PORT': 5432,
+        'NAME': os.getenv("DB_NAME"),
+        'USER': os.getenv("DB_USER"),
+        'PASSWORD': os.getenv("DB_PASSWORD"),
+        'HOST': os.getenv("DB_HOST"),
+        'PORT': os.getenv("DB_PORT"),
     }
 }
 
@@ -138,8 +150,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # # Tutorial Login, Logout, Signup, Password Change, and Password Reset
 # # https://learndjango.com/tutorials/django-login-and-logout-tutorial
 
-# Django login and logout
+# setelah user login, akan otomatis dialihkan ke Beranda
 LOGIN_REDIRECT_URL = "index"
+
+# setelah user logout, akan otomatis dialihkan ke Beranda
 LOGOUT_REDIRECT_URL = "index"
 
 # Email Backend
