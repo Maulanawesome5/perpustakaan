@@ -1,4 +1,3 @@
-{% load static %}
 <nav class="navbar bg-primary navbar-expand-lg" data-bs-theme="dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="{% url 'index' %}">OnlineBookStore</a>
@@ -11,38 +10,47 @@
                     <a class="nav-link active" aria-current="page" href="{% url 'index' %}">Beranda</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Produk
-                    </a>
+                    <a class="nav-link active" href="{% url 'produk:index' %}">Produk</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="{% url 'produk:index' %}">Semua Produk</a></li>
-                        <li><a class="dropdown-item" href="{% url 'produk:filter' c='buku' %}">Buku</a></li>
-                        <li><a class="dropdown-item" href="{% url 'produk:filter' c='stationery' %}">Stationery</a></li>
+                        <li><a href="{% url 'produk:index' %}" class="dropdown-item">Semua Produk</a></li>
+                        <li><a href="{% url 'produk:filter' c='buku' %}" class="dropdown-item">Buku</a></li>
+                        <li><a href="{% url 'produk:filter' c='stationery' %}" class="dropdown-item">Stationery</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Mitra Kami
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu dropdown-menu-end">
                         <li><a class="dropdown-item" href="{% url 'penulis' %}">Penulis</a></li>
                         <li><a class="dropdown-item" href="{% url 'penerbit' %}">Penerbit</a></li>
                     </ul>
                 </li>
+            </ul>
+            <!-- Kolom pencarian -->
+            <form action="{#{% url 'product:search_result' %}#}" method="get" class="d-flex" role="search" style="padding-right: 50px;">
+                <input name="q" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-dark" type="submit">Search</button>
+            </form>
+            <ul class="navbar-nav mb-2 mb-lg-0">
+                {% if user.is_authenticated %}
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Akun Anda
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        {{user.username}}
                     </a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#!" class="dropdown-item">Profil</a></li>
-                        <li><a href="{% url 'password_change' %}" class="dropdown-item">Ganti Password</a></li>
-                        <li><a href="{% url 'password_reset' %}" class="dropdown-item">Reset Password</a></li>
+                    <ul class="dropdown-menu dropdown-menu-end">
+                        <li><a class="dropdown-item" href="{#{% url 'profile' username=user.username pk=user.pk %}#}">My Profile</a></li>
+                        <li><a class="dropdown-item" href="#">Wishlist</a></li>
+                        <li><a class="dropdown-item" href="#">Shop Cart</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a href="{% url 'accounts:signup' %}" class="dropdown-item">Daftar Baru</a></li>
-                        <li><a href="{% url 'login' %}" class="dropdown-item">Masuk</a></li>
-                        <li><a href="{% url 'logout' %}" class="dropdown-item">Keluar</a></li>
+                        <li><a class="dropdown-item" href="{% url 'logout' %}">Logout</a></li>
                     </ul>
                 </li>
+                {% else %}
+                <li class="nav-item">
+                    <a href="{% url 'login' %}" class="nav-link active">Login</a>
+                </li>
+                {% endif %}
             </ul>
         </div>
     </div>
