@@ -59,6 +59,7 @@ FROM public.produk_buku AS book;
 SELECT * FROM pg_tables WHERE schemaname = 'public'; -- Melihat daftar tabel
 
 SELECT * FROM wilayah_provinsi; SELECT * FROM wilayah_kabupaten_kota;
+SELECT * FROM wilayah_kecamatan;
 
 SELECT  prov.id AS "Kode Provinsi",
         prov.provinsi AS "Provinsi",
@@ -69,87 +70,7 @@ FROM public.wilayah_kabupaten_kota AS kab
 JOIN public.wilayah_provinsi AS prov ON (kab.provinsi_id = prov.id)
 ORDER BY prov.id ASC;
 
-INSERT INTO public.wilayah_kabupaten_kota (provinsi_id, predikat, kabupaten_kota)
-VALUES
-    (31, 'Kabupaten', 'Halmahera Barat'),
-    (31, 'Kabupaten', 'Halmahera Tengah'),
-    (31, 'Kabupaten', 'Halmahera Utara'),
-    (31, 'Kabupaten', 'Halmahera Selatan'),
-    (31, 'Kabupaten', 'Kepulauan Sula'),
-    (31, 'Kabupaten', 'Halmahera Timur'),
-    (31, 'Kabupaten', 'Pulau Morotai'),
-    (31, 'Kabupaten', 'Pulau Taliabu'),
-    (31, 'Kota', 'Ternate'),
-    (31, 'Kota', 'Tidore Kepulauan');
-
-INSERT INTO public.wilayah_kabupaten_kota (provinsi_id, predikat, kabupaten_kota)
-VALUES
-    (32, 'Kabupaten', 'Buru'),
-    (32, 'Kabupaten', 'Buru Selatan'),
-    (32, 'Kabupaten', 'Kepulauan Aru'),
-    (32, 'Kabupaten', 'Maluku Barat Daya'),
-    (32, 'Kabupaten', 'Maluku Tengah'),
-    (32, 'Kabupaten', 'Maluku Tenggara'),
-    (32, 'Kabupaten', 'Maluku Tenggara Barat'),
-    (32, 'Kabupaten', 'Seram Bagian Barat'),
-    (32, 'Kabupaten', 'Seram Bagian Timur'),
-    (32, 'Kota', 'Ambon'),
-    (32, 'Kota', 'Tual');
-
-INSERT INTO public.wilayah_kabupaten_kota (provinsi_id, predikat, kabupaten_kota)
-VALUES
-    (33, 'Kabupaten', 'Fakfak'),
-    (33, 'Kabupaten', 'Kaimana'),
-    (33, 'Kabupaten', 'Manokwari'),
-    (33, 'Kabupaten', 'Manokwari Selatan'),
-    (33, 'Kabupaten', 'Maybrat'),
-    (33, 'Kabupaten', 'Pegunungan Arfak'),
-    (33, 'Kabupaten', 'Raja Ampat'),
-    (33, 'Kabupaten', 'Sorong'),
-    (33, 'Kabupaten', 'Sorong Selatan'),
-    (33, 'Kabupaten', 'Tambrauw'),
-    (33, 'Kabupaten', 'Teluk Bintuni'),
-    (33, 'Kabupaten', 'Teluk Wondama');
-
-INSERT INTO public.wilayah_kabupaten_kota (provinsi_id, predikat, kabupaten_kota)
-VALUES
-    (34, 'Kabupaten', 'Asmat'),
-    (34, 'Kabupaten', 'Biak Numfor'),
-    (34, 'Kabupaten', 'Boven Digoel'),
-    (34, 'Kabupaten', 'Deiyai'),
-    (34, 'Kabupaten', 'Dogiyai'),
-    (34, 'Kabupaten', 'Intan Jaya'),
-    (34, 'Kabupaten', 'Jayapura'),
-    (34, 'Kabupaten', 'Jayawijaya'),
-    (34, 'Kabupaten', 'Keerom'),
-    (34, 'Kabupaten', 'Kepulauan Yapen'),
-    (34, 'Kabupaten', 'Lanny Jaya'),
-    (34, 'Kabupaten', 'Mamberamo Raya'),
-    (34, 'Kabupaten', 'Mamberamo Tengah'),
-    (34, 'Kabupaten', 'Mappi'),
-    (34, 'Kabupaten', 'Merauke'),
-    (34, 'Kabupaten', 'Mimika'),
-    (34, 'Kabupaten', 'Nabire'),
-    (34, 'Kabupaten', 'Nduga'),
-    (34, 'Kabupaten', 'Paniai'),
-    (34, 'Kabupaten', 'Pegunungan Bintang'),
-    (34, 'Kabupaten', 'Puncak'),
-    (34, 'Kabupaten', 'Puncak Jaya'),
-    (34, 'Kabupaten', 'Sarmi'),
-    (34, 'Kabupaten', 'Supiori'),
-    (34, 'Kabupaten', 'Tolikara'),
-    (34, 'Kabupaten', 'Waropen'),
-    (34, 'Kabupaten', 'Yahukimo'),
-    (34, 'Kabupaten', 'Yalimo'),
-    (34, 'Kota', 'Jayapura');
-
-SELECT kab.id AS "kabupaten_kota_id",
-        kab.predikat AS "predikat",
-        kab.kabupaten_kota AS "nama",
-        prov.id AS "provinsi_id",
-        prov.provinsi AS "nama_provinsi"
-FROM public.wilayah_kabupaten_kota AS kab
-JOIN public.wilayah_provinsi AS prov ON (kab.provinsi_id = prov.id)
-ORDER BY prov.id ASC;
-
 SELECT * FROM wilayah_kabupaten_kota AS kab WHERE kab.provinsi_id = 38;
+
+INSERT INTO public.wilayah_kecamatan(provinsi_id, kabupaten_kota_id, predikat, kecamatan)
+VALUES (1, 54, 'Kecamatan', 'Yub Mee');
