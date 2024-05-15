@@ -7,15 +7,17 @@
 
 <form method="post">
     {% csrf_token %}
-    <div class="form-group mb-3">
-        {{form.username.label_tag}}
+    <div class="form-group pb-2 mb-3">
+        {{form.username.label}}
         {{form.username}}
     </div>
-    <div class="form-group mb-3">
-        {{form.password.label_tag}}
+    <div class="form-group pb-2 mb-3">
+        {{form.password.label}}
         {{form.password}}
     </div>
     <button type="submit" class="btn btn-primary">Login</button>
 </form>
-
+<div class="container pt-3">
+    <p>Belum punya akun? Silahkan mendaftar akun baru <a href="{% url 'accounts:signup' %}">disini</a></p>
+</div>
 {% endblock login %}
