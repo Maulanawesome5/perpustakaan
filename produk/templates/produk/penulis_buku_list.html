@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block contents %}
+
+<div class="row row-cols-5">
+    {% for data in daftar_penulis %}
+    <div class="col pb-4" style="margin-right: 55px;">
+        <div class="card" style="width: 15rem;">
+            {% if data.foto_profil %}
+                <img src="{% static 'produk/penulis' %}/{{data.foto_profil}}"
+                class="card-img-top"
+                style="width: 100%; max-height: 250px; object-fit: contain;">
+            {% else %}
+                <img src="{% static 'icon/profile-icon.jpg' %}"
+                class="card-img-top"
+                style="width: 100%; max-height: 250px; object-fit: contain;">
+            {% endif %}
+            <div class="card-body">
+                <h6><a class="text-decoration-none text-black" href="{% url 'writer_detail' data.pk data.slug %}">{{data.nama_penulis}}</a></h6>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock contents %}

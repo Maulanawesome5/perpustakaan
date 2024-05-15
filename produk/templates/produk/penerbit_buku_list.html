@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block contents %}
+
+<div class="row row-cols-5">
+    {% for data in daftar_penerbit %}
+        <div class="col pb-4" style="margin-right: 55px;">
+            <div class="card" style="width: 15rem;">
+                {% if data.logo_penerbit %}
+                    <a href="{% url 'publisher_detail' data.id data.slug %}">
+                        <img src="{% static 'produk/penerbit' %}/{{data.logo_penerbit}}"
+                        class="card-img-top"
+                        style="width: 100%; max-height: 250px; object-fit: contain;">
+                    </a>
+                    {% else %}
+                    <a href="{% url 'publisher_detail' data.id data.slug %}">
+                        <img src="{% static 'icon/profile-icon.jpg' %}"
+                        class="card-img-top"
+                        style="width: 100%; max-height: 250px; object-fit: contain;">
+                    </a>
+                {% endif %}
+                <div class="card-body">
+                    <h6><a class="text-decoration-none text-black" href="{% url 'publisher_detail' data.pk data.slug %}">{{data.penerbit}}</a></h6>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% endblock contents %}
