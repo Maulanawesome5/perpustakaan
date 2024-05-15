@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block page_title %} Sign Up {% endblock page_title %}
+
+{% block signup_account %}
+<h2>Sign Up</h2>
+<form action="" method="post">
+    {% csrf_token %}
+    <div class="form-group pb-2">
+        {{form.username.label}}
+        {{form.username}}
+        <small id="usernameHelp" class="form-text text-muted">
+            {{form.username.help_text}}
+        </small>
+    </div>
+    <div class="form-group pb-2">
+        {{form.password1.label}}
+        {{form.password1}}
+        <small id="passwordHelp" class="form-text text-muted">
+            {{form.password1.help_text}}
+        </small>
+    </div>
+    <div class="form-group pb-2">
+        {{form.password2.label}}
+        {{form.password2}}
+        <small id="passwordHelp" class="form-text text-muted">
+            {{form.password2.help_text}}
+        </small>
+    </div>
+    <button type="submit" class="btn btn-primary">Daftar</button>
+</form>
+{% endblock signup_account %}

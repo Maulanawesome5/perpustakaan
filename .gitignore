@@ -1,9 +1,7 @@
 .vscode
 docs/design_system/*.drawio.*
 Env
-perpustakaan/__pycache__
-member/__pycache__
-member/migrations/__pycache__
-produk/__pycache__
-produk/migrations/__pycache__
+*/__pycache__
+*/migrations/__pycache__
 temp
+toko_buku/.env

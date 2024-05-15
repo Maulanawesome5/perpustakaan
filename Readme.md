@@ -4,9 +4,9 @@ Aplikasi toko buku online (merupakan replika dari website **Gramedia.com**) yang
 
 ### Catatan Developer
 
-Proyek ini awalnya adalah membuat aplikasi `perpustakaan` berbasis web. Namun saya langsung mengubah konsep dan mekanismenya menjadi seperti **toko buku online**. Mungkin beberapa orang kontributor akan heran mengapa terdapat folder bernama [perpustakaan](perpustakaan), bukannya `toko_buku`.
+<del>Proyek ini awalnya adalah membuat aplikasi `perpustakaan` berbasis web. Namun saya langsung mengubah konsep dan mekanismenya menjadi seperti **toko buku online**. Mungkin beberapa orang kontributor akan heran mengapa terdapat folder bernama [perpustakaan](perpustakaan), bukannya `toko_buku`.</del>
 
-Karena proyek sudah terlanjut di *generate* dengan nama `perpustakaan`, maka kemungkinan akan rumit mengubahnya. Namun lain waktu pasti akan segera saya ubah menjadi `toko_buku` sesuai dengan mekanismenya.
+<del>Karena proyek sudah terlanjut di *generate* dengan nama `perpustakaan`, maka kemungkinan akan rumit mengubahnya. Namun lain waktu pasti akan segera saya ubah menjadi `toko_buku` sesuai dengan mekanismenya.</del>
 
 ## DISCLAIMER
 
@@ -62,7 +62,6 @@ Maka sekarang, isi workspace `toko_buku` anda seharusnya seperti dibawah ini
 D:.
 ├───data
 ├───docs
-├───perpustakaan
 ├───produk
 │   ├───migrations
 │   ├───static
@@ -82,7 +81,9 @@ D:.
 │       ├───bootstrap
 │       └───jquery
 ├───templates
+│    ├───registration
 │    └───snippets
+├───toko_buku
 ├───.gitignore
 ├───Readme.md
 ├───db.sqlite3
@@ -105,7 +106,7 @@ D:.
 ├───data
 ├───docs
 ├───Env          # Folder Env berisi instalasi modul
-├───perpustakaan
+├───produk
 ....
 ├───manage.py
 └───requirements.txt

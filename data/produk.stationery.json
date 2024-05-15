@@ -3,280 +3,340 @@
   "model": "produk.stationery",
   "pk": 1,
   "fields": {
-    "created": "2024-02-20T15:01:07.655",
-    "updated": "2024-02-20T15:01:35.119",
+    "created": "2024-02-20T15:01:07.655Z",
+    "updated": "2024-02-20T15:01:35.119Z",
     "slug": "ballpoint-faster-c600",
     "kategori": "stationery",
     "nama_produk": "Ballpoint Faster C600",
     "gambar_produk": "ballpoint-faster-c600.jpg",
     "stok_barang": 200,
-    "harga": 21000
+    "harga": 21000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 2,
   "fields": {
-    "created": "2024-02-20T15:01:56.952",
-    "updated": "2024-02-20T15:01:56.952",
+    "created": "2024-02-20T15:01:56.952Z",
+    "updated": "2024-02-20T15:01:56.952Z",
     "slug": "ballpoint-pilot-bpt-p",
     "kategori": "stationery",
     "nama_produk": "Ballpoint Pilot BPT-P",
     "gambar_produk": "ballpoint-pilot-bptp.jpg",
     "stok_barang": 200,
-    "harga": 19800
+    "harga": 19800,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 3,
   "fields": {
-    "created": "2024-02-20T15:03:28.230",
-    "updated": "2024-02-20T15:03:28.230",
+    "created": "2024-02-20T15:03:28.230Z",
+    "updated": "2024-02-20T15:03:28.230Z",
     "slug": "isi-staples-max",
     "kategori": "stationery",
     "nama_produk": "Isi Staples MAX",
     "gambar_produk": "isi-staples.jpeg",
     "stok_barang": 100,
-    "harga": 6250
+    "harga": 6250,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 4,
   "fields": {
-    "created": "2024-02-20T15:05:02.024",
-    "updated": "2024-02-20T15:05:02.024",
+    "created": "2024-02-20T15:05:02.024Z",
+    "updated": "2024-02-20T15:05:02.024Z",
     "slug": "pencil-2b-faber-castle",
     "kategori": "stationery",
     "nama_produk": "Pencil 2B Faber Castle",
     "gambar_produk": "pencil-faber-castle-2b.jpg",
     "stok_barang": 150,
-    "harga": 31900
+    "harga": 31900,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 5,
   "fields": {
-    "created": "2024-02-20T15:06:40.986",
-    "updated": "2024-02-20T15:06:40.986",
+    "created": "2024-02-20T15:06:40.986Z",
+    "updated": "2024-02-20T15:06:40.986Z",
     "slug": "pencil-2b-staedler",
     "kategori": "stationery",
     "nama_produk": "Pencil 2B STAEDLER",
     "gambar_produk": "pencil-staedler-2b.jpeg",
     "stok_barang": 70,
-    "harga": 38000
+    "harga": 38000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 6,
   "fields": {
-    "created": "2024-02-20T15:08:03.814",
-    "updated": "2024-02-20T15:08:03.814",
+    "created": "2024-02-20T15:08:03.814Z",
+    "updated": "2024-02-20T15:08:03.814Z",
     "slug": "stapler-joyko-hd-10",
     "kategori": "stationery",
     "nama_produk": "Stapler JOYKO HD-10",
     "gambar_produk": "stapler-joyko.jpg",
     "stok_barang": 50,
-    "harga": 10400
+    "harga": 10400,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 7,
   "fields": {
-    "created": "2024-03-13T17:37:27.917",
-    "updated": "2024-03-13T17:37:27.917",
+    "created": "2024-03-13T17:37:27.917Z",
+    "updated": "2024-03-13T17:37:27.917Z",
     "slug": "estudee-loose-leaf-motif-garis-warna-kuning-ukuran-a5-isi-100-lembar",
     "kategori": "stationery",
     "nama_produk": "Estudee - Loose Leaf Motif Garis Warna Kuning Ukuran A5 Isi 100 Lembar",
     "gambar_produk": "ezmpkrnyubbamqaqbm7hyh.png",
     "stok_barang": 100,
-    "harga": 21000
+    "harga": 21000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 8,
   "fields": {
-    "created": "2024-03-13T17:38:20.915",
-    "updated": "2024-03-13T17:38:20.915",
+    "created": "2024-03-13T17:38:20.915Z",
+    "updated": "2024-03-13T17:38:20.915Z",
     "slug": "estudee-buku-kwarto-isi-38-halaman-10-pcs-motif-hewan",
     "kategori": "stationery",
     "nama_produk": "Estudee - Buku Kwarto Isi 38 Halaman 10 Pcs Motif Hewan",
     "gambar_produk": "prmyokvsnkap6qslppshau.png",
     "stok_barang": 100,
-    "harga": 52500
+    "harga": 52500,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 9,
   "fields": {
-    "created": "2024-03-13T17:39:19.861",
-    "updated": "2024-03-13T17:39:19.861",
+    "created": "2024-03-13T17:39:19.861Z",
+    "updated": "2024-03-13T17:39:19.861Z",
     "slug": "stabilo-exam-grade-sharpener-peralatan-tulis-rautan",
     "kategori": "stationery",
     "nama_produk": "Stabilo Exam Grade Sharpener - Peralatan Tulis (Rautan)",
     "gambar_produk": "WhatsApp_Image_2020-06-07_at_14.06.56.jpeg",
     "stok_barang": 20,
-    "harga": 10500
+    "harga": 10500,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 10,
   "fields": {
-    "created": "2024-03-13T17:40:25.705",
-    "updated": "2024-03-13T17:40:25.705",
+    "created": "2024-03-13T17:40:25.705Z",
+    "updated": "2024-03-13T17:40:25.705Z",
     "slug": "faber-correction-tape-chameleon2refill-barrel-blue-163351r",
     "kategori": "stationery",
     "nama_produk": "Faber Correction Tape Chameleon+2Refill Barrel Blue 163351R",
     "gambar_produk": "Faber_Correction_Tape_Chameleon2Refill_Barrel_Blue_163351R.jpg",
     "stok_barang": 20,
-    "harga": 56000
+    "harga": 56000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 11,
   "fields": {
-    "created": "2024-03-13T17:42:11.118",
-    "updated": "2024-03-13T17:42:11.118",
+    "created": "2024-03-13T17:42:11.118Z",
+    "updated": "2024-03-13T17:42:11.118Z",
     "slug": "standard-oil-pastel-24-warna-pascola",
     "kategori": "stationery",
     "nama_produk": "Standard - Oil Pastel 24 Warna Pascola",
     "gambar_produk": "PASCOLA_24.jpg",
     "stok_barang": 10,
-    "harga": 71000
+    "harga": 71000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 12,
   "fields": {
-    "created": "2024-03-13T17:43:46.129",
-    "updated": "2024-03-13T17:43:46.129",
+    "created": "2024-03-13T17:43:46.129Z",
+    "updated": "2024-03-13T17:43:46.129Z",
     "slug": "notebook-spiral-a6-50k-h-363",
     "kategori": "stationery",
     "nama_produk": "Notebook Spiral A6 50K H-363",
     "gambar_produk": "208008313-edit.jpg",
     "stok_barang": 20,
-    "harga": 108900
+    "harga": 108900,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 13,
   "fields": {
-    "created": "2024-03-13T17:46:30.086",
-    "updated": "2024-03-13T17:46:30.086",
+    "created": "2024-03-13T17:46:30.086Z",
+    "updated": "2024-03-13T17:46:30.086Z",
     "slug": "greebel-tip-ex-correction-pen-set-isi-2-pcs-gbc-120701-gbc-120702",
     "kategori": "stationery",
     "nama_produk": "Greebel - Tip-Ex Correction Pen Set Isi 2 pcs GBC 120701 + GBC 120702",
     "gambar_produk": "207979238_edit.jpg",
     "stok_barang": 20,
-    "harga": 28000
+    "harga": 28000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 14,
   "fields": {
-    "created": "2024-03-13T17:47:21.782",
-    "updated": "2024-03-13T17:47:21.782",
+    "created": "2024-03-13T17:47:21.782Z",
+    "updated": "2024-03-13T17:47:21.782Z",
     "slug": "3m-post-it-penanda-tanda-tangan-sign-here-1-inch-x-17-inch",
     "kategori": "stationery",
     "nama_produk": "3M - Post-It Penanda Tanda Tangan Sign Here 1 Inch x 1,7 Inch",
     "gambar_produk": "41_9HGHjGA.jpg",
     "stok_barang": 20,
-    "harga": 32000
+    "harga": 32000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 15,
   "fields": {
-    "created": "2024-03-13T17:48:35.911",
-    "updated": "2024-03-13T17:48:35.911",
+    "created": "2024-03-13T17:48:35.911Z",
+    "updated": "2024-03-13T17:48:35.911Z",
     "slug": "cutter-sdi-heavy-duty-autolock-0445c",
     "kategori": "stationery",
     "nama_produk": "Cutter SDI Heavy Duty Autolock 0445C",
     "gambar_produk": "Sdi_Cutter_Heavy_Duty_Autolock_0445C.jpg",
     "stok_barang": 20,
-    "harga": 170000
+    "harga": 170000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 16,
   "fields": {
-    "created": "2024-03-13T19:41:46.682",
-    "updated": "2024-03-13T19:41:46.682",
+    "created": "2024-03-13T19:41:46.682Z",
+    "updated": "2024-03-13T19:41:46.682Z",
     "slug": "maped-gunting-dan-pelindung-13-cm",
     "kategori": "stationery",
     "nama_produk": "Maped - Gunting dan Pelindung 13 cm",
     "gambar_produk": "203350799_.jpg",
     "stok_barang": 20,
-    "harga": 42500
+    "harga": 42500,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 17,
   "fields": {
-    "created": "2024-03-13T19:42:51.961",
-    "updated": "2024-03-13T19:42:51.961",
+    "created": "2024-03-13T19:42:51.961Z",
+    "updated": "2024-03-13T19:42:51.961Z",
     "slug": "greebel-penghapus-isi-4-gbb-140930",
     "kategori": "stationery",
     "nama_produk": "Greebel Penghapus Isi 4 GBB 140930",
     "gambar_produk": "207979254_edit.jpg",
     "stok_barang": 20,
-    "harga": 22000
+    "harga": 22000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 18,
   "fields": {
-    "created": "2024-03-13T19:45:16.783",
-    "updated": "2024-03-13T19:45:16.783",
+    "created": "2024-03-13T19:45:16.783Z",
+    "updated": "2024-03-13T19:45:16.783Z",
     "slug": "snowman-marker-450-warna-biru",
     "kategori": "stationery",
     "nama_produk": "Snowman-Marker 450 Warna Biru",
     "gambar_produk": "1042839_edit.jpg",
     "stok_barang": 20,
-    "harga": 18500
+    "harga": 18500,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 19,
   "fields": {
-    "created": "2024-03-13T19:46:35.791",
-    "updated": "2024-03-13T19:46:35.791",
+    "created": "2024-03-13T19:46:35.791Z",
+    "updated": "2024-03-13T19:46:35.791Z",
     "slug": "standard-bolpoin-r6-fine-set-isi-3-pcs",
     "kategori": "stationery",
     "nama_produk": "Standard - Bolpoin R6 Fine Set Isi 3 pcs",
     "gambar_produk": "201770761-edit.jpg",
     "stok_barang": 20,
-    "harga": 21000
+    "harga": 21000,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 },
 {
   "model": "produk.stationery",
   "pk": 20,
   "fields": {
-    "created": "2024-03-13T19:49:57.355",
-    "updated": "2024-03-13T19:49:57.355",
+    "created": "2024-03-13T19:49:57.355Z",
+    "updated": "2024-03-13T19:49:57.355Z",
     "slug": "paperline-buku-surat-jalan-b3-ncr-buku-catatan-administrasi",
     "kategori": "stationery",
     "nama_produk": "Paperline Buku Surat Jalan B3 Ncr - Buku Catatan Administrasi",
     "gambar_produk": "1034154_edit.jpg",
     "stok_barang": 20,
-    "harga": 21500
+    "harga": 21500,
+    "is_discount": false,
+    "discount": null,
+    "harga_diskon": 0
   }
 }
 ]
