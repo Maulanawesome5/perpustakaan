@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block contents %}
+<div class="container">
+    <p><a href="{% url 'produk:index' %}">Kembali</a></p>
+    <div class="row">
+        <div class="col">
+            <img src="{% static 'produk/penerbit' %}/{{data_penerbit.logo_penerbit}}" style="width: 60%;">
+        </div>
+        <div class="col" style="padding-left: 0; padding-right: auto;">
+            <h1>{{data_penerbit.penerbit}}</h1>
+            <p class="text-align-justify">{{data_penerbit.tentang_penerbit | linebreaks}}</p>
+        </div>
+    </div>
+    <!-- Daftar buku dari penerbit -->
+    <hr>
+    <h4 class="pb-3 pt-4">Buku terbitan {{data_penerbit.penerbit}}</h4>
+    <div class="container">
+        <div class="row row-cols-4">
+            {% for book in related_book %}
+            <div class="col pb-2">
+                {% if book.is_discount %}
+                <div class="card shadow-sm" style="width: 15rem;">
+                    <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">
+                        <span class="badge text-bg-danger" style="clip: auto;">{{book.discount}}%</span>
+                        <img src="{% static 'produk/buku' %}/{{book.sampul_buku}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: contain;">
+                    </a>
+                    <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                        <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+                            <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
+                        </h6>
+                    </div>
+                </div>
+                {% else %}
+                <div class="card shadow-sm" style="width: 15rem;">
+                    <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">
+                        <span class="badge" style="clip: auto;">None</span>
+                        <img src="{% static 'produk/buku' %}/{{book.sampul_buku}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: contain;">
+                    </a>
+                    <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                        <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+                            <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
+                        </h6>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock contents %}

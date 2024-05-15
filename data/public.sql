@@ -52,3 +52,25 @@ SELECT count(book.judul_buku) AS "Total Judul Buku",
         sum(book.stok_barang) AS "Total Stok Buku",
         sum((book.harga * book.stok_barang)) AS "Total Harga Pasokan"
 FROM public.produk_buku AS book;
+
+
+-- Django apps Wilayah
+-- Query tabel wilayah (Provinsi, Kabupaten/Kota, Kecamatan)
+SELECT * FROM pg_tables WHERE schemaname = 'public'; -- Melihat daftar tabel
+
+SELECT * FROM wilayah_provinsi; SELECT * FROM wilayah_kabupaten_kota;
+SELECT * FROM wilayah_kecamatan;
+
+SELECT  prov.id AS "Kode Provinsi",
+        prov.provinsi AS "Provinsi",
+        kab.id AS "Kode Kota/Kabupaten",
+        kab.predikat AS "Predikat",
+        kab.kabupaten_kota AS "Kabupaten/Kota"
+FROM public.wilayah_kabupaten_kota AS kab
+JOIN public.wilayah_provinsi AS prov ON (kab.provinsi_id = prov.id)
+ORDER BY prov.id ASC;
+
+SELECT * FROM wilayah_kabupaten_kota AS kab WHERE kab.provinsi_id = 38;
+
+INSERT INTO public.wilayah_kecamatan(provinsi_id, kabupaten_kota_id, predikat, kecamatan)
+VALUES (1, 54, 'Kecamatan', 'Yub Mee');

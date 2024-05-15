@@ -1,0 +1,4871 @@
+[
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 1,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kota",
+    "kabupaten_kota": "Banda Aceh"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 2,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Medan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 3,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kota",
+    "kabupaten_kota": "Palembang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 4,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Padang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 5,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bengkulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 6,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pekanbaru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 7,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tanjung Pinang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 8,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kota",
+    "kabupaten_kota": "Jambi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 9,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bandar Lampung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 10,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pangkal Pinang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 11,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pontianak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 12,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kota",
+    "kabupaten_kota": "Samarinda"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 13,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kota",
+    "kabupaten_kota": "Banjarbaru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 14,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kota",
+    "kabupaten_kota": "Palangka Raya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 16,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kota",
+    "kabupaten_kota": "Serang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 17,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kota Adm.",
+    "kabupaten_kota": "Jakarta Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 18,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bandung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 19,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Semarang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 20,
+  "fields": {
+    "provinsi": 20,
+    "predikat": "Kota",
+    "kabupaten_kota": "Yogyakarta"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 21,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Surabaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 22,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kota",
+    "kabupaten_kota": "Denpasar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 23,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kota",
+    "kabupaten_kota": "Kupang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 24,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kota",
+    "kabupaten_kota": "Mataram"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 25,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kota",
+    "kabupaten_kota": "Gorontalo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 26,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamuju"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 27,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kota",
+    "kabupaten_kota": "Palu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 28,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kota",
+    "kabupaten_kota": "Manado"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 29,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kota",
+    "kabupaten_kota": "Kendari"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 30,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kota",
+    "kabupaten_kota": "Makassar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 31,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sofifi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 32,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kota",
+    "kabupaten_kota": "Ambon"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 33,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kota",
+    "kabupaten_kota": "Manokwari"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 34,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kota",
+    "kabupaten_kota": "Jayapura"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 35,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nabire"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 36,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jayawijaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 37,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kota",
+    "kabupaten_kota": "Merauke"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 38,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sorong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 39,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 40,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Barat Daya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 41,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Besar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 42,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 43,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 44,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Singkil"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 45,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Tamiang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 46,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 47,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Tenggara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 48,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 49,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Aceh Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 50,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bener Meriah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 51,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bireuen"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 52,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gayo Lues"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 53,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nagan Raya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 54,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pidie"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 55,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pidie Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 56,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Simeulue"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 57,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kota",
+    "kabupaten_kota": "Langsa"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 58,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kota",
+    "kabupaten_kota": "Lhokseumawe"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 59,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sabang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 60,
+  "fields": {
+    "provinsi": 1,
+    "predikat": "Kota",
+    "kabupaten_kota": "Subulussalam"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 61,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Asahan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 62,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Batubara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 63,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dairi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 64,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Deli Serdang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 65,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Humbang Hasundutan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 66,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Karo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 67,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Labuhanbatu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 68,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Labuhanbatu Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 69,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Labuhanbatu Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 70,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Langkat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 71,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mandailing Natal"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 72,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nias"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 73,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nias Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 74,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nias Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 75,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nias Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 76,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Padang Lawas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 77,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Padang Lawas Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 78,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pakpak Bharat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 79,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Samosir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 80,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Serdang Bedagai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 81,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Simalungun"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 82,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tapanuli Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 83,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tapanuli Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 84,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tapanuli Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 85,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Toba Samosir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 86,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Binjai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 87,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Gunungsitoli"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 88,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Padangsidimpuan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 89,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pematangsiantar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 90,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sibolga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 91,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tanjungbalai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 92,
+  "fields": {
+    "provinsi": 2,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tebing Tinggi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 93,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Agam"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 94,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dharmasraya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 95,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Mentawai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 96,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lima Puluh Kota"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 97,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Padang Pariaman"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 98,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pasaman"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 99,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pasaman Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 100,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pesisir Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 101,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sijunjung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 102,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Solok"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 103,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Solok Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 104,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanah Datar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 105,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bukittinggi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 106,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Padangpanjang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 107,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pariaman"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 108,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Payakumbuh"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 109,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sawahlunto"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 110,
+  "fields": {
+    "provinsi": 4,
+    "predikat": "Kota",
+    "kabupaten_kota": "Solok"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 111,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banyuasin"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 112,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Empat Lawang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 113,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lahat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 114,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Muara Enim"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 115,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Musi Banyuasin"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 116,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Musi Rawas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 117,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Musi Rawas Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 118,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ogan Ilir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 119,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ogan Komering Ilir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 120,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ogan Komering Ulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 121,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ogan Komering Ulu Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 122,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ogan Komering Ulu Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 123,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Penukal Abab Lematang Ilir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 124,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kota",
+    "kabupaten_kota": "Lubuk Linggau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 125,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pagaralam"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 126,
+  "fields": {
+    "provinsi": 3,
+    "predikat": "Kota",
+    "kabupaten_kota": "Prabumulih"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 127,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bengkalis"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 128,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Indragiri Hilir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 129,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Indragiri Hulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 130,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kampar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 131,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Meranti"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 132,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kuantan Singingi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 133,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pelalawan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 134,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Rokan Hilir"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 135,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Rokan Hulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 136,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Siak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 137,
+  "fields": {
+    "provinsi": 6,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dumai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 138,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bintan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 139,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Karimun"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 140,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Anambas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 141,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lingga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 142,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Natuna"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 143,
+  "fields": {
+    "provinsi": 7,
+    "predikat": "Kota",
+    "kabupaten_kota": "Batam"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 144,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Batanghari"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 145,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bungo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 146,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kerinci"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 147,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Merangin"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 148,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Muaro Jambi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 149,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sarolangun"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 150,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanjung Jabung Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 151,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanjung Jabung Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 152,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tebo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 153,
+  "fields": {
+    "provinsi": 8,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sungai Penuh"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 154,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bengkulu Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 155,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bengkulu Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 156,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bengkulu Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 157,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kaur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 158,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepahiang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 159,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lebong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 160,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mukomuko"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 161,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Rejang Lebong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 162,
+  "fields": {
+    "provinsi": 5,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Seluma"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 163,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangka"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 164,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangka Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 165,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangka Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 166,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangka Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 167,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Belitung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 168,
+  "fields": {
+    "provinsi": 10,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Belitung Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 169,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lampung Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 170,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lampung Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 171,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lampung Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 172,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lampung Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 173,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lampung Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 174,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mesuji"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 175,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pesawaran"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 176,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pesisir Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 177,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pringsewu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 178,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tulang Bawang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 179,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tulang Bawang Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 180,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanggamus"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 181,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Way Kanan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 182,
+  "fields": {
+    "provinsi": 9,
+    "predikat": "Kota",
+    "kabupaten_kota": "Metro"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 183,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lebak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 184,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pandeglang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 185,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tangerang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 186,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Cilegon"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 187,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Serang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 188,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tangerang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 189,
+  "fields": {
+    "provinsi": 16,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tangerang Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 190,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bandung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 191,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bandung Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 192,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bekasi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 193,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bogor"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 194,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ciamis"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 195,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Cianjur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 196,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Cirebon"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 197,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Garut"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 198,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Indramayu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 199,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Karawang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 200,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kuningan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 201,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Majalengka"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 202,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pangandaran"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 203,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Purwakarta"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 204,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Subang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 205,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sukabumi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 206,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumedang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 207,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tasikmalaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 208,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Banjar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 209,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bekasi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 210,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bogor"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 211,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Cimahi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 212,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Cirebon"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 213,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Depok"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 214,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Sukabumi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 215,
+  "fields": {
+    "provinsi": 18,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tasikmalaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 216,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banjarnegara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 217,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banyumas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 218,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Batang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 219,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Blora"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 220,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Boyolali"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 221,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Brebes"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 222,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Cilacap"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 223,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Demak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 224,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Grobogan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 225,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jepara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 226,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Karanganyar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 227,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kebumen"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 228,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kendal"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 229,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Klaten"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 230,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kudus"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 231,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Magelang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 232,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pati"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 233,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pekalongan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 234,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pemalang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 235,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Purbalingga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 236,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Purworejo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 237,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Rembang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 238,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Semarang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 239,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sragen"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 240,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sukoharjo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 241,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tegal"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 242,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Temanggung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 243,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Wonogiri"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 244,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Wonosobo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 245,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Magelang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 246,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pekalongan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 247,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Salatiga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 249,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Surakarta"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 250,
+  "fields": {
+    "provinsi": 19,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tegal"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 251,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangkalan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 252,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banyuwangi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 253,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Blitar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 254,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bojonegoro"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 255,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bondowoso"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 256,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gresik"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 257,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jember"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 258,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jombang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 259,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kediri"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 260,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lamongan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 261,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bengkayang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 262,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kapuas Hulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 263,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kayong Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 264,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ketapang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 265,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kubu Raya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 266,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Landak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 267,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Melawi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 268,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mempawah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 269,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sambas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 270,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sanggau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 271,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sekadau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 272,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sintang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 274,
+  "fields": {
+    "provinsi": 11,
+    "predikat": "Kota",
+    "kabupaten_kota": "Singkawang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 275,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Berau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 276,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kutai Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 277,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kutai Kartanegara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 278,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kutai Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 279,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mahakam Ulu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 280,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Paser"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 281,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Penajam Paser Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 282,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kota",
+    "kabupaten_kota": "Balikpapan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 283,
+  "fields": {
+    "provinsi": 12,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bontang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 285,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Balangan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 286,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banjar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 287,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Barito Kuala"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 288,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Hulu Sungai Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 289,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Hulu Sungai Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 290,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Hulu Sungai Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 291,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kotabaru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 292,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tabalong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 293,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanah Bumbu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 294,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tanah Laut"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 295,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tapin"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 297,
+  "fields": {
+    "provinsi": 13,
+    "predikat": "Kota",
+    "kabupaten_kota": "Banjarmasin"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 298,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Barito Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 299,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Barito Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 300,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Barito Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 301,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gunung Mas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 302,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kapuas"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 303,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Katingan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 304,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kotawaringin Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 305,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kotawaringin Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 306,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lamandau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 307,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Murung Raya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 308,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pulang Pisau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 309,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sukamara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 310,
+  "fields": {
+    "provinsi": 14,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Seruyan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 312,
+  "fields": {
+    "provinsi": 15,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bulungan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 313,
+  "fields": {
+    "provinsi": 15,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Malinau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 314,
+  "fields": {
+    "provinsi": 15,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nunukan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 315,
+  "fields": {
+    "provinsi": 15,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tana Tidung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 316,
+  "fields": {
+    "provinsi": 15,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tarakan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 317,
+  "fields": {
+    "provinsi": 20,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bantul"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 318,
+  "fields": {
+    "provinsi": 20,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gunungkidul"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 319,
+  "fields": {
+    "provinsi": 20,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kulon Progo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 320,
+  "fields": {
+    "provinsi": 20,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sleman"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 322,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lumajang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 323,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Madiun"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 324,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Magetan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 325,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Malang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 326,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mojokerto"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 327,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nganjuk"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 328,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ngawi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 329,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pacitan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 330,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pamekasan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 331,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pasuruan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 332,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ponorogo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 333,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Probolinggo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 334,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sampang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 335,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sidoarjo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 336,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Situbondo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 337,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumenep"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 338,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Trenggalek"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 339,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tuban"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 340,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tulungagung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 341,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Batu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 342,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Blitar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 343,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Kediri"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 344,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Madiun"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 345,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Malang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 346,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Mojokerto"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 347,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Pasuruan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 348,
+  "fields": {
+    "provinsi": 21,
+    "predikat": "Kota",
+    "kabupaten_kota": "Probolinggo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 349,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Badung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 350,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bangli"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 351,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buleleng"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 352,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gianyar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 353,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jembrana"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 354,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Karangasem"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 355,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Klungkung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 356,
+  "fields": {
+    "provinsi": 22,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tabanan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 358,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Alor"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 359,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Belu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 360,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ende"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 361,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Flores Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 362,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kupang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 363,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lembata"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 364,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Malaka"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 365,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Manggarai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 366,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Manggarai Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 367,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Manggarai Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 368,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Ngada"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 369,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nagekeo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 370,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Rote Ndao"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 371,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sabu Raijua"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 372,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sikka"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 373,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumba Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 374,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumba Barat Daya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 375,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumba Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 376,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumba Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 377,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Timor Tengah Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 378,
+  "fields": {
+    "provinsi": 23,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Timor Tengah Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 380,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bima"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 381,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dompu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 382,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lombok Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 383,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lombok Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 384,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lombok Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 385,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lombok Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 386,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumbawa"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 387,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sumbawa Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 390,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Boalemo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 391,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bone Bolango"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 392,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gorontalo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 393,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gorontalo Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 394,
+  "fields": {
+    "provinsi": 25,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pohuwato"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 412,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Majene"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 413,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamasa"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 414,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pasangkayu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 415,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamuju Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 417,
+  "fields": {
+    "provinsi": 26,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Polewali Mandar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 419,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banggai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 420,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banggai Kepulauan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 421,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Banggai Laut"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 422,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buol"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 423,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Donggala"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 424,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Morowali"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 425,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Morowali Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 426,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Parigi Moutong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 427,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Poso"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 428,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sigi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 429,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tojo Una-Una"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 430,
+  "fields": {
+    "provinsi": 27,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Toli-Toli"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 432,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bolaang Mongondow"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 433,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bolaang Mongondow Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 434,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bolaang Mongondow Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 435,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bolaang Mongondow Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 436,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Sangihe"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 437,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Siau Tagulandang Biaro"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 438,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Talaud"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 439,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Minahasa"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 440,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Minahasa Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 441,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Minahasa Tenggara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 442,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Minahasa Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 443,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bitung"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 444,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kota",
+    "kabupaten_kota": "Kotamobagu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 446,
+  "fields": {
+    "provinsi": 28,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tomohon"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 447,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bombana"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 448,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buton"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 449,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buton Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 450,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buton Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 451,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buton Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 452,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kolaka"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 453,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kolaka Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 454,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kolaka Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 455,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Konawe"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 456,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Konawe Kepulauan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 457,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Konawe Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 458,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Konawe Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 459,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Muna"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 460,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Muna Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 461,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Wakatobi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 462,
+  "fields": {
+    "provinsi": 29,
+    "predikat": "Kota",
+    "kabupaten_kota": "Bau-Bau"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 464,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bantaeng"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 465,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Barru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 466,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bone"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 467,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bulukumba"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 468,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Enrekang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 469,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Gowa"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 470,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jeneponto"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 471,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Selayar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 472,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Luwu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 473,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Luwu Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 474,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Luwu Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 475,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maros"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 476,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pangkajene dan Kepulauan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 477,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pinrang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 478,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sidenreng Rappang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 479,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sinjai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 480,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Soppeng"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 481,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Takalar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 482,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tana Toraja"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 483,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Toraja Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 484,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Wajo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 486,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kota",
+    "kabupaten_kota": "Palopo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 487,
+  "fields": {
+    "provinsi": 30,
+    "predikat": "Kota",
+    "kabupaten_kota": "Parepare"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 488,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Halmahera Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 489,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Halmahera Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 490,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Halmahera Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 491,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Halmahera Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 492,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Sula"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 493,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Halmahera Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 494,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pulau Morotai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 495,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pulau Taliabu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 496,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kota",
+    "kabupaten_kota": "Ternate"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 497,
+  "fields": {
+    "provinsi": 31,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tidore Kepulauan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 498,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 499,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Buru Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 500,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Aru"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 501,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maluku Barat Daya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 502,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maluku Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 503,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maluku Tenggara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 504,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Tanimbar"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 505,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Seram Bagian Barat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 506,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Seram Bagian Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 508,
+  "fields": {
+    "provinsi": 32,
+    "predikat": "Kota",
+    "kabupaten_kota": "Tual"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 509,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Fakfak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 510,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kaimana"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 511,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Manokwari"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 512,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Manokwari Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 513,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maybrat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 514,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pegunungan Arfak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 515,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Raja Ampat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 516,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sorong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 517,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sorong Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 518,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tambrauw"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 519,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Teluk Bintuni"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 520,
+  "fields": {
+    "provinsi": 33,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Teluk Wondama"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 521,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Asmat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 522,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Biak Numfor"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 523,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Boven Digoel"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 524,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Deiyai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 525,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dogiyai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 526,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Intan Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 527,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jayapura"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 528,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Jayawijaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 529,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Keerom"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 530,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Kepulauan Yapen"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 531,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lanny Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 532,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamberamo Raya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 533,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamberamo Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 534,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mappi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 535,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Merauke"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 536,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mimika"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 537,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nabire"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 538,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nduga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 539,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Paniai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 540,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pegunungan Bintang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 541,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Puncak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 542,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Puncak Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 543,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sarmi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 544,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Supiori"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 545,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tolikara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 546,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Waropen"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 547,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Yahukimo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 548,
+  "fields": {
+    "provinsi": 34,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Yalimo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 550,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kota Adm.",
+    "kabupaten_kota": "Jakarta Pusat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 551,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kota Adm.",
+    "kabupaten_kota": "Jakarta Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 552,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kota Adm.",
+    "kabupaten_kota": "Jakarta Timur"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 553,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kota Adm.",
+    "kabupaten_kota": "Jakarta Utara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 554,
+  "fields": {
+    "provinsi": 17,
+    "predikat": "Kab. Adm.",
+    "kabupaten_kota": "Kepulauan Seribu"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 555,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Maybrat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 556,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Raja Ampat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 557,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sorong"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 558,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Sorong Selatan"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 559,
+  "fields": {
+    "provinsi": 38,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tambrauw"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 561,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Lanny Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 562,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mamberamo Tengah"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 563,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Nduga"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 564,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Pegunungan Bintang"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 565,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Tolikara"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 566,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Yalimo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 567,
+  "fields": {
+    "provinsi": 36,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Yahukimo"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 568,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Deiyai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 569,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Dogiyai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 570,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Intan Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 571,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mimika"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 572,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Paniai"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 573,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Puncak"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 574,
+  "fields": {
+    "provinsi": 35,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Puncak Jaya"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 575,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Asmat"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 576,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Boven Digoel"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 577,
+  "fields": {
+    "provinsi": 37,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Mappi"
+  }
+},
+{
+  "model": "wilayah.kabupaten_kota",
+  "pk": 578,
+  "fields": {
+    "provinsi": 24,
+    "predikat": "Kabupaten",
+    "kabupaten_kota": "Bima"
+  }
+}
+]

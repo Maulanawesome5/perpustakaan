@@ -8,27 +8,102 @@
 {% endblock jumbotron %}
 
 {% block contents %}
-<div class="container">
-    <h1 class="pb-3">Buku pilihan</h1>
-    <div class="row row-cols-4">
-        {% for book in books %}
-        <div class="col pb-2">
-            <div class="card" style="width: 15rem;">
-                <a href="{% url 'produk:detail' inputSlug=book.slug %}">
-                    <img
-                        src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
-                        class="card-img-top"
-                        alt="..."
-                        style="width: 100%;">
+
+<h1 class="pb-3">Buku pilihan</h1>
+<div class="row row-cols-5">
+    {% for book in books %}
+    <div class="col pb-2" style="margin-right: 55px;">
+        {% if book.is_discount %}
+        <div class="card shadow-sm" style="width: 15rem;">
+            <a href="{% url 'produk:detail-buku' book.pk book.slug %}">
+                <span class="badge text-bg-danger" style="clip: auto;">{{book.discount}}%</span>
+                <img
+                    src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
+                    class="card-img-top"
+                    style="width: 100%; max-height: 250px; object-fit: contain;">
+            </a>
+            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">
+                    <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{book.judul_buku}}</h6>
                 </a>
-                <div class="card-body">
-                    <h6 class="card-title">
-                        <a href="{% url 'produk:detail' inputSlug=book.slug %}" class="text-decoration-none text-dark">{{book.judul_buku}}</a>
-                    </h5>
-                </div>
+                <span>
+                    Rp. <del>{{book.harga|intcomma}}</del> <strong>{{book.harga_diskon|intcomma}}</strong>
+                </span>
             </div>
         </div>
-        {% endfor %}
+        {% else %}
+        <div class="card shadow-sm" style="width: 15rem;">
+            <a href="{% url 'produk:detail-buku' book.pk book.slug %}">
+                <span class="badge" style="clip: auto;">None</span>
+                <img
+                    src="{% static 'produk/buku' %}/{{book.sampul_buku}}"
+                    class="card-img-top"
+                    style="width: 100%; max-height: 250px; object-fit: contain;">
+            </a>
+            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                <a href="{% url 'produk:detail-buku' book.pk book.slug %}" class="text-decoration-none text-dark">
+                    <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{book.judul_buku}}</h6>
+                </a>
+                <span>Rp. {{book.harga|intcomma}}</span>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+    <div class="container pt-4 pb-4" role="navigation">
+        <a href="{% url 'produk:index' %}" class="text-decoration-none">
+            <input type="button" value="selengkapnya" class="form-control bg-primary text-white">
+        </a>
+    </div>
+</div>
+
+<!-- Stationery -->
+
+<h1 class="pb-3">Alat Tulis Sekolah / Kantor</h1>
+<div class="row row-cols-5">
+    {% for s in stationery %}
+    <div class="col pb-2" style="margin-right: 55px;">
+        {% if s.is_discount %}
+        <div class="card shadow-sm" style="width: 15rem;">
+            <a href="{% url 'produk:detail-stationery' s.pk s.slug %}">
+                <span class="badge text-bg-danger" style="clip: auto;">{{s.discount}}%</span>
+                <img
+                    src="{% static 'produk/stationery' %}/{{s.gambar_produk}}"
+                    class="card-img-top"
+                    style="width: 100%; max-height: 250px; object-fit: contain;">
+            </a>
+            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                <a href="{% url 'produk:detail-stationery' s.pk s.slug %}" class="text-decoration-none text-dark">
+                    <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{s.nama_produk}}</h6>
+                </a>
+                <span>
+                    Rp. <del>{{s.harga|intcomma}}</del> <strong>{{s.harga_diskon|intcomma}}</strong>
+                </span>
+            </div>
+        </div>
+        {% else %}
+        <div class="card shadow-sm" style="width: 15rem;">
+            <a href="{% url 'produk:detail-stationery' s.pk s.slug %}">
+                <span class="badge" style="clip: auto;">None</span>
+                <img
+                    src="{% static 'produk/stationery' %}/{{s.gambar_produk}}"
+                    class="card-img-top"
+                    style="width: 100%; max-height: 250px; object-fit: contain;">
+            </a>
+            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                <a href="{% url 'produk:detail-stationery' s.pk s.slug %}" class="text-decoration-none text-dark">
+                    <h6 class="card-title" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{s.nama_produk}}</h6>
+                </a>
+                <span>Rp. {{s.harga|intcomma}}</span>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+    <div class="container pt-4 pb-4" role="navigation">
+        <a href="{% url 'produk:index' %}" class="text-decoration-none">
+            <input type="button" value="selengkapnya" class="form-control bg-primary text-white">
+        </a>
     </div>
 </div>
 {% endblock contents %}
