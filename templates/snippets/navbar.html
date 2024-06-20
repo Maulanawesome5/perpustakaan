@@ -28,7 +28,7 @@
                 </li>
             </ul>
             <!-- Kolom pencarian -->
-            <form action="{#{% url 'product:search_result' %}#}" method="get" class="d-flex" role="search" style="padding-right: 50px;">
+            <form action="{% url 'search_result' %}" method="get" class="d-flex" role="search" style="padding-right: 50px;">
                 <input name="q" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-dark" type="submit">Search</button>
             </form>
