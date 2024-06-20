@@ -65,6 +65,9 @@ class Penulis_Buku(Abstract_Product):
     def __str__(self) -> str:
         return self.nama_penulis
 
+    def get_class_name(self):
+        return self.__class__.__name__
+
     class Meta:
         ordering = ['nama_penulis']
 
@@ -83,6 +86,9 @@ class Penerbit_Buku(Abstract_Product):
 
     def __str__(self) -> str:
         return f"{self.penerbit}"
+
+    def get_class_name(self):
+        return self.__class__.__name__
 
     class Meta:
         ordering = ['penerbit']
@@ -138,6 +144,9 @@ class Buku(Abstract_Product):
     def __str__(self) -> str:
         return self.judul_buku
 
+    def get_class_name(self):
+        return self.__class__.__name__
+
     class Meta:
         ordering = ['judul_buku']
 
@@ -180,6 +189,9 @@ class Stationery(Abstract_Product):
 
     def __str__(self) -> str:
         return self.nama_produk
+
+    def get_class_name(self):
+        return self.__class__.__name__
 
     class Meta:
         ordering = ['nama_produk']
