@@ -35,20 +35,65 @@ class SearchResultView(ListView):
     """
     Class View untuk melakukan pencarian data.
     """
-    model = Buku
     template_name = "search.html"
+    context_object_name = "search_results"
     extra_context = {}
 
     def get_queryset(self) -> QuerySet[Any]:
         query = self.request.GET.get("q")
-        object_list = Buku.objects.filter(
-            Q(title__icontains=query)
-        )
+        combined_results = []
+
+        if query:
+            buku_results = Buku.objects.filter(
+                Q(judul_buku__icontains=query) |
+                Q(penulis__nama_penulis__icontains=query) |
+                Q(penerbit__penerbit__icontains=query)
+            )
+            for buku in buku_results:
+                combined_results.append({
+                    "type": "Buku",
+                    "object": buku,
+                })
+
+            penulis_results = Penulis_Buku.objects.filter(
+                Q(nama_penulis__icontains=query) |
+                Q(tentang_penulis__icontains=query)
+            )
+            for penulis in penulis_results:
+                combined_results.append({
+                    "type": "Penulis_Buku",
+                    "object": penulis,
+                })
+
+            penerbit_results = Penerbit_Buku.objects.filter(
+                Q(penerbit__icontains=query) |
+                Q(instansi__icontains=query)
+            )
+            for penerbit in penerbit_results:
+                combined_results.append({
+                    "type": "Penerbit_Buku",
+                    "object": penerbit,
+                })
+
+            stationery_results = Stationery.objects.filter(
+                Q(nama_produk__icontains=query)
+            )
+            for stationery in stationery_results:
+                combined_results.append({
+                    "type": "Stationery",
+                    "object": stationery,
+                })
 
         # Update context dengan kata kunci dari pencarian di HTML
         self.extra_context.update({"keyword": query})
 
-        return object_list
+        return combined_results
+
+    def get_context_data(self, **kwargs: Any) -> dict[str, Any]:
+        context = super().get_context_data(**kwargs)
+        context.update(self.extra_context)
+        context["search_results"] = self.get_queryset()
+        return context
 
     def get(self, request: HttpRequest, *args: Any, **kwargs: Any) -> HttpResponse:
         self.queryset = self.get_queryset()
