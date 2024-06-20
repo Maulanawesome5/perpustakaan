@@ -1,6 +1,7 @@
 from django.contrib import admin
 from django.urls import path, include
-from produk.views import AuthorListView, AuthorDetailView, PublisherListView, PublisherDetailView
+from produk.views import (AuthorListView, AuthorDetailView,
+                          PublisherListView, PublisherDetailView, SearchResultView)
 from .views import IndexHomePagesViews
 
 
@@ -16,4 +17,5 @@ urlpatterns = [
     path('penerbit/<int:pk>/<slug:slug>',
          PublisherDetailView.as_view(), name="publisher_detail"),
     path('produk/', include("produk.urls", namespace="produk")),
+    path('search/', SearchResultView.as_view(), name="search_result"),
 ]
