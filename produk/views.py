@@ -15,6 +15,7 @@ class IndexProductView(ListView):
     model = Buku
     context_object_name = "books"
     extra_context = {'halaman': 'Produk', 'website': 'OnlineBookStore'}
+    paginate_by = 20
 
     def get_queryset(self) -> QuerySet[Any]:
         return super().get_queryset()
@@ -184,6 +185,13 @@ class AuthorListView(ListView):
     context_object_name = "daftar_penulis"
     extra_context = {"halaman": "Daftar Penulis",
                      "website": "OnlineBookStore"}
+    paginate_by = 32
+
+    def get_context_data(self, **kwargs: Any) -> dict[str, Any]:
+        self.kwargs.update(self.extra_context)
+        kwargs = self.kwargs
+
+        return super().get_context_data(**kwargs)
 
 
 class AuthorDetailView(DetailView):
@@ -215,6 +223,13 @@ class PublisherListView(ListView):
     context_object_name = "daftar_penerbit"
     extra_context = {"halaman": "Daftar Penerbit",
                      "website": "OnlineBookStore"}
+    paginate_by = 32
+
+    def get_context_data(self, **kwargs: Any) -> dict[str, Any]:
+        self.kwargs.update(self.extra_context)
+        kwargs = self.kwargs
+
+        return super().get_context_data(**kwargs)
 
 
 class PublisherDetailView(DetailView):
