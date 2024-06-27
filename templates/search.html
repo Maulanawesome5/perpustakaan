@@ -1,7 +1,129 @@
 {% extends "base.html" %}
+{% load static %}
+{% load humanize %}
 
-{% block page_title %}Anda mencari ...{% endblock page_title %}
+{% block page_title %}
+Anda mencari {{keyword}}
+{% endblock page_title %}
 
 {% block pencarian %}
+<div class="container">
+    <h1>Hasil pencarian</h1>
 
+    {% if message %}
+        <p>{{message}}</p>
+    {% else %}
+        <p>Hasil pencarian untuk : {{keyword}}</p>
+
+        <div class="row row-cols-5">
+            {% for result in search_results %}
+                {% if result.type == 'Buku' %}
+                    <div class="col pb-2" style="margin-right: 55px;">
+                        {% if result.object.is_discount %}
+                        <div class="card shadow-sm" style="width: 15rem;">
+                            <a href="{% url 'produk:detail-buku' result.object.pk result.object.slug %}">
+                                <span class="badge text-bg-danger" style="clip: auto;">{{result.object.discount}}%</span>
+                                <img src="{% static 'produk/buku' %}/{{result.object.sampul_buku}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: contain;">
+                            </a>
+                            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                                <a href="{% url 'produk:detail-buku' result.object.pk result.object.slug %}" class="text-dark text-decoration-none">
+                                    <h6 class="card-title pb-1" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{result.object.judul_buku}}</h6>
+                                </a>
+                                <span>
+                                    Rp. <del>{{result.object.harga|intcomma}}</del> <strong>{{result.object.harga_diskon|intcomma}}</strong>
+                                </span>
+                            </div>
+                        </div>
+                        {% else %}
+                        <div class="card shadow-sm" style="width: 15rem;">
+                            <a href="{% url 'produk:detail-buku' result.object.pk result.object.slug %}">
+                                <span class="badge" style="clip: auto;">None</span>
+                                <img src="{% static 'produk/buku' %}/{{result.object.sampul_buku}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: contain;">
+                            </a>
+                            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                                <a href="{% url 'produk:detail-buku' result.object.pk result.object.slug %}" class="text-dark text-decoration-none">
+                                    <h6 class="card-title pb-1" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{result.object.judul_buku}}</h6>
+                                </a>
+                                <span>Rp. {{result.object.harga|intcomma}}</span>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+            
+                
+                {% elif result.type == 'Penulis_Buku' %}
+                <div class="col pb-4" style="margin-right: 55px;">
+                    <div class="card" style="width: 15rem;">
+                        {% if result.object.foto_profil %}
+                            <img src="{% static 'produk/penulis' %}/{{result.object.foto_profil}}"
+                            class="card-img-top"
+                            style="width: 100%; max-height: 250px; object-fit: contain;">
+                        {% else %}
+                            <img src="{% static 'icon/profile-icon.jpg' %}"
+                            class="card-img-top"
+                            style="width: 100%; max-height: 250px; object-fit: contain;">
+                        {% endif %}
+                        <div class="card-body">
+                            <h6><a class="text-decoration-none text-black" href="{% url 'writer_detail' result.object.pk result.object.slug %}">{{result.object.nama_penulis}}</a></h6>
+                        </div>
+                    </div>
+                </div>
+                
+                {% elif result.type == 'Penerbit_Buku' %}
+                <div class="col pb-4" style="margin-right: 55px;">
+                    <div class="card" style="width: 15rem;">
+                        {% if result.object.logo_penerbit %}
+                            <a href="{% url 'publisher_detail' result.object.pk result.object.slug %}">
+                                <img src="{% static 'produk/penerbit' %}/{{result.object.logo_penerbit}}"
+                                class="card-img-top"
+                                style="width: 100%; max-height: 250px; object-fit: contain;">
+                            </a>
+                            {% else %}
+                            <a href="{% url 'publisher_detail' result.object.pk result.object.slug %}">
+                                <img src="{% static 'icon/profile-icon.jpg' %}"
+                                class="card-img-top"
+                                style="width: 100%; max-height: 250px; object-fit: contain;">
+                            </a>
+                        {% endif %}
+                        <div class="card-body">
+                            <h6><a class="text-decoration-none text-black" href="{% url 'publisher_detail' result.object.pk result.object.slug %}">{{result.object.penerbit}}</a></h6>
+                        </div>
+                    </div>
+                </div>
+                
+                {% elif result.type == 'Stationery' %}
+                    <div class="col pb-2" style="margin-right: 55px;">
+                        {% if result.object.is_discount %}
+                        <div class="card shadow-sm" style="width: 15rem;">
+                            <a href="{% url 'produk:detail-stationery' result.object.pk result.object.slug %}">
+                                <span class="badge text-bg-danger">{{result.object.discount}}%</span>
+                                <img src="{% static 'produk/stationery' %}/{{result.object.gambar_produk}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: cover;">
+                            </a>
+                            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                                <h6 class="card-title pb-1" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{result.object.nama_produk}}</h6>
+                                <span>
+                                    Rp. <del>{{result.object.harga|intcomma}}</del> <strong>{{result.object.harga_diskon|intcomma}}</strong>
+                                </span>
+                            </div>
+                        </div>
+                        {% else %}
+                        <div class="card shadow-sm" style="width: 15rem;">
+                            <a href="{% url 'produk:detail-stationery' result.object.pk result.object.slug %}">
+                                <span class="badge">None</span>
+                                <img src="{% static 'produk/stationery' %}/{{result.object.gambar_produk}}" class="card-img-top" style="width: 100%; max-height: 250px; object-fit: cover;">
+                            </a>
+                            <div class="card-body" style="max-height: 300px; overflow-y: auto;">
+                                <h6 class="card-title pb-1" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{result.object.nama_produk}}</h6>
+                                <span>Rp. {{result.object.harga|intcomma}}</span>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                
+                {% endif %}
+
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
 {% endblock pencarian %}
